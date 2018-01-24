@@ -1,5 +1,5 @@
 # AssemblyAlignmentGenerator
-Generating core-gene alignments from a list of assemblies.
+This program generates core-gene alignments from a list of assemblies. The genomic sequences of the assemblies are downloaded from [NCBI FTP](ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/) and annotated by [Prokka](https://github.com/tseemann/prokka). We use [Roary](https://github.com/sanger-pathogens/Roary) to generate the [pan-genome](https://en.wikipedia.org/wiki/Pan-genome), and then extract a list of core genes, which appear in all the assemblies. The protein sequences of each core gene are aligned by [Muscle](https://www.drive5.com/muscle), and then back-translated DNA sequences to form the final alignment.
 
 ## Installation
 These scripts were written in Bash, Go and Python3. It require following programs:
@@ -17,7 +17,7 @@ and Go libaries:
 * `go get -u gopkg.in/alecthomas/kingpin.v2`
 
 ## Usage
-`bash RunAll.sh <assembly summary file> <accession list file> <output directory> <output prefix>`
+`AssemblyAlignmentGenerate <assembly summary file> <accession list file> <output directory> <output prefix>`
   * `<assembly summary file>` can be downloaded from [here](ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/assembly_summary_refseq.txt);
   * `<accession list file>` contain a list of assembly accessions;
   * `<output directory>` contains the results;

@@ -1,0 +1,3135 @@
+locus_tag	ftype	gene	EC_number	product
+BPLIIOBE_00001	CDS			hypothetical protein
+BPLIIOBE_00001	gene			
+BPLIIOBE_00002	CDS			hypothetical protein
+BPLIIOBE_00002	gene			
+BPLIIOBE_00003	CDS	petB		Cytochrome b
+BPLIIOBE_00003	gene	petB		
+BPLIIOBE_00004	CDS	petA	1.10.2.2	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+BPLIIOBE_00004	gene	petA		
+BPLIIOBE_00005	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+BPLIIOBE_00005	gene	mfd		
+BPLIIOBE_00006	CDS			hypothetical protein
+BPLIIOBE_00006	gene			
+BPLIIOBE_00007	CDS	mepM_1	3.4.24.-	Murein DD-endopeptidase MepM
+BPLIIOBE_00007	gene	mepM_1		
+BPLIIOBE_00008	CDS	mepM_2	3.4.24.-	Murein DD-endopeptidase MepM
+BPLIIOBE_00008	gene	mepM_2		
+BPLIIOBE_00009	CDS	folC	6.3.2.12	Dihydrofolate synthase/folylpolyglutamate synthase
+BPLIIOBE_00009	gene	folC		
+BPLIIOBE_00010	CDS			hypothetical protein
+BPLIIOBE_00010	gene			
+BPLIIOBE_00011	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+BPLIIOBE_00011	gene	leuS		
+BPLIIOBE_00012	CDS			hypothetical protein
+BPLIIOBE_00012	gene			
+BPLIIOBE_00013	CDS			hypothetical protein
+BPLIIOBE_00013	gene			
+BPLIIOBE_00014	CDS			hypothetical protein
+BPLIIOBE_00014	gene			
+BPLIIOBE_00015	CDS			hypothetical protein
+BPLIIOBE_00015	gene			
+BPLIIOBE_00016	CDS	nhaA		Na(+)/H(+) antiporter NhaA
+BPLIIOBE_00016	gene	nhaA		
+BPLIIOBE_00017	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+BPLIIOBE_00017	gene	addA		
+BPLIIOBE_00018	CDS	rpsB		30S ribosomal protein S2
+BPLIIOBE_00018	gene	rpsB		
+BPLIIOBE_00019	CDS	tsf		Elongation factor Ts
+BPLIIOBE_00019	gene	tsf		
+BPLIIOBE_00020	CDS	ftsI	3.4.16.4	Peptidoglycan D,D-transpeptidase FtsI
+BPLIIOBE_00020	gene	ftsI		
+BPLIIOBE_00021	CDS	fliE		Flagellar hook-basal body complex protein FliE
+BPLIIOBE_00021	gene	fliE		
+BPLIIOBE_00022	CDS	flgC		Flagellar basal-body rod protein FlgC
+BPLIIOBE_00022	gene	flgC		
+BPLIIOBE_00023	CDS	flgB		Flagellar basal body rod protein FlgB
+BPLIIOBE_00023	gene	flgB		
+BPLIIOBE_00024	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+BPLIIOBE_00024	gene	ftsW		
+BPLIIOBE_00025	CDS	btuF_1		Vitamin B12-binding protein
+BPLIIOBE_00025	gene	btuF_1		
+BPLIIOBE_00026	CDS	btuF_2		Vitamin B12-binding protein
+BPLIIOBE_00026	gene	btuF_2		
+BPLIIOBE_00027	CDS	tsaA	1.11.1.15	putative peroxiredoxin
+BPLIIOBE_00027	gene	tsaA		
+BPLIIOBE_00028	CDS	metQ		D-methionine-binding lipoprotein MetQ
+BPLIIOBE_00028	gene	metQ		
+BPLIIOBE_00029	CDS	mrdA	3.4.16.4	Peptidoglycan D,D-transpeptidase MrdA
+BPLIIOBE_00029	gene	mrdA		
+BPLIIOBE_00030	CDS			hypothetical protein
+BPLIIOBE_00030	gene			
+BPLIIOBE_00031	CDS	engB		putative GTP-binding protein EngB
+BPLIIOBE_00031	gene	engB		
+BPLIIOBE_00032	CDS	lptA		Lipopolysaccharide export system protein LptA
+BPLIIOBE_00032	gene	lptA		
+BPLIIOBE_00033	CDS			hypothetical protein
+BPLIIOBE_00033	gene			
+BPLIIOBE_00034	CDS	kdsC	3.1.3.45	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+BPLIIOBE_00034	gene	kdsC		
+BPLIIOBE_00035	CDS	rlpA	4.2.2.-	Endolytic peptidoglycan transglycosylase RlpA
+BPLIIOBE_00035	gene	rlpA		
+BPLIIOBE_00036	CDS	mltD	4.2.2.-	Membrane-bound lytic murein transglycosylase D
+BPLIIOBE_00036	gene	mltD		
+BPLIIOBE_00037	CDS	ycfH	3.1.-.-	putative metal-dependent hydrolase YcfH
+BPLIIOBE_00037	gene	ycfH		
+BPLIIOBE_00038	CDS	ribE	2.5.1.9	Riboflavin synthase
+BPLIIOBE_00038	gene	ribE		
+BPLIIOBE_00039	CDS	flhB_1		Flagellar biosynthetic protein FlhB
+BPLIIOBE_00039	gene	flhB_1		
+BPLIIOBE_00040	CDS	metN	3.6.3.-	Methionine import ATP-binding protein MetN
+BPLIIOBE_00040	gene	metN		
+BPLIIOBE_00041	CDS	metI		D-methionine transport system permease protein MetI
+BPLIIOBE_00041	gene	metI		
+BPLIIOBE_00042	CDS			hypothetical protein
+BPLIIOBE_00042	gene			
+BPLIIOBE_00043	CDS			hypothetical protein
+BPLIIOBE_00043	gene			
+BPLIIOBE_00044	CDS	lpxE_1	3.1.-.-	Lipid A 1-phosphatase
+BPLIIOBE_00044	gene	lpxE_1		
+BPLIIOBE_00045	CDS	tagO	2.7.8.33	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+BPLIIOBE_00045	gene	tagO		
+BPLIIOBE_00046	CDS	pdxJ	2.6.99.2	Pyridoxine 5'-phosphate synthase
+BPLIIOBE_00046	gene	pdxJ		
+BPLIIOBE_00047	CDS	pdxA	1.1.1.262	4-hydroxythreonine-4-phosphate dehydrogenase
+BPLIIOBE_00047	gene	pdxA		
+BPLIIOBE_00048	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+BPLIIOBE_00048	gene	tsaD		
+BPLIIOBE_00049	CDS	flgG_1		Flagellar basal-body rod protein FlgG
+BPLIIOBE_00049	gene	flgG_1		
+BPLIIOBE_00050	CDS			hypothetical protein
+BPLIIOBE_00050	gene			
+BPLIIOBE_00051	CDS			hypothetical protein
+BPLIIOBE_00051	gene			
+BPLIIOBE_00052	CDS			hypothetical protein
+BPLIIOBE_00052	gene			
+BPLIIOBE_00053	CDS			hypothetical protein
+BPLIIOBE_00053	gene			
+BPLIIOBE_00054	CDS			hypothetical protein
+BPLIIOBE_00054	gene			
+BPLIIOBE_00055	CDS	nusB		N utilization substance protein B 
+BPLIIOBE_00055	gene	nusB		
+BPLIIOBE_00056	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+BPLIIOBE_00056	gene	ribH		
+BPLIIOBE_00057	CDS	kdsA	2.5.1.55	2-dehydro-3-deoxyphosphooctonate aldolase
+BPLIIOBE_00057	gene	kdsA		
+BPLIIOBE_00058	CDS	cynT	4.2.1.1	Carbonic anhydrase 1
+BPLIIOBE_00058	gene	cynT		
+BPLIIOBE_00059	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+BPLIIOBE_00059	gene	pyrF		
+BPLIIOBE_00060	CDS	panC	6.3.2.1	Pantothenate synthetase
+BPLIIOBE_00060	gene	panC		
+BPLIIOBE_00061	tRNA			tRNA-Glu(ttc)
+BPLIIOBE_00061	gene			
+BPLIIOBE_00062	tRNA			tRNA-Asp(gtc)
+BPLIIOBE_00062	gene			
+BPLIIOBE_00063	tRNA			tRNA-Val(tac)
+BPLIIOBE_00063	gene			
+BPLIIOBE_00064	tRNA			tRNA-Glu(ttc)
+BPLIIOBE_00064	gene			
+BPLIIOBE_00065	tRNA			tRNA-Lys(ttt)
+BPLIIOBE_00065	gene			
+BPLIIOBE_00066	CDS			hypothetical protein
+BPLIIOBE_00066	gene			
+BPLIIOBE_00067	CDS	groL		60 kDa chaperonin
+BPLIIOBE_00067	gene	groL		
+BPLIIOBE_00068	CDS	groS		10 kDa chaperonin
+BPLIIOBE_00068	gene	groS		
+BPLIIOBE_00069	CDS	dnaG	2.7.7.-	DNA primase
+BPLIIOBE_00069	gene	dnaG		
+BPLIIOBE_00070	CDS	mnmA_1	2.8.1.-	tRNA-specific 2-thiouridylase MnmA
+BPLIIOBE_00070	gene	mnmA_1		
+BPLIIOBE_00071	CDS			hypothetical protein
+BPLIIOBE_00071	gene			
+BPLIIOBE_00072	CDS			hypothetical protein
+BPLIIOBE_00072	gene			
+BPLIIOBE_00073	CDS			hypothetical protein
+BPLIIOBE_00073	gene			
+BPLIIOBE_00074	CDS	virB4_1		Type IV secretion system protein virB4
+BPLIIOBE_00074	gene	virB4_1		
+BPLIIOBE_00075	CDS			hypothetical protein
+BPLIIOBE_00075	gene			
+BPLIIOBE_00076	CDS	cheV_1		Chemotaxis protein CheV
+BPLIIOBE_00076	gene	cheV_1		
+BPLIIOBE_00077	CDS	nspC	4.1.1.96	Carboxynorspermidine/carboxyspermidine decarboxylase
+BPLIIOBE_00077	gene	nspC		
+BPLIIOBE_00078	CDS	lpxE_2	3.1.-.-	Lipid A 1-phosphatase
+BPLIIOBE_00078	gene	lpxE_2		
+BPLIIOBE_00079	CDS	eptA	2.7.-.-	Phosphoethanolamine transferase EptA
+BPLIIOBE_00079	gene	eptA		
+BPLIIOBE_00080	CDS			hypothetical protein
+BPLIIOBE_00080	gene			
+BPLIIOBE_00081	CDS	aarA	2.3.3.16	Citrate synthase
+BPLIIOBE_00081	gene	aarA		
+BPLIIOBE_00082	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+BPLIIOBE_00082	gene	icd		
+BPLIIOBE_00083	CDS			hypothetical protein
+BPLIIOBE_00083	gene			
+BPLIIOBE_00084	CDS	bioD	6.3.3.3	ATP-dependent dethiobiotin synthetase BioD
+BPLIIOBE_00084	gene	bioD		
+BPLIIOBE_00085	CDS			hypothetical protein
+BPLIIOBE_00085	gene			
+BPLIIOBE_00086	CDS			hypothetical protein
+BPLIIOBE_00086	gene			
+BPLIIOBE_00087	CDS	clpS		ATP-dependent Clp protease adapter protein ClpS
+BPLIIOBE_00087	gene	clpS		
+BPLIIOBE_00088	CDS	clpA		ATP-dependent Clp protease ATP-binding subunit ClpA
+BPLIIOBE_00088	gene	clpA		
+BPLIIOBE_00089	CDS	panD	4.1.1.11	Aspartate 1-decarboxylase
+BPLIIOBE_00089	gene	panD		
+BPLIIOBE_00090	CDS			Nucleoid-associated protein
+BPLIIOBE_00090	gene			
+BPLIIOBE_00091	CDS			hypothetical protein
+BPLIIOBE_00091	gene			
+BPLIIOBE_00092	CDS			hypothetical protein
+BPLIIOBE_00092	gene			
+BPLIIOBE_00093	CDS			hypothetical protein
+BPLIIOBE_00093	gene			
+BPLIIOBE_00094	CDS			hypothetical protein
+BPLIIOBE_00094	gene			
+BPLIIOBE_00095	CDS			hypothetical protein
+BPLIIOBE_00095	gene			
+BPLIIOBE_00096	CDS	ptlG		Type IV secretion system protein PtlG
+BPLIIOBE_00096	gene	ptlG		
+BPLIIOBE_00097	CDS	algA		Alginate biosynthesis protein AlgA
+BPLIIOBE_00097	gene	algA		
+BPLIIOBE_00098	CDS	gmd	4.2.1.47	GDP-mannose 4,6-dehydratase
+BPLIIOBE_00098	gene	gmd		
+BPLIIOBE_00099	CDS	colC	1.1.1.356	GDP-L-colitose synthase
+BPLIIOBE_00099	gene	colC		
+BPLIIOBE_00100	CDS	hypE		Hydrogenase isoenzymes formation protein HypE
+BPLIIOBE_00100	gene	hypE		
+BPLIIOBE_00101	CDS	hypF	2.1.3.-	Carbamoyltransferase HypF
+BPLIIOBE_00101	gene	hypF		
+BPLIIOBE_00102	CDS	aguA	3.5.3.12	Agmatine deiminase
+BPLIIOBE_00102	gene	aguA		
+BPLIIOBE_00103	CDS	dpnA_1	2.1.1.72	Modification methylase DpnIIB
+BPLIIOBE_00103	gene	dpnA_1		
+BPLIIOBE_00104	CDS	bspRIM	2.1.1.37	Modification methylase BspRI
+BPLIIOBE_00104	gene	bspRIM		
+BPLIIOBE_00105	CDS			hypothetical protein
+BPLIIOBE_00105	gene			
+BPLIIOBE_00106	CDS			hypothetical protein
+BPLIIOBE_00106	gene			
+BPLIIOBE_00107	CDS			hypothetical protein
+BPLIIOBE_00107	gene			
+BPLIIOBE_00108	CDS	haeIIIM	2.1.1.37	Modification methylase HaeIII
+BPLIIOBE_00108	gene	haeIIIM		
+BPLIIOBE_00109	CDS	putP		High-affinity proline transporter PutP
+BPLIIOBE_00109	gene	putP		
+BPLIIOBE_00110	CDS	rocA1	1.2.1.88	1-pyrroline-5-carboxylate dehydrogenase 1
+BPLIIOBE_00110	gene	rocA1		
+BPLIIOBE_00111	CDS			hypothetical protein
+BPLIIOBE_00111	gene			
+BPLIIOBE_00112	CDS	smc_1		Chromosome partition protein Smc
+BPLIIOBE_00112	gene	smc_1		
+BPLIIOBE_00113	CDS	smc_2		Chromosome partition protein Smc
+BPLIIOBE_00113	gene	smc_2		
+BPLIIOBE_00114	CDS			hypothetical protein
+BPLIIOBE_00114	gene			
+BPLIIOBE_00115	CDS			hypothetical protein
+BPLIIOBE_00115	gene			
+BPLIIOBE_00116	CDS			hypothetical protein
+BPLIIOBE_00116	gene			
+BPLIIOBE_00117	CDS			hypothetical protein
+BPLIIOBE_00117	gene			
+BPLIIOBE_00118	CDS			hypothetical protein
+BPLIIOBE_00118	gene			
+BPLIIOBE_00119	CDS			hypothetical protein
+BPLIIOBE_00119	gene			
+BPLIIOBE_00120	CDS	ftsK		DNA translocase FtsK
+BPLIIOBE_00120	gene	ftsK		
+BPLIIOBE_00121	CDS	ureH		Urease accessory protein UreH
+BPLIIOBE_00121	gene	ureH		
+BPLIIOBE_00122	CDS	ureG		Urease accessory protein UreG
+BPLIIOBE_00122	gene	ureG		
+BPLIIOBE_00123	CDS	ureF		Urease accessory protein UreF
+BPLIIOBE_00123	gene	ureF		
+BPLIIOBE_00124	CDS	ureE		Urease accessory protein UreE
+BPLIIOBE_00124	gene	ureE		
+BPLIIOBE_00125	CDS	ureI		Acid-activated urea channel
+BPLIIOBE_00125	gene	ureI		
+BPLIIOBE_00126	CDS	ureB	3.5.1.5	Urease subunit beta
+BPLIIOBE_00126	gene	ureB		
+BPLIIOBE_00127	CDS	ureA	3.5.1.5	Urease subunit alpha
+BPLIIOBE_00127	gene	ureA		
+BPLIIOBE_00128	tRNA			tRNA-Val(gac)
+BPLIIOBE_00128	gene			
+BPLIIOBE_00129	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+BPLIIOBE_00129	gene	lspA		
+BPLIIOBE_00130	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+BPLIIOBE_00130	gene	glmM		
+BPLIIOBE_00131	CDS	rpsT		30S ribosomal protein S20
+BPLIIOBE_00131	gene	rpsT		
+BPLIIOBE_00132	CDS	prfA		Peptide chain release factor RF1
+BPLIIOBE_00132	gene	prfA		
+BPLIIOBE_00133	CDS			hypothetical protein
+BPLIIOBE_00133	gene			
+BPLIIOBE_00134	CDS			hypothetical protein
+BPLIIOBE_00134	gene			
+BPLIIOBE_00135	CDS			hypothetical protein
+BPLIIOBE_00135	gene			
+BPLIIOBE_00136	CDS	pctB		Methyl-accepting chemotaxis protein PctB
+BPLIIOBE_00136	gene	pctB		
+BPLIIOBE_00137	CDS	rpsI		30S ribosomal protein S9
+BPLIIOBE_00137	gene	rpsI		
+BPLIIOBE_00138	CDS	rplM		50S ribosomal protein L13
+BPLIIOBE_00138	gene	rplM		
+BPLIIOBE_00139	CDS			hypothetical protein
+BPLIIOBE_00139	gene			
+BPLIIOBE_00140	CDS	mqo	1.1.5.4	Malate:quinone oxidoreductase
+BPLIIOBE_00140	gene	mqo		
+BPLIIOBE_00141	CDS			hypothetical protein
+BPLIIOBE_00141	gene			
+BPLIIOBE_00142	CDS	rpoD		RNA polymerase sigma factor RpoD
+BPLIIOBE_00142	gene	rpoD		
+BPLIIOBE_00143	CDS	mtnN	3.2.2.30	Aminodeoxyfutalosine nucleosidase
+BPLIIOBE_00143	gene	mtnN		
+BPLIIOBE_00144	CDS	fenF	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+BPLIIOBE_00144	gene	fenF		
+BPLIIOBE_00145	tRNA			tRNA-Ser(gct)
+BPLIIOBE_00145	gene			
+BPLIIOBE_00146	CDS	mboIR	3.1.21.4	Type-2 restriction enzyme MboI
+BPLIIOBE_00146	gene	mboIR		
+BPLIIOBE_00147	CDS	dpnA_2	2.1.1.72	Modification methylase DpnIIB
+BPLIIOBE_00147	gene	dpnA_2		
+BPLIIOBE_00148	CDS	wbnK	2.4.1.308	O-antigen biosynthesis glycosyltransferase WbnK
+BPLIIOBE_00148	gene	wbnK		
+BPLIIOBE_00149	CDS			hypothetical protein
+BPLIIOBE_00149	gene			
+BPLIIOBE_00150	CDS		1.-.-.-	Putative 2-hydroxyacid dehydrogenase
+BPLIIOBE_00150	gene			
+BPLIIOBE_00151	CDS			hypothetical protein
+BPLIIOBE_00151	gene			
+BPLIIOBE_00152	CDS	thrC	4.2.3.1	Threonine synthase
+BPLIIOBE_00152	gene	thrC		
+BPLIIOBE_00153	CDS	pctC		Methyl-accepting chemotaxis protein PctC
+BPLIIOBE_00153	gene	pctC		
+BPLIIOBE_00154	CDS			hypothetical protein
+BPLIIOBE_00154	gene			
+BPLIIOBE_00155	CDS			hypothetical protein
+BPLIIOBE_00155	gene			
+BPLIIOBE_00156	CDS		2.4.-.-	putative glycosyltransferase
+BPLIIOBE_00156	gene			
+BPLIIOBE_00157	CDS	mcp4		Methyl-accepting chemotaxis protein 4
+BPLIIOBE_00157	gene	mcp4		
+BPLIIOBE_00158	CDS	yfkN		Trifunctional nucleotide phosphoesterase protein YfkN
+BPLIIOBE_00158	gene	yfkN		
+BPLIIOBE_00159	CDS	luxS	4.4.1.21	S-ribosylhomocysteine lyase
+BPLIIOBE_00159	gene	luxS		
+BPLIIOBE_00160	CDS	metB	2.5.1.48	Cystathionine gamma-synthase
+BPLIIOBE_00160	gene	metB		
+BPLIIOBE_00161	CDS	cysM	2.5.1.47	Cysteine synthase
+BPLIIOBE_00161	gene	cysM		
+BPLIIOBE_00162	CDS			hypothetical protein
+BPLIIOBE_00162	gene			
+BPLIIOBE_00163	CDS	dnaK		Chaperone protein DnaK
+BPLIIOBE_00163	gene	dnaK		
+BPLIIOBE_00164	CDS	grpE		Protein GrpE
+BPLIIOBE_00164	gene	grpE		
+BPLIIOBE_00165	CDS	hrcA		Heat-inducible transcription repressor HrcA
+BPLIIOBE_00165	gene	hrcA		
+BPLIIOBE_00166	CDS			hypothetical protein
+BPLIIOBE_00166	gene			
+BPLIIOBE_00167	CDS			hypothetical protein
+BPLIIOBE_00167	gene			
+BPLIIOBE_00168	CDS			hypothetical protein
+BPLIIOBE_00168	gene			
+BPLIIOBE_00169	CDS	flaB		Flagellin B
+BPLIIOBE_00169	gene	flaB		
+BPLIIOBE_00170	CDS	topA_1	5.99.1.2	DNA topoisomerase 1
+BPLIIOBE_00170	gene	topA_1		
+BPLIIOBE_00171	CDS	queE_1	4.3.99.3	7-carboxy-7-deazaguanine synthase
+BPLIIOBE_00171	gene	queE_1		
+BPLIIOBE_00172	CDS			hypothetical protein
+BPLIIOBE_00172	gene			
+BPLIIOBE_00173	CDS	yafQ_1	3.1.-.-	mRNA interferase YafQ
+BPLIIOBE_00173	gene	yafQ_1		
+BPLIIOBE_00174	CDS			hypothetical protein
+BPLIIOBE_00174	gene			
+BPLIIOBE_00175	CDS	yafQ_2	3.1.-.-	mRNA interferase YafQ
+BPLIIOBE_00175	gene	yafQ_2		
+BPLIIOBE_00176	CDS			hypothetical protein
+BPLIIOBE_00176	gene			
+BPLIIOBE_00177	CDS		1.-.-.-	putative oxidoreductase
+BPLIIOBE_00177	gene			
+BPLIIOBE_00178	CDS	hmuU		Hemin transport system permease protein HmuU
+BPLIIOBE_00178	gene	hmuU		
+BPLIIOBE_00179	CDS			putative ABC transporter ATP-binding protein
+BPLIIOBE_00179	gene			
+BPLIIOBE_00180	CDS	vacA_1		Vacuolating cytotoxin autotransporter
+BPLIIOBE_00180	gene	vacA_1		
+BPLIIOBE_00181	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+BPLIIOBE_00181	gene	cysS		
+BPLIIOBE_00182	CDS	murJ		Lipid II flippase MurJ
+BPLIIOBE_00182	gene	murJ		
+BPLIIOBE_00183	CDS			hypothetical protein
+BPLIIOBE_00183	gene			
+BPLIIOBE_00184	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+BPLIIOBE_00184	gene	ruvA		
+BPLIIOBE_00185	CDS			hypothetical protein
+BPLIIOBE_00185	gene			
+BPLIIOBE_00186	CDS			hypothetical protein
+BPLIIOBE_00186	gene			
+BPLIIOBE_00187	CDS			hypothetical protein
+BPLIIOBE_00187	gene			
+BPLIIOBE_00188	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+BPLIIOBE_00188	gene	ruvC		
+BPLIIOBE_00189	CDS	tdhA		TonB-dependent heme receptor A
+BPLIIOBE_00189	gene	tdhA		
+BPLIIOBE_00190	CDS	katA	1.11.1.6	Catalase
+BPLIIOBE_00190	gene	katA		
+BPLIIOBE_00191	CDS			hypothetical protein
+BPLIIOBE_00191	gene			
+BPLIIOBE_00192	CDS			hypothetical protein
+BPLIIOBE_00192	gene			
+BPLIIOBE_00193	CDS			hypothetical protein
+BPLIIOBE_00193	gene			
+BPLIIOBE_00194	CDS	cdh	3.6.1.26	CDP-diacylglycerol pyrophosphatase
+BPLIIOBE_00194	gene	cdh		
+BPLIIOBE_00195	CDS	flgE_1		Flagellar hook protein FlgE
+BPLIIOBE_00195	gene	flgE_1		
+BPLIIOBE_00196	CDS	hypA		Hydrogenase/urease nickel incorporation protein HypA
+BPLIIOBE_00196	gene	hypA		
+BPLIIOBE_00197	CDS			hypothetical protein
+BPLIIOBE_00197	gene			
+BPLIIOBE_00198	CDS	lpxB	2.4.1.182	Lipid-A-disaccharide synthase
+BPLIIOBE_00198	gene	lpxB		
+BPLIIOBE_00199	CDS	greA		Transcription elongation factor GreA
+BPLIIOBE_00199	gene	greA		
+BPLIIOBE_00200	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+BPLIIOBE_00200	gene	dut		
+BPLIIOBE_00201	CDS			hypothetical protein
+BPLIIOBE_00201	gene			
+BPLIIOBE_00202	CDS	pgbB		Plasminogen-binding protein PgbB
+BPLIIOBE_00202	gene	pgbB		
+BPLIIOBE_00203	CDS	coaX	2.7.1.33	Type III pantothenate kinase
+BPLIIOBE_00203	gene	coaX		
+BPLIIOBE_00204	CDS			hypothetical protein
+BPLIIOBE_00204	gene			
+BPLIIOBE_00205	CDS	gmhB	3.1.3.82	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+BPLIIOBE_00205	gene	gmhB		
+BPLIIOBE_00206	CDS	hldD	5.1.3.20	ADP-L-glycero-D-manno-heptose-6-epimerase
+BPLIIOBE_00206	gene	hldD		
+BPLIIOBE_00207	CDS	hldE		Bifunctional protein HldE
+BPLIIOBE_00207	gene	hldE		
+BPLIIOBE_00208	CDS	gmhA1	5.3.1.28	Phosphoheptose isomerase 1
+BPLIIOBE_00208	gene	gmhA1		
+BPLIIOBE_00209	CDS			hypothetical protein
+BPLIIOBE_00209	gene			
+BPLIIOBE_00210	CDS	patA	2.3.1.-	Peptidoglycan O-acetyltransferase
+BPLIIOBE_00210	gene	patA		
+BPLIIOBE_00211	CDS	guaC	1.7.1.7	GMP reductase
+BPLIIOBE_00211	gene	guaC		
+BPLIIOBE_00212	CDS	ybiT		putative ABC transporter ATP-binding protein YbiT
+BPLIIOBE_00212	gene	ybiT		
+BPLIIOBE_00213	CDS			hypothetical protein
+BPLIIOBE_00213	gene			
+BPLIIOBE_00214	CDS			hypothetical protein
+BPLIIOBE_00214	gene			
+BPLIIOBE_00215	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+BPLIIOBE_00215	gene			
+BPLIIOBE_00216	CDS			hypothetical protein
+BPLIIOBE_00216	gene			
+BPLIIOBE_00217	CDS			Putative type-1 restriction enzyme specificity protein MG438
+BPLIIOBE_00217	gene			
+BPLIIOBE_00218	CDS			hypothetical protein
+BPLIIOBE_00218	gene			
+BPLIIOBE_00219	CDS	hsdR_1	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+BPLIIOBE_00219	gene	hsdR_1		
+BPLIIOBE_00220	CDS	thiM	2.7.1.50	Hydroxyethylthiazole kinase
+BPLIIOBE_00220	gene	thiM		
+BPLIIOBE_00221	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+BPLIIOBE_00221	gene	thiD		
+BPLIIOBE_00222	CDS	thiE	2.5.1.3	Thiamine-phosphate synthase
+BPLIIOBE_00222	gene	thiE		
+BPLIIOBE_00223	CDS			hypothetical protein
+BPLIIOBE_00223	gene			
+BPLIIOBE_00224	CDS	coaBC		Coenzyme A biosynthesis bifunctional protein CoaBC
+BPLIIOBE_00224	gene	coaBC		
+BPLIIOBE_00225	CDS	pseB	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+BPLIIOBE_00225	gene	pseB		
+BPLIIOBE_00226	CDS			hypothetical protein
+BPLIIOBE_00226	gene			
+BPLIIOBE_00227	CDS			hypothetical protein
+BPLIIOBE_00227	gene			
+BPLIIOBE_00228	CDS			hypothetical protein
+BPLIIOBE_00228	gene			
+BPLIIOBE_00229	tRNA			tRNA-Arg(cct)
+BPLIIOBE_00229	gene			
+BPLIIOBE_00230	CDS	hup		DNA-binding protein HU
+BPLIIOBE_00230	gene	hup		
+BPLIIOBE_00231	CDS	der_1		GTPase Der
+BPLIIOBE_00231	gene	der_1		
+BPLIIOBE_00232	CDS			hypothetical protein
+BPLIIOBE_00232	gene			
+BPLIIOBE_00233	CDS	speE	2.5.1.16	Polyamine aminopropyltransferase
+BPLIIOBE_00233	gene	speE		
+BPLIIOBE_00234	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+BPLIIOBE_00234	gene	coaE		
+BPLIIOBE_00235	CDS	gatA	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+BPLIIOBE_00235	gene	gatA		
+BPLIIOBE_00236	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+BPLIIOBE_00236	gene	guaB		
+BPLIIOBE_00237	CDS	atpB		ATP synthase subunit a
+BPLIIOBE_00237	gene	atpB		
+BPLIIOBE_00238	CDS			hypothetical protein
+BPLIIOBE_00238	gene			
+BPLIIOBE_00239	CDS	lex1	2.-.-.-	Lipooligosaccharide biosynthesis protein lex-1
+BPLIIOBE_00239	gene	lex1		
+BPLIIOBE_00240	CDS	trxB	1.8.1.9	Thioredoxin reductase
+BPLIIOBE_00240	gene	trxB		
+BPLIIOBE_00241	CDS	trxA_1		Thioredoxin
+BPLIIOBE_00241	gene	trxA_1		
+BPLIIOBE_00242	CDS			hypothetical protein
+BPLIIOBE_00242	gene			
+BPLIIOBE_00243	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+BPLIIOBE_00243	gene	hom		
+BPLIIOBE_00244	CDS	uvrC		UvrABC system protein C
+BPLIIOBE_00244	gene	uvrC		
+BPLIIOBE_00245	CDS			hypothetical protein
+BPLIIOBE_00245	gene			
+BPLIIOBE_00246	CDS	opuBA		Choline transport ATP-binding protein OpuBA
+BPLIIOBE_00246	gene	opuBA		
+BPLIIOBE_00247	CDS	opuCC		Glycine betaine/carnitine/choline-binding protein OpuCC
+BPLIIOBE_00247	gene	opuCC		
+BPLIIOBE_00248	CDS			hypothetical protein
+BPLIIOBE_00248	gene			
+BPLIIOBE_00249	CDS	motB		Motility protein B
+BPLIIOBE_00249	gene	motB		
+BPLIIOBE_00250	CDS	pomA		Chemotaxis protein PomA
+BPLIIOBE_00250	gene	pomA		
+BPLIIOBE_00251	CDS	moeZ		putative adenylyltransferase/sulfurtransferase MoeZ
+BPLIIOBE_00251	gene	moeZ		
+BPLIIOBE_00252	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+BPLIIOBE_00252	gene	gloC		
+BPLIIOBE_00253	CDS			hypothetical protein
+BPLIIOBE_00253	gene			
+BPLIIOBE_00254	CDS			hypothetical protein
+BPLIIOBE_00254	gene			
+BPLIIOBE_00255	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+BPLIIOBE_00255	gene	rsmD		
+BPLIIOBE_00256	CDS			hypothetical protein
+BPLIIOBE_00256	gene			
+BPLIIOBE_00257	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+BPLIIOBE_00257	gene	acpS		
+BPLIIOBE_00258	CDS	fecA_1		Fe(3+) dicitrate transport protein FecA
+BPLIIOBE_00258	gene	fecA_1		
+BPLIIOBE_00259	CDS			hypothetical protein
+BPLIIOBE_00259	gene			
+BPLIIOBE_00260	CDS			hypothetical protein
+BPLIIOBE_00260	gene			
+BPLIIOBE_00261	CDS	ribBA		Riboflavin biosynthesis protein RibBA
+BPLIIOBE_00261	gene	ribBA		
+BPLIIOBE_00262	CDS			hypothetical protein
+BPLIIOBE_00262	gene			
+BPLIIOBE_00263	CDS	ribA	3.5.4.25	GTP cyclohydrolase-2
+BPLIIOBE_00263	gene	ribA		
+BPLIIOBE_00264	CDS			hypothetical protein
+BPLIIOBE_00264	gene			
+BPLIIOBE_00265	CDS	moaE	2.8.1.12	Molybdopterin synthase catalytic subunit
+BPLIIOBE_00265	gene	moaE		
+BPLIIOBE_00266	CDS	mog	2.7.7.75	Molybdopterin adenylyltransferase
+BPLIIOBE_00266	gene	mog		
+BPLIIOBE_00267	CDS	moaC	4.6.1.17	Cyclic pyranopterin monophosphate synthase
+BPLIIOBE_00267	gene	moaC		
+BPLIIOBE_00268	CDS			hypothetical protein
+BPLIIOBE_00268	gene			
+BPLIIOBE_00269	CDS			hypothetical protein
+BPLIIOBE_00269	gene			
+BPLIIOBE_00270	CDS	tig	5.2.1.8	Trigger factor
+BPLIIOBE_00270	gene	tig		
+BPLIIOBE_00271	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+BPLIIOBE_00271	gene	clpP		
+BPLIIOBE_00272	CDS	def	3.5.1.88	Peptide deformylase
+BPLIIOBE_00272	gene	def		
+BPLIIOBE_00273	CDS	comM		Competence protein ComM
+BPLIIOBE_00273	gene	comM		
+BPLIIOBE_00274	CDS	cadA	3.6.3.3	Cadmium, zinc and cobalt-transporting ATPase
+BPLIIOBE_00274	gene	cadA		
+BPLIIOBE_00275	CDS			hypothetical protein
+BPLIIOBE_00275	gene			
+BPLIIOBE_00276	CDS			hypothetical protein
+BPLIIOBE_00276	gene			
+BPLIIOBE_00277	CDS			hypothetical protein
+BPLIIOBE_00277	gene			
+BPLIIOBE_00278	CDS	lolC		Lipoprotein-releasing system transmembrane protein LolC
+BPLIIOBE_00278	gene	lolC		
+BPLIIOBE_00279	CDS	secA		Protein translocase subunit SecA
+BPLIIOBE_00279	gene	secA		
+BPLIIOBE_00280	CDS	lolA		Outer-membrane lipoprotein carrier protein
+BPLIIOBE_00280	gene	lolA		
+BPLIIOBE_00281	tmRNA	ssrA		transfer-messenger RNA, SsrA
+BPLIIOBE_00281	gene	ssrA		
+BPLIIOBE_00282	CDS			hypothetical protein
+BPLIIOBE_00282	gene			
+BPLIIOBE_00283	CDS			hypothetical protein
+BPLIIOBE_00283	gene			
+BPLIIOBE_00284	CDS			hypothetical protein
+BPLIIOBE_00284	gene			
+BPLIIOBE_00285	CDS			hypothetical protein
+BPLIIOBE_00285	gene			
+BPLIIOBE_00286	CDS	acnB	4.2.1.3	Aconitate hydratase B
+BPLIIOBE_00286	gene	acnB		
+BPLIIOBE_00287	CDS	mqnA	4.2.1.151	Chorismate dehydratase
+BPLIIOBE_00287	gene	mqnA		
+BPLIIOBE_00288	CDS	pyrH	2.7.4.22	Uridylate kinase
+BPLIIOBE_00288	gene	pyrH		
+BPLIIOBE_00289	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+BPLIIOBE_00289	gene	rpoZ		
+BPLIIOBE_00290	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+BPLIIOBE_00290	gene	relA		
+BPLIIOBE_00291	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+BPLIIOBE_00291	gene	tyrS		
+BPLIIOBE_00292	CDS	pyrD_1	1.3.-.-	Dihydroorotate dehydrogenase
+BPLIIOBE_00292	gene	pyrD_1		
+BPLIIOBE_00293	CDS	amiC	3.5.1.28	N-acetylmuramoyl-L-alanine amidase AmiC
+BPLIIOBE_00293	gene	amiC		
+BPLIIOBE_00294	CDS			hypothetical protein
+BPLIIOBE_00294	gene			
+BPLIIOBE_00295	CDS	flhB_2		Flagellar biosynthetic protein FlhB
+BPLIIOBE_00295	gene	flhB_2		
+BPLIIOBE_00296	CDS	mobA	2.7.7.77	putative molybdenum cofactor guanylyltransferase
+BPLIIOBE_00296	gene	mobA		
+BPLIIOBE_00297	CDS	moaA	4.1.99.22	GTP 3',8-cyclase
+BPLIIOBE_00297	gene	moaA		
+BPLIIOBE_00298	CDS			hypothetical protein
+BPLIIOBE_00298	gene			
+BPLIIOBE_00299	CDS			hypothetical protein
+BPLIIOBE_00299	gene			
+BPLIIOBE_00300	CDS			hypothetical protein
+BPLIIOBE_00300	gene			
+BPLIIOBE_00301	CDS	ftsY		Signal recognition particle receptor FtsY
+BPLIIOBE_00301	gene	ftsY		
+BPLIIOBE_00302	CDS			hypothetical protein
+BPLIIOBE_00302	gene			
+BPLIIOBE_00303	CDS			hypothetical protein
+BPLIIOBE_00303	gene			
+BPLIIOBE_00304	CDS	rny	3.1.-.-	Ribonuclease Y
+BPLIIOBE_00304	gene	rny		
+BPLIIOBE_00305	CDS	yeeO		putative FMN/FAD exporter YeeO
+BPLIIOBE_00305	gene	yeeO		
+BPLIIOBE_00306	CDS			hypothetical protein
+BPLIIOBE_00306	gene			
+BPLIIOBE_00307	CDS		3.5.1.77	N-carbamoyl-D-amino acid hydrolase
+BPLIIOBE_00307	gene			
+BPLIIOBE_00308	CDS			hypothetical protein
+BPLIIOBE_00308	gene			
+BPLIIOBE_00309	CDS	tcdA	6.1.-.-	tRNA threonylcarbamoyladenosine dehydratase
+BPLIIOBE_00309	gene	tcdA		
+BPLIIOBE_00310	CDS			hypothetical protein
+BPLIIOBE_00310	gene			
+BPLIIOBE_00311	CDS	fliS		Flagellar protein FliS
+BPLIIOBE_00311	gene	fliS		
+BPLIIOBE_00312	CDS	fliD		Flagellar hook-associated protein 2
+BPLIIOBE_00312	gene	fliD		
+BPLIIOBE_00313	CDS			hypothetical protein
+BPLIIOBE_00313	gene			
+BPLIIOBE_00314	CDS			hypothetical protein
+BPLIIOBE_00314	gene			
+BPLIIOBE_00315	CDS			hypothetical protein
+BPLIIOBE_00315	gene			
+BPLIIOBE_00316	CDS	ftsE		Cell division ATP-binding protein FtsE
+BPLIIOBE_00316	gene	ftsE		
+BPLIIOBE_00317	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+BPLIIOBE_00317	gene	trmB		
+BPLIIOBE_00318	CDS			hypothetical protein
+BPLIIOBE_00318	gene			
+BPLIIOBE_00319	CDS		5.4.99.-	putative RNA pseudouridine synthase
+BPLIIOBE_00319	gene			
+BPLIIOBE_00320	CDS	rsgA	3.6.1.-	Putative ribosome biogenesis GTPase RsgA
+BPLIIOBE_00320	gene	rsgA		
+BPLIIOBE_00321	CDS			hypothetical protein
+BPLIIOBE_00321	gene			
+BPLIIOBE_00322	tRNA			tRNA-Met(cat)
+BPLIIOBE_00322	gene			
+BPLIIOBE_00323	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+BPLIIOBE_00323	gene	prs		
+BPLIIOBE_00324	CDS		2.7.7.53	AP-4-A phosphorylase
+BPLIIOBE_00324	gene			
+BPLIIOBE_00325	CDS	murF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+BPLIIOBE_00325	gene	murF		
+BPLIIOBE_00326	CDS	menH	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+BPLIIOBE_00326	gene	menH		
+BPLIIOBE_00327	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+BPLIIOBE_00327	gene	ddl		
+BPLIIOBE_00328	CDS	pgpA	3.1.3.27	Phosphatidylglycerophosphatase A
+BPLIIOBE_00328	gene	pgpA		
+BPLIIOBE_00329	CDS		2.6.1.51	Serine-pyruvate aminotransferase
+BPLIIOBE_00329	gene			
+BPLIIOBE_00330	CDS	gpt	2.4.2.22	Xanthine phosphoribosyltransferase
+BPLIIOBE_00330	gene	gpt		
+BPLIIOBE_00331	CDS	rimO	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+BPLIIOBE_00331	gene	rimO		
+BPLIIOBE_00332	CDS			hypothetical protein
+BPLIIOBE_00332	gene			
+BPLIIOBE_00333	CDS			hypothetical protein
+BPLIIOBE_00333	gene			
+BPLIIOBE_00334	CDS			hypothetical protein
+BPLIIOBE_00334	gene			
+BPLIIOBE_00335	CDS			hypothetical protein
+BPLIIOBE_00335	gene			
+BPLIIOBE_00336	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+BPLIIOBE_00336	gene	tilS		
+BPLIIOBE_00337	CDS	dusC	1.3.1.-	tRNA-dihydrouridine(16) synthase
+BPLIIOBE_00337	gene	dusC		
+BPLIIOBE_00338	CDS			hypothetical protein
+BPLIIOBE_00338	gene			
+BPLIIOBE_00339	CDS	fucT_1	2.4.1.152	Alpha-(1,3)-fucosyltransferase FucT
+BPLIIOBE_00339	gene	fucT_1		
+BPLIIOBE_00340	CDS			hypothetical protein
+BPLIIOBE_00340	gene			
+BPLIIOBE_00341	CDS	aspA	4.3.1.1	Aspartate ammonia-lyase
+BPLIIOBE_00341	gene	aspA		
+BPLIIOBE_00342	CDS	murA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+BPLIIOBE_00342	gene	murA		
+BPLIIOBE_00343	CDS			hypothetical protein
+BPLIIOBE_00343	gene			
+BPLIIOBE_00344	CDS	gtaB	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+BPLIIOBE_00344	gene	gtaB		
+BPLIIOBE_00345	CDS	slt	4.2.2.-	Soluble lytic murein transglycosylase
+BPLIIOBE_00345	gene	slt		
+BPLIIOBE_00346	CDS			hypothetical protein
+BPLIIOBE_00346	gene			
+BPLIIOBE_00347	CDS	gltX1	6.1.1.17	Glutamate--tRNA ligase 1
+BPLIIOBE_00347	gene	gltX1		
+BPLIIOBE_00348	CDS	yfkO	1.-.-.-	Putative NAD(P)H nitroreductase YfkO
+BPLIIOBE_00348	gene	yfkO		
+BPLIIOBE_00349	CDS			hypothetical protein
+BPLIIOBE_00349	gene			
+BPLIIOBE_00350	CDS	cca	2.7.7.72	CCA-adding enzyme
+BPLIIOBE_00350	gene	cca		
+BPLIIOBE_00351	CDS	queC	6.3.4.20	7-cyano-7-deazaguanine synthase
+BPLIIOBE_00351	gene	queC		
+BPLIIOBE_00352	CDS			hypothetical protein
+BPLIIOBE_00352	gene			
+BPLIIOBE_00353	CDS			hypothetical protein
+BPLIIOBE_00353	gene			
+BPLIIOBE_00354	CDS			hypothetical protein
+BPLIIOBE_00354	gene			
+BPLIIOBE_00355	CDS			hypothetical protein
+BPLIIOBE_00355	gene			
+BPLIIOBE_00356	CDS	hybD	3.4.23.-	Hydrogenase 2 maturation protease
+BPLIIOBE_00356	gene	hybD		
+BPLIIOBE_00357	CDS	hydC		Quinone-reactive Ni/Fe-hydrogenase B-type cytochrome subunit
+BPLIIOBE_00357	gene	hydC		
+BPLIIOBE_00358	CDS	hydB	1.12.5.1	Quinone-reactive Ni/Fe-hydrogenase large chain
+BPLIIOBE_00358	gene	hydB		
+BPLIIOBE_00359	CDS	hydA_1	1.12.5.1	Quinone-reactive Ni/Fe-hydrogenase small chain
+BPLIIOBE_00359	gene	hydA_1		
+BPLIIOBE_00360	CDS	mdaB		Modulator of drug activity B
+BPLIIOBE_00360	gene	mdaB		
+BPLIIOBE_00361	CDS			hypothetical protein
+BPLIIOBE_00361	gene			
+BPLIIOBE_00362	CDS	hcpD_1	3.5.2.6	Putative beta-lactamase HcpD
+BPLIIOBE_00362	gene	hcpD_1		
+BPLIIOBE_00363	CDS	dapD	2.3.1.117	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+BPLIIOBE_00363	gene	dapD		
+BPLIIOBE_00364	CDS	ispG	1.17.7.3	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+BPLIIOBE_00364	gene	ispG		
+BPLIIOBE_00365	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+BPLIIOBE_00365	gene	dapL		
+BPLIIOBE_00366	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+BPLIIOBE_00366	gene	murC		
+BPLIIOBE_00367	CDS			hypothetical protein
+BPLIIOBE_00367	gene			
+BPLIIOBE_00368	CDS	mutS2	3.1.-.-	Endonuclease MutS2
+BPLIIOBE_00368	gene	mutS2		
+BPLIIOBE_00369	CDS	ppa	3.6.1.1	Inorganic pyrophosphatase
+BPLIIOBE_00369	gene	ppa		
+BPLIIOBE_00370	CDS			hypothetical protein
+BPLIIOBE_00370	gene			
+BPLIIOBE_00371	CDS	adk	2.7.4.3	Adenylate kinase
+BPLIIOBE_00371	gene	adk		
+BPLIIOBE_00372	CDS	aspS	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+BPLIIOBE_00372	gene	aspS		
+BPLIIOBE_00373	CDS	cheV_2		Chemotaxis protein CheV
+BPLIIOBE_00373	gene	cheV_2		
+BPLIIOBE_00374	CDS	ligA	6.5.1.2	DNA ligase
+BPLIIOBE_00374	gene	ligA		
+BPLIIOBE_00375	CDS			hypothetical protein
+BPLIIOBE_00375	gene			
+BPLIIOBE_00376	CDS	yxdL		ABC transporter ATP-binding protein YxdL
+BPLIIOBE_00376	gene	yxdL		
+BPLIIOBE_00377	CDS			hypothetical protein
+BPLIIOBE_00377	gene			
+BPLIIOBE_00378	CDS	vacA_2		Vacuolating cytotoxin autotransporter
+BPLIIOBE_00378	gene	vacA_2		
+BPLIIOBE_00379	CDS			hypothetical protein
+BPLIIOBE_00379	gene			
+BPLIIOBE_00380	CDS	mdtC		Multidrug resistance protein MdtC
+BPLIIOBE_00380	gene	mdtC		
+BPLIIOBE_00381	CDS	czcB		Cobalt-zinc-cadmium resistance protein CzcB
+BPLIIOBE_00381	gene	czcB		
+BPLIIOBE_00382	CDS			hypothetical protein
+BPLIIOBE_00382	gene			
+BPLIIOBE_00383	CDS	hemE	4.1.1.37	Uroporphyrinogen decarboxylase
+BPLIIOBE_00383	gene	hemE		
+BPLIIOBE_00384	CDS			hypothetical protein
+BPLIIOBE_00384	gene			
+BPLIIOBE_00385	CDS	nth_1	4.2.99.18	Endonuclease III
+BPLIIOBE_00385	gene	nth_1		
+BPLIIOBE_00386	CDS	flaA		Flagellin A
+BPLIIOBE_00386	gene	flaA		
+BPLIIOBE_00387	CDS			hypothetical protein
+BPLIIOBE_00387	gene			
+BPLIIOBE_00388	CDS			putative ABC transporter ATP-binding protein
+BPLIIOBE_00388	gene			
+BPLIIOBE_00389	CDS	mcpU		Methyl-accepting chemotaxis protein McpU
+BPLIIOBE_00389	gene	mcpU		
+BPLIIOBE_00390	CDS	bioF	2.3.1.47	8-amino-7-oxononanoate synthase 2
+BPLIIOBE_00390	gene	bioF		
+BPLIIOBE_00391	CDS	mrcA		Penicillin-binding protein 1A
+BPLIIOBE_00391	gene	mrcA		
+BPLIIOBE_00392	CDS			hypothetical protein
+BPLIIOBE_00392	gene			
+BPLIIOBE_00393	CDS	dsbB		Disulfide bond formation protein B
+BPLIIOBE_00393	gene	dsbB		
+BPLIIOBE_00394	CDS			hypothetical protein
+BPLIIOBE_00394	gene			
+BPLIIOBE_00395	CDS			hypothetical protein
+BPLIIOBE_00395	gene			
+BPLIIOBE_00396	CDS			hypothetical protein
+BPLIIOBE_00396	gene			
+BPLIIOBE_00397	CDS			hypothetical protein
+BPLIIOBE_00397	gene			
+BPLIIOBE_00398	CDS	korB	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+BPLIIOBE_00398	gene	korB		
+BPLIIOBE_00399	CDS	korA	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+BPLIIOBE_00399	gene	korA		
+BPLIIOBE_00400	CDS	hydA_2	1.12.7.2	Periplasmic [Fe] hydrogenase large subunit
+BPLIIOBE_00400	gene	hydA_2		
+BPLIIOBE_00401	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+BPLIIOBE_00401	gene	mltG		
+BPLIIOBE_00402	CDS			hypothetical protein
+BPLIIOBE_00402	gene			
+BPLIIOBE_00403	CDS	feoA		Putative Fe(2+) transport protein A
+BPLIIOBE_00403	gene	feoA		
+BPLIIOBE_00404	CDS	nth_2	4.2.99.18	Endonuclease III
+BPLIIOBE_00404	gene	nth_2		
+BPLIIOBE_00405	CDS	fliN_1		Flagellar motor switch protein FliN
+BPLIIOBE_00405	gene	fliN_1		
+BPLIIOBE_00406	CDS			hypothetical protein
+BPLIIOBE_00406	gene			
+BPLIIOBE_00407	CDS			hypothetical protein
+BPLIIOBE_00407	gene			
+BPLIIOBE_00408	CDS	pyrC_1	3.5.2.3	Dihydroorotase
+BPLIIOBE_00408	gene	pyrC_1		
+BPLIIOBE_00409	CDS			hypothetical protein
+BPLIIOBE_00409	gene			
+BPLIIOBE_00410	CDS			hypothetical protein
+BPLIIOBE_00410	gene			
+BPLIIOBE_00411	CDS	mdoB	2.7.8.20	Phosphoglycerol transferase I
+BPLIIOBE_00411	gene	mdoB		
+BPLIIOBE_00412	CDS	folD		Bifunctional protein FolD protein
+BPLIIOBE_00412	gene	folD		
+BPLIIOBE_00413	CDS	lepB	3.4.21.89	Signal peptidase I
+BPLIIOBE_00413	gene	lepB		
+BPLIIOBE_00414	CDS			hypothetical protein
+BPLIIOBE_00414	gene			
+BPLIIOBE_00415	CDS	ywlF	5.3.1.-	Putative sugar phosphate isomerase YwlF
+BPLIIOBE_00415	gene	ywlF		
+BPLIIOBE_00416	CDS			hypothetical protein
+BPLIIOBE_00416	gene			
+BPLIIOBE_00417	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+BPLIIOBE_00417	gene	apt		
+BPLIIOBE_00418	CDS	yohD_1		Inner membrane protein YohD
+BPLIIOBE_00418	gene	yohD_1		
+BPLIIOBE_00419	CDS	pepA	3.4.11.1	Cytosol aminopeptidase
+BPLIIOBE_00419	gene	pepA		
+BPLIIOBE_00420	CDS	ychF		Ribosome-binding ATPase YchF
+BPLIIOBE_00420	gene	ychF		
+BPLIIOBE_00421	CDS	pqqE		Coenzyme PQQ synthesis protein E
+BPLIIOBE_00421	gene	pqqE		
+BPLIIOBE_00422	CDS			hypothetical protein
+BPLIIOBE_00422	gene			
+BPLIIOBE_00423	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+BPLIIOBE_00423	gene	dapF		
+BPLIIOBE_00424	CDS	rclC		Inner membrane protein RclC
+BPLIIOBE_00424	gene	rclC		
+BPLIIOBE_00425	CDS			hypothetical protein
+BPLIIOBE_00425	gene			
+BPLIIOBE_00426	CDS			hypothetical protein
+BPLIIOBE_00426	gene			
+BPLIIOBE_00427	CDS	rpsU		30S ribosomal protein S21
+BPLIIOBE_00427	gene	rpsU		
+BPLIIOBE_00428	CDS	fabG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+BPLIIOBE_00428	gene	fabG		
+BPLIIOBE_00429	CDS	acpP_1		Acyl carrier protein
+BPLIIOBE_00429	gene	acpP_1		
+BPLIIOBE_00430	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+BPLIIOBE_00430	gene	fabF		
+BPLIIOBE_00431	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+BPLIIOBE_00431	gene	accA		
+BPLIIOBE_00432	CDS			hypothetical protein
+BPLIIOBE_00432	gene			
+BPLIIOBE_00433	CDS			hypothetical protein
+BPLIIOBE_00433	gene			
+BPLIIOBE_00434	CDS			hypothetical protein
+BPLIIOBE_00434	gene			
+BPLIIOBE_00435	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+BPLIIOBE_00435	gene			
+BPLIIOBE_00436	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+BPLIIOBE_00436	gene	rsmI		
+BPLIIOBE_00437	CDS	rpmE		50S ribosomal protein L31
+BPLIIOBE_00437	gene	rpmE		
+BPLIIOBE_00438	CDS	rho	3.6.4.-	Transcription termination factor Rho
+BPLIIOBE_00438	gene	rho		
+BPLIIOBE_00439	CDS	murI	5.1.1.3	Glutamate racemase
+BPLIIOBE_00439	gene	murI		
+BPLIIOBE_00440	CDS			hypothetical protein
+BPLIIOBE_00440	gene			
+BPLIIOBE_00441	CDS			hypothetical protein
+BPLIIOBE_00441	gene			
+BPLIIOBE_00442	CDS	cagA		Cytotoxicity-associated immunodominant antigen
+BPLIIOBE_00442	gene	cagA		
+BPLIIOBE_00443	CDS			hypothetical protein
+BPLIIOBE_00443	gene			
+BPLIIOBE_00444	CDS			hypothetical protein
+BPLIIOBE_00444	gene			
+BPLIIOBE_00445	CDS			hypothetical protein
+BPLIIOBE_00445	gene			
+BPLIIOBE_00446	CDS	virB4_2		Type IV secretion system protein virB4
+BPLIIOBE_00446	gene	virB4_2		
+BPLIIOBE_00447	CDS			hypothetical protein
+BPLIIOBE_00447	gene			
+BPLIIOBE_00448	CDS			hypothetical protein
+BPLIIOBE_00448	gene			
+BPLIIOBE_00449	CDS			hypothetical protein
+BPLIIOBE_00449	gene			
+BPLIIOBE_00450	CDS			hypothetical protein
+BPLIIOBE_00450	gene			
+BPLIIOBE_00451	CDS			hypothetical protein
+BPLIIOBE_00451	gene			
+BPLIIOBE_00452	CDS			hypothetical protein
+BPLIIOBE_00452	gene			
+BPLIIOBE_00453	CDS			hypothetical protein
+BPLIIOBE_00453	gene			
+BPLIIOBE_00454	CDS			hypothetical protein
+BPLIIOBE_00454	gene			
+BPLIIOBE_00455	CDS	cagS		CAG pathogenicity island protein 13
+BPLIIOBE_00455	gene	cagS		
+BPLIIOBE_00456	CDS			hypothetical protein
+BPLIIOBE_00456	gene			
+BPLIIOBE_00457	CDS	cagT		CAG pathogenicity island protein 12
+BPLIIOBE_00457	gene	cagT		
+BPLIIOBE_00458	CDS			hypothetical protein
+BPLIIOBE_00458	gene			
+BPLIIOBE_00459	CDS			hypothetical protein
+BPLIIOBE_00459	gene			
+BPLIIOBE_00460	CDS			hypothetical protein
+BPLIIOBE_00460	gene			
+BPLIIOBE_00461	CDS			hypothetical protein
+BPLIIOBE_00461	gene			
+BPLIIOBE_00462	CDS	msrAB		Peptide methionine sulfoxide reductase msrA/msrB
+BPLIIOBE_00462	gene	msrAB		
+BPLIIOBE_00463	CDS	radA	3.6.4.-	DNA repair protein RadA
+BPLIIOBE_00463	gene	radA		
+BPLIIOBE_00464	CDS			hypothetical protein
+BPLIIOBE_00464	gene			
+BPLIIOBE_00465	CDS	iscU		Iron-sulfur cluster assembly scaffold protein IscU
+BPLIIOBE_00465	gene	iscU		
+BPLIIOBE_00466	CDS	iscS	2.8.1.7	Cysteine desulfurase IscS
+BPLIIOBE_00466	gene	iscS		
+BPLIIOBE_00467	CDS			hypothetical protein
+BPLIIOBE_00467	gene			
+BPLIIOBE_00468	CDS			hypothetical protein
+BPLIIOBE_00468	gene			
+BPLIIOBE_00469	CDS			hypothetical protein
+BPLIIOBE_00469	gene			
+BPLIIOBE_00470	CDS	dxr	1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+BPLIIOBE_00470	gene	dxr		
+BPLIIOBE_00471	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+BPLIIOBE_00471	gene	cdsA		
+BPLIIOBE_00472	CDS	sdcS		Sodium-dependent dicarboxylate transporter SdcS
+BPLIIOBE_00472	gene	sdcS		
+BPLIIOBE_00473	CDS	mnmG		tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+BPLIIOBE_00473	gene	mnmG		
+BPLIIOBE_00474	CDS	dapE	3.5.1.18	Succinyl-diaminopimelate desuccinylase
+BPLIIOBE_00474	gene	dapE		
+BPLIIOBE_00475	CDS	hcpA	3.5.2.6	Beta-lactamase HcpA
+BPLIIOBE_00475	gene	hcpA		
+BPLIIOBE_00476	CDS	htpG		Chaperone protein HtpG
+BPLIIOBE_00476	gene	htpG		
+BPLIIOBE_00477	CDS			hypothetical protein
+BPLIIOBE_00477	gene			
+BPLIIOBE_00478	CDS			hypothetical protein
+BPLIIOBE_00478	gene			
+BPLIIOBE_00479	CDS	gspA		General stress protein A
+BPLIIOBE_00479	gene	gspA		
+BPLIIOBE_00480	CDS	apbC		Iron-sulfur cluster carrier protein
+BPLIIOBE_00480	gene	apbC		
+BPLIIOBE_00481	CDS			hypothetical protein
+BPLIIOBE_00481	gene			
+BPLIIOBE_00482	CDS			hypothetical protein
+BPLIIOBE_00482	gene			
+BPLIIOBE_00483	CDS			hypothetical protein
+BPLIIOBE_00483	gene			
+BPLIIOBE_00484	CDS			hypothetical protein
+BPLIIOBE_00484	gene			
+BPLIIOBE_00485	CDS			hypothetical protein
+BPLIIOBE_00485	gene			
+BPLIIOBE_00486	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+BPLIIOBE_00486	gene	fabH		
+BPLIIOBE_00487	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+BPLIIOBE_00487	gene	plsX		
+BPLIIOBE_00488	CDS	rpmF		50S ribosomal protein L32
+BPLIIOBE_00488	gene	rpmF		
+BPLIIOBE_00489	CDS			hypothetical protein
+BPLIIOBE_00489	gene			
+BPLIIOBE_00490	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+BPLIIOBE_00490	gene	ndk		
+BPLIIOBE_00491	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+BPLIIOBE_00491	gene	metK		
+BPLIIOBE_00492	CDS	lpxD	2.3.1.-	UDP-3-O-acylglucosamine N-acyltransferase
+BPLIIOBE_00492	gene	lpxD		
+BPLIIOBE_00493	CDS	fabI	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+BPLIIOBE_00493	gene	fabI		
+BPLIIOBE_00494	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+BPLIIOBE_00494	gene	tpiA		
+BPLIIOBE_00495	CDS	frdC		Fumarate reductase cytochrome b subunit
+BPLIIOBE_00495	gene	frdC		
+BPLIIOBE_00496	CDS	frdA	1.3.5.4	Fumarate reductase flavoprotein subunit
+BPLIIOBE_00496	gene	frdA		
+BPLIIOBE_00497	CDS	frdB	1.3.5.1	Fumarate reductase iron-sulfur subunit
+BPLIIOBE_00497	gene	frdB		
+BPLIIOBE_00498	CDS	clsC	2.7.8.-	Cardiolipin synthase C
+BPLIIOBE_00498	gene	clsC		
+BPLIIOBE_00499	CDS			hypothetical protein
+BPLIIOBE_00499	gene			
+BPLIIOBE_00500	CDS			hypothetical protein
+BPLIIOBE_00500	gene			
+BPLIIOBE_00501	CDS			hypothetical protein
+BPLIIOBE_00501	gene			
+BPLIIOBE_00502	CDS			hypothetical protein
+BPLIIOBE_00502	gene			
+BPLIIOBE_00503	CDS	zipA		Cell division protein ZipA
+BPLIIOBE_00503	gene	zipA		
+BPLIIOBE_00504	CDS			hypothetical protein
+BPLIIOBE_00504	gene			
+BPLIIOBE_00505	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+BPLIIOBE_00505	gene	glyA		
+BPLIIOBE_00506	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+BPLIIOBE_00506	gene	lysS		
+BPLIIOBE_00507	CDS			hypothetical protein
+BPLIIOBE_00507	gene			
+BPLIIOBE_00508	CDS	lnt	2.3.1.-	Apolipoprotein N-acyltransferase
+BPLIIOBE_00508	gene	lnt		
+BPLIIOBE_00509	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+BPLIIOBE_00509	gene	lolD		
+BPLIIOBE_00510	CDS	pseI	2.5.1.97	Pseudaminic acid synthase
+BPLIIOBE_00510	gene	pseI		
+BPLIIOBE_00511	CDS	efp		Elongation factor P
+BPLIIOBE_00511	gene	efp		
+BPLIIOBE_00512	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+BPLIIOBE_00512	gene	fba		
+BPLIIOBE_00513	CDS		5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+BPLIIOBE_00513	gene			
+BPLIIOBE_00514	CDS			hypothetical protein
+BPLIIOBE_00514	gene			
+BPLIIOBE_00515	CDS			hypothetical protein
+BPLIIOBE_00515	gene			
+BPLIIOBE_00516	CDS	moeA	2.10.1.1	Molybdopterin molybdenumtransferase
+BPLIIOBE_00516	gene	moeA		
+BPLIIOBE_00517	CDS	prfB		Peptide chain release factor RF2
+BPLIIOBE_00517	gene	prfB		
+BPLIIOBE_00518	CDS			hypothetical protein
+BPLIIOBE_00518	gene			
+BPLIIOBE_00519	CDS	ydcP	3.4.-.-	putative protease YdcP
+BPLIIOBE_00519	gene	ydcP		
+BPLIIOBE_00520	CDS			hypothetical protein
+BPLIIOBE_00520	gene			
+BPLIIOBE_00521	CDS			hypothetical protein
+BPLIIOBE_00521	gene			
+BPLIIOBE_00522	CDS	arlR		Response regulator ArlR
+BPLIIOBE_00522	gene	arlR		
+BPLIIOBE_00523	CDS	hssS	2.7.13.3	Heme sensor protein HssS
+BPLIIOBE_00523	gene	hssS		
+BPLIIOBE_00524	CDS	hemB	4.2.1.24	Delta-aminolevulinic acid dehydratase
+BPLIIOBE_00524	gene	hemB		
+BPLIIOBE_00525	CDS			putative transcriptional regulatory protein
+BPLIIOBE_00525	gene			
+BPLIIOBE_00526	CDS	hcpD_2	3.5.2.6	Putative beta-lactamase HcpD
+BPLIIOBE_00526	gene	hcpD_2		
+BPLIIOBE_00527	CDS			hypothetical protein
+BPLIIOBE_00527	gene			
+BPLIIOBE_00528	CDS			hypothetical protein
+BPLIIOBE_00528	gene			
+BPLIIOBE_00529	CDS	aroK	2.7.1.71	Shikimate kinase
+BPLIIOBE_00529	gene	aroK		
+BPLIIOBE_00530	CDS			hypothetical protein
+BPLIIOBE_00530	gene			
+BPLIIOBE_00531	CDS			hypothetical protein
+BPLIIOBE_00531	gene			
+BPLIIOBE_00532	CDS	eno	4.2.1.11	Enolase
+BPLIIOBE_00532	gene	eno		
+BPLIIOBE_00533	CDS	recA		Protein RecA
+BPLIIOBE_00533	gene	recA		
+BPLIIOBE_00534	CDS	mqnD	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+BPLIIOBE_00534	gene	mqnD		
+BPLIIOBE_00535	CDS			hypothetical protein
+BPLIIOBE_00535	gene			
+BPLIIOBE_00536	CDS			hypothetical protein
+BPLIIOBE_00536	gene			
+BPLIIOBE_00537	CDS			hypothetical protein
+BPLIIOBE_00537	gene			
+BPLIIOBE_00538	CDS			hypothetical protein
+BPLIIOBE_00538	gene			
+BPLIIOBE_00539	CDS			hypothetical protein
+BPLIIOBE_00539	gene			
+BPLIIOBE_00540	CDS	ccoP		Cbb3-type cytochrome c oxidase subunit CcoP
+BPLIIOBE_00540	gene	ccoP		
+BPLIIOBE_00541	CDS			hypothetical protein
+BPLIIOBE_00541	gene			
+BPLIIOBE_00542	CDS			hypothetical protein
+BPLIIOBE_00542	gene			
+BPLIIOBE_00543	CDS	ccoN1	1.9.3.1	Cbb3-type cytochrome c oxidase subunit CcoN1
+BPLIIOBE_00543	gene	ccoN1		
+BPLIIOBE_00544	CDS	citT_1		Citrate carrier
+BPLIIOBE_00544	gene	citT_1		
+BPLIIOBE_00545	CDS	citT_2		Citrate carrier
+BPLIIOBE_00545	gene	citT_2		
+BPLIIOBE_00546	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+BPLIIOBE_00546	gene	mutY		
+BPLIIOBE_00547	CDS	lldP_1		L-lactate permease
+BPLIIOBE_00547	gene	lldP_1		
+BPLIIOBE_00548	CDS	lldP_2		L-lactate permease
+BPLIIOBE_00548	gene	lldP_2		
+BPLIIOBE_00549	CDS	lutA		Lactate utilization protein A
+BPLIIOBE_00549	gene	lutA		
+BPLIIOBE_00550	CDS	lutB		Lactate utilization protein B
+BPLIIOBE_00550	gene	lutB		
+BPLIIOBE_00551	CDS	lutC		Lactate utilization protein C
+BPLIIOBE_00551	gene	lutC		
+BPLIIOBE_00552	CDS	bcp	1.11.1.15	Putative peroxiredoxin bcp
+BPLIIOBE_00552	gene	bcp		
+BPLIIOBE_00553	CDS			hypothetical protein
+BPLIIOBE_00553	gene			
+BPLIIOBE_00554	CDS	aroH	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+BPLIIOBE_00554	gene	aroH		
+BPLIIOBE_00555	CDS	sdaC		Serine transporter
+BPLIIOBE_00555	gene	sdaC		
+BPLIIOBE_00556	CDS	sdaA	4.3.1.17	L-serine dehydratase 1
+BPLIIOBE_00556	gene	sdaA		
+BPLIIOBE_00557	CDS			hypothetical protein
+BPLIIOBE_00557	gene			
+BPLIIOBE_00558	CDS			hypothetical protein
+BPLIIOBE_00558	gene			
+BPLIIOBE_00559	CDS			hypothetical protein
+BPLIIOBE_00559	gene			
+BPLIIOBE_00560	CDS	rplT		50S ribosomal protein L20
+BPLIIOBE_00560	gene	rplT		
+BPLIIOBE_00561	CDS	rpmI		50S ribosomal protein L35
+BPLIIOBE_00561	gene	rpmI		
+BPLIIOBE_00562	CDS	infC		Translation initiation factor IF-3
+BPLIIOBE_00562	gene	infC		
+BPLIIOBE_00563	CDS	thrZ	6.1.1.3	Threonine--tRNA ligase 2
+BPLIIOBE_00563	gene	thrZ		
+BPLIIOBE_00564	CDS	ppsA	2.7.9.2	Phosphoenolpyruvate synthase
+BPLIIOBE_00564	gene	ppsA		
+BPLIIOBE_00565	CDS			hypothetical protein
+BPLIIOBE_00565	gene			
+BPLIIOBE_00566	CDS	vapD_1	3.1.-.-	Endoribonuclease VapD
+BPLIIOBE_00566	gene	vapD_1		
+BPLIIOBE_00567	CDS			hypothetical protein
+BPLIIOBE_00567	gene			
+BPLIIOBE_00568	CDS	yjiA		putative GTP-binding protein YjiA
+BPLIIOBE_00568	gene	yjiA		
+BPLIIOBE_00569	CDS			hypothetical protein
+BPLIIOBE_00569	gene			
+BPLIIOBE_00570	CDS	pgdA	3.5.1.-	Peptidoglycan deacetylase
+BPLIIOBE_00570	gene	pgdA		
+BPLIIOBE_00571	CDS		3.5.1.111	2-oxoglutaramate amidase
+BPLIIOBE_00571	gene			
+BPLIIOBE_00572	CDS			hypothetical protein
+BPLIIOBE_00572	gene			
+BPLIIOBE_00573	CDS			hypothetical protein
+BPLIIOBE_00573	gene			
+BPLIIOBE_00574	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+BPLIIOBE_00574	gene	hemL		
+BPLIIOBE_00575	CDS			hypothetical protein
+BPLIIOBE_00575	gene			
+BPLIIOBE_00576	CDS			hypothetical protein
+BPLIIOBE_00576	gene			
+BPLIIOBE_00577	CDS	obg	3.6.5.-	GTPase Obg
+BPLIIOBE_00577	gene	obg		
+BPLIIOBE_00578	CDS	oppF		Oligopeptide transport ATP-binding protein OppF
+BPLIIOBE_00578	gene	oppF		
+BPLIIOBE_00579	CDS	oppD		Oligopeptide transport ATP-binding protein OppD
+BPLIIOBE_00579	gene	oppD		
+BPLIIOBE_00580	CDS	dppC		Dipeptide transport system permease protein DppC
+BPLIIOBE_00580	gene	dppC		
+BPLIIOBE_00581	CDS	dppB		Dipeptide transport system permease protein DppB
+BPLIIOBE_00581	gene	dppB		
+BPLIIOBE_00582	CDS	hbpA		Heme-binding protein A
+BPLIIOBE_00582	gene	hbpA		
+BPLIIOBE_00583	CDS	rpmA		50S ribosomal protein L27
+BPLIIOBE_00583	gene	rpmA		
+BPLIIOBE_00584	CDS	rplU		50S ribosomal protein L21
+BPLIIOBE_00584	gene	rplU		
+BPLIIOBE_00585	CDS	flgL		Flagellar hook-associated protein 3
+BPLIIOBE_00585	gene	flgL		
+BPLIIOBE_00586	CDS	amiE	3.5.1.4	Aliphatic amidase
+BPLIIOBE_00586	gene	amiE		
+BPLIIOBE_00587	CDS	pabB	2.6.1.85	Aminodeoxychorismate synthase component 1
+BPLIIOBE_00587	gene	pabB		
+BPLIIOBE_00588	CDS			hypothetical protein
+BPLIIOBE_00588	gene			
+BPLIIOBE_00589	CDS	tyrA_1		T-protein
+BPLIIOBE_00589	gene	tyrA_1		
+BPLIIOBE_00590	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+BPLIIOBE_00590	gene	lysA		
+BPLIIOBE_00591	CDS	vacA_3		Vacuolating cytotoxin autotransporter
+BPLIIOBE_00591	gene	vacA_3		
+BPLIIOBE_00592	CDS			hypothetical protein
+BPLIIOBE_00592	gene			
+BPLIIOBE_00593	CDS			hypothetical protein
+BPLIIOBE_00593	gene			
+BPLIIOBE_00594	CDS	ftsH_1	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+BPLIIOBE_00594	gene	ftsH_1		
+BPLIIOBE_00595	CDS	mtaB	2.8.4.5	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+BPLIIOBE_00595	gene	mtaB		
+BPLIIOBE_00596	CDS			hypothetical protein
+BPLIIOBE_00596	gene			
+BPLIIOBE_00597	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+BPLIIOBE_00597	gene	aroB		
+BPLIIOBE_00598	CDS			hypothetical protein
+BPLIIOBE_00598	gene			
+BPLIIOBE_00599	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+BPLIIOBE_00599	gene	tgt		
+BPLIIOBE_00600	CDS	lpxP	2.3.1.242	Lipid A biosynthesis palmitoleoyltransferase
+BPLIIOBE_00600	gene	lpxP		
+BPLIIOBE_00601	CDS	rfaC	2.-.-.-	Lipopolysaccharide heptosyltransferase 1
+BPLIIOBE_00601	gene	rfaC		
+BPLIIOBE_00602	CDS	gppA	3.6.1.40	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+BPLIIOBE_00602	gene	gppA		
+BPLIIOBE_00603	CDS	fdx		Ferredoxin
+BPLIIOBE_00603	gene	fdx		
+BPLIIOBE_00604	CDS			hypothetical protein
+BPLIIOBE_00604	gene			
+BPLIIOBE_00605	CDS			hypothetical protein
+BPLIIOBE_00605	gene			
+BPLIIOBE_00606	CDS			hypothetical protein
+BPLIIOBE_00606	gene			
+BPLIIOBE_00607	CDS			hypothetical protein
+BPLIIOBE_00607	gene			
+BPLIIOBE_00608	CDS			hypothetical protein
+BPLIIOBE_00608	gene			
+BPLIIOBE_00609	CDS			hypothetical protein
+BPLIIOBE_00609	gene			
+BPLIIOBE_00610	CDS			hypothetical protein
+BPLIIOBE_00610	gene			
+BPLIIOBE_00611	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+BPLIIOBE_00611	gene	miaB		
+BPLIIOBE_00612	CDS			hypothetical protein
+BPLIIOBE_00612	gene			
+BPLIIOBE_00613	CDS		3.5.4.4	Adenosine deaminase
+BPLIIOBE_00613	gene			
+BPLIIOBE_00614	CDS	pyrC_2	3.5.2.3	Dihydroorotase
+BPLIIOBE_00614	gene	pyrC_2		
+BPLIIOBE_00615	CDS	dsbD	1.8.1.8	Thiol:disulfide interchange protein DsbD
+BPLIIOBE_00615	gene	dsbD		
+BPLIIOBE_00616	CDS	clpB		Chaperone protein ClpB
+BPLIIOBE_00616	gene	clpB		
+BPLIIOBE_00617	CDS	dpnA_3	2.1.1.72	Modification methylase DpnIIB
+BPLIIOBE_00617	gene	dpnA_3		
+BPLIIOBE_00618	CDS			hypothetical protein
+BPLIIOBE_00618	gene			
+BPLIIOBE_00619	CDS			hypothetical protein
+BPLIIOBE_00619	gene			
+BPLIIOBE_00620	CDS			hypothetical protein
+BPLIIOBE_00620	gene			
+BPLIIOBE_00621	CDS	xseA_1	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+BPLIIOBE_00621	gene	xseA_1		
+BPLIIOBE_00622	CDS	mmpA	3.4.24.-	Metalloprotease MmpA
+BPLIIOBE_00622	gene	mmpA		
+BPLIIOBE_00623	CDS			hypothetical protein
+BPLIIOBE_00623	gene			
+BPLIIOBE_00624	CDS			hypothetical protein
+BPLIIOBE_00624	gene			
+BPLIIOBE_00625	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+BPLIIOBE_00625	gene	purA		
+BPLIIOBE_00626	CDS			hypothetical protein
+BPLIIOBE_00626	gene			
+BPLIIOBE_00627	CDS			hypothetical protein
+BPLIIOBE_00627	gene			
+BPLIIOBE_00628	tRNA			tRNA-Ala(ggc)
+BPLIIOBE_00628	gene			
+BPLIIOBE_00629	CDS	yejE		Inner membrane ABC transporter permease protein YejE
+BPLIIOBE_00629	gene	yejE		
+BPLIIOBE_00630	CDS	gsiA	3.6.3.-	Glutathione import ATP-binding protein GsiA
+BPLIIOBE_00630	gene	gsiA		
+BPLIIOBE_00631	CDS			hypothetical protein
+BPLIIOBE_00631	gene			
+BPLIIOBE_00632	CDS	hflC		Modulator of FtsH protease HflC
+BPLIIOBE_00632	gene	hflC		
+BPLIIOBE_00633	CDS	rhpA	3.6.4.13	DEAD-box ATP-dependent RNA helicase RhpA
+BPLIIOBE_00633	gene	rhpA		
+BPLIIOBE_00634	CDS	flgI		Flagellar P-ring protein
+BPLIIOBE_00634	gene	flgI		
+BPLIIOBE_00635	CDS			hypothetical protein
+BPLIIOBE_00635	gene			
+BPLIIOBE_00636	CDS	zraS	2.7.13.3	Sensor protein ZraS
+BPLIIOBE_00636	gene	zraS		
+BPLIIOBE_00637	CDS	dps	1.16.-.-	DNA protection during starvation protein
+BPLIIOBE_00637	gene	dps		
+BPLIIOBE_00638	CDS			hypothetical protein
+BPLIIOBE_00638	gene			
+BPLIIOBE_00639	CDS			hypothetical protein
+BPLIIOBE_00639	gene			
+BPLIIOBE_00640	CDS	ispB	2.5.1.90	Octaprenyl diphosphate synthase
+BPLIIOBE_00640	gene	ispB		
+BPLIIOBE_00641	CDS	hemA	1.2.1.70	Glutamyl-tRNA reductase
+BPLIIOBE_00641	gene	hemA		
+BPLIIOBE_00642	CDS	proS	6.1.1.15	Proline--tRNA ligase
+BPLIIOBE_00642	gene	proS		
+BPLIIOBE_00643	CDS	hemC	2.5.1.61	Porphobilinogen deaminase
+BPLIIOBE_00643	gene	hemC		
+BPLIIOBE_00644	CDS			hypothetical protein
+BPLIIOBE_00644	gene			
+BPLIIOBE_00645	CDS	hcpC_1	3.5.2.6	Putative beta-lactamase HcpC
+BPLIIOBE_00645	gene	hcpC_1		
+BPLIIOBE_00646	CDS			hypothetical protein
+BPLIIOBE_00646	gene			
+BPLIIOBE_00647	CDS	ygiC	6.3.1.-	Putative acid--amine ligase YgiC
+BPLIIOBE_00647	gene	ygiC		
+BPLIIOBE_00648	CDS			hypothetical protein
+BPLIIOBE_00648	gene			
+BPLIIOBE_00649	CDS			hypothetical protein
+BPLIIOBE_00649	gene			
+BPLIIOBE_00650	CDS	kdsB	2.7.7.38	3-deoxy-manno-octulosonate cytidylyltransferase
+BPLIIOBE_00650	gene	kdsB		
+BPLIIOBE_00651	CDS			hypothetical protein
+BPLIIOBE_00651	gene			
+BPLIIOBE_00652	tRNA			tRNA-Asn(gtt)
+BPLIIOBE_00652	gene			
+BPLIIOBE_00653	CDS	bicA		Bicarbonate transporter BicA
+BPLIIOBE_00653	gene	bicA		
+BPLIIOBE_00654	CDS	flgG_2		Flagellar basal-body rod protein FlgG
+BPLIIOBE_00654	gene	flgG_2		
+BPLIIOBE_00655	CDS	kgtP		Alpha-ketoglutarate permease
+BPLIIOBE_00655	gene	kgtP		
+BPLIIOBE_00656	CDS	spoIIIE		DNA translocase SpoIIIE
+BPLIIOBE_00656	gene	spoIIIE		
+BPLIIOBE_00657	CDS			hypothetical protein
+BPLIIOBE_00657	gene			
+BPLIIOBE_00658	CDS	tkt	2.2.1.1	Transketolase
+BPLIIOBE_00658	gene	tkt		
+BPLIIOBE_00659	CDS	ribF		Riboflavin biosynthesis protein RibF
+BPLIIOBE_00659	gene	ribF		
+BPLIIOBE_00660	CDS	tlyA	2.1.1.226	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+BPLIIOBE_00660	gene	tlyA		
+BPLIIOBE_00661	CDS			hypothetical protein
+BPLIIOBE_00661	gene			
+BPLIIOBE_00662	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+BPLIIOBE_00662	gene	pyrB		
+BPLIIOBE_00663	CDS			hypothetical protein
+BPLIIOBE_00663	gene			
+BPLIIOBE_00664	CDS	msbA	3.6.3.-	Lipid A export ATP-binding/permease protein MsbA
+BPLIIOBE_00664	gene	msbA		
+BPLIIOBE_00665	CDS			hypothetical protein
+BPLIIOBE_00665	gene			
+BPLIIOBE_00666	CDS			hypothetical protein
+BPLIIOBE_00666	gene			
+BPLIIOBE_00667	CDS		3.6.1.-	ATP/GTP phosphatase
+BPLIIOBE_00667	gene			
+BPLIIOBE_00668	CDS			hypothetical protein
+BPLIIOBE_00668	gene			
+BPLIIOBE_00669	CDS	nixA		High-affinity nickel-transport protein NixA
+BPLIIOBE_00669	gene	nixA		
+BPLIIOBE_00670	CDS			hypothetical protein
+BPLIIOBE_00670	gene			
+BPLIIOBE_00671	CDS			hypothetical protein
+BPLIIOBE_00671	gene			
+BPLIIOBE_00672	CDS			hypothetical protein
+BPLIIOBE_00672	gene			
+BPLIIOBE_00673	CDS	copP		COP-associated protein
+BPLIIOBE_00673	gene	copP		
+BPLIIOBE_00674	CDS	copA_1	3.6.3.54	Copper-exporting P-type ATPase A
+BPLIIOBE_00674	gene	copA_1		
+BPLIIOBE_00675	CDS	pcs	2.7.8.24	Phosphatidylcholine synthase
+BPLIIOBE_00675	gene	pcs		
+BPLIIOBE_00676	CDS	ftsH_2	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+BPLIIOBE_00676	gene	ftsH_2		
+BPLIIOBE_00677	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+BPLIIOBE_00677	gene	prmA		
+BPLIIOBE_00678	CDS	cheY		Chemotaxis protein CheY 
+BPLIIOBE_00678	gene	cheY		
+BPLIIOBE_00679	CDS			hypothetical protein
+BPLIIOBE_00679	gene			
+BPLIIOBE_00680	tRNA			tRNA-Ser(gga)
+BPLIIOBE_00680	gene			
+BPLIIOBE_00681	CDS			hypothetical protein
+BPLIIOBE_00681	gene			
+BPLIIOBE_00682	CDS			hypothetical protein
+BPLIIOBE_00682	gene			
+BPLIIOBE_00683	CDS	rsmG	2.1.1.170	Ribosomal RNA small subunit methyltransferase G
+BPLIIOBE_00683	gene	rsmG		
+BPLIIOBE_00684	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+BPLIIOBE_00684	gene	queA		
+BPLIIOBE_00685	CDS	tatC		Sec-independent protein translocase protein TatC
+BPLIIOBE_00685	gene	tatC		
+BPLIIOBE_00686	CDS	tatB		Sec-independent protein translocase protein TatB
+BPLIIOBE_00686	gene	tatB		
+BPLIIOBE_00687	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+BPLIIOBE_00687	gene	ruvB		
+BPLIIOBE_00688	CDS	panB	2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase
+BPLIIOBE_00688	gene	panB		
+BPLIIOBE_00689	CDS			hypothetical protein
+BPLIIOBE_00689	gene			
+BPLIIOBE_00690	CDS			hypothetical protein
+BPLIIOBE_00690	gene			
+BPLIIOBE_00691	CDS			hypothetical protein
+BPLIIOBE_00691	gene			
+BPLIIOBE_00692	CDS			hypothetical protein
+BPLIIOBE_00692	gene			
+BPLIIOBE_00693	CDS	minC		putative septum site-determining protein MinC
+BPLIIOBE_00693	gene	minC		
+BPLIIOBE_00694	CDS	lpxC	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+BPLIIOBE_00694	gene	lpxC		
+BPLIIOBE_00695	CDS			hypothetical protein
+BPLIIOBE_00695	gene			
+BPLIIOBE_00696	CDS	thrB	2.7.1.39	Homoserine kinase
+BPLIIOBE_00696	gene	thrB		
+BPLIIOBE_00697	CDS			hypothetical protein
+BPLIIOBE_00697	gene			
+BPLIIOBE_00698	CDS	infB		Translation initiation factor IF-2
+BPLIIOBE_00698	gene	infB		
+BPLIIOBE_00699	CDS	rbfA		Ribosome-binding factor A
+BPLIIOBE_00699	gene	rbfA		
+BPLIIOBE_00700	CDS	rimP		Ribosome maturation factor RimP
+BPLIIOBE_00700	gene	rimP		
+BPLIIOBE_00701	CDS	acsA	6.2.1.1	Acetyl-coenzyme A synthetase
+BPLIIOBE_00701	gene	acsA		
+BPLIIOBE_00702	CDS	cpdA	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+BPLIIOBE_00702	gene	cpdA		
+BPLIIOBE_00703	CDS	cusR		Transcriptional regulatory protein CusR
+BPLIIOBE_00703	gene	cusR		
+BPLIIOBE_00704	CDS		3.1.4.17	3',5'-cyclic-nucleotide phosphodiesterase
+BPLIIOBE_00704	gene			
+BPLIIOBE_00705	CDS	flhA		Flagellar biosynthesis protein FlhA
+BPLIIOBE_00705	gene	flhA		
+BPLIIOBE_00706	CDS	rpsO		30S ribosomal protein S15
+BPLIIOBE_00706	gene	rpsO		
+BPLIIOBE_00707	CDS			hypothetical protein
+BPLIIOBE_00707	gene			
+BPLIIOBE_00708	CDS	aroQ	4.2.1.10	3-dehydroquinate dehydratase
+BPLIIOBE_00708	gene	aroQ		
+BPLIIOBE_00709	CDS		3.4.11.-	Aminopeptidase
+BPLIIOBE_00709	gene			
+BPLIIOBE_00710	CDS	folK	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+BPLIIOBE_00710	gene	folK		
+BPLIIOBE_00711	CDS	flhF		Flagellar biosynthesis protein FlhF
+BPLIIOBE_00711	gene	flhF		
+BPLIIOBE_00712	CDS	ylxH		Flagellum site-determining protein YlxH
+BPLIIOBE_00712	gene	ylxH		
+BPLIIOBE_00713	CDS			hypothetical protein
+BPLIIOBE_00713	gene			
+BPLIIOBE_00714	CDS	fliA		RNA polymerase sigma factor FliA
+BPLIIOBE_00714	gene	fliA		
+BPLIIOBE_00715	CDS	fliM		Flagellar motor switch protein FliM
+BPLIIOBE_00715	gene	fliM		
+BPLIIOBE_00716	CDS	fliN_2		Flagellar motor switch protein FliN
+BPLIIOBE_00716	gene	fliN_2		
+BPLIIOBE_00717	CDS			hypothetical protein
+BPLIIOBE_00717	gene			
+BPLIIOBE_00718	CDS			hypothetical protein
+BPLIIOBE_00718	gene			
+BPLIIOBE_00719	CDS	fur		Ferric uptake regulation protein
+BPLIIOBE_00719	gene	fur		
+BPLIIOBE_00720	CDS			putative AAA domain-containing protein
+BPLIIOBE_00720	gene			
+BPLIIOBE_00721	CDS	hspR		Putative heat shock protein HspR
+BPLIIOBE_00721	gene	hspR		
+BPLIIOBE_00722	CDS	cbpA		Curved DNA-binding protein
+BPLIIOBE_00722	gene	cbpA		
+BPLIIOBE_00723	CDS			hypothetical protein
+BPLIIOBE_00723	gene			
+BPLIIOBE_00724	CDS	xni	3.1.-.-	Flap endonuclease Xni
+BPLIIOBE_00724	gene	xni		
+BPLIIOBE_00725	CDS			hypothetical protein
+BPLIIOBE_00725	gene			
+BPLIIOBE_00726	CDS	ispDF		Bifunctional enzyme IspD/IspF
+BPLIIOBE_00726	gene	ispDF		
+BPLIIOBE_00727	CDS	degP	3.4.21.107	Periplasmic serine endoprotease DegP
+BPLIIOBE_00727	gene	degP		
+BPLIIOBE_00728	CDS	rocE		Amino-acid permease RocE
+BPLIIOBE_00728	gene	rocE		
+BPLIIOBE_00729	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+BPLIIOBE_00729	gene	pgsA		
+BPLIIOBE_00730	CDS			hypothetical protein
+BPLIIOBE_00730	gene			
+BPLIIOBE_00731	CDS	fabL	1.3.1.104	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabL
+BPLIIOBE_00731	gene	fabL		
+BPLIIOBE_00732	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+BPLIIOBE_00732	gene	dapA		
+BPLIIOBE_00733	CDS		3.4.24.-	putative zinc protease
+BPLIIOBE_00733	gene			
+BPLIIOBE_00734	CDS	pyrD_2	1.3.5.2	Dihydroorotate dehydrogenase (quinone)
+BPLIIOBE_00734	gene	pyrD_2		
+BPLIIOBE_00735	CDS	ppk	2.7.4.1	Polyphosphate kinase
+BPLIIOBE_00735	gene	ppk		
+BPLIIOBE_00736	tRNA			tRNA-Pro(ggg)
+BPLIIOBE_00736	gene			
+BPLIIOBE_00737	CDS	ppiB	5.2.1.8	Peptidyl-prolyl cis-trans isomerase B
+BPLIIOBE_00737	gene	ppiB		
+BPLIIOBE_00738	CDS	csrA		Carbon storage regulator 
+BPLIIOBE_00738	gene	csrA		
+BPLIIOBE_00739	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+BPLIIOBE_00739	gene	ispE		
+BPLIIOBE_00740	CDS	smpB		SsrA-binding protein
+BPLIIOBE_00740	gene	smpB		
+BPLIIOBE_00741	CDS	exbB_1		Biopolymer transport protein ExbB
+BPLIIOBE_00741	gene	exbB_1		
+BPLIIOBE_00742	CDS	exbD_1		Biopolymer transport protein ExbD
+BPLIIOBE_00742	gene	exbD_1		
+BPLIIOBE_00743	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+BPLIIOBE_00743	gene	rnpA		
+BPLIIOBE_00744	CDS	yidC		Membrane protein insertase YidC
+BPLIIOBE_00744	gene	yidC		
+BPLIIOBE_00745	CDS			hypothetical protein
+BPLIIOBE_00745	gene			
+BPLIIOBE_00746	CDS	mnmE	3.6.5.-	tRNA modification GTPase MnmE
+BPLIIOBE_00746	gene	mnmE		
+BPLIIOBE_00747	CDS			hypothetical protein
+BPLIIOBE_00747	gene			
+BPLIIOBE_00748	CDS			hypothetical protein
+BPLIIOBE_00748	gene			
+BPLIIOBE_00749	CDS			hypothetical protein
+BPLIIOBE_00749	gene			
+BPLIIOBE_00750	CDS			LPP20 lipoprotein
+BPLIIOBE_00750	gene			
+BPLIIOBE_00751	CDS			hypothetical protein
+BPLIIOBE_00751	gene			
+BPLIIOBE_00752	CDS	trxA_2		Thioredoxin
+BPLIIOBE_00752	gene	trxA_2		
+BPLIIOBE_00753	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+BPLIIOBE_00753	gene	rluB		
+BPLIIOBE_00754	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+BPLIIOBE_00754	gene	dnaE		
+BPLIIOBE_00755	CDS	ccpA	1.11.1.5	Cytochrome c551 peroxidase
+BPLIIOBE_00755	gene	ccpA		
+BPLIIOBE_00756	CDS			hypothetical protein
+BPLIIOBE_00756	gene			
+BPLIIOBE_00757	CDS			hypothetical protein
+BPLIIOBE_00757	gene			
+BPLIIOBE_00758	CDS			hypothetical protein
+BPLIIOBE_00758	gene			
+BPLIIOBE_00759	CDS	metN2	3.6.3.-	Methionine import ATP-binding protein MetN 2
+BPLIIOBE_00759	gene	metN2		
+BPLIIOBE_00760	CDS	mlaE		putative phospholipid ABC transporter permease protein MlaE
+BPLIIOBE_00760	gene	mlaE		
+BPLIIOBE_00761	CDS			hypothetical protein
+BPLIIOBE_00761	gene			
+BPLIIOBE_00762	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid transaminase 1
+BPLIIOBE_00762	gene	ilvE		
+BPLIIOBE_00763	CDS			hypothetical protein
+BPLIIOBE_00763	gene			
+BPLIIOBE_00764	CDS	polA	2.7.7.7	DNA polymerase I, thermostable
+BPLIIOBE_00764	gene	polA		
+BPLIIOBE_00765	CDS			hypothetical protein
+BPLIIOBE_00765	gene			
+BPLIIOBE_00766	CDS	bcgIB	3.1.21.-	Restriction enzyme BgcI subunit beta
+BPLIIOBE_00766	gene	bcgIB		
+BPLIIOBE_00767	CDS	bcgIA	3.1.21.-	Restriction enzyme BgcI subunit alpha
+BPLIIOBE_00767	gene	bcgIA		
+BPLIIOBE_00768	CDS			hypothetical protein
+BPLIIOBE_00768	gene			
+BPLIIOBE_00769	CDS	tmk	2.7.4.9	Thymidylate kinase
+BPLIIOBE_00769	gene	tmk		
+BPLIIOBE_00770	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+BPLIIOBE_00770	gene	coaD		
+BPLIIOBE_00771	CDS	ubiX	2.5.1.129	Flavin prenyltransferase UbiX
+BPLIIOBE_00771	gene	ubiX		
+BPLIIOBE_00772	CDS			hypothetical protein
+BPLIIOBE_00772	gene			
+BPLIIOBE_00773	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+BPLIIOBE_00773	gene	pcrA		
+BPLIIOBE_00774	CDS			hypothetical protein
+BPLIIOBE_00774	gene			
+BPLIIOBE_00775	CDS	serS	6.1.1.11	Serine--tRNA ligase
+BPLIIOBE_00775	gene	serS		
+BPLIIOBE_00776	CDS			hypothetical protein
+BPLIIOBE_00776	gene			
+BPLIIOBE_00777	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+BPLIIOBE_00777	gene	xseB		
+BPLIIOBE_00778	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+BPLIIOBE_00778	gene	menG		
+BPLIIOBE_00779	CDS			hypothetical protein
+BPLIIOBE_00779	gene			
+BPLIIOBE_00780	CDS	yigZ		IMPACT family member YigZ
+BPLIIOBE_00780	gene	yigZ		
+BPLIIOBE_00781	CDS	ybhS		Inner membrane transport permease YbhS
+BPLIIOBE_00781	gene	ybhS		
+BPLIIOBE_00782	CDS			hypothetical protein
+BPLIIOBE_00782	gene			
+BPLIIOBE_00783	CDS	mdtN		Multidrug resistance protein MdtN
+BPLIIOBE_00783	gene	mdtN		
+BPLIIOBE_00784	CDS			hypothetical protein
+BPLIIOBE_00784	gene			
+BPLIIOBE_00785	CDS	corC		Magnesium and cobalt efflux protein CorC
+BPLIIOBE_00785	gene	corC		
+BPLIIOBE_00786	CDS	cysP		Sulfate permease CysP
+BPLIIOBE_00786	gene	cysP		
+BPLIIOBE_00787	CDS	nfuA		Fe/S biogenesis protein NfuA
+BPLIIOBE_00787	gene	nfuA		
+BPLIIOBE_00788	CDS			hypothetical protein
+BPLIIOBE_00788	gene			
+BPLIIOBE_00789	CDS	murE	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+BPLIIOBE_00789	gene	murE		
+BPLIIOBE_00790	CDS	tal	2.2.1.2	Transaldolase
+BPLIIOBE_00790	gene	tal		
+BPLIIOBE_00791	CDS	rplY		50S ribosomal protein L25
+BPLIIOBE_00791	gene	rplY		
+BPLIIOBE_00792	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+BPLIIOBE_00792	gene	pth		
+BPLIIOBE_00793	CDS			hypothetical protein
+BPLIIOBE_00793	gene			
+BPLIIOBE_00794	CDS			hypothetical protein
+BPLIIOBE_00794	gene			
+BPLIIOBE_00795	CDS			hypothetical protein
+BPLIIOBE_00795	gene			
+BPLIIOBE_00796	CDS			hypothetical protein
+BPLIIOBE_00796	gene			
+BPLIIOBE_00797	CDS	copA_2	3.6.3.54	Copper-exporting P-type ATPase A
+BPLIIOBE_00797	gene	copA_2		
+BPLIIOBE_00798	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+BPLIIOBE_00798	gene	yfiC		
+BPLIIOBE_00799	CDS	ribD		Riboflavin biosynthesis protein RibD
+BPLIIOBE_00799	gene	ribD		
+BPLIIOBE_00800	CDS	gltS		Sodium/glutamate symporter
+BPLIIOBE_00800	gene	gltS		
+BPLIIOBE_00801	CDS		1.5.1.43	Carboxynorspermidine synthase
+BPLIIOBE_00801	gene			
+BPLIIOBE_00802	CDS	yccM		Putative electron transport protein YccM
+BPLIIOBE_00802	gene	yccM		
+BPLIIOBE_00803	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+BPLIIOBE_00803	gene	plsY		
+BPLIIOBE_00804	CDS			hypothetical protein
+BPLIIOBE_00804	gene			
+BPLIIOBE_00805	CDS			hypothetical protein
+BPLIIOBE_00805	gene			
+BPLIIOBE_00806	CDS	bhuA_1		Heme transporter BhuA
+BPLIIOBE_00806	gene	bhuA_1		
+BPLIIOBE_00807	CDS	selA	2.9.1.1	L-seryl-tRNA(Sec) selenium transferase
+BPLIIOBE_00807	gene	selA		
+BPLIIOBE_00808	CDS	nusA		Transcription termination/antitermination protein NusA
+BPLIIOBE_00808	gene	nusA		
+BPLIIOBE_00809	CDS			hypothetical protein
+BPLIIOBE_00809	gene			
+BPLIIOBE_00810	CDS	paeR7IM	2.1.1.72	Modification methylase PaeR7I
+BPLIIOBE_00810	gene	paeR7IM		
+BPLIIOBE_00811	CDS			hypothetical protein
+BPLIIOBE_00811	gene			
+BPLIIOBE_00812	CDS			hypothetical protein
+BPLIIOBE_00812	gene			
+BPLIIOBE_00813	CDS			hypothetical protein
+BPLIIOBE_00813	gene			
+BPLIIOBE_00814	CDS			hypothetical protein
+BPLIIOBE_00814	gene			
+BPLIIOBE_00815	CDS	exbD_2		Biopolymer transport protein ExbD
+BPLIIOBE_00815	gene	exbD_2		
+BPLIIOBE_00816	CDS	exbB_2		Biopolymer transport protein ExbB
+BPLIIOBE_00816	gene	exbB_2		
+BPLIIOBE_00817	CDS			Putative nickel-responsive regulator
+BPLIIOBE_00817	gene			
+BPLIIOBE_00818	CDS	nadD	2.7.7.18	putative nicotinate-nucleotide adenylyltransferase
+BPLIIOBE_00818	gene	nadD		
+BPLIIOBE_00819	CDS			hypothetical protein
+BPLIIOBE_00819	gene			
+BPLIIOBE_00820	CDS	mnmA_2	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+BPLIIOBE_00820	gene	mnmA_2		
+BPLIIOBE_00821	CDS			hypothetical protein
+BPLIIOBE_00821	gene			
+BPLIIOBE_00822	CDS			hypothetical protein
+BPLIIOBE_00822	gene			
+BPLIIOBE_00823	CDS	dnaJ		Chaperone protein DnaJ
+BPLIIOBE_00823	gene	dnaJ		
+BPLIIOBE_00824	CDS	ygaZ		Inner membrane protein YgaZ
+BPLIIOBE_00824	gene	ygaZ		
+BPLIIOBE_00825	CDS			hypothetical protein
+BPLIIOBE_00825	gene			
+BPLIIOBE_00826	CDS	cusA		Cation efflux system protein CusA
+BPLIIOBE_00826	gene	cusA		
+BPLIIOBE_00827	CDS	cusB		Cation efflux system protein CusB
+BPLIIOBE_00827	gene	cusB		
+BPLIIOBE_00828	CDS			hypothetical protein
+BPLIIOBE_00828	gene			
+BPLIIOBE_00829	CDS			hypothetical protein
+BPLIIOBE_00829	gene			
+BPLIIOBE_00830	CDS	fumC	4.2.1.2	Fumarate hydratase class II
+BPLIIOBE_00830	gene	fumC		
+BPLIIOBE_00831	CDS			hypothetical protein
+BPLIIOBE_00831	gene			
+BPLIIOBE_00832	CDS	rnhB	3.1.26.4	Ribonuclease HII
+BPLIIOBE_00832	gene	rnhB		
+BPLIIOBE_00833	CDS			hypothetical protein
+BPLIIOBE_00833	gene			
+BPLIIOBE_00834	CDS			hypothetical protein
+BPLIIOBE_00834	gene			
+BPLIIOBE_00835	CDS	rpsJ		30S ribosomal protein S10
+BPLIIOBE_00835	gene	rpsJ		
+BPLIIOBE_00836	CDS	rplC		50S ribosomal protein L3
+BPLIIOBE_00836	gene	rplC		
+BPLIIOBE_00837	CDS	rplD		50S ribosomal protein L4
+BPLIIOBE_00837	gene	rplD		
+BPLIIOBE_00838	CDS	rplW		50S ribosomal protein L23
+BPLIIOBE_00838	gene	rplW		
+BPLIIOBE_00839	CDS	rplB		50S ribosomal protein L2
+BPLIIOBE_00839	gene	rplB		
+BPLIIOBE_00840	CDS	rpsS		30S ribosomal protein S19
+BPLIIOBE_00840	gene	rpsS		
+BPLIIOBE_00841	CDS	rplV		50S ribosomal protein L22
+BPLIIOBE_00841	gene	rplV		
+BPLIIOBE_00842	CDS	rpsC		30S ribosomal protein S3
+BPLIIOBE_00842	gene	rpsC		
+BPLIIOBE_00843	CDS	rplP		50S ribosomal protein L16
+BPLIIOBE_00843	gene	rplP		
+BPLIIOBE_00844	CDS	rpmC		50S ribosomal protein L29
+BPLIIOBE_00844	gene	rpmC		
+BPLIIOBE_00845	CDS	rpsQ		30S ribosomal protein S17
+BPLIIOBE_00845	gene	rpsQ		
+BPLIIOBE_00846	CDS	rplN		50S ribosomal protein L14
+BPLIIOBE_00846	gene	rplN		
+BPLIIOBE_00847	CDS	rplX		50S ribosomal protein L24
+BPLIIOBE_00847	gene	rplX		
+BPLIIOBE_00848	CDS	rplE		50S ribosomal protein L5
+BPLIIOBE_00848	gene	rplE		
+BPLIIOBE_00849	CDS	rpsH		30S ribosomal protein S8
+BPLIIOBE_00849	gene	rpsH		
+BPLIIOBE_00850	CDS	rplF		50S ribosomal protein L6
+BPLIIOBE_00850	gene	rplF		
+BPLIIOBE_00851	CDS	rplR		50S ribosomal protein L18
+BPLIIOBE_00851	gene	rplR		
+BPLIIOBE_00852	CDS	rpsE		30S ribosomal protein S5
+BPLIIOBE_00852	gene	rpsE		
+BPLIIOBE_00853	CDS	rplO		50S ribosomal protein L15
+BPLIIOBE_00853	gene	rplO		
+BPLIIOBE_00854	CDS	secY		Protein translocase subunit SecY
+BPLIIOBE_00854	gene	secY		
+BPLIIOBE_00855	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+BPLIIOBE_00855	gene	map		
+BPLIIOBE_00856	CDS	infA		Translation initiation factor IF-1
+BPLIIOBE_00856	gene	infA		
+BPLIIOBE_00857	CDS	rpmJ		50S ribosomal protein L36
+BPLIIOBE_00857	gene	rpmJ		
+BPLIIOBE_00858	CDS	rpsM		30S ribosomal protein S13
+BPLIIOBE_00858	gene	rpsM		
+BPLIIOBE_00859	CDS	rpsK		30S ribosomal protein S11
+BPLIIOBE_00859	gene	rpsK		
+BPLIIOBE_00860	CDS	rpsD		30S ribosomal protein S4
+BPLIIOBE_00860	gene	rpsD		
+BPLIIOBE_00861	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+BPLIIOBE_00861	gene	rpoA		
+BPLIIOBE_00862	CDS	rplQ		50S ribosomal protein L17
+BPLIIOBE_00862	gene	rplQ		
+BPLIIOBE_00863	CDS			hypothetical protein
+BPLIIOBE_00863	gene			
+BPLIIOBE_00864	CDS	pnuC		Nicotinamide riboside transporter PnuC
+BPLIIOBE_00864	gene	pnuC		
+BPLIIOBE_00865	CDS			hypothetical protein
+BPLIIOBE_00865	gene			
+BPLIIOBE_00866	CDS			hypothetical protein
+BPLIIOBE_00866	gene			
+BPLIIOBE_00867	CDS	tenA	3.5.99.2	Aminopyrimidine aminohydrolase
+BPLIIOBE_00867	gene	tenA		
+BPLIIOBE_00868	CDS	yceI		Protein YceI
+BPLIIOBE_00868	gene	yceI		
+BPLIIOBE_00869	CDS	hel		Lipoprotein E
+BPLIIOBE_00869	gene	hel		
+BPLIIOBE_00870	CDS			hypothetical protein
+BPLIIOBE_00870	gene			
+BPLIIOBE_00871	CDS			hypothetical protein
+BPLIIOBE_00871	gene			
+BPLIIOBE_00872	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+BPLIIOBE_00872	gene	trpE		
+BPLIIOBE_00873	CDS	trpG	4.1.3.27	Anthranilate synthase component 2
+BPLIIOBE_00873	gene	trpG		
+BPLIIOBE_00874	CDS	trpGD		Bifunctional protein TrpGD
+BPLIIOBE_00874	gene	trpGD		
+BPLIIOBE_00875	CDS	trpC		Tryptophan biosynthesis protein TrpCF
+BPLIIOBE_00875	gene	trpC		
+BPLIIOBE_00876	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+BPLIIOBE_00876	gene	trpB		
+BPLIIOBE_00877	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+BPLIIOBE_00877	gene	trpA		
+BPLIIOBE_00878	CDS			hypothetical protein
+BPLIIOBE_00878	gene			
+BPLIIOBE_00879	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+BPLIIOBE_00879	gene	algC		
+BPLIIOBE_00880	CDS			hypothetical protein
+BPLIIOBE_00880	gene			
+BPLIIOBE_00881	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+BPLIIOBE_00881	gene	nuoN		
+BPLIIOBE_00882	CDS	ndhD1	1.6.5.-	NAD(P)H-quinone oxidoreductase chain 4 1
+BPLIIOBE_00882	gene	ndhD1		
+BPLIIOBE_00883	CDS	nuoL	1.6.5.11	NADH-quinone oxidoreductase subunit L
+BPLIIOBE_00883	gene	nuoL		
+BPLIIOBE_00884	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+BPLIIOBE_00884	gene			
+BPLIIOBE_00885	CDS	nuoJ	1.6.5.11	NADH-quinone oxidoreductase subunit J
+BPLIIOBE_00885	gene	nuoJ		
+BPLIIOBE_00886	CDS	nuoI	1.6.5.11	NADH-quinone oxidoreductase subunit I
+BPLIIOBE_00886	gene	nuoI		
+BPLIIOBE_00887	CDS	nqo8	1.6.5.11	NADH-quinone oxidoreductase subunit 8
+BPLIIOBE_00887	gene	nqo8		
+BPLIIOBE_00888	CDS	sfrA	1.-.-.-	NADPH-Fe(3+) oxidoreductase subunit alpha
+BPLIIOBE_00888	gene	sfrA		
+BPLIIOBE_00889	CDS			hypothetical protein
+BPLIIOBE_00889	gene			
+BPLIIOBE_00890	CDS			hypothetical protein
+BPLIIOBE_00890	gene			
+BPLIIOBE_00891	CDS	nuoD	1.6.5.11	NADH-quinone oxidoreductase subunit D
+BPLIIOBE_00891	gene	nuoD		
+BPLIIOBE_00892	CDS	ndhJ	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit J
+BPLIIOBE_00892	gene	ndhJ		
+BPLIIOBE_00893	CDS	nqo6	1.6.5.11	NADH-quinone oxidoreductase subunit 6
+BPLIIOBE_00893	gene	nqo6		
+BPLIIOBE_00894	CDS	nuoA	1.6.5.11	NADH-quinone oxidoreductase subunit A
+BPLIIOBE_00894	gene	nuoA		
+BPLIIOBE_00895	CDS	cobB_1	3.5.1.-	NAD-dependent protein deacylase
+BPLIIOBE_00895	gene	cobB_1		
+BPLIIOBE_00896	CDS	cobB_2	3.5.1.-	NAD-dependent protein deacylase
+BPLIIOBE_00896	gene	cobB_2		
+BPLIIOBE_00897	CDS			hypothetical protein
+BPLIIOBE_00897	gene			
+BPLIIOBE_00898	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+BPLIIOBE_00898	gene	pyrE		
+BPLIIOBE_00899	CDS	frr		Ribosome-recycling factor
+BPLIIOBE_00899	gene	frr		
+BPLIIOBE_00900	CDS	secG		putative protein-export membrane protein SecG
+BPLIIOBE_00900	gene	secG		
+BPLIIOBE_00901	CDS	tam	2.1.1.144	Trans-aconitate 2-methyltransferase
+BPLIIOBE_00901	gene	tam		
+BPLIIOBE_00902	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+BPLIIOBE_00902	gene	trpS		
+BPLIIOBE_00903	CDS	dppE		Dipeptide-binding protein DppE
+BPLIIOBE_00903	gene	dppE		
+BPLIIOBE_00904	CDS	yejB		Inner membrane ABC transporter permease protein YejB
+BPLIIOBE_00904	gene	yejB		
+BPLIIOBE_00905	CDS			hypothetical protein
+BPLIIOBE_00905	gene			
+BPLIIOBE_00906	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+BPLIIOBE_00906	gene	aroE		
+BPLIIOBE_00907	CDS	rnr	3.1.13.1	Ribonuclease R
+BPLIIOBE_00907	gene	rnr		
+BPLIIOBE_00908	CDS			hypothetical protein
+BPLIIOBE_00908	gene			
+BPLIIOBE_00909	CDS	rpsF		30S ribosomal protein S6
+BPLIIOBE_00909	gene	rpsF		
+BPLIIOBE_00910	CDS	ssb		Single-stranded DNA-binding protein
+BPLIIOBE_00910	gene	ssb		
+BPLIIOBE_00911	CDS	rpsR		30S ribosomal protein S18
+BPLIIOBE_00911	gene	rpsR		
+BPLIIOBE_00912	CDS	SERB	3.1.3.3	Phosphoserine phosphatase
+BPLIIOBE_00912	gene	SERB		
+BPLIIOBE_00913	CDS	ftnA	1.16.3.2	Bacterial non-heme ferritin
+BPLIIOBE_00913	gene	ftnA		
+BPLIIOBE_00914	CDS	mqnE	2.5.1.120	Aminodeoxyfutalosine synthase
+BPLIIOBE_00914	gene	mqnE		
+BPLIIOBE_00915	CDS	bamA		Outer membrane protein assembly factor BamA
+BPLIIOBE_00915	gene	bamA		
+BPLIIOBE_00916	CDS	mqnC	1.21.98.1	Cyclic dehypoxanthine futalosine synthase
+BPLIIOBE_00916	gene	mqnC		
+BPLIIOBE_00917	CDS		3.4.24.-	putative zinc protease
+BPLIIOBE_00917	gene			
+BPLIIOBE_00918	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+BPLIIOBE_00918	gene	gatB		
+BPLIIOBE_00919	CDS	surA	5.2.1.8	Chaperone SurA
+BPLIIOBE_00919	gene	surA		
+BPLIIOBE_00920	CDS	lapB		Lipopolysaccharide assembly protein B
+BPLIIOBE_00920	gene	lapB		
+BPLIIOBE_00921	CDS	rnhA	3.1.26.4	Ribonuclease HI
+BPLIIOBE_00921	gene	rnhA		
+BPLIIOBE_00922	CDS	rnc	3.1.26.3	Ribonuclease 3
+BPLIIOBE_00922	gene	rnc		
+BPLIIOBE_00923	CDS	aroC	4.2.3.5	Chorismate synthase
+BPLIIOBE_00923	gene	aroC		
+BPLIIOBE_00924	CDS			hypothetical protein
+BPLIIOBE_00924	gene			
+BPLIIOBE_00925	CDS	hemN_1	1.3.98.3	Oxygen-independent coproporphyrinogen III oxidase
+BPLIIOBE_00925	gene	hemN_1		
+BPLIIOBE_00926	CDS	glpC		Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+BPLIIOBE_00926	gene	glpC		
+BPLIIOBE_00927	CDS			hypothetical protein
+BPLIIOBE_00927	gene			
+BPLIIOBE_00928	CDS			hypothetical protein
+BPLIIOBE_00928	gene			
+BPLIIOBE_00929	CDS			hypothetical protein
+BPLIIOBE_00929	gene			
+BPLIIOBE_00930	CDS			hypothetical protein
+BPLIIOBE_00930	gene			
+BPLIIOBE_00931	CDS			hypothetical protein
+BPLIIOBE_00931	gene			
+BPLIIOBE_00932	CDS		2.6.1.1	Aspartate aminotransferase
+BPLIIOBE_00932	gene			
+BPLIIOBE_00933	CDS			hypothetical protein
+BPLIIOBE_00933	gene			
+BPLIIOBE_00934	CDS			hypothetical protein
+BPLIIOBE_00934	gene			
+BPLIIOBE_00935	CDS	xerH_1		Tyrosine recombinase XerH
+BPLIIOBE_00935	gene	xerH_1		
+BPLIIOBE_00936	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+BPLIIOBE_00936	gene	ogt		
+BPLIIOBE_00937	CDS			hypothetical protein
+BPLIIOBE_00937	gene			
+BPLIIOBE_00938	CDS	wbpB	1.1.1.335	UDP-N-acetyl-2-amino-2-deoxy-D-glucuronate oxidase
+BPLIIOBE_00938	gene	wbpB		
+BPLIIOBE_00939	CDS	nrdA	1.17.4.1	Ribonucleoside-diphosphate reductase 1 subunit alpha
+BPLIIOBE_00939	gene	nrdA		
+BPLIIOBE_00940	CDS			hypothetical protein
+BPLIIOBE_00940	gene			
+BPLIIOBE_00941	CDS			hypothetical protein
+BPLIIOBE_00941	gene			
+BPLIIOBE_00942	CDS	glmU		Bifunctional protein GlmU
+BPLIIOBE_00942	gene	glmU		
+BPLIIOBE_00943	CDS	fliP_1		Flagellar biosynthetic protein FliP
+BPLIIOBE_00943	gene	fliP_1		
+BPLIIOBE_00944	CDS	fliP_2		Flagellar biosynthetic protein FliP
+BPLIIOBE_00944	gene	fliP_2		
+BPLIIOBE_00945	CDS	fecA_2		Fe(3+) dicitrate transport protein FecA
+BPLIIOBE_00945	gene	fecA_2		
+BPLIIOBE_00946	CDS	feoB		Fe(2+) transporter FeoB
+BPLIIOBE_00946	gene	feoB		
+BPLIIOBE_00947	CDS			hypothetical protein
+BPLIIOBE_00947	gene			
+BPLIIOBE_00948	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+BPLIIOBE_00948	gene	thlA		
+BPLIIOBE_00949	CDS	scoA	2.8.3.5	Succinyl-CoA:3-ketoacid coenzyme A transferase subunit A
+BPLIIOBE_00949	gene	scoA		
+BPLIIOBE_00950	CDS	scoB	2.8.3.5	Succinyl-CoA:3-ketoacid coenzyme A transferase subunit B
+BPLIIOBE_00950	gene	scoB		
+BPLIIOBE_00951	CDS	atoE		Putative short-chain fatty acid transporter
+BPLIIOBE_00951	gene	atoE		
+BPLIIOBE_00952	CDS			hypothetical protein
+BPLIIOBE_00952	gene			
+BPLIIOBE_00953	CDS	acxA	6.4.1.6	Acetone carboxylase beta subunit
+BPLIIOBE_00953	gene	acxA		
+BPLIIOBE_00954	CDS	acxB_1	6.4.1.6	Acetone carboxylase alpha subunit
+BPLIIOBE_00954	gene	acxB_1		
+BPLIIOBE_00955	CDS	acxB_2	6.4.1.6	Acetone carboxylase alpha subunit
+BPLIIOBE_00955	gene	acxB_2		
+BPLIIOBE_00956	CDS	acxC	6.4.1.6	Acetone carboxylase gamma subunit
+BPLIIOBE_00956	gene	acxC		
+BPLIIOBE_00957	CDS			hypothetical protein
+BPLIIOBE_00957	gene			
+BPLIIOBE_00958	CDS	dgkA	2.7.1.107	Diacylglycerol kinase
+BPLIIOBE_00958	gene	dgkA		
+BPLIIOBE_00959	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+BPLIIOBE_00959	gene	gyrA		
+BPLIIOBE_00960	CDS			hypothetical protein
+BPLIIOBE_00960	gene			
+BPLIIOBE_00961	CDS	glrR		Transcriptional regulatory protein GlrR
+BPLIIOBE_00961	gene	glrR		
+BPLIIOBE_00962	CDS	uvrA		UvrABC system protein A
+BPLIIOBE_00962	gene	uvrA		
+BPLIIOBE_00963	CDS			hypothetical protein
+BPLIIOBE_00963	gene			
+BPLIIOBE_00964	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+BPLIIOBE_00964	gene	rsmH		
+BPLIIOBE_00965	CDS			hypothetical protein
+BPLIIOBE_00965	gene			
+BPLIIOBE_00966	CDS	salL	2.5.1.94	Adenosyl-chloride synthase
+BPLIIOBE_00966	gene	salL		
+BPLIIOBE_00967	CDS			hypothetical protein
+BPLIIOBE_00967	gene			
+BPLIIOBE_00968	CDS	yfbR	3.1.3.89	5'-deoxynucleotidase YfbR
+BPLIIOBE_00968	gene	yfbR		
+BPLIIOBE_00969	CDS			hypothetical protein
+BPLIIOBE_00969	gene			
+BPLIIOBE_00970	CDS			hypothetical protein
+BPLIIOBE_00970	gene			
+BPLIIOBE_00971	CDS	rpoN		RNA polymerase sigma-54 factor
+BPLIIOBE_00971	gene	rpoN		
+BPLIIOBE_00972	CDS	lptB	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+BPLIIOBE_00972	gene	lptB		
+BPLIIOBE_00973	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+BPLIIOBE_00973	gene	tsaE		
+BPLIIOBE_00974	CDS	dnaX	2.7.7.7	DNA polymerase III subunit tau
+BPLIIOBE_00974	gene	dnaX		
+BPLIIOBE_00975	CDS	argO		Arginine exporter protein ArgO
+BPLIIOBE_00975	gene	argO		
+BPLIIOBE_00976	CDS			hypothetical protein
+BPLIIOBE_00976	gene			
+BPLIIOBE_00977	CDS			hypothetical protein
+BPLIIOBE_00977	gene			
+BPLIIOBE_00978	CDS			hypothetical protein
+BPLIIOBE_00978	gene			
+BPLIIOBE_00979	CDS	bioB	2.8.1.6	Biotin synthase
+BPLIIOBE_00979	gene	bioB		
+BPLIIOBE_00980	CDS			hypothetical protein
+BPLIIOBE_00980	gene			
+BPLIIOBE_00981	CDS	hsdM	2.1.1.72	Type I restriction enzyme EcoKI M protein
+BPLIIOBE_00981	gene	hsdM		
+BPLIIOBE_00982	CDS	hsdR_2	3.1.21.3	Type-1 restriction enzyme R protein
+BPLIIOBE_00982	gene	hsdR_2		
+BPLIIOBE_00983	CDS			hypothetical protein
+BPLIIOBE_00983	gene			
+BPLIIOBE_00984	CDS	fecA_3		Fe(3+) dicitrate transport protein FecA
+BPLIIOBE_00984	gene	fecA_3		
+BPLIIOBE_00985	CDS	rocF	3.5.3.1	Arginase
+BPLIIOBE_00985	gene	rocF		
+BPLIIOBE_00986	CDS	ald	1.4.1.1	Alanine dehydrogenase
+BPLIIOBE_00986	gene	ald		
+BPLIIOBE_00987	CDS			hypothetical protein
+BPLIIOBE_00987	gene			
+BPLIIOBE_00988	CDS			hypothetical protein
+BPLIIOBE_00988	gene			
+BPLIIOBE_00989	CDS			hypothetical protein
+BPLIIOBE_00989	gene			
+BPLIIOBE_00990	CDS	nadK	2.7.1.23	NAD kinase
+BPLIIOBE_00990	gene	nadK		
+BPLIIOBE_00991	CDS	recN		DNA repair protein RecN
+BPLIIOBE_00991	gene	recN		
+BPLIIOBE_00992	CDS			hypothetical protein
+BPLIIOBE_00992	gene			
+BPLIIOBE_00993	CDS			hypothetical protein
+BPLIIOBE_00993	gene			
+BPLIIOBE_00994	CDS			hypothetical protein
+BPLIIOBE_00994	gene			
+BPLIIOBE_00995	CDS			hypothetical protein
+BPLIIOBE_00995	gene			
+BPLIIOBE_00996	CDS			hypothetical protein
+BPLIIOBE_00996	gene			
+BPLIIOBE_00997	CDS			hypothetical protein
+BPLIIOBE_00997	gene			
+BPLIIOBE_00998	CDS	polC	2.7.7.7	DNA polymerase III PolC-type
+BPLIIOBE_00998	gene	polC		
+BPLIIOBE_00999	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+BPLIIOBE_00999	gene	rpe		
+BPLIIOBE_01000	CDS	fbp	3.1.3.11	Fructose-1,6-bisphosphatase class 1
+BPLIIOBE_01000	gene	fbp		
+BPLIIOBE_01001	CDS			hypothetical protein
+BPLIIOBE_01001	gene			
+BPLIIOBE_01002	CDS			hypothetical protein
+BPLIIOBE_01002	gene			
+BPLIIOBE_01003	CDS			hypothetical protein
+BPLIIOBE_01003	gene			
+BPLIIOBE_01004	CDS	tyrA_2	1.3.1.12	Prephenate dehydrogenase
+BPLIIOBE_01004	gene	tyrA_2		
+BPLIIOBE_01005	CDS	lon	3.4.21.53	Lon protease
+BPLIIOBE_01005	gene	lon		
+BPLIIOBE_01006	CDS	bamD		Outer membrane protein assembly factor BamD
+BPLIIOBE_01006	gene	bamD		
+BPLIIOBE_01007	CDS	fliW2		Flagellar assembly factor FliW 2
+BPLIIOBE_01007	gene	fliW2		
+BPLIIOBE_01008	CDS	fabZ	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+BPLIIOBE_01008	gene	fabZ		
+BPLIIOBE_01009	CDS	lpxA	2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+BPLIIOBE_01009	gene	lpxA		
+BPLIIOBE_01010	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+BPLIIOBE_01010	gene	clpX		
+BPLIIOBE_01011	CDS	mreB		Rod shape-determining protein MreB
+BPLIIOBE_01011	gene	mreB		
+BPLIIOBE_01012	CDS			hypothetical protein
+BPLIIOBE_01012	gene			
+BPLIIOBE_01013	CDS			hypothetical protein
+BPLIIOBE_01013	gene			
+BPLIIOBE_01014	CDS	dpnA_4	2.1.1.72	Modification methylase DpnIIB
+BPLIIOBE_01014	gene	dpnA_4		
+BPLIIOBE_01015	CDS			hypothetical protein
+BPLIIOBE_01015	gene			
+BPLIIOBE_01016	CDS	rsrIM	2.1.1.72	Modification methylase RsrI
+BPLIIOBE_01016	gene	rsrIM		
+BPLIIOBE_01017	CDS	mboIIM	2.1.1.72	Modification methylase MboII
+BPLIIOBE_01017	gene	mboIIM		
+BPLIIOBE_01018	CDS	mboIIR	3.1.21.4	Type-2 restriction enzyme MboII
+BPLIIOBE_01018	gene	mboIIR		
+BPLIIOBE_01019	CDS	qseB		Transcriptional regulatory protein QseB
+BPLIIOBE_01019	gene	qseB		
+BPLIIOBE_01020	CDS	senX3	2.7.13.3	Signal-transduction histidine kinase senX3
+BPLIIOBE_01020	gene	senX3		
+BPLIIOBE_01021	CDS	nnr		Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+BPLIIOBE_01021	gene	nnr		
+BPLIIOBE_01022	CDS	dnaB	3.6.4.12	Replicative DNA helicase
+BPLIIOBE_01022	gene	dnaB		
+BPLIIOBE_01023	CDS			hypothetical protein
+BPLIIOBE_01023	gene			
+BPLIIOBE_01024	CDS	plqA	2.5.1.-	4-hydroxybenzoate solanesyltransferase
+BPLIIOBE_01024	gene	plqA		
+BPLIIOBE_01025	CDS			hypothetical protein
+BPLIIOBE_01025	gene			
+BPLIIOBE_01026	CDS			hypothetical protein
+BPLIIOBE_01026	gene			
+BPLIIOBE_01027	CDS	psd	4.1.1.65	Phosphatidylserine decarboxylase proenzyme
+BPLIIOBE_01027	gene	psd		
+BPLIIOBE_01028	CDS	nadA	2.5.1.72	Quinolinate synthase A
+BPLIIOBE_01028	gene	nadA		
+BPLIIOBE_01029	CDS	nadC	2.4.2.19	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+BPLIIOBE_01029	gene	nadC		
+BPLIIOBE_01030	CDS			hypothetical protein
+BPLIIOBE_01030	gene			
+BPLIIOBE_01031	CDS	dpnA_5	2.1.1.72	Modification methylase DpnIIB
+BPLIIOBE_01031	gene	dpnA_5		
+BPLIIOBE_01032	CDS			hypothetical protein
+BPLIIOBE_01032	gene			
+BPLIIOBE_01033	CDS	ctpB	3.4.21.102	Carboxy-terminal processing protease CtpB
+BPLIIOBE_01033	gene	ctpB		
+BPLIIOBE_01034	CDS			hypothetical protein
+BPLIIOBE_01034	gene			
+BPLIIOBE_01035	CDS			hypothetical protein
+BPLIIOBE_01035	gene			
+BPLIIOBE_01036	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+BPLIIOBE_01036	gene	ung		
+BPLIIOBE_01037	CDS	gapB	1.2.1.59	Glyceraldehyde-3-phosphate dehydrogenase 2
+BPLIIOBE_01037	gene	gapB		
+BPLIIOBE_01038	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+BPLIIOBE_01038	gene	pgk		
+BPLIIOBE_01039	CDS	corA		Magnesium transport protein CorA
+BPLIIOBE_01039	gene	corA		
+BPLIIOBE_01040	CDS			hypothetical protein
+BPLIIOBE_01040	gene			
+BPLIIOBE_01041	CDS		5.3.2.-	putative tautomerase
+BPLIIOBE_01041	gene			
+BPLIIOBE_01042	CDS	recR		Recombination protein RecR
+BPLIIOBE_01042	gene	recR		
+BPLIIOBE_01043	CDS	truD	5.4.99.27	tRNA pseudouridine synthase D
+BPLIIOBE_01043	gene	truD		
+BPLIIOBE_01044	CDS	htpX_1	3.4.24.-	Protease HtpX 
+BPLIIOBE_01044	gene	htpX_1		
+BPLIIOBE_01045	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+BPLIIOBE_01045	gene	folE		
+BPLIIOBE_01046	CDS		2.5.1.10	Farnesyl diphosphate synthase
+BPLIIOBE_01046	gene			
+BPLIIOBE_01047	CDS	surE	3.1.3.5	5'-nucleotidase SurE
+BPLIIOBE_01047	gene	surE		
+BPLIIOBE_01048	CDS			hypothetical protein
+BPLIIOBE_01048	gene			
+BPLIIOBE_01049	CDS			hypothetical protein
+BPLIIOBE_01049	gene			
+BPLIIOBE_01050	CDS	queE_2	4.3.99.3	7-carboxy-7-deazaguanine synthase
+BPLIIOBE_01050	gene	queE_2		
+BPLIIOBE_01051	CDS			hypothetical protein
+BPLIIOBE_01051	gene			
+BPLIIOBE_01052	CDS	proP		Proline/betaine transporter
+BPLIIOBE_01052	gene	proP		
+BPLIIOBE_01053	CDS			hypothetical protein
+BPLIIOBE_01053	gene			
+BPLIIOBE_01054	CDS			hypothetical protein
+BPLIIOBE_01054	gene			
+BPLIIOBE_01055	CDS	tcyB		L-cystine transport system permease protein TcyB
+BPLIIOBE_01055	gene	tcyB		
+BPLIIOBE_01056	CDS			putative amino-acid ABC transporter-binding protein
+BPLIIOBE_01056	gene			
+BPLIIOBE_01057	CDS	alr1	5.1.1.1	Alanine racemase 1
+BPLIIOBE_01057	gene	alr1		
+BPLIIOBE_01058	CDS	alsT		Amino-acid carrier protein AlsT
+BPLIIOBE_01058	gene	alsT		
+BPLIIOBE_01059	CDS	dadA	1.4.5.1	D-amino acid dehydrogenase
+BPLIIOBE_01059	gene	dadA		
+BPLIIOBE_01060	CDS			RutC family protein
+BPLIIOBE_01060	gene			
+BPLIIOBE_01061	tRNA			tRNA-Gly(gcc)
+BPLIIOBE_01061	gene			
+BPLIIOBE_01062	CDS			hypothetical protein
+BPLIIOBE_01062	gene			
+BPLIIOBE_01063	tRNA			tRNA-Leu(taa)
+BPLIIOBE_01063	gene			
+BPLIIOBE_01064	tRNA			tRNA-Cys(gca)
+BPLIIOBE_01064	gene			
+BPLIIOBE_01065	tRNA			tRNA-Ser(tga)
+BPLIIOBE_01065	gene			
+BPLIIOBE_01066	CDS	mleN		Malate-2H(+)/Na(+)-lactate antiporter
+BPLIIOBE_01066	gene	mleN		
+BPLIIOBE_01067	CDS			hypothetical protein
+BPLIIOBE_01067	gene			
+BPLIIOBE_01068	CDS			hypothetical protein
+BPLIIOBE_01068	gene			
+BPLIIOBE_01069	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+BPLIIOBE_01069	gene	rlmH		
+BPLIIOBE_01070	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+BPLIIOBE_01070	gene	accD		
+BPLIIOBE_01071	CDS			hypothetical protein
+BPLIIOBE_01071	gene			
+BPLIIOBE_01072	CDS	pncC	3.5.1.42	Nicotinamide-nucleotide amidohydrolase PncC
+BPLIIOBE_01072	gene	pncC		
+BPLIIOBE_01073	CDS			hypothetical protein
+BPLIIOBE_01073	gene			
+BPLIIOBE_01074	CDS	rdxA	1.-.-.-	Oxygen-insensitive NADPH nitroreductase
+BPLIIOBE_01074	gene	rdxA		
+BPLIIOBE_01075	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+BPLIIOBE_01075	gene	lgt		
+BPLIIOBE_01076	CDS		5.4.99.-	putative RNA pseudouridine synthase
+BPLIIOBE_01076	gene			
+BPLIIOBE_01077	CDS	waaA	2.4.99.12	3-deoxy-D-manno-octulosonic acid transferase
+BPLIIOBE_01077	gene	waaA		
+BPLIIOBE_01078	CDS			hypothetical protein
+BPLIIOBE_01078	gene			
+BPLIIOBE_01079	CDS		3.5.4.16	GTP cyclohydrolase 1 type 2
+BPLIIOBE_01079	gene			
+BPLIIOBE_01080	CDS	glyQ	6.1.1.14	Glycine--tRNA ligase alpha subunit
+BPLIIOBE_01080	gene	glyQ		
+BPLIIOBE_01081	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+BPLIIOBE_01081	gene	gpsA		
+BPLIIOBE_01082	CDS	acpP_2		Acyl carrier protein
+BPLIIOBE_01082	gene	acpP_2		
+BPLIIOBE_01083	CDS	era_1		GTPase Era
+BPLIIOBE_01083	gene	era_1		
+BPLIIOBE_01084	CDS			hypothetical protein
+BPLIIOBE_01084	gene			
+BPLIIOBE_01085	CDS	der_2		GTPase Der
+BPLIIOBE_01085	gene	der_2		
+BPLIIOBE_01086	CDS			hypothetical protein
+BPLIIOBE_01086	gene			
+BPLIIOBE_01087	CDS	vapD_2	3.1.-.-	Endoribonuclease VapD
+BPLIIOBE_01087	gene	vapD_2		
+BPLIIOBE_01088	CDS			hypothetical protein
+BPLIIOBE_01088	gene			
+BPLIIOBE_01089	CDS	czcA		Cobalt-zinc-cadmium resistance protein CzcA
+BPLIIOBE_01089	gene	czcA		
+BPLIIOBE_01090	CDS			hypothetical protein
+BPLIIOBE_01090	gene			
+BPLIIOBE_01091	CDS			hypothetical protein
+BPLIIOBE_01091	gene			
+BPLIIOBE_01092	CDS	glyS	6.1.1.14	Glycine--tRNA ligase beta subunit
+BPLIIOBE_01092	gene	glyS		
+BPLIIOBE_01093	CDS			hypothetical protein
+BPLIIOBE_01093	gene			
+BPLIIOBE_01094	CDS	gpmI	5.4.2.12	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+BPLIIOBE_01094	gene	gpmI		
+BPLIIOBE_01095	CDS	gatC	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+BPLIIOBE_01095	gene	gatC		
+BPLIIOBE_01096	CDS	bioA	2.6.1.62	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+BPLIIOBE_01096	gene	bioA		
+BPLIIOBE_01097	CDS	ppiD	5.2.1.8	Peptidyl-prolyl cis-trans isomerase D
+BPLIIOBE_01097	gene	ppiD		
+BPLIIOBE_01098	CDS	ftsA		Cell division protein FtsA
+BPLIIOBE_01098	gene	ftsA		
+BPLIIOBE_01099	CDS	ftsZ		Cell division protein FtsZ
+BPLIIOBE_01099	gene	ftsZ		
+BPLIIOBE_01100	CDS	rseP	3.4.24.-	Regulator of sigma-E protease RseP
+BPLIIOBE_01100	gene	rseP		
+BPLIIOBE_01101	CDS	xseA_2	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+BPLIIOBE_01101	gene	xseA_2		
+BPLIIOBE_01102	CDS			hypothetical protein
+BPLIIOBE_01102	gene			
+BPLIIOBE_01103	CDS			hypothetical protein
+BPLIIOBE_01103	gene			
+BPLIIOBE_01104	CDS			hypothetical protein
+BPLIIOBE_01104	gene			
+BPLIIOBE_01105	CDS			hypothetical protein
+BPLIIOBE_01105	gene			
+BPLIIOBE_01106	CDS	mscS		Small-conductance mechanosensitive channel
+BPLIIOBE_01106	gene	mscS		
+BPLIIOBE_01107	CDS			hypothetical protein
+BPLIIOBE_01107	gene			
+BPLIIOBE_01108	CDS			hypothetical protein
+BPLIIOBE_01108	gene			
+BPLIIOBE_01109	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+BPLIIOBE_01109	gene	asd		
+BPLIIOBE_01110	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+BPLIIOBE_01110	gene	hisS		
+BPLIIOBE_01111	CDS	rfaF	2.-.-.-	ADP-heptose--LPS heptosyltransferase 2
+BPLIIOBE_01111	gene	rfaF		
+BPLIIOBE_01112	CDS			hypothetical protein
+BPLIIOBE_01112	gene			
+BPLIIOBE_01113	CDS	yhdN	1.1.1.-	General stress protein 69
+BPLIIOBE_01113	gene	yhdN		
+BPLIIOBE_01114	CDS	fusA		Elongation factor G
+BPLIIOBE_01114	gene	fusA		
+BPLIIOBE_01115	CDS	rpsG		30S ribosomal protein S7
+BPLIIOBE_01115	gene	rpsG		
+BPLIIOBE_01116	CDS	rpsL		30S ribosomal protein S12
+BPLIIOBE_01116	gene	rpsL		
+BPLIIOBE_01117	CDS	rpoBC	2.7.7.6	Bifunctional DNA-directed RNA polymerase subunit beta-beta'
+BPLIIOBE_01117	gene	rpoBC		
+BPLIIOBE_01118	CDS	rplL		50S ribosomal protein L7/L12
+BPLIIOBE_01118	gene	rplL		
+BPLIIOBE_01119	CDS	rplJ		50S ribosomal protein L10
+BPLIIOBE_01119	gene	rplJ		
+BPLIIOBE_01120	CDS	rplA		50S ribosomal protein L1
+BPLIIOBE_01120	gene	rplA		
+BPLIIOBE_01121	CDS	rplK		50S ribosomal protein L11
+BPLIIOBE_01121	gene	rplK		
+BPLIIOBE_01122	CDS	nusG		Transcription termination/antitermination protein NusG
+BPLIIOBE_01122	gene	nusG		
+BPLIIOBE_01123	CDS			hypothetical protein
+BPLIIOBE_01123	gene			
+BPLIIOBE_01124	tRNA			tRNA-Trp(cca)
+BPLIIOBE_01124	gene			
+BPLIIOBE_01125	CDS	rpmG2		50S ribosomal protein L33 2
+BPLIIOBE_01125	gene	rpmG2		
+BPLIIOBE_01126	CDS	tufA		Elongation factor Tu
+BPLIIOBE_01126	gene	tufA		
+BPLIIOBE_01127	tRNA			tRNA-Thr(ggt)
+BPLIIOBE_01127	gene			
+BPLIIOBE_01128	tRNA			tRNA-Gly(tcc)
+BPLIIOBE_01128	gene			
+BPLIIOBE_01129	tRNA			tRNA-Tyr(gta)
+BPLIIOBE_01129	gene			
+BPLIIOBE_01130	tRNA			tRNA-Thr(tgt)
+BPLIIOBE_01130	gene			
+BPLIIOBE_01131	CDS	hepA		Heterocyst differentiation ATP-binding protein HepA
+BPLIIOBE_01131	gene	hepA		
+BPLIIOBE_01132	CDS			hypothetical protein
+BPLIIOBE_01132	gene			
+BPLIIOBE_01133	CDS	fokIM	2.1.1.72	Modification methylase FokI
+BPLIIOBE_01133	gene	fokIM		
+BPLIIOBE_01134	CDS			hypothetical protein
+BPLIIOBE_01134	gene			
+BPLIIOBE_01135	CDS	cysE	2.3.1.30	Serine acetyltransferase
+BPLIIOBE_01135	gene	cysE		
+BPLIIOBE_01136	tRNA			tRNA-Leu(caa)
+BPLIIOBE_01136	gene			
+BPLIIOBE_01137	tRNA			tRNA-Leu(gag)
+BPLIIOBE_01137	gene			
+BPLIIOBE_01138	CDS	atpE		ATP synthase subunit c
+BPLIIOBE_01138	gene	atpE		
+BPLIIOBE_01139	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+BPLIIOBE_01139	gene	pnp		
+BPLIIOBE_01140	CDS			hypothetical protein
+BPLIIOBE_01140	gene			
+BPLIIOBE_01141	CDS	lptD		LPS-assembly protein LptD
+BPLIIOBE_01141	gene	lptD		
+BPLIIOBE_01142	CDS			hypothetical protein
+BPLIIOBE_01142	gene			
+BPLIIOBE_01143	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+BPLIIOBE_01143	gene	purD		
+BPLIIOBE_01144	CDS	ytrB		ABC transporter ATP-binding protein YtrB
+BPLIIOBE_01144	gene	ytrB		
+BPLIIOBE_01145	CDS	uppS	2.5.1.-	Isoprenyl transferase
+BPLIIOBE_01145	gene	uppS		
+BPLIIOBE_01146	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+BPLIIOBE_01146	gene			
+BPLIIOBE_01147	CDS	glpE	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+BPLIIOBE_01147	gene	glpE		
+BPLIIOBE_01148	CDS			hypothetical protein
+BPLIIOBE_01148	gene			
+BPLIIOBE_01149	CDS	crcB		Putative fluoride ion transporter CrcB
+BPLIIOBE_01149	gene	crcB		
+BPLIIOBE_01150	CDS	hemN_2	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+BPLIIOBE_01150	gene	hemN_2		
+BPLIIOBE_01151	CDS			Cytochrome c-553
+BPLIIOBE_01151	gene			
+BPLIIOBE_01152	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+BPLIIOBE_01152	gene	rppH		
+BPLIIOBE_01153	CDS	lysC	2.7.2.4	Aspartate kinase Ask_LysC
+BPLIIOBE_01153	gene	lysC		
+BPLIIOBE_01154	CDS			hypothetical protein
+BPLIIOBE_01154	gene			
+BPLIIOBE_01155	CDS			hypothetical protein
+BPLIIOBE_01155	gene			
+BPLIIOBE_01156	CDS	folP		Bifunctional dihydropteroate synthase/dihydropteroate reductase
+BPLIIOBE_01156	gene	folP		
+BPLIIOBE_01157	CDS			hypothetical protein
+BPLIIOBE_01157	gene			
+BPLIIOBE_01158	CDS			hypothetical protein
+BPLIIOBE_01158	gene			
+BPLIIOBE_01159	CDS			hypothetical protein
+BPLIIOBE_01159	gene			
+BPLIIOBE_01160	CDS			hypothetical protein
+BPLIIOBE_01160	gene			
+BPLIIOBE_01161	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+BPLIIOBE_01161	gene	carA		
+BPLIIOBE_01162	CDS	amiF	3.5.1.49	Formamidase
+BPLIIOBE_01162	gene	amiF		
+BPLIIOBE_01163	CDS	maf		Septum formation protein Maf
+BPLIIOBE_01163	gene	maf		
+BPLIIOBE_01164	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+BPLIIOBE_01164	gene	alaS		
+BPLIIOBE_01165	CDS			hypothetical protein
+BPLIIOBE_01165	gene			
+BPLIIOBE_01166	CDS	ccsA		Cytochrome c biogenesis protein CcsA
+BPLIIOBE_01166	gene	ccsA		
+BPLIIOBE_01167	CDS			hypothetical protein
+BPLIIOBE_01167	gene			
+BPLIIOBE_01168	CDS	hemH	4.99.1.1	Ferrochelatase
+BPLIIOBE_01168	gene	hemH		
+BPLIIOBE_01169	CDS			hypothetical protein
+BPLIIOBE_01169	gene			
+BPLIIOBE_01170	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+BPLIIOBE_01170	gene	rsmE		
+BPLIIOBE_01171	CDS			hypothetical protein
+BPLIIOBE_01171	gene			
+BPLIIOBE_01172	CDS	dcd	3.5.4.13	dCTP deaminase
+BPLIIOBE_01172	gene	dcd		
+BPLIIOBE_01173	CDS	accB		Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+BPLIIOBE_01173	gene	accB		
+BPLIIOBE_01174	CDS	accC	6.3.4.14	Biotin carboxylase
+BPLIIOBE_01174	gene	accC		
+BPLIIOBE_01175	CDS			hypothetical protein
+BPLIIOBE_01175	gene			
+BPLIIOBE_01176	CDS			hypothetical protein
+BPLIIOBE_01176	gene			
+BPLIIOBE_01177	CDS			hypothetical protein
+BPLIIOBE_01177	gene			
+BPLIIOBE_01178	CDS			hypothetical protein
+BPLIIOBE_01178	gene			
+BPLIIOBE_01179	CDS	pseC	2.6.1.92	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase
+BPLIIOBE_01179	gene	pseC		
+BPLIIOBE_01180	tRNA			tRNA-Leu(tag)
+BPLIIOBE_01180	gene			
+BPLIIOBE_01181	CDS	nrdB	1.17.4.1	Ribonucleoside-diphosphate reductase subunit beta
+BPLIIOBE_01181	gene	nrdB		
+BPLIIOBE_01182	CDS	pcm	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+BPLIIOBE_01182	gene	pcm		
+BPLIIOBE_01183	CDS			hypothetical protein
+BPLIIOBE_01183	gene			
+BPLIIOBE_01184	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+BPLIIOBE_01184	gene	truA		
+BPLIIOBE_01185	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+BPLIIOBE_01185	gene	galE		
+BPLIIOBE_01186	tRNA			tRNA-Ile(gat)
+BPLIIOBE_01186	gene			
+BPLIIOBE_01187	tRNA			tRNA-Ala(tgc)
+BPLIIOBE_01187	gene			
+BPLIIOBE_01188	CDS			hypothetical protein
+BPLIIOBE_01188	gene			
+BPLIIOBE_01189	CDS	ydfG	1.1.1.381	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+BPLIIOBE_01189	gene	ydfG		
+BPLIIOBE_01190	CDS			hypothetical protein
+BPLIIOBE_01190	gene			
+BPLIIOBE_01191	CDS	lepA	3.6.5.-	Elongation factor 4
+BPLIIOBE_01191	gene	lepA		
+BPLIIOBE_01192	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+BPLIIOBE_01192	gene	dxs		
+BPLIIOBE_01193	CDS			hypothetical protein
+BPLIIOBE_01193	gene			
+BPLIIOBE_01194	CDS	fliG		Flagellar motor switch protein FliG
+BPLIIOBE_01194	gene	fliG		
+BPLIIOBE_01195	CDS	fliF		Flagellar M-ring protein
+BPLIIOBE_01195	gene	fliF		
+BPLIIOBE_01196	CDS			hypothetical protein
+BPLIIOBE_01196	gene			
+BPLIIOBE_01197	CDS	pyrG	6.3.4.2	CTP synthase
+BPLIIOBE_01197	gene	pyrG		
+BPLIIOBE_01198	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+BPLIIOBE_01198	gene	recJ		
+BPLIIOBE_01199	CDS		5.4.99.-	putative RNA pseudouridine synthase
+BPLIIOBE_01199	gene			
+BPLIIOBE_01200	CDS			hypothetical protein
+BPLIIOBE_01200	gene			
+BPLIIOBE_01201	CDS	divIB		Cell division protein DivIB
+BPLIIOBE_01201	gene	divIB		
+BPLIIOBE_01202	CDS			hypothetical protein
+BPLIIOBE_01202	gene			
+BPLIIOBE_01203	CDS			hypothetical protein
+BPLIIOBE_01203	gene			
+BPLIIOBE_01204	CDS			hypothetical protein
+BPLIIOBE_01204	gene			
+BPLIIOBE_01205	CDS			hypothetical protein
+BPLIIOBE_01205	gene			
+BPLIIOBE_01206	CDS			hypothetical protein
+BPLIIOBE_01206	gene			
+BPLIIOBE_01207	CDS			hypothetical protein
+BPLIIOBE_01207	gene			
+BPLIIOBE_01208	CDS			hypothetical protein
+BPLIIOBE_01208	gene			
+BPLIIOBE_01209	CDS	hcpB_1	3.5.2.6	Beta-lactamase HcpB
+BPLIIOBE_01209	gene	hcpB_1		
+BPLIIOBE_01210	CDS			hypothetical protein
+BPLIIOBE_01210	gene			
+BPLIIOBE_01211	CDS	yqgF	3.1.-.-	Putative pre-16S rRNA nuclease
+BPLIIOBE_01211	gene	yqgF		
+BPLIIOBE_01212	CDS	dprA		DNA processing protein DprA
+BPLIIOBE_01212	gene	dprA		
+BPLIIOBE_01213	CDS	minE		Cell division topological specificity factor
+BPLIIOBE_01213	gene	minE		
+BPLIIOBE_01214	CDS	minD		Septum site-determining protein MinD
+BPLIIOBE_01214	gene	minD		
+BPLIIOBE_01215	CDS	ilvC	1.1.1.86	Ketol-acid reductoisomerase (NADP(+))
+BPLIIOBE_01215	gene	ilvC		
+BPLIIOBE_01216	tRNA			tRNA-Arg(gcg)
+BPLIIOBE_01216	gene			
+BPLIIOBE_01217	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+BPLIIOBE_01217	gene	nadE		
+BPLIIOBE_01218	CDS	lpxK	2.7.1.130	Tetraacyldisaccharide 4'-kinase
+BPLIIOBE_01218	gene	lpxK		
+BPLIIOBE_01219	CDS	pseH	2.3.1.202	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine N-acetyltransferase
+BPLIIOBE_01219	gene	pseH		
+BPLIIOBE_01220	CDS			hypothetical protein
+BPLIIOBE_01220	gene			
+BPLIIOBE_01221	CDS	neuA	2.7.7.43	N-acylneuraminate cytidylyltransferase
+BPLIIOBE_01221	gene	neuA		
+BPLIIOBE_01222	CDS	flgH		Flagellar L-ring protein
+BPLIIOBE_01222	gene	flgH		
+BPLIIOBE_01223	CDS			hypothetical protein
+BPLIIOBE_01223	gene			
+BPLIIOBE_01224	CDS	ywiE	2.7.8.-	putative cardiolipin synthase YwiE
+BPLIIOBE_01224	gene	ywiE		
+BPLIIOBE_01225	CDS			hypothetical protein
+BPLIIOBE_01225	gene			
+BPLIIOBE_01226	CDS	gmk	2.7.4.8	Guanylate kinase
+BPLIIOBE_01226	gene	gmk		
+BPLIIOBE_01227	CDS	tatA		Sec-independent protein translocase protein TatA
+BPLIIOBE_01227	gene	tatA		
+BPLIIOBE_01228	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+BPLIIOBE_01228	gene	argS		
+BPLIIOBE_01229	CDS			hypothetical protein
+BPLIIOBE_01229	gene			
+BPLIIOBE_01230	CDS			hypothetical protein
+BPLIIOBE_01230	gene			
+BPLIIOBE_01231	CDS			hypothetical protein
+BPLIIOBE_01231	gene			
+BPLIIOBE_01232	CDS	rplS		50S ribosomal protein L19
+BPLIIOBE_01232	gene	rplS		
+BPLIIOBE_01233	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+BPLIIOBE_01233	gene	trmD		
+BPLIIOBE_01234	CDS	rimM		Ribosome maturation factor RimM
+BPLIIOBE_01234	gene	rimM		
+BPLIIOBE_01235	CDS			hypothetical protein
+BPLIIOBE_01235	gene			
+BPLIIOBE_01236	CDS	rpsP		30S ribosomal protein S16
+BPLIIOBE_01236	gene	rpsP		
+BPLIIOBE_01237	CDS	ffh		Signal recognition particle protein
+BPLIIOBE_01237	gene	ffh		
+BPLIIOBE_01238	CDS	valS	6.1.1.9	Valine--tRNA ligase
+BPLIIOBE_01238	gene	valS		
+BPLIIOBE_01239	CDS	fliW1		Flagellar assembly factor FliW 1
+BPLIIOBE_01239	gene	fliW1		
+BPLIIOBE_01240	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+BPLIIOBE_01240	gene	murG		
+BPLIIOBE_01241	CDS			hypothetical protein
+BPLIIOBE_01241	gene			
+BPLIIOBE_01242	CDS			hypothetical protein
+BPLIIOBE_01242	gene			
+BPLIIOBE_01243	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+BPLIIOBE_01243	gene	proC		
+BPLIIOBE_01244	CDS		2.7.7.-	Adenosine monophosphate-protein transferase NmFic
+BPLIIOBE_01244	gene			
+BPLIIOBE_01245	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+BPLIIOBE_01245	gene	ybeY		
+BPLIIOBE_01246	CDS	fldA		Flavodoxin
+BPLIIOBE_01246	gene	fldA		
+BPLIIOBE_01247	CDS	yohD_2		Inner membrane protein YohD
+BPLIIOBE_01247	gene	yohD_2		
+BPLIIOBE_01248	CDS			hypothetical protein
+BPLIIOBE_01248	gene			
+BPLIIOBE_01249	CDS		1.18.1.2	Ferredoxin--NADP reductase
+BPLIIOBE_01249	gene			
+BPLIIOBE_01250	CDS			hypothetical protein
+BPLIIOBE_01250	gene			
+BPLIIOBE_01251	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+BPLIIOBE_01251	gene	pgi		
+BPLIIOBE_01252	CDS			hypothetical protein
+BPLIIOBE_01252	gene			
+BPLIIOBE_01253	CDS	cstA		Carbon starvation protein A
+BPLIIOBE_01253	gene	cstA		
+BPLIIOBE_01254	CDS	glnP_1		Glutamine transport system permease protein GlnP
+BPLIIOBE_01254	gene	glnP_1		
+BPLIIOBE_01255	CDS	glnP_2		Glutamine transport system permease protein GlnP
+BPLIIOBE_01255	gene	glnP_2		
+BPLIIOBE_01256	CDS	artM		Arginine transport ATP-binding protein ArtM
+BPLIIOBE_01256	gene	artM		
+BPLIIOBE_01257	CDS	glnH		ABC transporter glutamine-binding protein GlnH
+BPLIIOBE_01257	gene	glnH		
+BPLIIOBE_01258	CDS			hypothetical protein
+BPLIIOBE_01258	gene			
+BPLIIOBE_01259	CDS	fucP		L-fucose-proton symporter
+BPLIIOBE_01259	gene	fucP		
+BPLIIOBE_01260	CDS	adeQ		Adenine permease AdeQ
+BPLIIOBE_01260	gene	adeQ		
+BPLIIOBE_01261	CDS			hypothetical protein
+BPLIIOBE_01261	gene			
+BPLIIOBE_01262	CDS	deoD	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+BPLIIOBE_01262	gene	deoD		
+BPLIIOBE_01263	CDS	deoB	5.4.2.7	Phosphopentomutase
+BPLIIOBE_01263	gene	deoB		
+BPLIIOBE_01264	CDS	nupX		Putative nucleoside permease NupX
+BPLIIOBE_01264	gene	nupX		
+BPLIIOBE_01265	tRNA			tRNA-Met(cat)
+BPLIIOBE_01265	gene			
+BPLIIOBE_01266	CDS	yajR		Inner membrane transport protein YajR
+BPLIIOBE_01266	gene	yajR		
+BPLIIOBE_01267	CDS	ttcA		tRNA 2-thiocytidine biosynthesis protein TtcA
+BPLIIOBE_01267	gene	ttcA		
+BPLIIOBE_01268	CDS			hypothetical protein
+BPLIIOBE_01268	gene			
+BPLIIOBE_01269	CDS	mepA		Multidrug export protein MepA
+BPLIIOBE_01269	gene	mepA		
+BPLIIOBE_01270	CDS	sotB		Sugar efflux transporter B
+BPLIIOBE_01270	gene	sotB		
+BPLIIOBE_01271	CDS	cah	4.2.1.1	Carbonic anhydrase
+BPLIIOBE_01271	gene	cah		
+BPLIIOBE_01272	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+BPLIIOBE_01272	gene	gltX		
+BPLIIOBE_01273	CDS	potA	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+BPLIIOBE_01273	gene	potA		
+BPLIIOBE_01274	CDS	modB		Molybdenum transport system permease protein ModB
+BPLIIOBE_01274	gene	modB		
+BPLIIOBE_01275	CDS	modA		Molybdate-binding periplasmic protein
+BPLIIOBE_01275	gene	modA		
+BPLIIOBE_01276	CDS			hypothetical protein
+BPLIIOBE_01276	gene			
+BPLIIOBE_01277	CDS	magA		Iron transporter MagA
+BPLIIOBE_01277	gene	magA		
+BPLIIOBE_01278	CDS			hypothetical protein
+BPLIIOBE_01278	gene			
+BPLIIOBE_01279	CDS	pepF1	3.4.24.-	Oligoendopeptidase F, plasmid
+BPLIIOBE_01279	gene	pepF1		
+BPLIIOBE_01280	CDS			hypothetical protein
+BPLIIOBE_01280	gene			
+BPLIIOBE_01281	CDS			hypothetical protein
+BPLIIOBE_01281	gene			
+BPLIIOBE_01282	CDS			hypothetical protein
+BPLIIOBE_01282	gene			
+BPLIIOBE_01283	CDS			hypothetical protein
+BPLIIOBE_01283	gene			
+BPLIIOBE_01284	CDS			hypothetical protein
+BPLIIOBE_01284	gene			
+BPLIIOBE_01285	CDS			hypothetical protein
+BPLIIOBE_01285	gene			
+BPLIIOBE_01286	CDS	hsdR_3	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+BPLIIOBE_01286	gene	hsdR_3		
+BPLIIOBE_01287	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+BPLIIOBE_01287	gene			
+BPLIIOBE_01288	CDS			hypothetical protein
+BPLIIOBE_01288	gene			
+BPLIIOBE_01289	CDS			hypothetical protein
+BPLIIOBE_01289	gene			
+BPLIIOBE_01290	CDS	virB4_3		Type IV secretion system protein virB4
+BPLIIOBE_01290	gene	virB4_3		
+BPLIIOBE_01291	CDS			hypothetical protein
+BPLIIOBE_01291	gene			
+BPLIIOBE_01292	CDS			hypothetical protein
+BPLIIOBE_01292	gene			
+BPLIIOBE_01293	CDS			hypothetical protein
+BPLIIOBE_01293	gene			
+BPLIIOBE_01294	CDS			hypothetical protein
+BPLIIOBE_01294	gene			
+BPLIIOBE_01295	CDS			hypothetical protein
+BPLIIOBE_01295	gene			
+BPLIIOBE_01296	CDS			hypothetical protein
+BPLIIOBE_01296	gene			
+BPLIIOBE_01297	CDS			hypothetical protein
+BPLIIOBE_01297	gene			
+BPLIIOBE_01298	CDS			hypothetical protein
+BPLIIOBE_01298	gene			
+BPLIIOBE_01299	CDS			hypothetical protein
+BPLIIOBE_01299	gene			
+BPLIIOBE_01300	CDS			hypothetical protein
+BPLIIOBE_01300	gene			
+BPLIIOBE_01301	CDS			hypothetical protein
+BPLIIOBE_01301	gene			
+BPLIIOBE_01302	CDS			hypothetical protein
+BPLIIOBE_01302	gene			
+BPLIIOBE_01303	CDS			hypothetical protein
+BPLIIOBE_01303	gene			
+BPLIIOBE_01304	CDS			hypothetical protein
+BPLIIOBE_01304	gene			
+BPLIIOBE_01305	CDS			hypothetical protein
+BPLIIOBE_01305	gene			
+BPLIIOBE_01306	CDS			hypothetical protein
+BPLIIOBE_01306	gene			
+BPLIIOBE_01307	CDS			hypothetical protein
+BPLIIOBE_01307	gene			
+BPLIIOBE_01308	CDS			hypothetical protein
+BPLIIOBE_01308	gene			
+BPLIIOBE_01309	CDS			hypothetical protein
+BPLIIOBE_01309	gene			
+BPLIIOBE_01310	CDS			hypothetical protein
+BPLIIOBE_01310	gene			
+BPLIIOBE_01311	CDS	ptlC		Type IV secretion system protein PtlC
+BPLIIOBE_01311	gene	ptlC		
+BPLIIOBE_01312	CDS	topA_2	5.99.1.2	DNA topoisomerase 1
+BPLIIOBE_01312	gene	topA_2		
+BPLIIOBE_01313	CDS	kch		Voltage-gated potassium channel Kch
+BPLIIOBE_01313	gene	kch		
+BPLIIOBE_01314	CDS	rpmB		50S ribosomal protein L28
+BPLIIOBE_01314	gene	rpmB		
+BPLIIOBE_01315	CDS			hypothetical protein
+BPLIIOBE_01315	gene			
+BPLIIOBE_01316	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+BPLIIOBE_01316	gene	mraY		
+BPLIIOBE_01317	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+BPLIIOBE_01317	gene	murD		
+BPLIIOBE_01318	CDS			hypothetical protein
+BPLIIOBE_01318	gene			
+BPLIIOBE_01319	CDS	ybgC	3.1.2.-	Acyl-CoA thioesterase YbgC
+BPLIIOBE_01319	gene	ybgC		
+BPLIIOBE_01320	CDS			hypothetical protein
+BPLIIOBE_01320	gene			
+BPLIIOBE_01321	CDS			hypothetical protein
+BPLIIOBE_01321	gene			
+BPLIIOBE_01322	CDS	pldA	3.1.1.32	Phospholipase A1
+BPLIIOBE_01322	gene	pldA		
+BPLIIOBE_01323	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+BPLIIOBE_01323	gene	dnaN		
+BPLIIOBE_01324	CDS	gyrB	5.99.1.3	Type 2 topoisomerase subunit B
+BPLIIOBE_01324	gene	gyrB		
+BPLIIOBE_01325	CDS			hypothetical protein
+BPLIIOBE_01325	gene			
+BPLIIOBE_01326	CDS			hypothetical protein
+BPLIIOBE_01326	gene			
+BPLIIOBE_01327	CDS			hypothetical protein
+BPLIIOBE_01327	gene			
+BPLIIOBE_01328	CDS			hypothetical protein
+BPLIIOBE_01328	gene			
+BPLIIOBE_01329	CDS	mepM_3	3.4.24.-	Murein DD-endopeptidase MepM
+BPLIIOBE_01329	gene	mepM_3		
+BPLIIOBE_01330	CDS	nudK	3.6.1.-	GDP-mannose pyrophosphatase NudK
+BPLIIOBE_01330	gene	nudK		
+BPLIIOBE_01331	CDS	pgbA		Plasminogen-binding protein PgbA
+BPLIIOBE_01331	gene	pgbA		
+BPLIIOBE_01332	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+BPLIIOBE_01332	gene			
+BPLIIOBE_01333	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+BPLIIOBE_01333	gene	dapB		
+BPLIIOBE_01334	CDS			hypothetical protein
+BPLIIOBE_01334	gene			
+BPLIIOBE_01335	CDS		5.4.4.3	3-hydroxylaminophenol mutase
+BPLIIOBE_01335	gene			
+BPLIIOBE_01336	CDS			hypothetical protein
+BPLIIOBE_01336	gene			
+BPLIIOBE_01337	CDS			hypothetical protein
+BPLIIOBE_01337	gene			
+BPLIIOBE_01338	CDS	rplI		50S ribosomal protein L9
+BPLIIOBE_01338	gene	rplI		
+BPLIIOBE_01339	CDS	hslV	3.4.25.2	ATP-dependent protease subunit HslV
+BPLIIOBE_01339	gene	hslV		
+BPLIIOBE_01340	CDS	clpY		ATP-dependent protease ATPase subunit ClpY
+BPLIIOBE_01340	gene	clpY		
+BPLIIOBE_01341	CDS	era_2		GTPase Era
+BPLIIOBE_01341	gene	era_2		
+BPLIIOBE_01342	CDS			hypothetical protein
+BPLIIOBE_01342	gene			
+BPLIIOBE_01343	CDS	hcpB_2	3.5.2.6	Beta-lactamase HcpB
+BPLIIOBE_01343	gene	hcpB_2		
+BPLIIOBE_01344	CDS			hypothetical protein
+BPLIIOBE_01344	gene			
+BPLIIOBE_01345	CDS			hypothetical protein
+BPLIIOBE_01345	gene			
+BPLIIOBE_01346	CDS			hypothetical protein
+BPLIIOBE_01346	gene			
+BPLIIOBE_01347	CDS	traG		Conjugal transfer protein TraG
+BPLIIOBE_01347	gene	traG		
+BPLIIOBE_01348	CDS			Type IV secretion system protein VirB11
+BPLIIOBE_01348	gene			
+BPLIIOBE_01349	CDS			hypothetical protein
+BPLIIOBE_01349	gene			
+BPLIIOBE_01350	CDS			Type IV secretion system protein virB10
+BPLIIOBE_01350	gene			
+BPLIIOBE_01351	tRNA			tRNA-Met(cat)
+BPLIIOBE_01351	gene			
+BPLIIOBE_01352	tRNA			tRNA-Gln(ttg)
+BPLIIOBE_01352	gene			
+BPLIIOBE_01353	CDS	hypD		Hydrogenase isoenzymes formation protein HypD
+BPLIIOBE_01353	gene	hypD		
+BPLIIOBE_01354	CDS	hypC		Hydrogenase isoenzymes formation protein HypC
+BPLIIOBE_01354	gene	hypC		
+BPLIIOBE_01355	CDS	hypB		Hydrogenase/urease nickel incorporation protein HypB
+BPLIIOBE_01355	gene	hypB		
+BPLIIOBE_01356	CDS			hypothetical protein
+BPLIIOBE_01356	gene			
+BPLIIOBE_01357	CDS			hypothetical protein
+BPLIIOBE_01357	gene			
+BPLIIOBE_01358	CDS	ackA_1	2.7.2.1	Acetate kinase
+BPLIIOBE_01358	gene	ackA_1		
+BPLIIOBE_01359	CDS	ackA_2	2.7.2.1	Acetate kinase
+BPLIIOBE_01359	gene	ackA_2		
+BPLIIOBE_01360	CDS	pta_1	2.3.1.8	Phosphate acetyltransferase
+BPLIIOBE_01360	gene	pta_1		
+BPLIIOBE_01361	CDS	pta_2	2.3.1.8	Phosphate acetyltransferase
+BPLIIOBE_01361	gene	pta_2		
+BPLIIOBE_01362	CDS	pta_3	2.3.1.8	Phosphate acetyltransferase
+BPLIIOBE_01362	gene	pta_3		
+BPLIIOBE_01363	CDS			hypothetical protein
+BPLIIOBE_01363	gene			
+BPLIIOBE_01364	CDS			hypothetical protein
+BPLIIOBE_01364	gene			
+BPLIIOBE_01365	CDS	flgD		Basal-body rod modification protein FlgD
+BPLIIOBE_01365	gene	flgD		
+BPLIIOBE_01366	CDS	flgE_2		Flagellar hook protein FlgE
+BPLIIOBE_01366	gene	flgE_2		
+BPLIIOBE_01367	CDS			hypothetical protein
+BPLIIOBE_01367	gene			
+BPLIIOBE_01368	CDS	taqIM	2.1.1.72	Modification methylase TaqI
+BPLIIOBE_01368	gene	taqIM		
+BPLIIOBE_01369	CDS	uvrD	3.6.4.12	DNA helicase II
+BPLIIOBE_01369	gene	uvrD		
+BPLIIOBE_01370	CDS			hypothetical protein
+BPLIIOBE_01370	gene			
+BPLIIOBE_01371	CDS			hypothetical protein
+BPLIIOBE_01371	gene			
+BPLIIOBE_01372	CDS			hypothetical protein
+BPLIIOBE_01372	gene			
+BPLIIOBE_01373	CDS	hemR		Hemin receptor
+BPLIIOBE_01373	gene	hemR		
+BPLIIOBE_01374	CDS	bhuA_2		Heme transporter BhuA
+BPLIIOBE_01374	gene	bhuA_2		
+BPLIIOBE_01375	CDS			hypothetical protein
+BPLIIOBE_01375	gene			
+BPLIIOBE_01376	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+BPLIIOBE_01376	gene	carB		
+BPLIIOBE_01377	CDS	yccA		Modulator of FtsH protease YccA
+BPLIIOBE_01377	gene	yccA		
+BPLIIOBE_01378	CDS	gap1	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase 1
+BPLIIOBE_01378	gene	gap1		
+BPLIIOBE_01379	CDS	vacA_4		Vacuolating cytotoxin autotransporter
+BPLIIOBE_01379	gene	vacA_4		
+BPLIIOBE_01380	CDS	fucT_2	2.4.1.152	Alpha-(1,3)-fucosyltransferase FucT
+BPLIIOBE_01380	gene	fucT_2		
+BPLIIOBE_01381	CDS	gdhA	1.4.1.2	NAD(P)-specific glutamate dehydrogenase
+BPLIIOBE_01381	gene	gdhA		
+BPLIIOBE_01382	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+BPLIIOBE_01382	gene	prmC		
+BPLIIOBE_01383	CDS	htpX_2	3.4.24.-	Protease HtpX
+BPLIIOBE_01383	gene	htpX_2		
+BPLIIOBE_01384	CDS			hypothetical protein
+BPLIIOBE_01384	gene			
+BPLIIOBE_01385	CDS			hypothetical protein
+BPLIIOBE_01385	gene			
+BPLIIOBE_01386	CDS			hypothetical protein
+BPLIIOBE_01386	gene			
+BPLIIOBE_01387	CDS			hypothetical protein
+BPLIIOBE_01387	gene			
+BPLIIOBE_01388	CDS	priA	3.6.4.-	Primosomal protein N'
+BPLIIOBE_01388	gene	priA		
+BPLIIOBE_01389	CDS	cmoA	2.1.3.-	Carboxy-S-adenosyl-L-methionine synthase
+BPLIIOBE_01389	gene	cmoA		
+BPLIIOBE_01390	CDS	sodB	1.15.1.1	Superoxide dismutase [Fe]
+BPLIIOBE_01390	gene	sodB		
+BPLIIOBE_01391	CDS	tpx	1.11.1.-	putative thiol peroxidase
+BPLIIOBE_01391	gene	tpx		
+BPLIIOBE_01392	CDS	cheW		Chemotaxis protein CheW
+BPLIIOBE_01392	gene	cheW		
+BPLIIOBE_01393	CDS	cheA	2.7.13.3	Chemotaxis protein CheA
+BPLIIOBE_01393	gene	cheA		
+BPLIIOBE_01394	CDS	cheV_3		Chemotaxis protein CheV
+BPLIIOBE_01394	gene	cheV_3		
+BPLIIOBE_01395	CDS	lpxH	3.6.1.54	UDP-2,3-diacylglucosamine hydrolase
+BPLIIOBE_01395	gene	lpxH		
+BPLIIOBE_01396	CDS			hypothetical protein
+BPLIIOBE_01396	gene			
+BPLIIOBE_01397	CDS	ubiD	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+BPLIIOBE_01397	gene	ubiD		
+BPLIIOBE_01398	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+BPLIIOBE_01398	gene	serA		
+BPLIIOBE_01399	CDS			hypothetical protein
+BPLIIOBE_01399	gene			
+BPLIIOBE_01400	CDS	rpsA		30S ribosomal protein S1
+BPLIIOBE_01400	gene	rpsA		
+BPLIIOBE_01401	CDS	ispH	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+BPLIIOBE_01401	gene	ispH		
+BPLIIOBE_01402	CDS	aroA1	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase 1
+BPLIIOBE_01402	gene	aroA1		
+BPLIIOBE_01403	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+BPLIIOBE_01403	gene	pheT		
+BPLIIOBE_01404	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+BPLIIOBE_01404	gene	pheS		
+BPLIIOBE_01405	CDS			putative HIT-like protein
+BPLIIOBE_01405	gene			
+BPLIIOBE_01406	CDS	csd	2.8.1.7	putative cysteine desulfurase
+BPLIIOBE_01406	gene	csd		
+BPLIIOBE_01407	CDS			hypothetical protein
+BPLIIOBE_01407	gene			
+BPLIIOBE_01408	CDS	dorA	1.7.2.3	Dimethyl sulfoxide/trimethylamine N-oxide reductase
+BPLIIOBE_01408	gene	dorA		
+BPLIIOBE_01409	CDS			hypothetical protein
+BPLIIOBE_01409	gene			
+BPLIIOBE_01410	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+BPLIIOBE_01410	gene	guaA		
+BPLIIOBE_01411	CDS			hypothetical protein
+BPLIIOBE_01411	gene			
+BPLIIOBE_01412	CDS			hypothetical protein
+BPLIIOBE_01412	gene			
+BPLIIOBE_01413	tRNA			tRNA-Pro(tgg)
+BPLIIOBE_01413	gene			
+BPLIIOBE_01414	tRNA			tRNA-His(gtg)
+BPLIIOBE_01414	gene			
+BPLIIOBE_01415	tRNA			tRNA-Arg(tcg)
+BPLIIOBE_01415	gene			
+BPLIIOBE_01416	tRNA			tRNA-Arg(tct)
+BPLIIOBE_01416	gene			
+BPLIIOBE_01417	CDS	queF	1.7.1.13	NADPH-dependent 7-cyano-7-deazaguanine reductase
+BPLIIOBE_01417	gene	queF		
+BPLIIOBE_01418	CDS	rsfS		Ribosomal silencing factor RsfS
+BPLIIOBE_01418	gene	rsfS		
+BPLIIOBE_01419	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+BPLIIOBE_01419	gene	miaA		
+BPLIIOBE_01420	CDS			hypothetical protein
+BPLIIOBE_01420	gene			
+BPLIIOBE_01421	CDS			hypothetical protein
+BPLIIOBE_01421	gene			
+BPLIIOBE_01422	CDS	cptA	2.7.-.-	Phosphoethanolamine transferase CptA
+BPLIIOBE_01422	gene	cptA		
+BPLIIOBE_01423	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+BPLIIOBE_01423	gene	murB		
+BPLIIOBE_01424	CDS			hypothetical protein
+BPLIIOBE_01424	gene			
+BPLIIOBE_01425	CDS	fliI	3.6.3.14	Flagellum-specific ATP synthase
+BPLIIOBE_01425	gene	fliI		
+BPLIIOBE_01426	CDS	ptlH		Type IV secretion system protein PtlH
+BPLIIOBE_01426	gene	ptlH		
+BPLIIOBE_01427	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+BPLIIOBE_01427	gene	ileS		
+BPLIIOBE_01428	CDS			hypothetical protein
+BPLIIOBE_01428	gene			
+BPLIIOBE_01429	CDS			hypothetical protein
+BPLIIOBE_01429	gene			
+BPLIIOBE_01430	CDS			hypothetical protein
+BPLIIOBE_01430	gene			
+BPLIIOBE_01431	CDS			hypothetical protein
+BPLIIOBE_01431	gene			
+BPLIIOBE_01432	CDS			hypothetical protein
+BPLIIOBE_01432	gene			
+BPLIIOBE_01433	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+BPLIIOBE_01433	gene	rlmN		
+BPLIIOBE_01434	CDS	kdsD	5.3.1.13	Arabinose 5-phosphate isomerase KdsD
+BPLIIOBE_01434	gene	kdsD		
+BPLIIOBE_01435	CDS	rnj	3.1.-.-	Ribonuclease J
+BPLIIOBE_01435	gene	rnj		
+BPLIIOBE_01436	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+BPLIIOBE_01436	gene	rsmA		
+BPLIIOBE_01437	CDS			hypothetical protein
+BPLIIOBE_01437	gene			
+BPLIIOBE_01438	CDS			hypothetical protein
+BPLIIOBE_01438	gene			
+BPLIIOBE_01439	CDS	purU	3.5.1.10	Formyltetrahydrofolate deformylase
+BPLIIOBE_01439	gene	purU		
+BPLIIOBE_01440	CDS	sppA	3.4.21.-	Putative signal peptide peptidase SppA
+BPLIIOBE_01440	gene	sppA		
+BPLIIOBE_01441	CDS			hypothetical protein
+BPLIIOBE_01441	gene			
+BPLIIOBE_01442	CDS			hypothetical protein
+BPLIIOBE_01442	gene			
+BPLIIOBE_01443	CDS			hypothetical protein
+BPLIIOBE_01443	gene			
+BPLIIOBE_01444	CDS			hypothetical protein
+BPLIIOBE_01444	gene			
+BPLIIOBE_01445	CDS			hypothetical protein
+BPLIIOBE_01445	gene			
+BPLIIOBE_01446	CDS			hypothetical protein
+BPLIIOBE_01446	gene			
+BPLIIOBE_01447	CDS	smc_3		Chromosome partition protein Smc
+BPLIIOBE_01447	gene	smc_3		
+BPLIIOBE_01448	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+BPLIIOBE_01448	gene	fmt		
+BPLIIOBE_01449	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+BPLIIOBE_01449	gene	birA		
+BPLIIOBE_01450	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+BPLIIOBE_01450	gene	soj		
+BPLIIOBE_01451	CDS	parB		putative chromosome-partitioning protein ParB
+BPLIIOBE_01451	gene	parB		
+BPLIIOBE_01452	CDS	atpF_1		ATP synthase subunit b, sodium ion specific
+BPLIIOBE_01452	gene	atpF_1		
+BPLIIOBE_01453	CDS	atpF_2		ATP synthase subunit b
+BPLIIOBE_01453	gene	atpF_2		
+BPLIIOBE_01454	CDS	atpD_1		ATP synthase subunit delta
+BPLIIOBE_01454	gene	atpD_1		
+BPLIIOBE_01455	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+BPLIIOBE_01455	gene	atpA		
+BPLIIOBE_01456	CDS	atpG		ATP synthase gamma chain
+BPLIIOBE_01456	gene	atpG		
+BPLIIOBE_01457	CDS	atpD_2	3.6.3.14	ATP synthase subunit beta
+BPLIIOBE_01457	gene	atpD_2		
+BPLIIOBE_01458	CDS	atpC		ATP synthase epsilon chain
+BPLIIOBE_01458	gene	atpC		
+BPLIIOBE_01459	CDS	exbB_3		Biopolymer transport protein ExbB
+BPLIIOBE_01459	gene	exbB_3		
+BPLIIOBE_01460	CDS	exbD_3		Biopolymer transport protein ExbD
+BPLIIOBE_01460	gene	exbD_3		
+BPLIIOBE_01461	CDS			hypothetical protein
+BPLIIOBE_01461	gene			
+BPLIIOBE_01462	CDS	tolB		Protein TolB
+BPLIIOBE_01462	gene	tolB		
+BPLIIOBE_01463	CDS	pal		Outer membrane protein P6
+BPLIIOBE_01463	gene	pal		
+BPLIIOBE_01464	CDS			hypothetical protein
+BPLIIOBE_01464	gene			
+BPLIIOBE_01465	CDS	slyD	5.2.1.8	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+BPLIIOBE_01465	gene	slyD		
+BPLIIOBE_01466	CDS			hypothetical protein
+BPLIIOBE_01466	gene			
+BPLIIOBE_01467	CDS			hypothetical protein
+BPLIIOBE_01467	gene			
+BPLIIOBE_01468	CDS	hhaIM	2.1.1.37	Modification methylase HhaI
+BPLIIOBE_01468	gene	hhaIM		
+BPLIIOBE_01469	CDS			hypothetical protein
+BPLIIOBE_01469	gene			
+BPLIIOBE_01470	CDS	flgK		Flagellar hook-associated protein 1
+BPLIIOBE_01470	gene	flgK		
+BPLIIOBE_01471	CDS	ggt	2.3.2.2	Gamma-glutamyltranspeptidase
+BPLIIOBE_01471	gene	ggt		
+BPLIIOBE_01472	CDS	esiB		Secretory immunoglobulin A-binding protein EsiB
+BPLIIOBE_01472	gene	esiB		
+BPLIIOBE_01473	CDS			hypothetical protein
+BPLIIOBE_01473	gene			
+BPLIIOBE_01474	CDS	hcpC_2	3.5.2.6	Putative beta-lactamase HcpC
+BPLIIOBE_01474	gene	hcpC_2		
+BPLIIOBE_01475	CDS	eda		KHG/KDPG aldolase
+BPLIIOBE_01475	gene	eda		
+BPLIIOBE_01476	CDS	edd	4.2.1.12	Phosphogluconate dehydratase
+BPLIIOBE_01476	gene	edd		
+BPLIIOBE_01477	CDS	zwf	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase
+BPLIIOBE_01477	gene	zwf		
+BPLIIOBE_01478	CDS	pgl	3.1.1.31	6-phosphogluconolactonase
+BPLIIOBE_01478	gene	pgl		
+BPLIIOBE_01479	CDS	glk	2.7.1.2	Glucokinase
+BPLIIOBE_01479	gene	glk		
+BPLIIOBE_01480	CDS	adhA	1.1.1.-	putative formaldehyde dehydrogenase AdhA
+BPLIIOBE_01480	gene	adhA		
+BPLIIOBE_01481	CDS			hypothetical protein
+BPLIIOBE_01481	gene			
+BPLIIOBE_01482	CDS			hypothetical protein
+BPLIIOBE_01482	gene			
+BPLIIOBE_01483	CDS			hypothetical protein
+BPLIIOBE_01483	gene			
+BPLIIOBE_01484	CDS	porC	1.2.7.1	Pyruvate synthase subunit PorC
+BPLIIOBE_01484	gene	porC		
+BPLIIOBE_01485	CDS	porD		Pyruvate synthase subunit PorD
+BPLIIOBE_01485	gene	porD		
+BPLIIOBE_01486	CDS	porA	1.2.7.1	Pyruvate synthase subunit PorA
+BPLIIOBE_01486	gene	porA		
+BPLIIOBE_01487	CDS	porB	1.2.7.1	Pyruvate synthase subunit PorB
+BPLIIOBE_01487	gene	porB		
+BPLIIOBE_01488	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+BPLIIOBE_01488	gene	purB		
+BPLIIOBE_01489	CDS			hypothetical protein
+BPLIIOBE_01489	gene			
+BPLIIOBE_01490	CDS	uvrB		UvrABC system protein B
+BPLIIOBE_01490	gene	uvrB		
+BPLIIOBE_01491	CDS			hypothetical protein
+BPLIIOBE_01491	gene			
+BPLIIOBE_01492	CDS			hypothetical protein
+BPLIIOBE_01492	gene			
+BPLIIOBE_01493	CDS			hypothetical protein
+BPLIIOBE_01493	gene			
+BPLIIOBE_01494	CDS			hypothetical protein
+BPLIIOBE_01494	gene			
+BPLIIOBE_01495	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+BPLIIOBE_01495	gene	recG		
+BPLIIOBE_01496	CDS			hypothetical protein
+BPLIIOBE_01496	gene			
+BPLIIOBE_01497	CDS			hypothetical protein
+BPLIIOBE_01497	gene			
+BPLIIOBE_01498	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+BPLIIOBE_01498	gene	exoA		
+BPLIIOBE_01499	tRNA			tRNA-Phe(gaa)
+BPLIIOBE_01499	gene			
+BPLIIOBE_01500	CDS			hypothetical protein
+BPLIIOBE_01500	gene			
+BPLIIOBE_01501	CDS	dnaA		Chromosomal replication initiator protein DnaA
+BPLIIOBE_01501	gene	dnaA		
+BPLIIOBE_01502	CDS	mqnB	3.2.2.26	Futalosine hydrolase
+BPLIIOBE_01502	gene	mqnB		
+BPLIIOBE_01503	CDS			hypothetical protein
+BPLIIOBE_01503	gene			
+BPLIIOBE_01504	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+BPLIIOBE_01504	gene	glmS		
+BPLIIOBE_01505	CDS	thyX	2.1.1.148	Flavin-dependent thymidylate synthase
+BPLIIOBE_01505	gene	thyX		
+BPLIIOBE_01506	CDS	vspIM	2.1.1.72	Modification methylase VspI
+BPLIIOBE_01506	gene	vspIM		
+BPLIIOBE_01507	CDS			hypothetical protein
+BPLIIOBE_01507	gene			
+BPLIIOBE_01508	CDS	typA		GTP-binding protein TypA/BipA
+BPLIIOBE_01508	gene	typA		
+BPLIIOBE_01509	CDS			hypothetical protein
+BPLIIOBE_01509	gene			
+BPLIIOBE_01510	CDS			hypothetical protein
+BPLIIOBE_01510	gene			
+BPLIIOBE_01511	CDS			hypothetical protein
+BPLIIOBE_01511	gene			
+BPLIIOBE_01512	CDS			hypothetical protein
+BPLIIOBE_01512	gene			
+BPLIIOBE_01513	CDS	ydiO	2.1.1.37	putative BsuMI modification methylase subunit YdiO
+BPLIIOBE_01513	gene	ydiO		
+BPLIIOBE_01514	CDS			hypothetical protein
+BPLIIOBE_01514	gene			
+BPLIIOBE_01515	CDS			hypothetical protein
+BPLIIOBE_01515	gene			
+BPLIIOBE_01516	CDS	srpA	1.11.1.-	Catalase-related peroxidase
+BPLIIOBE_01516	gene	srpA		
+BPLIIOBE_01517	CDS			hypothetical protein
+BPLIIOBE_01517	gene			
+BPLIIOBE_01518	CDS			hypothetical protein
+BPLIIOBE_01518	gene			
+BPLIIOBE_01519	CDS	speA	4.1.1.19	Biosynthetic arginine decarboxylase
+BPLIIOBE_01519	gene	speA		
+BPLIIOBE_01520	CDS	mgtA	2.4.1.-	GDP-mannose-dependent alpha-mannosyltransferase
+BPLIIOBE_01520	gene	mgtA		
+BPLIIOBE_01521	CDS			hypothetical protein
+BPLIIOBE_01521	gene			
+BPLIIOBE_01522	CDS	cmoB	2.5.1.-	tRNA U34 carboxymethyltransferase
+BPLIIOBE_01522	gene	cmoB		
+BPLIIOBE_01523	CDS			hypothetical protein
+BPLIIOBE_01523	gene			
+BPLIIOBE_01524	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+BPLIIOBE_01524	gene	metG		
+BPLIIOBE_01525	CDS	cfa	2.1.1.79	Cyclopropane-fatty-acyl-phospholipid synthase
+BPLIIOBE_01525	gene	cfa		
+BPLIIOBE_01526	CDS	ynaI		Low conductance mechanosensitive channel YnaI
+BPLIIOBE_01526	gene	ynaI		
+BPLIIOBE_01527	CDS			hypothetical protein
+BPLIIOBE_01527	gene			
+BPLIIOBE_01528	CDS			hypothetical protein
+BPLIIOBE_01528	gene			
+BPLIIOBE_01529	CDS			hypothetical protein
+BPLIIOBE_01529	gene			
+BPLIIOBE_01530	CDS			hypothetical protein
+BPLIIOBE_01530	gene			
+BPLIIOBE_01531	CDS			hypothetical protein
+BPLIIOBE_01531	gene			
+BPLIIOBE_01532	CDS			hypothetical protein
+BPLIIOBE_01532	gene			
+BPLIIOBE_01533	CDS			hypothetical protein
+BPLIIOBE_01533	gene			
+BPLIIOBE_01534	CDS			hypothetical protein
+BPLIIOBE_01534	gene			
+BPLIIOBE_01535	CDS			hypothetical protein
+BPLIIOBE_01535	gene			
+BPLIIOBE_01536	CDS			hypothetical protein
+BPLIIOBE_01536	gene			
+BPLIIOBE_01537	CDS			hypothetical protein
+BPLIIOBE_01537	gene			
+BPLIIOBE_01538	CDS			hypothetical protein
+BPLIIOBE_01538	gene			
+BPLIIOBE_01539	CDS			hypothetical protein
+BPLIIOBE_01539	gene			
+BPLIIOBE_01540	CDS			hypothetical protein
+BPLIIOBE_01540	gene			
+BPLIIOBE_01541	CDS			hypothetical protein
+BPLIIOBE_01541	gene			
+BPLIIOBE_01542	CDS			hypothetical protein
+BPLIIOBE_01542	gene			
+BPLIIOBE_01543	CDS			hypothetical protein
+BPLIIOBE_01543	gene			
+BPLIIOBE_01544	CDS			hypothetical protein
+BPLIIOBE_01544	gene			
+BPLIIOBE_01545	CDS			hypothetical protein
+BPLIIOBE_01545	gene			
+BPLIIOBE_01546	CDS			hypothetical protein
+BPLIIOBE_01546	gene			
+BPLIIOBE_01547	CDS			hypothetical protein
+BPLIIOBE_01547	gene			
+BPLIIOBE_01548	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+BPLIIOBE_01548	gene	recD2		
+BPLIIOBE_01549	CDS	ctkA	2.7.11.1	Serine/threonine-protein kinase CtkA
+BPLIIOBE_01549	gene	ctkA		
+BPLIIOBE_01550	CDS	xerH_2		Tyrosine recombinase XerH
+BPLIIOBE_01550	gene	xerH_2		
+BPLIIOBE_01551	CDS			hypothetical protein
+BPLIIOBE_01551	gene			
+BPLIIOBE_01552	CDS			hypothetical protein
+BPLIIOBE_01552	gene			
+BPLIIOBE_01553	CDS			hypothetical protein
+BPLIIOBE_01553	gene			
+BPLIIOBE_01554	CDS			hypothetical protein
+BPLIIOBE_01554	gene			
+BPLIIOBE_01555	CDS			hypothetical protein
+BPLIIOBE_01555	gene			
+BPLIIOBE_01556	CDS			hypothetical protein
+BPLIIOBE_01556	gene			
+BPLIIOBE_01557	CDS	ansA	3.5.1.1	putative L-asparaginase
+BPLIIOBE_01557	gene	ansA		
+BPLIIOBE_01558	CDS	dcuA		Anaerobic C4-dicarboxylate transporter DcuA
+BPLIIOBE_01558	gene	dcuA		
+BPLIIOBE_01559	CDS			hypothetical protein
+BPLIIOBE_01559	gene			
+BPLIIOBE_01560	CDS			hypothetical protein
+BPLIIOBE_01560	gene			
+BPLIIOBE_01561	CDS			hypothetical protein
+BPLIIOBE_01561	gene			
+BPLIIOBE_01562	CDS			hypothetical protein
+BPLIIOBE_01562	gene			
+BPLIIOBE_01563	CDS			hypothetical protein
+BPLIIOBE_01563	gene			
+BPLIIOBE_01564	CDS			hypothetical protein
+BPLIIOBE_01564	gene			
+BPLIIOBE_01565	CDS			hypothetical protein
+BPLIIOBE_01565	gene			
+BPLIIOBE_01566	CDS			hypothetical protein
+BPLIIOBE_01566	gene			
+BPLIIOBE_01567	CDS			hypothetical protein
+BPLIIOBE_01567	gene			

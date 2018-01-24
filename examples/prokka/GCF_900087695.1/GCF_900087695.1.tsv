@@ -1,0 +1,3141 @@
+locus_tag	ftype	gene	EC_number	product
+JPMNGIHJ_00001	CDS	rocA1	1.2.1.88	1-pyrroline-5-carboxylate dehydrogenase 1
+JPMNGIHJ_00001	gene	rocA1		
+JPMNGIHJ_00002	CDS	putP		High-affinity proline transporter PutP
+JPMNGIHJ_00002	gene	putP		
+JPMNGIHJ_00003	CDS	haeIIIM	2.1.1.37	Modification methylase HaeIII
+JPMNGIHJ_00003	gene	haeIIIM		
+JPMNGIHJ_00004	CDS			hypothetical protein
+JPMNGIHJ_00004	gene			
+JPMNGIHJ_00005	CDS			hypothetical protein
+JPMNGIHJ_00005	gene			
+JPMNGIHJ_00006	CDS			hypothetical protein
+JPMNGIHJ_00006	gene			
+JPMNGIHJ_00007	CDS	bspRIM	2.1.1.37	Modification methylase BspRI
+JPMNGIHJ_00007	gene	bspRIM		
+JPMNGIHJ_00008	CDS	dpnA_1	2.1.1.72	Modification methylase DpnIIB
+JPMNGIHJ_00008	gene	dpnA_1		
+JPMNGIHJ_00009	CDS	aguA	3.5.3.12	Agmatine deiminase
+JPMNGIHJ_00009	gene	aguA		
+JPMNGIHJ_00010	CDS	hypF	2.1.3.-	Carbamoyltransferase HypF
+JPMNGIHJ_00010	gene	hypF		
+JPMNGIHJ_00011	CDS	hypE		Hydrogenase isoenzymes formation protein HypE
+JPMNGIHJ_00011	gene	hypE		
+JPMNGIHJ_00012	CDS	colC	1.1.1.356	GDP-L-colitose synthase
+JPMNGIHJ_00012	gene	colC		
+JPMNGIHJ_00013	CDS	gmd	4.2.1.47	GDP-mannose 4,6-dehydratase
+JPMNGIHJ_00013	gene	gmd		
+JPMNGIHJ_00014	CDS	algA		Alginate biosynthesis protein AlgA
+JPMNGIHJ_00014	gene	algA		
+JPMNGIHJ_00015	CDS	ptlG		Type IV secretion system protein PtlG
+JPMNGIHJ_00015	gene	ptlG		
+JPMNGIHJ_00016	CDS			hypothetical protein
+JPMNGIHJ_00016	gene			
+JPMNGIHJ_00017	CDS			hypothetical protein
+JPMNGIHJ_00017	gene			
+JPMNGIHJ_00018	CDS			hypothetical protein
+JPMNGIHJ_00018	gene			
+JPMNGIHJ_00019	CDS			hypothetical protein
+JPMNGIHJ_00019	gene			
+JPMNGIHJ_00020	CDS			hypothetical protein
+JPMNGIHJ_00020	gene			
+JPMNGIHJ_00021	CDS			Nucleoid-associated protein
+JPMNGIHJ_00021	gene			
+JPMNGIHJ_00022	CDS	panD	4.1.1.11	Aspartate 1-decarboxylase
+JPMNGIHJ_00022	gene	panD		
+JPMNGIHJ_00023	CDS	clpA		ATP-dependent Clp protease ATP-binding subunit ClpA
+JPMNGIHJ_00023	gene	clpA		
+JPMNGIHJ_00024	CDS	clpS		ATP-dependent Clp protease adapter protein ClpS
+JPMNGIHJ_00024	gene	clpS		
+JPMNGIHJ_00025	CDS			hypothetical protein
+JPMNGIHJ_00025	gene			
+JPMNGIHJ_00026	CDS			hypothetical protein
+JPMNGIHJ_00026	gene			
+JPMNGIHJ_00027	CDS	bioD	6.3.3.3	ATP-dependent dethiobiotin synthetase BioD
+JPMNGIHJ_00027	gene	bioD		
+JPMNGIHJ_00028	CDS			hypothetical protein
+JPMNGIHJ_00028	gene			
+JPMNGIHJ_00029	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+JPMNGIHJ_00029	gene	icd		
+JPMNGIHJ_00030	CDS	aarA	2.3.3.16	Citrate synthase
+JPMNGIHJ_00030	gene	aarA		
+JPMNGIHJ_00031	CDS			hypothetical protein
+JPMNGIHJ_00031	gene			
+JPMNGIHJ_00032	CDS	eptA	2.7.-.-	Phosphoethanolamine transferase EptA
+JPMNGIHJ_00032	gene	eptA		
+JPMNGIHJ_00033	CDS	lpxE_1	3.1.-.-	Lipid A 1-phosphatase
+JPMNGIHJ_00033	gene	lpxE_1		
+JPMNGIHJ_00034	CDS	nspC	4.1.1.96	Carboxynorspermidine/carboxyspermidine decarboxylase
+JPMNGIHJ_00034	gene	nspC		
+JPMNGIHJ_00035	CDS	cheV_1		Chemotaxis protein CheV
+JPMNGIHJ_00035	gene	cheV_1		
+JPMNGIHJ_00036	CDS			hypothetical protein
+JPMNGIHJ_00036	gene			
+JPMNGIHJ_00037	CDS	virB4_1		Type IV secretion system protein virB4
+JPMNGIHJ_00037	gene	virB4_1		
+JPMNGIHJ_00038	CDS			hypothetical protein
+JPMNGIHJ_00038	gene			
+JPMNGIHJ_00039	CDS			hypothetical protein
+JPMNGIHJ_00039	gene			
+JPMNGIHJ_00040	CDS			hypothetical protein
+JPMNGIHJ_00040	gene			
+JPMNGIHJ_00041	CDS	mnmA_1	2.8.1.-	tRNA-specific 2-thiouridylase MnmA
+JPMNGIHJ_00041	gene	mnmA_1		
+JPMNGIHJ_00042	CDS	dnaG	2.7.7.-	DNA primase
+JPMNGIHJ_00042	gene	dnaG		
+JPMNGIHJ_00043	CDS	groS		10 kDa chaperonin
+JPMNGIHJ_00043	gene	groS		
+JPMNGIHJ_00044	CDS	groL		60 kDa chaperonin
+JPMNGIHJ_00044	gene	groL		
+JPMNGIHJ_00045	CDS			hypothetical protein
+JPMNGIHJ_00045	gene			
+JPMNGIHJ_00046	tRNA			tRNA-Lys(ttt)
+JPMNGIHJ_00046	gene			
+JPMNGIHJ_00047	tRNA			tRNA-Glu(ttc)
+JPMNGIHJ_00047	gene			
+JPMNGIHJ_00048	tRNA			tRNA-Val(tac)
+JPMNGIHJ_00048	gene			
+JPMNGIHJ_00049	tRNA			tRNA-Asp(gtc)
+JPMNGIHJ_00049	gene			
+JPMNGIHJ_00050	tRNA			tRNA-Glu(ttc)
+JPMNGIHJ_00050	gene			
+JPMNGIHJ_00051	CDS	panC	6.3.2.1	Pantothenate synthetase
+JPMNGIHJ_00051	gene	panC		
+JPMNGIHJ_00052	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+JPMNGIHJ_00052	gene	pyrF		
+JPMNGIHJ_00053	CDS	cynT	4.2.1.1	Carbonic anhydrase 1
+JPMNGIHJ_00053	gene	cynT		
+JPMNGIHJ_00054	CDS	kdsA	2.5.1.55	2-dehydro-3-deoxyphosphooctonate aldolase
+JPMNGIHJ_00054	gene	kdsA		
+JPMNGIHJ_00055	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+JPMNGIHJ_00055	gene	ribH		
+JPMNGIHJ_00056	CDS	nusB		N utilization substance protein B 
+JPMNGIHJ_00056	gene	nusB		
+JPMNGIHJ_00057	CDS			hypothetical protein
+JPMNGIHJ_00057	gene			
+JPMNGIHJ_00058	CDS	exbD_1		Biopolymer transport protein ExbD
+JPMNGIHJ_00058	gene	exbD_1		
+JPMNGIHJ_00059	CDS	exbB_1		Biopolymer transport protein ExbB
+JPMNGIHJ_00059	gene	exbB_1		
+JPMNGIHJ_00060	CDS			Putative nickel-responsive regulator
+JPMNGIHJ_00060	gene			
+JPMNGIHJ_00061	CDS	nadD	2.7.7.18	putative nicotinate-nucleotide adenylyltransferase
+JPMNGIHJ_00061	gene	nadD		
+JPMNGIHJ_00062	CDS			hypothetical protein
+JPMNGIHJ_00062	gene			
+JPMNGIHJ_00063	CDS	mnmA_2	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+JPMNGIHJ_00063	gene	mnmA_2		
+JPMNGIHJ_00064	CDS			hypothetical protein
+JPMNGIHJ_00064	gene			
+JPMNGIHJ_00065	CDS			hypothetical protein
+JPMNGIHJ_00065	gene			
+JPMNGIHJ_00066	CDS	dnaJ		Chaperone protein DnaJ
+JPMNGIHJ_00066	gene	dnaJ		
+JPMNGIHJ_00067	CDS	ygaZ		Inner membrane protein YgaZ
+JPMNGIHJ_00067	gene	ygaZ		
+JPMNGIHJ_00068	CDS			hypothetical protein
+JPMNGIHJ_00068	gene			
+JPMNGIHJ_00069	CDS	cusA		Cation efflux system protein CusA
+JPMNGIHJ_00069	gene	cusA		
+JPMNGIHJ_00070	CDS	cusB		Cation efflux system protein CusB
+JPMNGIHJ_00070	gene	cusB		
+JPMNGIHJ_00071	CDS			hypothetical protein
+JPMNGIHJ_00071	gene			
+JPMNGIHJ_00072	CDS			hypothetical protein
+JPMNGIHJ_00072	gene			
+JPMNGIHJ_00073	CDS	fumC	4.2.1.2	Fumarate hydratase class II
+JPMNGIHJ_00073	gene	fumC		
+JPMNGIHJ_00074	CDS			hypothetical protein
+JPMNGIHJ_00074	gene			
+JPMNGIHJ_00075	CDS	rnhB	3.1.26.4	Ribonuclease HII
+JPMNGIHJ_00075	gene	rnhB		
+JPMNGIHJ_00076	CDS			hypothetical protein
+JPMNGIHJ_00076	gene			
+JPMNGIHJ_00077	CDS			hypothetical protein
+JPMNGIHJ_00077	gene			
+JPMNGIHJ_00078	CDS	rpsJ		30S ribosomal protein S10
+JPMNGIHJ_00078	gene	rpsJ		
+JPMNGIHJ_00079	CDS	rplC		50S ribosomal protein L3
+JPMNGIHJ_00079	gene	rplC		
+JPMNGIHJ_00080	CDS	rplD		50S ribosomal protein L4
+JPMNGIHJ_00080	gene	rplD		
+JPMNGIHJ_00081	CDS	rplW		50S ribosomal protein L23
+JPMNGIHJ_00081	gene	rplW		
+JPMNGIHJ_00082	CDS	rplB		50S ribosomal protein L2
+JPMNGIHJ_00082	gene	rplB		
+JPMNGIHJ_00083	CDS	rpsS		30S ribosomal protein S19
+JPMNGIHJ_00083	gene	rpsS		
+JPMNGIHJ_00084	CDS	rplV		50S ribosomal protein L22
+JPMNGIHJ_00084	gene	rplV		
+JPMNGIHJ_00085	CDS	rpsC		30S ribosomal protein S3
+JPMNGIHJ_00085	gene	rpsC		
+JPMNGIHJ_00086	CDS	rplP		50S ribosomal protein L16
+JPMNGIHJ_00086	gene	rplP		
+JPMNGIHJ_00087	CDS	rpmC		50S ribosomal protein L29
+JPMNGIHJ_00087	gene	rpmC		
+JPMNGIHJ_00088	CDS	rpsQ		30S ribosomal protein S17
+JPMNGIHJ_00088	gene	rpsQ		
+JPMNGIHJ_00089	CDS	rplN		50S ribosomal protein L14
+JPMNGIHJ_00089	gene	rplN		
+JPMNGIHJ_00090	CDS	rplX		50S ribosomal protein L24
+JPMNGIHJ_00090	gene	rplX		
+JPMNGIHJ_00091	CDS	rplE		50S ribosomal protein L5
+JPMNGIHJ_00091	gene	rplE		
+JPMNGIHJ_00092	CDS	rpsH		30S ribosomal protein S8
+JPMNGIHJ_00092	gene	rpsH		
+JPMNGIHJ_00093	CDS	rplF		50S ribosomal protein L6
+JPMNGIHJ_00093	gene	rplF		
+JPMNGIHJ_00094	CDS	rplR		50S ribosomal protein L18
+JPMNGIHJ_00094	gene	rplR		
+JPMNGIHJ_00095	CDS	rpsE		30S ribosomal protein S5
+JPMNGIHJ_00095	gene	rpsE		
+JPMNGIHJ_00096	CDS	rplO		50S ribosomal protein L15
+JPMNGIHJ_00096	gene	rplO		
+JPMNGIHJ_00097	CDS	secY		Protein translocase subunit SecY
+JPMNGIHJ_00097	gene	secY		
+JPMNGIHJ_00098	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+JPMNGIHJ_00098	gene	map		
+JPMNGIHJ_00099	CDS	infA		Translation initiation factor IF-1
+JPMNGIHJ_00099	gene	infA		
+JPMNGIHJ_00100	CDS	rpmJ		50S ribosomal protein L36
+JPMNGIHJ_00100	gene	rpmJ		
+JPMNGIHJ_00101	CDS	rpsM		30S ribosomal protein S13
+JPMNGIHJ_00101	gene	rpsM		
+JPMNGIHJ_00102	CDS	rpsK		30S ribosomal protein S11
+JPMNGIHJ_00102	gene	rpsK		
+JPMNGIHJ_00103	CDS	rpsD		30S ribosomal protein S4
+JPMNGIHJ_00103	gene	rpsD		
+JPMNGIHJ_00104	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+JPMNGIHJ_00104	gene	rpoA		
+JPMNGIHJ_00105	CDS	rplQ		50S ribosomal protein L17
+JPMNGIHJ_00105	gene	rplQ		
+JPMNGIHJ_00106	CDS			hypothetical protein
+JPMNGIHJ_00106	gene			
+JPMNGIHJ_00107	CDS	pnuC		Nicotinamide riboside transporter PnuC
+JPMNGIHJ_00107	gene	pnuC		
+JPMNGIHJ_00108	CDS			hypothetical protein
+JPMNGIHJ_00108	gene			
+JPMNGIHJ_00109	CDS			hypothetical protein
+JPMNGIHJ_00109	gene			
+JPMNGIHJ_00110	CDS	tenA	3.5.99.2	Aminopyrimidine aminohydrolase
+JPMNGIHJ_00110	gene	tenA		
+JPMNGIHJ_00111	CDS	yceI		Protein YceI
+JPMNGIHJ_00111	gene	yceI		
+JPMNGIHJ_00112	CDS	hel		Lipoprotein E
+JPMNGIHJ_00112	gene	hel		
+JPMNGIHJ_00113	CDS			hypothetical protein
+JPMNGIHJ_00113	gene			
+JPMNGIHJ_00114	CDS			hypothetical protein
+JPMNGIHJ_00114	gene			
+JPMNGIHJ_00115	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+JPMNGIHJ_00115	gene	trpE		
+JPMNGIHJ_00116	CDS	trpG	4.1.3.27	Anthranilate synthase component 2
+JPMNGIHJ_00116	gene	trpG		
+JPMNGIHJ_00117	CDS	trpGD		Bifunctional protein TrpGD
+JPMNGIHJ_00117	gene	trpGD		
+JPMNGIHJ_00118	CDS	trpC		Tryptophan biosynthesis protein TrpCF
+JPMNGIHJ_00118	gene	trpC		
+JPMNGIHJ_00119	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+JPMNGIHJ_00119	gene	trpB		
+JPMNGIHJ_00120	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+JPMNGIHJ_00120	gene	trpA		
+JPMNGIHJ_00121	CDS			hypothetical protein
+JPMNGIHJ_00121	gene			
+JPMNGIHJ_00122	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+JPMNGIHJ_00122	gene	algC		
+JPMNGIHJ_00123	CDS			hypothetical protein
+JPMNGIHJ_00123	gene			
+JPMNGIHJ_00124	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+JPMNGIHJ_00124	gene	nuoN		
+JPMNGIHJ_00125	CDS	ndhD1	1.6.5.-	NAD(P)H-quinone oxidoreductase chain 4 1
+JPMNGIHJ_00125	gene	ndhD1		
+JPMNGIHJ_00126	CDS	nuoL	1.6.5.11	NADH-quinone oxidoreductase subunit L
+JPMNGIHJ_00126	gene	nuoL		
+JPMNGIHJ_00127	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+JPMNGIHJ_00127	gene			
+JPMNGIHJ_00128	CDS	nuoJ	1.6.5.11	NADH-quinone oxidoreductase subunit J
+JPMNGIHJ_00128	gene	nuoJ		
+JPMNGIHJ_00129	CDS	nuoI	1.6.5.11	NADH-quinone oxidoreductase subunit I
+JPMNGIHJ_00129	gene	nuoI		
+JPMNGIHJ_00130	CDS	nqo8	1.6.5.11	NADH-quinone oxidoreductase subunit 8
+JPMNGIHJ_00130	gene	nqo8		
+JPMNGIHJ_00131	CDS	sfrA	1.-.-.-	NADPH-Fe(3+) oxidoreductase subunit alpha
+JPMNGIHJ_00131	gene	sfrA		
+JPMNGIHJ_00132	CDS			hypothetical protein
+JPMNGIHJ_00132	gene			
+JPMNGIHJ_00133	CDS			hypothetical protein
+JPMNGIHJ_00133	gene			
+JPMNGIHJ_00134	CDS	nuoD	1.6.5.11	NADH-quinone oxidoreductase subunit D
+JPMNGIHJ_00134	gene	nuoD		
+JPMNGIHJ_00135	CDS	ndhJ	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit J
+JPMNGIHJ_00135	gene	ndhJ		
+JPMNGIHJ_00136	CDS	nqo6	1.6.5.11	NADH-quinone oxidoreductase subunit 6
+JPMNGIHJ_00136	gene	nqo6		
+JPMNGIHJ_00137	CDS	nuoA	1.6.5.11	NADH-quinone oxidoreductase subunit A
+JPMNGIHJ_00137	gene	nuoA		
+JPMNGIHJ_00138	CDS	cobB_1	3.5.1.-	NAD-dependent protein deacylase
+JPMNGIHJ_00138	gene	cobB_1		
+JPMNGIHJ_00139	CDS	cobB_2	3.5.1.-	NAD-dependent protein deacylase
+JPMNGIHJ_00139	gene	cobB_2		
+JPMNGIHJ_00140	CDS			hypothetical protein
+JPMNGIHJ_00140	gene			
+JPMNGIHJ_00141	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+JPMNGIHJ_00141	gene	pyrE		
+JPMNGIHJ_00142	CDS	frr		Ribosome-recycling factor
+JPMNGIHJ_00142	gene	frr		
+JPMNGIHJ_00143	CDS	secG		putative protein-export membrane protein SecG
+JPMNGIHJ_00143	gene	secG		
+JPMNGIHJ_00144	CDS	tam	2.1.1.144	Trans-aconitate 2-methyltransferase
+JPMNGIHJ_00144	gene	tam		
+JPMNGIHJ_00145	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+JPMNGIHJ_00145	gene	trpS		
+JPMNGIHJ_00146	CDS	dppE		Dipeptide-binding protein DppE
+JPMNGIHJ_00146	gene	dppE		
+JPMNGIHJ_00147	CDS	yejB		Inner membrane ABC transporter permease protein YejB
+JPMNGIHJ_00147	gene	yejB		
+JPMNGIHJ_00148	CDS			hypothetical protein
+JPMNGIHJ_00148	gene			
+JPMNGIHJ_00149	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+JPMNGIHJ_00149	gene	aroE		
+JPMNGIHJ_00150	CDS	rnr	3.1.13.1	Ribonuclease R
+JPMNGIHJ_00150	gene	rnr		
+JPMNGIHJ_00151	CDS			hypothetical protein
+JPMNGIHJ_00151	gene			
+JPMNGIHJ_00152	CDS	rpsF		30S ribosomal protein S6
+JPMNGIHJ_00152	gene	rpsF		
+JPMNGIHJ_00153	CDS	ssb		Single-stranded DNA-binding protein
+JPMNGIHJ_00153	gene	ssb		
+JPMNGIHJ_00154	CDS	rpsR		30S ribosomal protein S18
+JPMNGIHJ_00154	gene	rpsR		
+JPMNGIHJ_00155	CDS			hypothetical protein
+JPMNGIHJ_00155	gene			
+JPMNGIHJ_00156	CDS			hypothetical protein
+JPMNGIHJ_00156	gene			
+JPMNGIHJ_00157	CDS			hypothetical protein
+JPMNGIHJ_00157	gene			
+JPMNGIHJ_00158	CDS			hypothetical protein
+JPMNGIHJ_00158	gene			
+JPMNGIHJ_00159	CDS			hypothetical protein
+JPMNGIHJ_00159	gene			
+JPMNGIHJ_00160	CDS			hypothetical protein
+JPMNGIHJ_00160	gene			
+JPMNGIHJ_00161	CDS			hypothetical protein
+JPMNGIHJ_00161	gene			
+JPMNGIHJ_00162	CDS			hypothetical protein
+JPMNGIHJ_00162	gene			
+JPMNGIHJ_00163	CDS			hypothetical protein
+JPMNGIHJ_00163	gene			
+JPMNGIHJ_00164	CDS			hypothetical protein
+JPMNGIHJ_00164	gene			
+JPMNGIHJ_00165	CDS			hypothetical protein
+JPMNGIHJ_00165	gene			
+JPMNGIHJ_00166	CDS			hypothetical protein
+JPMNGIHJ_00166	gene			
+JPMNGIHJ_00167	CDS	ynaI		Low conductance mechanosensitive channel YnaI
+JPMNGIHJ_00167	gene	ynaI		
+JPMNGIHJ_00168	CDS	cfa	2.1.1.79	Cyclopropane-fatty-acyl-phospholipid synthase
+JPMNGIHJ_00168	gene	cfa		
+JPMNGIHJ_00169	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+JPMNGIHJ_00169	gene	metG		
+JPMNGIHJ_00170	CDS			hypothetical protein
+JPMNGIHJ_00170	gene			
+JPMNGIHJ_00171	CDS	cmoB	2.5.1.-	tRNA U34 carboxymethyltransferase
+JPMNGIHJ_00171	gene	cmoB		
+JPMNGIHJ_00172	CDS			hypothetical protein
+JPMNGIHJ_00172	gene			
+JPMNGIHJ_00173	CDS	mgtA	2.4.1.-	GDP-mannose-dependent alpha-mannosyltransferase
+JPMNGIHJ_00173	gene	mgtA		
+JPMNGIHJ_00174	CDS	speA	4.1.1.19	Biosynthetic arginine decarboxylase
+JPMNGIHJ_00174	gene	speA		
+JPMNGIHJ_00175	CDS	cadA	3.6.3.3	Cadmium, zinc and cobalt-transporting ATPase
+JPMNGIHJ_00175	gene	cadA		
+JPMNGIHJ_00176	CDS	comM		Competence protein ComM
+JPMNGIHJ_00176	gene	comM		
+JPMNGIHJ_00177	CDS	def	3.5.1.88	Peptide deformylase
+JPMNGIHJ_00177	gene	def		
+JPMNGIHJ_00178	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+JPMNGIHJ_00178	gene	clpP		
+JPMNGIHJ_00179	CDS	tig	5.2.1.8	Trigger factor
+JPMNGIHJ_00179	gene	tig		
+JPMNGIHJ_00180	CDS			hypothetical protein
+JPMNGIHJ_00180	gene			
+JPMNGIHJ_00181	CDS			hypothetical protein
+JPMNGIHJ_00181	gene			
+JPMNGIHJ_00182	CDS	moaC	4.6.1.17	Cyclic pyranopterin monophosphate synthase
+JPMNGIHJ_00182	gene	moaC		
+JPMNGIHJ_00183	CDS	mog	2.7.7.75	Molybdopterin adenylyltransferase
+JPMNGIHJ_00183	gene	mog		
+JPMNGIHJ_00184	CDS	moaE	2.8.1.12	Molybdopterin synthase catalytic subunit
+JPMNGIHJ_00184	gene	moaE		
+JPMNGIHJ_00185	CDS			hypothetical protein
+JPMNGIHJ_00185	gene			
+JPMNGIHJ_00186	CDS	ribA	3.5.4.25	GTP cyclohydrolase-2
+JPMNGIHJ_00186	gene	ribA		
+JPMNGIHJ_00187	CDS			hypothetical protein
+JPMNGIHJ_00187	gene			
+JPMNGIHJ_00188	CDS	ribBA		Riboflavin biosynthesis protein RibBA
+JPMNGIHJ_00188	gene	ribBA		
+JPMNGIHJ_00189	CDS			hypothetical protein
+JPMNGIHJ_00189	gene			
+JPMNGIHJ_00190	CDS			hypothetical protein
+JPMNGIHJ_00190	gene			
+JPMNGIHJ_00191	CDS	fecA_1		Fe(3+) dicitrate transport protein FecA
+JPMNGIHJ_00191	gene	fecA_1		
+JPMNGIHJ_00192	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+JPMNGIHJ_00192	gene	acpS		
+JPMNGIHJ_00193	CDS			hypothetical protein
+JPMNGIHJ_00193	gene			
+JPMNGIHJ_00194	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+JPMNGIHJ_00194	gene	rsmD		
+JPMNGIHJ_00195	CDS			hypothetical protein
+JPMNGIHJ_00195	gene			
+JPMNGIHJ_00196	CDS			hypothetical protein
+JPMNGIHJ_00196	gene			
+JPMNGIHJ_00197	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+JPMNGIHJ_00197	gene	gloC		
+JPMNGIHJ_00198	CDS	moeZ		putative adenylyltransferase/sulfurtransferase MoeZ
+JPMNGIHJ_00198	gene	moeZ		
+JPMNGIHJ_00199	CDS	pomA		Chemotaxis protein PomA
+JPMNGIHJ_00199	gene	pomA		
+JPMNGIHJ_00200	CDS	motB		Motility protein B
+JPMNGIHJ_00200	gene	motB		
+JPMNGIHJ_00201	CDS			hypothetical protein
+JPMNGIHJ_00201	gene			
+JPMNGIHJ_00202	CDS	opuCC		Glycine betaine/carnitine/choline-binding protein OpuCC
+JPMNGIHJ_00202	gene	opuCC		
+JPMNGIHJ_00203	CDS	opuBA		Choline transport ATP-binding protein OpuBA
+JPMNGIHJ_00203	gene	opuBA		
+JPMNGIHJ_00204	CDS			hypothetical protein
+JPMNGIHJ_00204	gene			
+JPMNGIHJ_00205	CDS	uvrC		UvrABC system protein C
+JPMNGIHJ_00205	gene	uvrC		
+JPMNGIHJ_00206	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+JPMNGIHJ_00206	gene	hom		
+JPMNGIHJ_00207	CDS			hypothetical protein
+JPMNGIHJ_00207	gene			
+JPMNGIHJ_00208	CDS	trxA_1		Thioredoxin
+JPMNGIHJ_00208	gene	trxA_1		
+JPMNGIHJ_00209	CDS	trxB	1.8.1.9	Thioredoxin reductase
+JPMNGIHJ_00209	gene	trxB		
+JPMNGIHJ_00210	CDS	lex1	2.-.-.-	Lipooligosaccharide biosynthesis protein lex-1
+JPMNGIHJ_00210	gene	lex1		
+JPMNGIHJ_00211	CDS			hypothetical protein
+JPMNGIHJ_00211	gene			
+JPMNGIHJ_00212	CDS	atpB		ATP synthase subunit a
+JPMNGIHJ_00212	gene	atpB		
+JPMNGIHJ_00213	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+JPMNGIHJ_00213	gene	guaB		
+JPMNGIHJ_00214	CDS	gatA	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+JPMNGIHJ_00214	gene	gatA		
+JPMNGIHJ_00215	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+JPMNGIHJ_00215	gene	coaE		
+JPMNGIHJ_00216	CDS	speE	2.5.1.16	Polyamine aminopropyltransferase
+JPMNGIHJ_00216	gene	speE		
+JPMNGIHJ_00217	CDS			hypothetical protein
+JPMNGIHJ_00217	gene			
+JPMNGIHJ_00218	CDS	der_1		GTPase Der
+JPMNGIHJ_00218	gene	der_1		
+JPMNGIHJ_00219	CDS	hup		DNA-binding protein HU
+JPMNGIHJ_00219	gene	hup		
+JPMNGIHJ_00220	tRNA			tRNA-Arg(cct)
+JPMNGIHJ_00220	gene			
+JPMNGIHJ_00221	CDS			hypothetical protein
+JPMNGIHJ_00221	gene			
+JPMNGIHJ_00222	CDS			hypothetical protein
+JPMNGIHJ_00222	gene			
+JPMNGIHJ_00223	CDS			hypothetical protein
+JPMNGIHJ_00223	gene			
+JPMNGIHJ_00224	CDS	pseB	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+JPMNGIHJ_00224	gene	pseB		
+JPMNGIHJ_00225	CDS	coaBC		Coenzyme A biosynthesis bifunctional protein CoaBC
+JPMNGIHJ_00225	gene	coaBC		
+JPMNGIHJ_00226	CDS			hypothetical protein
+JPMNGIHJ_00226	gene			
+JPMNGIHJ_00227	CDS	thiE	2.5.1.3	Thiamine-phosphate synthase
+JPMNGIHJ_00227	gene	thiE		
+JPMNGIHJ_00228	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+JPMNGIHJ_00228	gene	thiD		
+JPMNGIHJ_00229	CDS	thiM	2.7.1.50	Hydroxyethylthiazole kinase
+JPMNGIHJ_00229	gene	thiM		
+JPMNGIHJ_00230	CDS	hsdR_1	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+JPMNGIHJ_00230	gene	hsdR_1		
+JPMNGIHJ_00231	CDS			hypothetical protein
+JPMNGIHJ_00231	gene			
+JPMNGIHJ_00232	CDS			hypothetical protein
+JPMNGIHJ_00232	gene			
+JPMNGIHJ_00233	CDS			hypothetical protein
+JPMNGIHJ_00233	gene			
+JPMNGIHJ_00234	CDS	nadC	2.4.2.19	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+JPMNGIHJ_00234	gene	nadC		
+JPMNGIHJ_00235	CDS	nadA	2.5.1.72	Quinolinate synthase A
+JPMNGIHJ_00235	gene	nadA		
+JPMNGIHJ_00236	CDS	psd	4.1.1.65	Phosphatidylserine decarboxylase proenzyme
+JPMNGIHJ_00236	gene	psd		
+JPMNGIHJ_00237	CDS			hypothetical protein
+JPMNGIHJ_00237	gene			
+JPMNGIHJ_00238	CDS			hypothetical protein
+JPMNGIHJ_00238	gene			
+JPMNGIHJ_00239	CDS	plqA	2.5.1.-	4-hydroxybenzoate solanesyltransferase
+JPMNGIHJ_00239	gene	plqA		
+JPMNGIHJ_00240	CDS			hypothetical protein
+JPMNGIHJ_00240	gene			
+JPMNGIHJ_00241	CDS	dnaB	3.6.4.12	Replicative DNA helicase
+JPMNGIHJ_00241	gene	dnaB		
+JPMNGIHJ_00242	CDS	nnr		Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+JPMNGIHJ_00242	gene	nnr		
+JPMNGIHJ_00243	CDS	senX3	2.7.13.3	Signal-transduction histidine kinase senX3
+JPMNGIHJ_00243	gene	senX3		
+JPMNGIHJ_00244	CDS	qseB		Transcriptional regulatory protein QseB
+JPMNGIHJ_00244	gene	qseB		
+JPMNGIHJ_00245	CDS	mboIIR	3.1.21.4	Type-2 restriction enzyme MboII
+JPMNGIHJ_00245	gene	mboIIR		
+JPMNGIHJ_00246	CDS	mboIIM	2.1.1.72	Modification methylase MboII
+JPMNGIHJ_00246	gene	mboIIM		
+JPMNGIHJ_00247	CDS	rsrIM	2.1.1.72	Modification methylase RsrI
+JPMNGIHJ_00247	gene	rsrIM		
+JPMNGIHJ_00248	CDS			hypothetical protein
+JPMNGIHJ_00248	gene			
+JPMNGIHJ_00249	CDS	dpnA_2	2.1.1.72	Modification methylase DpnIIB
+JPMNGIHJ_00249	gene	dpnA_2		
+JPMNGIHJ_00250	CDS			hypothetical protein
+JPMNGIHJ_00250	gene			
+JPMNGIHJ_00251	CDS			hypothetical protein
+JPMNGIHJ_00251	gene			
+JPMNGIHJ_00252	CDS	mreB		Rod shape-determining protein MreB
+JPMNGIHJ_00252	gene	mreB		
+JPMNGIHJ_00253	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+JPMNGIHJ_00253	gene	clpX		
+JPMNGIHJ_00254	CDS	lpxA	2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+JPMNGIHJ_00254	gene	lpxA		
+JPMNGIHJ_00255	CDS	fabZ	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+JPMNGIHJ_00255	gene	fabZ		
+JPMNGIHJ_00256	CDS	fliW2		Flagellar assembly factor FliW 2
+JPMNGIHJ_00256	gene	fliW2		
+JPMNGIHJ_00257	CDS	bamD		Outer membrane protein assembly factor BamD
+JPMNGIHJ_00257	gene	bamD		
+JPMNGIHJ_00258	CDS	lon	3.4.21.53	Lon protease
+JPMNGIHJ_00258	gene	lon		
+JPMNGIHJ_00259	CDS	tyrA_1	1.3.1.12	Prephenate dehydrogenase
+JPMNGIHJ_00259	gene	tyrA_1		
+JPMNGIHJ_00260	CDS			hypothetical protein
+JPMNGIHJ_00260	gene			
+JPMNGIHJ_00261	CDS			hypothetical protein
+JPMNGIHJ_00261	gene			
+JPMNGIHJ_00262	CDS			hypothetical protein
+JPMNGIHJ_00262	gene			
+JPMNGIHJ_00263	CDS	fbp	3.1.3.11	Fructose-1,6-bisphosphatase class 1
+JPMNGIHJ_00263	gene	fbp		
+JPMNGIHJ_00264	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+JPMNGIHJ_00264	gene	rpe		
+JPMNGIHJ_00265	CDS	polC	2.7.7.7	DNA polymerase III PolC-type
+JPMNGIHJ_00265	gene	polC		
+JPMNGIHJ_00266	CDS			hypothetical protein
+JPMNGIHJ_00266	gene			
+JPMNGIHJ_00267	CDS			hypothetical protein
+JPMNGIHJ_00267	gene			
+JPMNGIHJ_00268	CDS			hypothetical protein
+JPMNGIHJ_00268	gene			
+JPMNGIHJ_00269	CDS			hypothetical protein
+JPMNGIHJ_00269	gene			
+JPMNGIHJ_00270	CDS			hypothetical protein
+JPMNGIHJ_00270	gene			
+JPMNGIHJ_00271	CDS			hypothetical protein
+JPMNGIHJ_00271	gene			
+JPMNGIHJ_00272	CDS	recN		DNA repair protein RecN
+JPMNGIHJ_00272	gene	recN		
+JPMNGIHJ_00273	CDS	nadK	2.7.1.23	NAD kinase
+JPMNGIHJ_00273	gene	nadK		
+JPMNGIHJ_00274	CDS			hypothetical protein
+JPMNGIHJ_00274	gene			
+JPMNGIHJ_00275	CDS			hypothetical protein
+JPMNGIHJ_00275	gene			
+JPMNGIHJ_00276	CDS			hypothetical protein
+JPMNGIHJ_00276	gene			
+JPMNGIHJ_00277	CDS	ald	1.4.1.1	Alanine dehydrogenase
+JPMNGIHJ_00277	gene	ald		
+JPMNGIHJ_00278	CDS	rocF	3.5.3.1	Arginase
+JPMNGIHJ_00278	gene	rocF		
+JPMNGIHJ_00279	CDS	fecA_2		Fe(3+) dicitrate transport protein FecA
+JPMNGIHJ_00279	gene	fecA_2		
+JPMNGIHJ_00280	CDS			hypothetical protein
+JPMNGIHJ_00280	gene			
+JPMNGIHJ_00281	CDS	hsdR_2	3.1.21.3	Type-1 restriction enzyme R protein
+JPMNGIHJ_00281	gene	hsdR_2		
+JPMNGIHJ_00282	CDS	hsdM	2.1.1.72	Type I restriction enzyme EcoKI M protein
+JPMNGIHJ_00282	gene	hsdM		
+JPMNGIHJ_00283	CDS			hypothetical protein
+JPMNGIHJ_00283	gene			
+JPMNGIHJ_00284	CDS	bioB	2.8.1.6	Biotin synthase
+JPMNGIHJ_00284	gene	bioB		
+JPMNGIHJ_00285	CDS			hypothetical protein
+JPMNGIHJ_00285	gene			
+JPMNGIHJ_00286	CDS			hypothetical protein
+JPMNGIHJ_00286	gene			
+JPMNGIHJ_00287	CDS	ppiB	5.2.1.8	Peptidyl-prolyl cis-trans isomerase B
+JPMNGIHJ_00287	gene	ppiB		
+JPMNGIHJ_00288	CDS	csrA		Carbon storage regulator 
+JPMNGIHJ_00288	gene	csrA		
+JPMNGIHJ_00289	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+JPMNGIHJ_00289	gene	ispE		
+JPMNGIHJ_00290	CDS	smpB		SsrA-binding protein
+JPMNGIHJ_00290	gene	smpB		
+JPMNGIHJ_00291	CDS	exbB_2		Biopolymer transport protein ExbB
+JPMNGIHJ_00291	gene	exbB_2		
+JPMNGIHJ_00292	CDS	exbD_2		Biopolymer transport protein ExbD
+JPMNGIHJ_00292	gene	exbD_2		
+JPMNGIHJ_00293	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+JPMNGIHJ_00293	gene	rnpA		
+JPMNGIHJ_00294	CDS	yidC		Membrane protein insertase YidC
+JPMNGIHJ_00294	gene	yidC		
+JPMNGIHJ_00295	CDS			hypothetical protein
+JPMNGIHJ_00295	gene			
+JPMNGIHJ_00296	CDS	mnmE	3.6.5.-	tRNA modification GTPase MnmE
+JPMNGIHJ_00296	gene	mnmE		
+JPMNGIHJ_00297	CDS			hypothetical protein
+JPMNGIHJ_00297	gene			
+JPMNGIHJ_00298	CDS			hypothetical protein
+JPMNGIHJ_00298	gene			
+JPMNGIHJ_00299	CDS			hypothetical protein
+JPMNGIHJ_00299	gene			
+JPMNGIHJ_00300	CDS			LPP20 lipoprotein
+JPMNGIHJ_00300	gene			
+JPMNGIHJ_00301	CDS			hypothetical protein
+JPMNGIHJ_00301	gene			
+JPMNGIHJ_00302	CDS	trxA_2		Thioredoxin
+JPMNGIHJ_00302	gene	trxA_2		
+JPMNGIHJ_00303	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+JPMNGIHJ_00303	gene	rluB		
+JPMNGIHJ_00304	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+JPMNGIHJ_00304	gene	dnaE		
+JPMNGIHJ_00305	CDS	ccpA	1.11.1.5	Cytochrome c551 peroxidase
+JPMNGIHJ_00305	gene	ccpA		
+JPMNGIHJ_00306	CDS			hypothetical protein
+JPMNGIHJ_00306	gene			
+JPMNGIHJ_00307	CDS			hypothetical protein
+JPMNGIHJ_00307	gene			
+JPMNGIHJ_00308	CDS			hypothetical protein
+JPMNGIHJ_00308	gene			
+JPMNGIHJ_00309	CDS	metN2	3.6.3.-	Methionine import ATP-binding protein MetN 2
+JPMNGIHJ_00309	gene	metN2		
+JPMNGIHJ_00310	CDS	mlaE		putative phospholipid ABC transporter permease protein MlaE
+JPMNGIHJ_00310	gene	mlaE		
+JPMNGIHJ_00311	CDS			hypothetical protein
+JPMNGIHJ_00311	gene			
+JPMNGIHJ_00312	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid transaminase 1
+JPMNGIHJ_00312	gene	ilvE		
+JPMNGIHJ_00313	CDS			hypothetical protein
+JPMNGIHJ_00313	gene			
+JPMNGIHJ_00314	CDS	polA	2.7.7.7	DNA polymerase I, thermostable
+JPMNGIHJ_00314	gene	polA		
+JPMNGIHJ_00315	CDS			hypothetical protein
+JPMNGIHJ_00315	gene			
+JPMNGIHJ_00316	CDS	bcgIB	3.1.21.-	Restriction enzyme BgcI subunit beta
+JPMNGIHJ_00316	gene	bcgIB		
+JPMNGIHJ_00317	CDS	bcgIA	3.1.21.-	Restriction enzyme BgcI subunit alpha
+JPMNGIHJ_00317	gene	bcgIA		
+JPMNGIHJ_00318	CDS			hypothetical protein
+JPMNGIHJ_00318	gene			
+JPMNGIHJ_00319	CDS	tmk	2.7.4.9	Thymidylate kinase
+JPMNGIHJ_00319	gene	tmk		
+JPMNGIHJ_00320	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+JPMNGIHJ_00320	gene	coaD		
+JPMNGIHJ_00321	CDS	ubiX	2.5.1.129	Flavin prenyltransferase UbiX
+JPMNGIHJ_00321	gene	ubiX		
+JPMNGIHJ_00322	CDS			hypothetical protein
+JPMNGIHJ_00322	gene			
+JPMNGIHJ_00323	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+JPMNGIHJ_00323	gene	pcrA		
+JPMNGIHJ_00324	CDS			hypothetical protein
+JPMNGIHJ_00324	gene			
+JPMNGIHJ_00325	CDS	serS	6.1.1.11	Serine--tRNA ligase
+JPMNGIHJ_00325	gene	serS		
+JPMNGIHJ_00326	CDS			hypothetical protein
+JPMNGIHJ_00326	gene			
+JPMNGIHJ_00327	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+JPMNGIHJ_00327	gene	xseB		
+JPMNGIHJ_00328	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+JPMNGIHJ_00328	gene	menG		
+JPMNGIHJ_00329	CDS			hypothetical protein
+JPMNGIHJ_00329	gene			
+JPMNGIHJ_00330	CDS	yigZ		IMPACT family member YigZ
+JPMNGIHJ_00330	gene	yigZ		
+JPMNGIHJ_00331	CDS	ybhS		Inner membrane transport permease YbhS
+JPMNGIHJ_00331	gene	ybhS		
+JPMNGIHJ_00332	CDS			hypothetical protein
+JPMNGIHJ_00332	gene			
+JPMNGIHJ_00333	CDS	mdtN		Multidrug resistance protein MdtN
+JPMNGIHJ_00333	gene	mdtN		
+JPMNGIHJ_00334	CDS			hypothetical protein
+JPMNGIHJ_00334	gene			
+JPMNGIHJ_00335	CDS	corC		Magnesium and cobalt efflux protein CorC
+JPMNGIHJ_00335	gene	corC		
+JPMNGIHJ_00336	CDS	cysP		Sulfate permease CysP
+JPMNGIHJ_00336	gene	cysP		
+JPMNGIHJ_00337	CDS	nfuA		Fe/S biogenesis protein NfuA
+JPMNGIHJ_00337	gene	nfuA		
+JPMNGIHJ_00338	CDS			hypothetical protein
+JPMNGIHJ_00338	gene			
+JPMNGIHJ_00339	CDS	murE	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+JPMNGIHJ_00339	gene	murE		
+JPMNGIHJ_00340	CDS	tal	2.2.1.2	Transaldolase
+JPMNGIHJ_00340	gene	tal		
+JPMNGIHJ_00341	CDS	rplY		50S ribosomal protein L25
+JPMNGIHJ_00341	gene	rplY		
+JPMNGIHJ_00342	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+JPMNGIHJ_00342	gene	pth		
+JPMNGIHJ_00343	CDS			hypothetical protein
+JPMNGIHJ_00343	gene			
+JPMNGIHJ_00344	CDS			hypothetical protein
+JPMNGIHJ_00344	gene			
+JPMNGIHJ_00345	CDS			hypothetical protein
+JPMNGIHJ_00345	gene			
+JPMNGIHJ_00346	CDS			hypothetical protein
+JPMNGIHJ_00346	gene			
+JPMNGIHJ_00347	CDS	copA_1	3.6.3.54	Copper-exporting P-type ATPase A
+JPMNGIHJ_00347	gene	copA_1		
+JPMNGIHJ_00348	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+JPMNGIHJ_00348	gene	yfiC		
+JPMNGIHJ_00349	CDS	ribD		Riboflavin biosynthesis protein RibD
+JPMNGIHJ_00349	gene	ribD		
+JPMNGIHJ_00350	CDS	gltS		Sodium/glutamate symporter
+JPMNGIHJ_00350	gene	gltS		
+JPMNGIHJ_00351	CDS		1.5.1.43	Carboxynorspermidine synthase
+JPMNGIHJ_00351	gene			
+JPMNGIHJ_00352	CDS	yccM		Putative electron transport protein YccM
+JPMNGIHJ_00352	gene	yccM		
+JPMNGIHJ_00353	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+JPMNGIHJ_00353	gene	plsY		
+JPMNGIHJ_00354	CDS			hypothetical protein
+JPMNGIHJ_00354	gene			
+JPMNGIHJ_00355	CDS			hypothetical protein
+JPMNGIHJ_00355	gene			
+JPMNGIHJ_00356	CDS	bhuA_1		Heme transporter BhuA
+JPMNGIHJ_00356	gene	bhuA_1		
+JPMNGIHJ_00357	CDS	selA	2.9.1.1	L-seryl-tRNA(Sec) selenium transferase
+JPMNGIHJ_00357	gene	selA		
+JPMNGIHJ_00358	CDS	nusA		Transcription termination/antitermination protein NusA
+JPMNGIHJ_00358	gene	nusA		
+JPMNGIHJ_00359	CDS			hypothetical protein
+JPMNGIHJ_00359	gene			
+JPMNGIHJ_00360	CDS	paeR7IM	2.1.1.72	Modification methylase PaeR7I
+JPMNGIHJ_00360	gene	paeR7IM		
+JPMNGIHJ_00361	CDS			hypothetical protein
+JPMNGIHJ_00361	gene			
+JPMNGIHJ_00362	CDS			hypothetical protein
+JPMNGIHJ_00362	gene			
+JPMNGIHJ_00363	CDS			hypothetical protein
+JPMNGIHJ_00363	gene			
+JPMNGIHJ_00364	CDS			hypothetical protein
+JPMNGIHJ_00364	gene			
+JPMNGIHJ_00365	CDS			hypothetical protein
+JPMNGIHJ_00365	gene			
+JPMNGIHJ_00366	CDS			hypothetical protein
+JPMNGIHJ_00366	gene			
+JPMNGIHJ_00367	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+JPMNGIHJ_00367	gene	recG		
+JPMNGIHJ_00368	CDS			hypothetical protein
+JPMNGIHJ_00368	gene			
+JPMNGIHJ_00369	CDS			hypothetical protein
+JPMNGIHJ_00369	gene			
+JPMNGIHJ_00370	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+JPMNGIHJ_00370	gene	exoA		
+JPMNGIHJ_00371	tRNA			tRNA-Phe(gaa)
+JPMNGIHJ_00371	gene			
+JPMNGIHJ_00372	CDS			hypothetical protein
+JPMNGIHJ_00372	gene			
+JPMNGIHJ_00373	CDS	dnaA		Chromosomal replication initiator protein DnaA
+JPMNGIHJ_00373	gene	dnaA		
+JPMNGIHJ_00374	CDS	mqnB	3.2.2.26	Futalosine hydrolase
+JPMNGIHJ_00374	gene	mqnB		
+JPMNGIHJ_00375	CDS			hypothetical protein
+JPMNGIHJ_00375	gene			
+JPMNGIHJ_00376	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+JPMNGIHJ_00376	gene	glmS		
+JPMNGIHJ_00377	CDS	thyX	2.1.1.148	Flavin-dependent thymidylate synthase
+JPMNGIHJ_00377	gene	thyX		
+JPMNGIHJ_00378	CDS			hypothetical protein
+JPMNGIHJ_00378	gene			
+JPMNGIHJ_00379	CDS	aspA	4.3.1.1	Aspartate ammonia-lyase
+JPMNGIHJ_00379	gene	aspA		
+JPMNGIHJ_00380	CDS	murA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+JPMNGIHJ_00380	gene	murA		
+JPMNGIHJ_00381	CDS			hypothetical protein
+JPMNGIHJ_00381	gene			
+JPMNGIHJ_00382	CDS	gtaB	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+JPMNGIHJ_00382	gene	gtaB		
+JPMNGIHJ_00383	CDS	slt	4.2.2.-	Soluble lytic murein transglycosylase
+JPMNGIHJ_00383	gene	slt		
+JPMNGIHJ_00384	CDS			hypothetical protein
+JPMNGIHJ_00384	gene			
+JPMNGIHJ_00385	CDS	gltX1	6.1.1.17	Glutamate--tRNA ligase 1
+JPMNGIHJ_00385	gene	gltX1		
+JPMNGIHJ_00386	CDS	yfkO	1.-.-.-	Putative NAD(P)H nitroreductase YfkO
+JPMNGIHJ_00386	gene	yfkO		
+JPMNGIHJ_00387	CDS			hypothetical protein
+JPMNGIHJ_00387	gene			
+JPMNGIHJ_00388	CDS	cca	2.7.7.72	CCA-adding enzyme
+JPMNGIHJ_00388	gene	cca		
+JPMNGIHJ_00389	CDS	queC	6.3.4.20	7-cyano-7-deazaguanine synthase
+JPMNGIHJ_00389	gene	queC		
+JPMNGIHJ_00390	CDS			hypothetical protein
+JPMNGIHJ_00390	gene			
+JPMNGIHJ_00391	CDS			hypothetical protein
+JPMNGIHJ_00391	gene			
+JPMNGIHJ_00392	CDS			hypothetical protein
+JPMNGIHJ_00392	gene			
+JPMNGIHJ_00393	CDS			hypothetical protein
+JPMNGIHJ_00393	gene			
+JPMNGIHJ_00394	CDS	hybD	3.4.23.-	Hydrogenase 2 maturation protease
+JPMNGIHJ_00394	gene	hybD		
+JPMNGIHJ_00395	CDS	hydC		Quinone-reactive Ni/Fe-hydrogenase B-type cytochrome subunit
+JPMNGIHJ_00395	gene	hydC		
+JPMNGIHJ_00396	CDS	hydB	1.12.5.1	Quinone-reactive Ni/Fe-hydrogenase large chain
+JPMNGIHJ_00396	gene	hydB		
+JPMNGIHJ_00397	CDS	hydA_1	1.12.5.1	Quinone-reactive Ni/Fe-hydrogenase small chain
+JPMNGIHJ_00397	gene	hydA_1		
+JPMNGIHJ_00398	CDS	mdaB		Modulator of drug activity B
+JPMNGIHJ_00398	gene	mdaB		
+JPMNGIHJ_00399	CDS			hypothetical protein
+JPMNGIHJ_00399	gene			
+JPMNGIHJ_00400	CDS	hcpD_1	3.5.2.6	Putative beta-lactamase HcpD
+JPMNGIHJ_00400	gene	hcpD_1		
+JPMNGIHJ_00401	CDS	dapD	2.3.1.117	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+JPMNGIHJ_00401	gene	dapD		
+JPMNGIHJ_00402	CDS	ispG	1.17.7.3	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+JPMNGIHJ_00402	gene	ispG		
+JPMNGIHJ_00403	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+JPMNGIHJ_00403	gene	dapL		
+JPMNGIHJ_00404	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+JPMNGIHJ_00404	gene	murC		
+JPMNGIHJ_00405	CDS			hypothetical protein
+JPMNGIHJ_00405	gene			
+JPMNGIHJ_00406	CDS	mutS2	3.1.-.-	Endonuclease MutS2
+JPMNGIHJ_00406	gene	mutS2		
+JPMNGIHJ_00407	CDS	ppa	3.6.1.1	Inorganic pyrophosphatase
+JPMNGIHJ_00407	gene	ppa		
+JPMNGIHJ_00408	CDS			hypothetical protein
+JPMNGIHJ_00408	gene			
+JPMNGIHJ_00409	CDS			hypothetical protein
+JPMNGIHJ_00409	gene			
+JPMNGIHJ_00410	CDS	adk	2.7.4.3	Adenylate kinase
+JPMNGIHJ_00410	gene	adk		
+JPMNGIHJ_00411	CDS	aspS	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+JPMNGIHJ_00411	gene	aspS		
+JPMNGIHJ_00412	CDS	cheV_2		Chemotaxis protein CheV
+JPMNGIHJ_00412	gene	cheV_2		
+JPMNGIHJ_00413	CDS	ligA	6.5.1.2	DNA ligase
+JPMNGIHJ_00413	gene	ligA		
+JPMNGIHJ_00414	CDS			hypothetical protein
+JPMNGIHJ_00414	gene			
+JPMNGIHJ_00415	CDS	yxdL		ABC transporter ATP-binding protein YxdL
+JPMNGIHJ_00415	gene	yxdL		
+JPMNGIHJ_00416	CDS			hypothetical protein
+JPMNGIHJ_00416	gene			
+JPMNGIHJ_00417	CDS	vacA_1		Vacuolating cytotoxin autotransporter
+JPMNGIHJ_00417	gene	vacA_1		
+JPMNGIHJ_00418	CDS			hypothetical protein
+JPMNGIHJ_00418	gene			
+JPMNGIHJ_00419	CDS	mdtC		Multidrug resistance protein MdtC
+JPMNGIHJ_00419	gene	mdtC		
+JPMNGIHJ_00420	CDS	czcB		Cobalt-zinc-cadmium resistance protein CzcB
+JPMNGIHJ_00420	gene	czcB		
+JPMNGIHJ_00421	CDS			hypothetical protein
+JPMNGIHJ_00421	gene			
+JPMNGIHJ_00422	CDS	hemE	4.1.1.37	Uroporphyrinogen decarboxylase
+JPMNGIHJ_00422	gene	hemE		
+JPMNGIHJ_00423	CDS			hypothetical protein
+JPMNGIHJ_00423	gene			
+JPMNGIHJ_00424	CDS	nth_1	4.2.99.18	Endonuclease III
+JPMNGIHJ_00424	gene	nth_1		
+JPMNGIHJ_00425	CDS	flaA		Flagellin A
+JPMNGIHJ_00425	gene	flaA		
+JPMNGIHJ_00426	CDS			hypothetical protein
+JPMNGIHJ_00426	gene			
+JPMNGIHJ_00427	CDS			putative ABC transporter ATP-binding protein
+JPMNGIHJ_00427	gene			
+JPMNGIHJ_00428	CDS	mcpU		Methyl-accepting chemotaxis protein McpU
+JPMNGIHJ_00428	gene	mcpU		
+JPMNGIHJ_00429	CDS	bioF	2.3.1.47	8-amino-7-oxononanoate synthase 2
+JPMNGIHJ_00429	gene	bioF		
+JPMNGIHJ_00430	CDS	mrcA		Penicillin-binding protein 1A
+JPMNGIHJ_00430	gene	mrcA		
+JPMNGIHJ_00431	CDS			hypothetical protein
+JPMNGIHJ_00431	gene			
+JPMNGIHJ_00432	CDS	dsbB		Disulfide bond formation protein B
+JPMNGIHJ_00432	gene	dsbB		
+JPMNGIHJ_00433	CDS			hypothetical protein
+JPMNGIHJ_00433	gene			
+JPMNGIHJ_00434	CDS			hypothetical protein
+JPMNGIHJ_00434	gene			
+JPMNGIHJ_00435	CDS			hypothetical protein
+JPMNGIHJ_00435	gene			
+JPMNGIHJ_00436	CDS			hypothetical protein
+JPMNGIHJ_00436	gene			
+JPMNGIHJ_00437	CDS	korB	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+JPMNGIHJ_00437	gene	korB		
+JPMNGIHJ_00438	CDS	korA	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+JPMNGIHJ_00438	gene	korA		
+JPMNGIHJ_00439	CDS	hydA_2	1.12.7.2	Periplasmic [Fe] hydrogenase large subunit
+JPMNGIHJ_00439	gene	hydA_2		
+JPMNGIHJ_00440	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+JPMNGIHJ_00440	gene	mltG		
+JPMNGIHJ_00441	CDS			hypothetical protein
+JPMNGIHJ_00441	gene			
+JPMNGIHJ_00442	CDS	feoA		Putative Fe(2+) transport protein A
+JPMNGIHJ_00442	gene	feoA		
+JPMNGIHJ_00443	CDS	nth_2	4.2.99.18	Endonuclease III
+JPMNGIHJ_00443	gene	nth_2		
+JPMNGIHJ_00444	CDS	fliN_1		Flagellar motor switch protein FliN
+JPMNGIHJ_00444	gene	fliN_1		
+JPMNGIHJ_00445	CDS			hypothetical protein
+JPMNGIHJ_00445	gene			
+JPMNGIHJ_00446	CDS			hypothetical protein
+JPMNGIHJ_00446	gene			
+JPMNGIHJ_00447	CDS	pyrC_1	3.5.2.3	Dihydroorotase
+JPMNGIHJ_00447	gene	pyrC_1		
+JPMNGIHJ_00448	CDS			hypothetical protein
+JPMNGIHJ_00448	gene			
+JPMNGIHJ_00449	CDS			hypothetical protein
+JPMNGIHJ_00449	gene			
+JPMNGIHJ_00450	CDS	mdoB	2.7.8.20	Phosphoglycerol transferase I
+JPMNGIHJ_00450	gene	mdoB		
+JPMNGIHJ_00451	CDS	folD		Bifunctional protein FolD protein
+JPMNGIHJ_00451	gene	folD		
+JPMNGIHJ_00452	CDS	lepB	3.4.21.89	Signal peptidase I
+JPMNGIHJ_00452	gene	lepB		
+JPMNGIHJ_00453	CDS			hypothetical protein
+JPMNGIHJ_00453	gene			
+JPMNGIHJ_00454	CDS	ywlF	5.3.1.-	Putative sugar phosphate isomerase YwlF
+JPMNGIHJ_00454	gene	ywlF		
+JPMNGIHJ_00455	CDS			hypothetical protein
+JPMNGIHJ_00455	gene			
+JPMNGIHJ_00456	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+JPMNGIHJ_00456	gene	apt		
+JPMNGIHJ_00457	CDS	yohD_1		Inner membrane protein YohD
+JPMNGIHJ_00457	gene	yohD_1		
+JPMNGIHJ_00458	CDS	pepA	3.4.11.1	Cytosol aminopeptidase
+JPMNGIHJ_00458	gene	pepA		
+JPMNGIHJ_00459	CDS	ychF		Ribosome-binding ATPase YchF
+JPMNGIHJ_00459	gene	ychF		
+JPMNGIHJ_00460	CDS	pqqE		Coenzyme PQQ synthesis protein E
+JPMNGIHJ_00460	gene	pqqE		
+JPMNGIHJ_00461	CDS			hypothetical protein
+JPMNGIHJ_00461	gene			
+JPMNGIHJ_00462	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+JPMNGIHJ_00462	gene	dapF		
+JPMNGIHJ_00463	CDS	rclC		Inner membrane protein RclC
+JPMNGIHJ_00463	gene	rclC		
+JPMNGIHJ_00464	CDS			hypothetical protein
+JPMNGIHJ_00464	gene			
+JPMNGIHJ_00465	CDS			hypothetical protein
+JPMNGIHJ_00465	gene			
+JPMNGIHJ_00466	CDS	rpsU		30S ribosomal protein S21
+JPMNGIHJ_00466	gene	rpsU		
+JPMNGIHJ_00467	CDS	fabG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+JPMNGIHJ_00467	gene	fabG		
+JPMNGIHJ_00468	CDS	acpP_1		Acyl carrier protein
+JPMNGIHJ_00468	gene	acpP_1		
+JPMNGIHJ_00469	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+JPMNGIHJ_00469	gene	fabF		
+JPMNGIHJ_00470	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+JPMNGIHJ_00470	gene	accA		
+JPMNGIHJ_00471	CDS			hypothetical protein
+JPMNGIHJ_00471	gene			
+JPMNGIHJ_00472	CDS			hypothetical protein
+JPMNGIHJ_00472	gene			
+JPMNGIHJ_00473	CDS			hypothetical protein
+JPMNGIHJ_00473	gene			
+JPMNGIHJ_00474	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+JPMNGIHJ_00474	gene			
+JPMNGIHJ_00475	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+JPMNGIHJ_00475	gene	rsmI		
+JPMNGIHJ_00476	CDS	rpmE		50S ribosomal protein L31
+JPMNGIHJ_00476	gene	rpmE		
+JPMNGIHJ_00477	CDS	rho	3.6.4.-	Transcription termination factor Rho
+JPMNGIHJ_00477	gene	rho		
+JPMNGIHJ_00478	CDS	murI	5.1.1.3	Glutamate racemase
+JPMNGIHJ_00478	gene	murI		
+JPMNGIHJ_00479	CDS			hypothetical protein
+JPMNGIHJ_00479	gene			
+JPMNGIHJ_00480	CDS			hypothetical protein
+JPMNGIHJ_00480	gene			
+JPMNGIHJ_00481	CDS	cagA		Cytotoxicity-associated immunodominant antigen
+JPMNGIHJ_00481	gene	cagA		
+JPMNGIHJ_00482	CDS			hypothetical protein
+JPMNGIHJ_00482	gene			
+JPMNGIHJ_00483	CDS			hypothetical protein
+JPMNGIHJ_00483	gene			
+JPMNGIHJ_00484	CDS			hypothetical protein
+JPMNGIHJ_00484	gene			
+JPMNGIHJ_00485	CDS	virB4_2		Type IV secretion system protein virB4
+JPMNGIHJ_00485	gene	virB4_2		
+JPMNGIHJ_00486	CDS			hypothetical protein
+JPMNGIHJ_00486	gene			
+JPMNGIHJ_00487	CDS			hypothetical protein
+JPMNGIHJ_00487	gene			
+JPMNGIHJ_00488	CDS			hypothetical protein
+JPMNGIHJ_00488	gene			
+JPMNGIHJ_00489	CDS			hypothetical protein
+JPMNGIHJ_00489	gene			
+JPMNGIHJ_00490	CDS			hypothetical protein
+JPMNGIHJ_00490	gene			
+JPMNGIHJ_00491	CDS			hypothetical protein
+JPMNGIHJ_00491	gene			
+JPMNGIHJ_00492	CDS			hypothetical protein
+JPMNGIHJ_00492	gene			
+JPMNGIHJ_00493	CDS			hypothetical protein
+JPMNGIHJ_00493	gene			
+JPMNGIHJ_00494	CDS	cagS		CAG pathogenicity island protein 13
+JPMNGIHJ_00494	gene	cagS		
+JPMNGIHJ_00495	CDS			hypothetical protein
+JPMNGIHJ_00495	gene			
+JPMNGIHJ_00496	CDS	cagT		CAG pathogenicity island protein 12
+JPMNGIHJ_00496	gene	cagT		
+JPMNGIHJ_00497	CDS			hypothetical protein
+JPMNGIHJ_00497	gene			
+JPMNGIHJ_00498	CDS			hypothetical protein
+JPMNGIHJ_00498	gene			
+JPMNGIHJ_00499	CDS			hypothetical protein
+JPMNGIHJ_00499	gene			
+JPMNGIHJ_00500	CDS			hypothetical protein
+JPMNGIHJ_00500	gene			
+JPMNGIHJ_00501	CDS	uvrB		UvrABC system protein B
+JPMNGIHJ_00501	gene	uvrB		
+JPMNGIHJ_00502	CDS			hypothetical protein
+JPMNGIHJ_00502	gene			
+JPMNGIHJ_00503	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+JPMNGIHJ_00503	gene	purB		
+JPMNGIHJ_00504	CDS	porB	1.2.7.1	Pyruvate synthase subunit PorB
+JPMNGIHJ_00504	gene	porB		
+JPMNGIHJ_00505	CDS	porA	1.2.7.1	Pyruvate synthase subunit PorA
+JPMNGIHJ_00505	gene	porA		
+JPMNGIHJ_00506	CDS	porD		Pyruvate synthase subunit PorD
+JPMNGIHJ_00506	gene	porD		
+JPMNGIHJ_00507	CDS	porC	1.2.7.1	Pyruvate synthase subunit PorC
+JPMNGIHJ_00507	gene	porC		
+JPMNGIHJ_00508	CDS			hypothetical protein
+JPMNGIHJ_00508	gene			
+JPMNGIHJ_00509	CDS			hypothetical protein
+JPMNGIHJ_00509	gene			
+JPMNGIHJ_00510	CDS			hypothetical protein
+JPMNGIHJ_00510	gene			
+JPMNGIHJ_00511	CDS	adhA	1.1.1.-	putative formaldehyde dehydrogenase AdhA
+JPMNGIHJ_00511	gene	adhA		
+JPMNGIHJ_00512	CDS	glk	2.7.1.2	Glucokinase
+JPMNGIHJ_00512	gene	glk		
+JPMNGIHJ_00513	CDS	pgl	3.1.1.31	6-phosphogluconolactonase
+JPMNGIHJ_00513	gene	pgl		
+JPMNGIHJ_00514	CDS	zwf	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase
+JPMNGIHJ_00514	gene	zwf		
+JPMNGIHJ_00515	CDS	edd	4.2.1.12	Phosphogluconate dehydratase
+JPMNGIHJ_00515	gene	edd		
+JPMNGIHJ_00516	CDS	eda		KHG/KDPG aldolase
+JPMNGIHJ_00516	gene	eda		
+JPMNGIHJ_00517	CDS	hcpC_1	3.5.2.6	Putative beta-lactamase HcpC
+JPMNGIHJ_00517	gene	hcpC_1		
+JPMNGIHJ_00518	CDS			hypothetical protein
+JPMNGIHJ_00518	gene			
+JPMNGIHJ_00519	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+JPMNGIHJ_00519	gene	ftsW		
+JPMNGIHJ_00520	CDS	flgB		Flagellar basal body rod protein FlgB
+JPMNGIHJ_00520	gene	flgB		
+JPMNGIHJ_00521	CDS	flgC		Flagellar basal-body rod protein FlgC
+JPMNGIHJ_00521	gene	flgC		
+JPMNGIHJ_00522	CDS	fliE		Flagellar hook-basal body complex protein FliE
+JPMNGIHJ_00522	gene	fliE		
+JPMNGIHJ_00523	CDS	ftsI	3.4.16.4	Peptidoglycan D,D-transpeptidase FtsI
+JPMNGIHJ_00523	gene	ftsI		
+JPMNGIHJ_00524	CDS	tsf		Elongation factor Ts
+JPMNGIHJ_00524	gene	tsf		
+JPMNGIHJ_00525	CDS	rpsB		30S ribosomal protein S2
+JPMNGIHJ_00525	gene	rpsB		
+JPMNGIHJ_00526	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+JPMNGIHJ_00526	gene	addA		
+JPMNGIHJ_00527	CDS	nhaA		Na(+)/H(+) antiporter NhaA
+JPMNGIHJ_00527	gene	nhaA		
+JPMNGIHJ_00528	CDS			hypothetical protein
+JPMNGIHJ_00528	gene			
+JPMNGIHJ_00529	CDS			hypothetical protein
+JPMNGIHJ_00529	gene			
+JPMNGIHJ_00530	CDS			hypothetical protein
+JPMNGIHJ_00530	gene			
+JPMNGIHJ_00531	CDS			hypothetical protein
+JPMNGIHJ_00531	gene			
+JPMNGIHJ_00532	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+JPMNGIHJ_00532	gene	leuS		
+JPMNGIHJ_00533	CDS			hypothetical protein
+JPMNGIHJ_00533	gene			
+JPMNGIHJ_00534	CDS	folC	6.3.2.12	Dihydrofolate synthase/folylpolyglutamate synthase
+JPMNGIHJ_00534	gene	folC		
+JPMNGIHJ_00535	CDS	mepM_1	3.4.24.-	Murein DD-endopeptidase MepM
+JPMNGIHJ_00535	gene	mepM_1		
+JPMNGIHJ_00536	CDS	mepM_2	3.4.24.-	Murein DD-endopeptidase MepM
+JPMNGIHJ_00536	gene	mepM_2		
+JPMNGIHJ_00537	CDS			hypothetical protein
+JPMNGIHJ_00537	gene			
+JPMNGIHJ_00538	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+JPMNGIHJ_00538	gene	mfd		
+JPMNGIHJ_00539	CDS	petA	1.10.2.2	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+JPMNGIHJ_00539	gene	petA		
+JPMNGIHJ_00540	CDS	petB		Cytochrome b
+JPMNGIHJ_00540	gene	petB		
+JPMNGIHJ_00541	CDS			hypothetical protein
+JPMNGIHJ_00541	gene			
+JPMNGIHJ_00542	CDS			hypothetical protein
+JPMNGIHJ_00542	gene			
+JPMNGIHJ_00543	CDS			hypothetical protein
+JPMNGIHJ_00543	gene			
+JPMNGIHJ_00544	CDS	msrAB		Peptide methionine sulfoxide reductase msrA/msrB
+JPMNGIHJ_00544	gene	msrAB		
+JPMNGIHJ_00545	CDS	radA	3.6.4.-	DNA repair protein RadA
+JPMNGIHJ_00545	gene	radA		
+JPMNGIHJ_00546	CDS			hypothetical protein
+JPMNGIHJ_00546	gene			
+JPMNGIHJ_00547	CDS	iscU		Iron-sulfur cluster assembly scaffold protein IscU
+JPMNGIHJ_00547	gene	iscU		
+JPMNGIHJ_00548	CDS	iscS	2.8.1.7	Cysteine desulfurase IscS
+JPMNGIHJ_00548	gene	iscS		
+JPMNGIHJ_00549	CDS			hypothetical protein
+JPMNGIHJ_00549	gene			
+JPMNGIHJ_00550	CDS			hypothetical protein
+JPMNGIHJ_00550	gene			
+JPMNGIHJ_00551	CDS			hypothetical protein
+JPMNGIHJ_00551	gene			
+JPMNGIHJ_00552	CDS	dxr	1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+JPMNGIHJ_00552	gene	dxr		
+JPMNGIHJ_00553	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+JPMNGIHJ_00553	gene	cdsA		
+JPMNGIHJ_00554	CDS	sdcS		Sodium-dependent dicarboxylate transporter SdcS
+JPMNGIHJ_00554	gene	sdcS		
+JPMNGIHJ_00555	CDS	mnmG		tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+JPMNGIHJ_00555	gene	mnmG		
+JPMNGIHJ_00556	CDS	dapE	3.5.1.18	Succinyl-diaminopimelate desuccinylase
+JPMNGIHJ_00556	gene	dapE		
+JPMNGIHJ_00557	CDS	hcpA	3.5.2.6	Beta-lactamase HcpA
+JPMNGIHJ_00557	gene	hcpA		
+JPMNGIHJ_00558	CDS	htpG		Chaperone protein HtpG
+JPMNGIHJ_00558	gene	htpG		
+JPMNGIHJ_00559	CDS			hypothetical protein
+JPMNGIHJ_00559	gene			
+JPMNGIHJ_00560	CDS			hypothetical protein
+JPMNGIHJ_00560	gene			
+JPMNGIHJ_00561	CDS	gspA		General stress protein A
+JPMNGIHJ_00561	gene	gspA		
+JPMNGIHJ_00562	CDS	apbC		Iron-sulfur cluster carrier protein
+JPMNGIHJ_00562	gene	apbC		
+JPMNGIHJ_00563	CDS			hypothetical protein
+JPMNGIHJ_00563	gene			
+JPMNGIHJ_00564	CDS			hypothetical protein
+JPMNGIHJ_00564	gene			
+JPMNGIHJ_00565	CDS			hypothetical protein
+JPMNGIHJ_00565	gene			
+JPMNGIHJ_00566	CDS			hypothetical protein
+JPMNGIHJ_00566	gene			
+JPMNGIHJ_00567	CDS			hypothetical protein
+JPMNGIHJ_00567	gene			
+JPMNGIHJ_00568	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+JPMNGIHJ_00568	gene	fabH		
+JPMNGIHJ_00569	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+JPMNGIHJ_00569	gene	plsX		
+JPMNGIHJ_00570	CDS	rpmF		50S ribosomal protein L32
+JPMNGIHJ_00570	gene	rpmF		
+JPMNGIHJ_00571	CDS			hypothetical protein
+JPMNGIHJ_00571	gene			
+JPMNGIHJ_00572	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+JPMNGIHJ_00572	gene	ndk		
+JPMNGIHJ_00573	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+JPMNGIHJ_00573	gene	metK		
+JPMNGIHJ_00574	CDS	lpxD	2.3.1.-	UDP-3-O-acylglucosamine N-acyltransferase
+JPMNGIHJ_00574	gene	lpxD		
+JPMNGIHJ_00575	CDS	fabI	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+JPMNGIHJ_00575	gene	fabI		
+JPMNGIHJ_00576	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+JPMNGIHJ_00576	gene	tpiA		
+JPMNGIHJ_00577	CDS	frdC		Fumarate reductase cytochrome b subunit
+JPMNGIHJ_00577	gene	frdC		
+JPMNGIHJ_00578	CDS	frdA	1.3.5.4	Fumarate reductase flavoprotein subunit
+JPMNGIHJ_00578	gene	frdA		
+JPMNGIHJ_00579	CDS	frdB	1.3.5.1	Fumarate reductase iron-sulfur subunit
+JPMNGIHJ_00579	gene	frdB		
+JPMNGIHJ_00580	CDS	clsC	2.7.8.-	Cardiolipin synthase C
+JPMNGIHJ_00580	gene	clsC		
+JPMNGIHJ_00581	CDS			hypothetical protein
+JPMNGIHJ_00581	gene			
+JPMNGIHJ_00582	CDS			hypothetical protein
+JPMNGIHJ_00582	gene			
+JPMNGIHJ_00583	CDS			hypothetical protein
+JPMNGIHJ_00583	gene			
+JPMNGIHJ_00584	CDS			hypothetical protein
+JPMNGIHJ_00584	gene			
+JPMNGIHJ_00585	CDS	zipA		Cell division protein ZipA
+JPMNGIHJ_00585	gene	zipA		
+JPMNGIHJ_00586	CDS			hypothetical protein
+JPMNGIHJ_00586	gene			
+JPMNGIHJ_00587	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+JPMNGIHJ_00587	gene	glyA		
+JPMNGIHJ_00588	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+JPMNGIHJ_00588	gene	lysS		
+JPMNGIHJ_00589	CDS			hypothetical protein
+JPMNGIHJ_00589	gene			
+JPMNGIHJ_00590	CDS	lnt	2.3.1.-	Apolipoprotein N-acyltransferase
+JPMNGIHJ_00590	gene	lnt		
+JPMNGIHJ_00591	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+JPMNGIHJ_00591	gene	lolD		
+JPMNGIHJ_00592	CDS	pseI	2.5.1.97	Pseudaminic acid synthase
+JPMNGIHJ_00592	gene	pseI		
+JPMNGIHJ_00593	CDS	efp		Elongation factor P
+JPMNGIHJ_00593	gene	efp		
+JPMNGIHJ_00594	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+JPMNGIHJ_00594	gene	fba		
+JPMNGIHJ_00595	CDS		5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+JPMNGIHJ_00595	gene			
+JPMNGIHJ_00596	CDS			hypothetical protein
+JPMNGIHJ_00596	gene			
+JPMNGIHJ_00597	CDS			hypothetical protein
+JPMNGIHJ_00597	gene			
+JPMNGIHJ_00598	CDS	moeA	2.10.1.1	Molybdopterin molybdenumtransferase
+JPMNGIHJ_00598	gene	moeA		
+JPMNGIHJ_00599	CDS	prfB		Peptide chain release factor RF2
+JPMNGIHJ_00599	gene	prfB		
+JPMNGIHJ_00600	CDS			hypothetical protein
+JPMNGIHJ_00600	gene			
+JPMNGIHJ_00601	CDS	ydcP	3.4.-.-	putative protease YdcP
+JPMNGIHJ_00601	gene	ydcP		
+JPMNGIHJ_00602	CDS			hypothetical protein
+JPMNGIHJ_00602	gene			
+JPMNGIHJ_00603	CDS			hypothetical protein
+JPMNGIHJ_00603	gene			
+JPMNGIHJ_00604	CDS	arlR		Response regulator ArlR
+JPMNGIHJ_00604	gene	arlR		
+JPMNGIHJ_00605	CDS	hssS	2.7.13.3	Heme sensor protein HssS
+JPMNGIHJ_00605	gene	hssS		
+JPMNGIHJ_00606	CDS	hemB	4.2.1.24	Delta-aminolevulinic acid dehydratase
+JPMNGIHJ_00606	gene	hemB		
+JPMNGIHJ_00607	CDS			putative transcriptional regulatory protein
+JPMNGIHJ_00607	gene			
+JPMNGIHJ_00608	CDS	hcpD_2	3.5.2.6	Putative beta-lactamase HcpD
+JPMNGIHJ_00608	gene	hcpD_2		
+JPMNGIHJ_00609	CDS			hypothetical protein
+JPMNGIHJ_00609	gene			
+JPMNGIHJ_00610	CDS			hypothetical protein
+JPMNGIHJ_00610	gene			
+JPMNGIHJ_00611	CDS	aroK	2.7.1.71	Shikimate kinase
+JPMNGIHJ_00611	gene	aroK		
+JPMNGIHJ_00612	CDS			hypothetical protein
+JPMNGIHJ_00612	gene			
+JPMNGIHJ_00613	CDS			hypothetical protein
+JPMNGIHJ_00613	gene			
+JPMNGIHJ_00614	CDS	eno	4.2.1.11	Enolase
+JPMNGIHJ_00614	gene	eno		
+JPMNGIHJ_00615	CDS	recA		Protein RecA
+JPMNGIHJ_00615	gene	recA		
+JPMNGIHJ_00616	CDS	mqnD	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+JPMNGIHJ_00616	gene	mqnD		
+JPMNGIHJ_00617	CDS			hypothetical protein
+JPMNGIHJ_00617	gene			
+JPMNGIHJ_00618	CDS			hypothetical protein
+JPMNGIHJ_00618	gene			
+JPMNGIHJ_00619	CDS			hypothetical protein
+JPMNGIHJ_00619	gene			
+JPMNGIHJ_00620	CDS			hypothetical protein
+JPMNGIHJ_00620	gene			
+JPMNGIHJ_00621	CDS			hypothetical protein
+JPMNGIHJ_00621	gene			
+JPMNGIHJ_00622	CDS	ccoP		Cbb3-type cytochrome c oxidase subunit CcoP
+JPMNGIHJ_00622	gene	ccoP		
+JPMNGIHJ_00623	CDS			hypothetical protein
+JPMNGIHJ_00623	gene			
+JPMNGIHJ_00624	CDS			hypothetical protein
+JPMNGIHJ_00624	gene			
+JPMNGIHJ_00625	CDS	ccoN1	1.9.3.1	Cbb3-type cytochrome c oxidase subunit CcoN1
+JPMNGIHJ_00625	gene	ccoN1		
+JPMNGIHJ_00626	CDS	citT_1		Citrate carrier
+JPMNGIHJ_00626	gene	citT_1		
+JPMNGIHJ_00627	CDS	citT_2		Citrate carrier
+JPMNGIHJ_00627	gene	citT_2		
+JPMNGIHJ_00628	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+JPMNGIHJ_00628	gene	mutY		
+JPMNGIHJ_00629	CDS	lldP_1		L-lactate permease
+JPMNGIHJ_00629	gene	lldP_1		
+JPMNGIHJ_00630	CDS	lldP_2		L-lactate permease
+JPMNGIHJ_00630	gene	lldP_2		
+JPMNGIHJ_00631	CDS	lutA		Lactate utilization protein A
+JPMNGIHJ_00631	gene	lutA		
+JPMNGIHJ_00632	CDS	lutB		Lactate utilization protein B
+JPMNGIHJ_00632	gene	lutB		
+JPMNGIHJ_00633	CDS	lutC		Lactate utilization protein C
+JPMNGIHJ_00633	gene	lutC		
+JPMNGIHJ_00634	CDS	bcp	1.11.1.15	Putative peroxiredoxin bcp
+JPMNGIHJ_00634	gene	bcp		
+JPMNGIHJ_00635	CDS			hypothetical protein
+JPMNGIHJ_00635	gene			
+JPMNGIHJ_00636	CDS	aroH	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+JPMNGIHJ_00636	gene	aroH		
+JPMNGIHJ_00637	CDS	sdaC		Serine transporter
+JPMNGIHJ_00637	gene	sdaC		
+JPMNGIHJ_00638	CDS	sdaA	4.3.1.17	L-serine dehydratase 1
+JPMNGIHJ_00638	gene	sdaA		
+JPMNGIHJ_00639	CDS			hypothetical protein
+JPMNGIHJ_00639	gene			
+JPMNGIHJ_00640	CDS			hypothetical protein
+JPMNGIHJ_00640	gene			
+JPMNGIHJ_00641	CDS			hypothetical protein
+JPMNGIHJ_00641	gene			
+JPMNGIHJ_00642	CDS	rplT		50S ribosomal protein L20
+JPMNGIHJ_00642	gene	rplT		
+JPMNGIHJ_00643	CDS	rpmI		50S ribosomal protein L35
+JPMNGIHJ_00643	gene	rpmI		
+JPMNGIHJ_00644	CDS	infC		Translation initiation factor IF-3
+JPMNGIHJ_00644	gene	infC		
+JPMNGIHJ_00645	CDS	thrZ	6.1.1.3	Threonine--tRNA ligase 2
+JPMNGIHJ_00645	gene	thrZ		
+JPMNGIHJ_00646	CDS	ppsA	2.7.9.2	Phosphoenolpyruvate synthase
+JPMNGIHJ_00646	gene	ppsA		
+JPMNGIHJ_00647	CDS			hypothetical protein
+JPMNGIHJ_00647	gene			
+JPMNGIHJ_00648	CDS			hypothetical protein
+JPMNGIHJ_00648	gene			
+JPMNGIHJ_00649	CDS	corA		Magnesium transport protein CorA
+JPMNGIHJ_00649	gene	corA		
+JPMNGIHJ_00650	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+JPMNGIHJ_00650	gene	pgk		
+JPMNGIHJ_00651	CDS	gapB	1.2.1.59	Glyceraldehyde-3-phosphate dehydrogenase 2
+JPMNGIHJ_00651	gene	gapB		
+JPMNGIHJ_00652	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+JPMNGIHJ_00652	gene	ung		
+JPMNGIHJ_00653	CDS			hypothetical protein
+JPMNGIHJ_00653	gene			
+JPMNGIHJ_00654	CDS			hypothetical protein
+JPMNGIHJ_00654	gene			
+JPMNGIHJ_00655	CDS	ctpB	3.4.21.102	Carboxy-terminal processing protease CtpB
+JPMNGIHJ_00655	gene	ctpB		
+JPMNGIHJ_00656	CDS			hypothetical protein
+JPMNGIHJ_00656	gene			
+JPMNGIHJ_00657	CDS	dpnA_3	2.1.1.72	Modification methylase DpnIIB
+JPMNGIHJ_00657	gene	dpnA_3		
+JPMNGIHJ_00658	CDS	kch		Voltage-gated potassium channel Kch
+JPMNGIHJ_00658	gene	kch		
+JPMNGIHJ_00659	CDS	rpmB		50S ribosomal protein L28
+JPMNGIHJ_00659	gene	rpmB		
+JPMNGIHJ_00660	CDS			hypothetical protein
+JPMNGIHJ_00660	gene			
+JPMNGIHJ_00661	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+JPMNGIHJ_00661	gene	mraY		
+JPMNGIHJ_00662	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+JPMNGIHJ_00662	gene	murD		
+JPMNGIHJ_00663	CDS			hypothetical protein
+JPMNGIHJ_00663	gene			
+JPMNGIHJ_00664	CDS	ybgC	3.1.2.-	Acyl-CoA thioesterase YbgC
+JPMNGIHJ_00664	gene	ybgC		
+JPMNGIHJ_00665	CDS			hypothetical protein
+JPMNGIHJ_00665	gene			
+JPMNGIHJ_00666	CDS			hypothetical protein
+JPMNGIHJ_00666	gene			
+JPMNGIHJ_00667	CDS	pldA	3.1.1.32	Phospholipase A1
+JPMNGIHJ_00667	gene	pldA		
+JPMNGIHJ_00668	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+JPMNGIHJ_00668	gene	dnaN		
+JPMNGIHJ_00669	CDS	gyrB	5.99.1.3	Type 2 topoisomerase subunit B
+JPMNGIHJ_00669	gene	gyrB		
+JPMNGIHJ_00670	CDS			hypothetical protein
+JPMNGIHJ_00670	gene			
+JPMNGIHJ_00671	CDS			hypothetical protein
+JPMNGIHJ_00671	gene			
+JPMNGIHJ_00672	CDS			hypothetical protein
+JPMNGIHJ_00672	gene			
+JPMNGIHJ_00673	CDS			hypothetical protein
+JPMNGIHJ_00673	gene			
+JPMNGIHJ_00674	CDS	mepM_3	3.4.24.-	Murein DD-endopeptidase MepM
+JPMNGIHJ_00674	gene	mepM_3		
+JPMNGIHJ_00675	CDS	nudK	3.6.1.-	GDP-mannose pyrophosphatase NudK
+JPMNGIHJ_00675	gene	nudK		
+JPMNGIHJ_00676	CDS	pgbA		Plasminogen-binding protein PgbA
+JPMNGIHJ_00676	gene	pgbA		
+JPMNGIHJ_00677	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+JPMNGIHJ_00677	gene			
+JPMNGIHJ_00678	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+JPMNGIHJ_00678	gene	dapB		
+JPMNGIHJ_00679	CDS			hypothetical protein
+JPMNGIHJ_00679	gene			
+JPMNGIHJ_00680	CDS		5.4.4.3	3-hydroxylaminophenol mutase
+JPMNGIHJ_00680	gene			
+JPMNGIHJ_00681	CDS			hypothetical protein
+JPMNGIHJ_00681	gene			
+JPMNGIHJ_00682	CDS			hypothetical protein
+JPMNGIHJ_00682	gene			
+JPMNGIHJ_00683	CDS	rplI		50S ribosomal protein L9
+JPMNGIHJ_00683	gene	rplI		
+JPMNGIHJ_00684	CDS	hslV	3.4.25.2	ATP-dependent protease subunit HslV
+JPMNGIHJ_00684	gene	hslV		
+JPMNGIHJ_00685	CDS	clpY		ATP-dependent protease ATPase subunit ClpY
+JPMNGIHJ_00685	gene	clpY		
+JPMNGIHJ_00686	CDS	era_1		GTPase Era
+JPMNGIHJ_00686	gene	era_1		
+JPMNGIHJ_00687	CDS			hypothetical protein
+JPMNGIHJ_00687	gene			
+JPMNGIHJ_00688	CDS	hcpB_1	3.5.2.6	Beta-lactamase HcpB
+JPMNGIHJ_00688	gene	hcpB_1		
+JPMNGIHJ_00689	CDS			hypothetical protein
+JPMNGIHJ_00689	gene			
+JPMNGIHJ_00690	CDS			hypothetical protein
+JPMNGIHJ_00690	gene			
+JPMNGIHJ_00691	CDS			hypothetical protein
+JPMNGIHJ_00691	gene			
+JPMNGIHJ_00692	CDS	traG		Conjugal transfer protein TraG
+JPMNGIHJ_00692	gene	traG		
+JPMNGIHJ_00693	CDS			Type IV secretion system protein VirB11
+JPMNGIHJ_00693	gene			
+JPMNGIHJ_00694	CDS			hypothetical protein
+JPMNGIHJ_00694	gene			
+JPMNGIHJ_00695	CDS			Type IV secretion system protein virB10
+JPMNGIHJ_00695	gene			
+JPMNGIHJ_00696	CDS	dcuA		Anaerobic C4-dicarboxylate transporter DcuA
+JPMNGIHJ_00696	gene	dcuA		
+JPMNGIHJ_00697	CDS	ansA	3.5.1.1	putative L-asparaginase
+JPMNGIHJ_00697	gene	ansA		
+JPMNGIHJ_00698	CDS			hypothetical protein
+JPMNGIHJ_00698	gene			
+JPMNGIHJ_00699	CDS			hypothetical protein
+JPMNGIHJ_00699	gene			
+JPMNGIHJ_00700	CDS			hypothetical protein
+JPMNGIHJ_00700	gene			
+JPMNGIHJ_00701	CDS			hypothetical protein
+JPMNGIHJ_00701	gene			
+JPMNGIHJ_00702	CDS	argO		Arginine exporter protein ArgO
+JPMNGIHJ_00702	gene	argO		
+JPMNGIHJ_00703	CDS	dnaX	2.7.7.7	DNA polymerase III subunit tau
+JPMNGIHJ_00703	gene	dnaX		
+JPMNGIHJ_00704	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+JPMNGIHJ_00704	gene	tsaE		
+JPMNGIHJ_00705	CDS	lptB	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+JPMNGIHJ_00705	gene	lptB		
+JPMNGIHJ_00706	CDS	rpoN		RNA polymerase sigma-54 factor
+JPMNGIHJ_00706	gene	rpoN		
+JPMNGIHJ_00707	CDS			hypothetical protein
+JPMNGIHJ_00707	gene			
+JPMNGIHJ_00708	CDS			hypothetical protein
+JPMNGIHJ_00708	gene			
+JPMNGIHJ_00709	CDS	yfbR	3.1.3.89	5'-deoxynucleotidase YfbR
+JPMNGIHJ_00709	gene	yfbR		
+JPMNGIHJ_00710	CDS			hypothetical protein
+JPMNGIHJ_00710	gene			
+JPMNGIHJ_00711	CDS	salL	2.5.1.94	Adenosyl-chloride synthase
+JPMNGIHJ_00711	gene	salL		
+JPMNGIHJ_00712	CDS			hypothetical protein
+JPMNGIHJ_00712	gene			
+JPMNGIHJ_00713	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+JPMNGIHJ_00713	gene	rsmH		
+JPMNGIHJ_00714	CDS			hypothetical protein
+JPMNGIHJ_00714	gene			
+JPMNGIHJ_00715	CDS	uvrA		UvrABC system protein A
+JPMNGIHJ_00715	gene	uvrA		
+JPMNGIHJ_00716	CDS	glrR		Transcriptional regulatory protein GlrR
+JPMNGIHJ_00716	gene	glrR		
+JPMNGIHJ_00717	CDS			hypothetical protein
+JPMNGIHJ_00717	gene			
+JPMNGIHJ_00718	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+JPMNGIHJ_00718	gene	gyrA		
+JPMNGIHJ_00719	CDS	dgkA	2.7.1.107	Diacylglycerol kinase
+JPMNGIHJ_00719	gene	dgkA		
+JPMNGIHJ_00720	CDS			hypothetical protein
+JPMNGIHJ_00720	gene			
+JPMNGIHJ_00721	CDS	acxC	6.4.1.6	Acetone carboxylase gamma subunit
+JPMNGIHJ_00721	gene	acxC		
+JPMNGIHJ_00722	CDS	acxB_1	6.4.1.6	Acetone carboxylase alpha subunit
+JPMNGIHJ_00722	gene	acxB_1		
+JPMNGIHJ_00723	CDS	acxB_2	6.4.1.6	Acetone carboxylase alpha subunit
+JPMNGIHJ_00723	gene	acxB_2		
+JPMNGIHJ_00724	CDS	acxA	6.4.1.6	Acetone carboxylase beta subunit
+JPMNGIHJ_00724	gene	acxA		
+JPMNGIHJ_00725	CDS			hypothetical protein
+JPMNGIHJ_00725	gene			
+JPMNGIHJ_00726	CDS	atoE		Putative short-chain fatty acid transporter
+JPMNGIHJ_00726	gene	atoE		
+JPMNGIHJ_00727	CDS	scoB	2.8.3.5	Succinyl-CoA:3-ketoacid coenzyme A transferase subunit B
+JPMNGIHJ_00727	gene	scoB		
+JPMNGIHJ_00728	CDS	scoA	2.8.3.5	Succinyl-CoA:3-ketoacid coenzyme A transferase subunit A
+JPMNGIHJ_00728	gene	scoA		
+JPMNGIHJ_00729	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+JPMNGIHJ_00729	gene	thlA		
+JPMNGIHJ_00730	CDS			hypothetical protein
+JPMNGIHJ_00730	gene			
+JPMNGIHJ_00731	CDS	feoB		Fe(2+) transporter FeoB
+JPMNGIHJ_00731	gene	feoB		
+JPMNGIHJ_00732	CDS	fecA_3		Fe(3+) dicitrate transport protein FecA
+JPMNGIHJ_00732	gene	fecA_3		
+JPMNGIHJ_00733	CDS	fliP_1		Flagellar biosynthetic protein FliP
+JPMNGIHJ_00733	gene	fliP_1		
+JPMNGIHJ_00734	CDS	fliP_2		Flagellar biosynthetic protein FliP
+JPMNGIHJ_00734	gene	fliP_2		
+JPMNGIHJ_00735	CDS	glmU		Bifunctional protein GlmU
+JPMNGIHJ_00735	gene	glmU		
+JPMNGIHJ_00736	CDS			hypothetical protein
+JPMNGIHJ_00736	gene			
+JPMNGIHJ_00737	CDS			hypothetical protein
+JPMNGIHJ_00737	gene			
+JPMNGIHJ_00738	CDS	nrdA	1.17.4.1	Ribonucleoside-diphosphate reductase 1 subunit alpha
+JPMNGIHJ_00738	gene	nrdA		
+JPMNGIHJ_00739	CDS	wbpB	1.1.1.335	UDP-N-acetyl-2-amino-2-deoxy-D-glucuronate oxidase
+JPMNGIHJ_00739	gene	wbpB		
+JPMNGIHJ_00740	CDS			hypothetical protein
+JPMNGIHJ_00740	gene			
+JPMNGIHJ_00741	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+JPMNGIHJ_00741	gene	ogt		
+JPMNGIHJ_00742	CDS	xerH_1		Tyrosine recombinase XerH
+JPMNGIHJ_00742	gene	xerH_1		
+JPMNGIHJ_00743	CDS			hypothetical protein
+JPMNGIHJ_00743	gene			
+JPMNGIHJ_00744	CDS			hypothetical protein
+JPMNGIHJ_00744	gene			
+JPMNGIHJ_00745	CDS		2.6.1.1	Aspartate aminotransferase
+JPMNGIHJ_00745	gene			
+JPMNGIHJ_00746	CDS			hypothetical protein
+JPMNGIHJ_00746	gene			
+JPMNGIHJ_00747	CDS			hypothetical protein
+JPMNGIHJ_00747	gene			
+JPMNGIHJ_00748	CDS			hypothetical protein
+JPMNGIHJ_00748	gene			
+JPMNGIHJ_00749	CDS			hypothetical protein
+JPMNGIHJ_00749	gene			
+JPMNGIHJ_00750	CDS			hypothetical protein
+JPMNGIHJ_00750	gene			
+JPMNGIHJ_00751	CDS	glpC		Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+JPMNGIHJ_00751	gene	glpC		
+JPMNGIHJ_00752	CDS	hemN_1	1.3.98.3	Oxygen-independent coproporphyrinogen III oxidase
+JPMNGIHJ_00752	gene	hemN_1		
+JPMNGIHJ_00753	CDS			hypothetical protein
+JPMNGIHJ_00753	gene			
+JPMNGIHJ_00754	CDS	aroC	4.2.3.5	Chorismate synthase
+JPMNGIHJ_00754	gene	aroC		
+JPMNGIHJ_00755	CDS	rnc	3.1.26.3	Ribonuclease 3
+JPMNGIHJ_00755	gene	rnc		
+JPMNGIHJ_00756	CDS	rnhA	3.1.26.4	Ribonuclease HI
+JPMNGIHJ_00756	gene	rnhA		
+JPMNGIHJ_00757	CDS	lapB		Lipopolysaccharide assembly protein B
+JPMNGIHJ_00757	gene	lapB		
+JPMNGIHJ_00758	CDS	surA	5.2.1.8	Chaperone SurA
+JPMNGIHJ_00758	gene	surA		
+JPMNGIHJ_00759	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+JPMNGIHJ_00759	gene	gatB		
+JPMNGIHJ_00760	CDS		3.4.24.-	putative zinc protease
+JPMNGIHJ_00760	gene			
+JPMNGIHJ_00761	CDS	mqnC	1.21.98.1	Cyclic dehypoxanthine futalosine synthase
+JPMNGIHJ_00761	gene	mqnC		
+JPMNGIHJ_00762	CDS	bamA		Outer membrane protein assembly factor BamA
+JPMNGIHJ_00762	gene	bamA		
+JPMNGIHJ_00763	CDS	mqnE	2.5.1.120	Aminodeoxyfutalosine synthase
+JPMNGIHJ_00763	gene	mqnE		
+JPMNGIHJ_00764	CDS	ftnA	1.16.3.2	Bacterial non-heme ferritin
+JPMNGIHJ_00764	gene	ftnA		
+JPMNGIHJ_00765	CDS	SERB	3.1.3.3	Phosphoserine phosphatase
+JPMNGIHJ_00765	gene	SERB		
+JPMNGIHJ_00766	CDS			hypothetical protein
+JPMNGIHJ_00766	gene			
+JPMNGIHJ_00767	CDS			hypothetical protein
+JPMNGIHJ_00767	gene			
+JPMNGIHJ_00768	CDS			hypothetical protein
+JPMNGIHJ_00768	gene			
+JPMNGIHJ_00769	CDS			hypothetical protein
+JPMNGIHJ_00769	gene			
+JPMNGIHJ_00770	CDS	sppA	3.4.21.-	Putative signal peptide peptidase SppA
+JPMNGIHJ_00770	gene	sppA		
+JPMNGIHJ_00771	CDS	purU	3.5.1.10	Formyltetrahydrofolate deformylase
+JPMNGIHJ_00771	gene	purU		
+JPMNGIHJ_00772	tRNA			tRNA-Met(cat)
+JPMNGIHJ_00772	gene			
+JPMNGIHJ_00773	tRNA			tRNA-Gln(ttg)
+JPMNGIHJ_00773	gene			
+JPMNGIHJ_00774	CDS	hypD		Hydrogenase isoenzymes formation protein HypD
+JPMNGIHJ_00774	gene	hypD		
+JPMNGIHJ_00775	CDS	hypC		Hydrogenase isoenzymes formation protein HypC
+JPMNGIHJ_00775	gene	hypC		
+JPMNGIHJ_00776	CDS	hypB		Hydrogenase/urease nickel incorporation protein HypB
+JPMNGIHJ_00776	gene	hypB		
+JPMNGIHJ_00777	CDS			hypothetical protein
+JPMNGIHJ_00777	gene			
+JPMNGIHJ_00778	CDS			hypothetical protein
+JPMNGIHJ_00778	gene			
+JPMNGIHJ_00779	CDS	ackA_1	2.7.2.1	Acetate kinase
+JPMNGIHJ_00779	gene	ackA_1		
+JPMNGIHJ_00780	CDS	ackA_2	2.7.2.1	Acetate kinase
+JPMNGIHJ_00780	gene	ackA_2		
+JPMNGIHJ_00781	CDS	pta_1	2.3.1.8	Phosphate acetyltransferase
+JPMNGIHJ_00781	gene	pta_1		
+JPMNGIHJ_00782	CDS	pta_2	2.3.1.8	Phosphate acetyltransferase
+JPMNGIHJ_00782	gene	pta_2		
+JPMNGIHJ_00783	CDS	pta_3	2.3.1.8	Phosphate acetyltransferase
+JPMNGIHJ_00783	gene	pta_3		
+JPMNGIHJ_00784	CDS			hypothetical protein
+JPMNGIHJ_00784	gene			
+JPMNGIHJ_00785	CDS			hypothetical protein
+JPMNGIHJ_00785	gene			
+JPMNGIHJ_00786	CDS	flgD		Basal-body rod modification protein FlgD
+JPMNGIHJ_00786	gene	flgD		
+JPMNGIHJ_00787	CDS	flgE_1		Flagellar hook protein FlgE
+JPMNGIHJ_00787	gene	flgE_1		
+JPMNGIHJ_00788	CDS			hypothetical protein
+JPMNGIHJ_00788	gene			
+JPMNGIHJ_00789	CDS	taqIM	2.1.1.72	Modification methylase TaqI
+JPMNGIHJ_00789	gene	taqIM		
+JPMNGIHJ_00790	CDS	uvrD	3.6.4.12	DNA helicase II
+JPMNGIHJ_00790	gene	uvrD		
+JPMNGIHJ_00791	CDS			hypothetical protein
+JPMNGIHJ_00791	gene			
+JPMNGIHJ_00792	CDS			hypothetical protein
+JPMNGIHJ_00792	gene			
+JPMNGIHJ_00793	CDS			hypothetical protein
+JPMNGIHJ_00793	gene			
+JPMNGIHJ_00794	tRNA			tRNA-Pro(ggg)
+JPMNGIHJ_00794	gene			
+JPMNGIHJ_00795	CDS	ppk	2.7.4.1	Polyphosphate kinase
+JPMNGIHJ_00795	gene	ppk		
+JPMNGIHJ_00796	CDS	pyrD_1	1.3.5.2	Dihydroorotate dehydrogenase (quinone)
+JPMNGIHJ_00796	gene	pyrD_1		
+JPMNGIHJ_00797	CDS		3.4.24.-	putative zinc protease
+JPMNGIHJ_00797	gene			
+JPMNGIHJ_00798	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+JPMNGIHJ_00798	gene	dapA		
+JPMNGIHJ_00799	CDS	fabL	1.3.1.104	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabL
+JPMNGIHJ_00799	gene	fabL		
+JPMNGIHJ_00800	CDS			hypothetical protein
+JPMNGIHJ_00800	gene			
+JPMNGIHJ_00801	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+JPMNGIHJ_00801	gene	pgsA		
+JPMNGIHJ_00802	CDS	rocE		Amino-acid permease RocE
+JPMNGIHJ_00802	gene	rocE		
+JPMNGIHJ_00803	CDS	degP	3.4.21.107	Periplasmic serine endoprotease DegP
+JPMNGIHJ_00803	gene	degP		
+JPMNGIHJ_00804	CDS	ispDF		Bifunctional enzyme IspD/IspF
+JPMNGIHJ_00804	gene	ispDF		
+JPMNGIHJ_00805	CDS			hypothetical protein
+JPMNGIHJ_00805	gene			
+JPMNGIHJ_00806	CDS	xni	3.1.-.-	Flap endonuclease Xni
+JPMNGIHJ_00806	gene	xni		
+JPMNGIHJ_00807	CDS			hypothetical protein
+JPMNGIHJ_00807	gene			
+JPMNGIHJ_00808	CDS	cbpA		Curved DNA-binding protein
+JPMNGIHJ_00808	gene	cbpA		
+JPMNGIHJ_00809	CDS	hspR		Putative heat shock protein HspR
+JPMNGIHJ_00809	gene	hspR		
+JPMNGIHJ_00810	CDS			putative AAA domain-containing protein
+JPMNGIHJ_00810	gene			
+JPMNGIHJ_00811	CDS	fur		Ferric uptake regulation protein
+JPMNGIHJ_00811	gene	fur		
+JPMNGIHJ_00812	CDS			hypothetical protein
+JPMNGIHJ_00812	gene			
+JPMNGIHJ_00813	CDS			hypothetical protein
+JPMNGIHJ_00813	gene			
+JPMNGIHJ_00814	CDS	fliN_2		Flagellar motor switch protein FliN
+JPMNGIHJ_00814	gene	fliN_2		
+JPMNGIHJ_00815	CDS	fliM		Flagellar motor switch protein FliM
+JPMNGIHJ_00815	gene	fliM		
+JPMNGIHJ_00816	CDS	fliA		RNA polymerase sigma factor FliA
+JPMNGIHJ_00816	gene	fliA		
+JPMNGIHJ_00817	CDS			hypothetical protein
+JPMNGIHJ_00817	gene			
+JPMNGIHJ_00818	CDS	ylxH		Flagellum site-determining protein YlxH
+JPMNGIHJ_00818	gene	ylxH		
+JPMNGIHJ_00819	CDS	flhF		Flagellar biosynthesis protein FlhF
+JPMNGIHJ_00819	gene	flhF		
+JPMNGIHJ_00820	CDS	folK	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+JPMNGIHJ_00820	gene	folK		
+JPMNGIHJ_00821	CDS		3.4.11.-	Aminopeptidase
+JPMNGIHJ_00821	gene			
+JPMNGIHJ_00822	CDS	aroQ	4.2.1.10	3-dehydroquinate dehydratase
+JPMNGIHJ_00822	gene	aroQ		
+JPMNGIHJ_00823	CDS			hypothetical protein
+JPMNGIHJ_00823	gene			
+JPMNGIHJ_00824	CDS	rpsO		30S ribosomal protein S15
+JPMNGIHJ_00824	gene	rpsO		
+JPMNGIHJ_00825	CDS	flhA		Flagellar biosynthesis protein FlhA
+JPMNGIHJ_00825	gene	flhA		
+JPMNGIHJ_00826	CDS		3.1.4.17	3',5'-cyclic-nucleotide phosphodiesterase
+JPMNGIHJ_00826	gene			
+JPMNGIHJ_00827	CDS	cusR		Transcriptional regulatory protein CusR
+JPMNGIHJ_00827	gene	cusR		
+JPMNGIHJ_00828	CDS	cpdA	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+JPMNGIHJ_00828	gene	cpdA		
+JPMNGIHJ_00829	CDS	acsA	6.2.1.1	Acetyl-coenzyme A synthetase
+JPMNGIHJ_00829	gene	acsA		
+JPMNGIHJ_00830	CDS	rimP		Ribosome maturation factor RimP
+JPMNGIHJ_00830	gene	rimP		
+JPMNGIHJ_00831	CDS	rbfA		Ribosome-binding factor A
+JPMNGIHJ_00831	gene	rbfA		
+JPMNGIHJ_00832	CDS	infB		Translation initiation factor IF-2
+JPMNGIHJ_00832	gene	infB		
+JPMNGIHJ_00833	CDS			hypothetical protein
+JPMNGIHJ_00833	gene			
+JPMNGIHJ_00834	CDS	thrB	2.7.1.39	Homoserine kinase
+JPMNGIHJ_00834	gene	thrB		
+JPMNGIHJ_00835	CDS			hypothetical protein
+JPMNGIHJ_00835	gene			
+JPMNGIHJ_00836	CDS	lpxC	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+JPMNGIHJ_00836	gene	lpxC		
+JPMNGIHJ_00837	CDS	minC		putative septum site-determining protein MinC
+JPMNGIHJ_00837	gene	minC		
+JPMNGIHJ_00838	CDS			hypothetical protein
+JPMNGIHJ_00838	gene			
+JPMNGIHJ_00839	CDS			hypothetical protein
+JPMNGIHJ_00839	gene			
+JPMNGIHJ_00840	CDS			hypothetical protein
+JPMNGIHJ_00840	gene			
+JPMNGIHJ_00841	CDS			hypothetical protein
+JPMNGIHJ_00841	gene			
+JPMNGIHJ_00842	CDS	panB	2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase
+JPMNGIHJ_00842	gene	panB		
+JPMNGIHJ_00843	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+JPMNGIHJ_00843	gene	ruvB		
+JPMNGIHJ_00844	CDS	tatB		Sec-independent protein translocase protein TatB
+JPMNGIHJ_00844	gene	tatB		
+JPMNGIHJ_00845	CDS	tatC		Sec-independent protein translocase protein TatC
+JPMNGIHJ_00845	gene	tatC		
+JPMNGIHJ_00846	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+JPMNGIHJ_00846	gene	queA		
+JPMNGIHJ_00847	CDS	rsmG	2.1.1.170	Ribosomal RNA small subunit methyltransferase G
+JPMNGIHJ_00847	gene	rsmG		
+JPMNGIHJ_00848	CDS			hypothetical protein
+JPMNGIHJ_00848	gene			
+JPMNGIHJ_00849	CDS			hypothetical protein
+JPMNGIHJ_00849	gene			
+JPMNGIHJ_00850	tRNA			tRNA-Ser(gga)
+JPMNGIHJ_00850	gene			
+JPMNGIHJ_00851	CDS			hypothetical protein
+JPMNGIHJ_00851	gene			
+JPMNGIHJ_00852	CDS	cheY		Chemotaxis protein CheY 
+JPMNGIHJ_00852	gene	cheY		
+JPMNGIHJ_00853	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+JPMNGIHJ_00853	gene	prmA		
+JPMNGIHJ_00854	CDS	ftsH_1	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+JPMNGIHJ_00854	gene	ftsH_1		
+JPMNGIHJ_00855	CDS	pcs	2.7.8.24	Phosphatidylcholine synthase
+JPMNGIHJ_00855	gene	pcs		
+JPMNGIHJ_00856	CDS	copA_2	3.6.3.54	Copper-exporting P-type ATPase A
+JPMNGIHJ_00856	gene	copA_2		
+JPMNGIHJ_00857	CDS	copP		COP-associated protein
+JPMNGIHJ_00857	gene	copP		
+JPMNGIHJ_00858	CDS			hypothetical protein
+JPMNGIHJ_00858	gene			
+JPMNGIHJ_00859	CDS			hypothetical protein
+JPMNGIHJ_00859	gene			
+JPMNGIHJ_00860	CDS			hypothetical protein
+JPMNGIHJ_00860	gene			
+JPMNGIHJ_00861	CDS	nixA		High-affinity nickel-transport protein NixA
+JPMNGIHJ_00861	gene	nixA		
+JPMNGIHJ_00862	CDS			hypothetical protein
+JPMNGIHJ_00862	gene			
+JPMNGIHJ_00863	CDS		3.6.1.-	ATP/GTP phosphatase
+JPMNGIHJ_00863	gene			
+JPMNGIHJ_00864	CDS			hypothetical protein
+JPMNGIHJ_00864	gene			
+JPMNGIHJ_00865	CDS			hypothetical protein
+JPMNGIHJ_00865	gene			
+JPMNGIHJ_00866	CDS	msbA	3.6.3.-	Lipid A export ATP-binding/permease protein MsbA
+JPMNGIHJ_00866	gene	msbA		
+JPMNGIHJ_00867	CDS			hypothetical protein
+JPMNGIHJ_00867	gene			
+JPMNGIHJ_00868	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+JPMNGIHJ_00868	gene	pyrB		
+JPMNGIHJ_00869	CDS			hypothetical protein
+JPMNGIHJ_00869	gene			
+JPMNGIHJ_00870	CDS	tlyA	2.1.1.226	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+JPMNGIHJ_00870	gene	tlyA		
+JPMNGIHJ_00871	CDS	ribF		Riboflavin biosynthesis protein RibF
+JPMNGIHJ_00871	gene	ribF		
+JPMNGIHJ_00872	CDS	tkt	2.2.1.1	Transketolase
+JPMNGIHJ_00872	gene	tkt		
+JPMNGIHJ_00873	CDS			hypothetical protein
+JPMNGIHJ_00873	gene			
+JPMNGIHJ_00874	CDS	spoIIIE		DNA translocase SpoIIIE
+JPMNGIHJ_00874	gene	spoIIIE		
+JPMNGIHJ_00875	CDS	kgtP		Alpha-ketoglutarate permease
+JPMNGIHJ_00875	gene	kgtP		
+JPMNGIHJ_00876	CDS	flgG_1		Flagellar basal-body rod protein FlgG
+JPMNGIHJ_00876	gene	flgG_1		
+JPMNGIHJ_00877	CDS			hypothetical protein
+JPMNGIHJ_00877	gene			
+JPMNGIHJ_00878	CDS	dusC	1.3.1.-	tRNA-dihydrouridine(16) synthase
+JPMNGIHJ_00878	gene	dusC		
+JPMNGIHJ_00879	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+JPMNGIHJ_00879	gene	tilS		
+JPMNGIHJ_00880	CDS			hypothetical protein
+JPMNGIHJ_00880	gene			
+JPMNGIHJ_00881	CDS			hypothetical protein
+JPMNGIHJ_00881	gene			
+JPMNGIHJ_00882	CDS			hypothetical protein
+JPMNGIHJ_00882	gene			
+JPMNGIHJ_00883	CDS			hypothetical protein
+JPMNGIHJ_00883	gene			
+JPMNGIHJ_00884	CDS	rimO	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+JPMNGIHJ_00884	gene	rimO		
+JPMNGIHJ_00885	CDS	gpt	2.4.2.22	Xanthine phosphoribosyltransferase
+JPMNGIHJ_00885	gene	gpt		
+JPMNGIHJ_00886	CDS		2.6.1.51	Serine-pyruvate aminotransferase
+JPMNGIHJ_00886	gene			
+JPMNGIHJ_00887	CDS	pgpA	3.1.3.27	Phosphatidylglycerophosphatase A
+JPMNGIHJ_00887	gene	pgpA		
+JPMNGIHJ_00888	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+JPMNGIHJ_00888	gene	ddl		
+JPMNGIHJ_00889	CDS	menH	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+JPMNGIHJ_00889	gene	menH		
+JPMNGIHJ_00890	CDS	murF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+JPMNGIHJ_00890	gene	murF		
+JPMNGIHJ_00891	CDS		2.7.7.53	AP-4-A phosphorylase
+JPMNGIHJ_00891	gene			
+JPMNGIHJ_00892	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+JPMNGIHJ_00892	gene	prs		
+JPMNGIHJ_00893	tRNA			tRNA-Met(cat)
+JPMNGIHJ_00893	gene			
+JPMNGIHJ_00894	CDS			hypothetical protein
+JPMNGIHJ_00894	gene			
+JPMNGIHJ_00895	CDS	rsgA	3.6.1.-	Putative ribosome biogenesis GTPase RsgA
+JPMNGIHJ_00895	gene	rsgA		
+JPMNGIHJ_00896	CDS	rluD	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+JPMNGIHJ_00896	gene	rluD		
+JPMNGIHJ_00897	CDS			hypothetical protein
+JPMNGIHJ_00897	gene			
+JPMNGIHJ_00898	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+JPMNGIHJ_00898	gene	trmB		
+JPMNGIHJ_00899	CDS	ftsE		Cell division ATP-binding protein FtsE
+JPMNGIHJ_00899	gene	ftsE		
+JPMNGIHJ_00900	CDS			hypothetical protein
+JPMNGIHJ_00900	gene			
+JPMNGIHJ_00901	CDS			hypothetical protein
+JPMNGIHJ_00901	gene			
+JPMNGIHJ_00902	CDS			hypothetical protein
+JPMNGIHJ_00902	gene			
+JPMNGIHJ_00903	CDS	fliD		Flagellar hook-associated protein 2
+JPMNGIHJ_00903	gene	fliD		
+JPMNGIHJ_00904	CDS	fliS		Flagellar protein FliS
+JPMNGIHJ_00904	gene	fliS		
+JPMNGIHJ_00905	CDS			hypothetical protein
+JPMNGIHJ_00905	gene			
+JPMNGIHJ_00906	CDS	tcdA	6.1.-.-	tRNA threonylcarbamoyladenosine dehydratase
+JPMNGIHJ_00906	gene	tcdA		
+JPMNGIHJ_00907	CDS			hypothetical protein
+JPMNGIHJ_00907	gene			
+JPMNGIHJ_00908	CDS		3.5.1.77	N-carbamoyl-D-amino acid hydrolase
+JPMNGIHJ_00908	gene			
+JPMNGIHJ_00909	CDS			hypothetical protein
+JPMNGIHJ_00909	gene			
+JPMNGIHJ_00910	CDS	yeeO		putative FMN/FAD exporter YeeO
+JPMNGIHJ_00910	gene	yeeO		
+JPMNGIHJ_00911	CDS	rny	3.1.-.-	Ribonuclease Y
+JPMNGIHJ_00911	gene	rny		
+JPMNGIHJ_00912	CDS			hypothetical protein
+JPMNGIHJ_00912	gene			
+JPMNGIHJ_00913	CDS			hypothetical protein
+JPMNGIHJ_00913	gene			
+JPMNGIHJ_00914	CDS	ftsY		Signal recognition particle receptor FtsY
+JPMNGIHJ_00914	gene	ftsY		
+JPMNGIHJ_00915	CDS			hypothetical protein
+JPMNGIHJ_00915	gene			
+JPMNGIHJ_00916	CDS			hypothetical protein
+JPMNGIHJ_00916	gene			
+JPMNGIHJ_00917	CDS			hypothetical protein
+JPMNGIHJ_00917	gene			
+JPMNGIHJ_00918	CDS	moaA	4.1.99.22	GTP 3',8-cyclase
+JPMNGIHJ_00918	gene	moaA		
+JPMNGIHJ_00919	CDS	mobA	2.7.7.77	putative molybdenum cofactor guanylyltransferase
+JPMNGIHJ_00919	gene	mobA		
+JPMNGIHJ_00920	CDS	flhB_1		Flagellar biosynthetic protein FlhB
+JPMNGIHJ_00920	gene	flhB_1		
+JPMNGIHJ_00921	CDS			hypothetical protein
+JPMNGIHJ_00921	gene			
+JPMNGIHJ_00922	CDS	amiC	3.5.1.28	N-acetylmuramoyl-L-alanine amidase AmiC
+JPMNGIHJ_00922	gene	amiC		
+JPMNGIHJ_00923	CDS	pyrD_2	1.3.-.-	Dihydroorotate dehydrogenase
+JPMNGIHJ_00923	gene	pyrD_2		
+JPMNGIHJ_00924	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+JPMNGIHJ_00924	gene	tyrS		
+JPMNGIHJ_00925	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+JPMNGIHJ_00925	gene	relA		
+JPMNGIHJ_00926	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+JPMNGIHJ_00926	gene	rpoZ		
+JPMNGIHJ_00927	CDS	pyrH	2.7.4.22	Uridylate kinase
+JPMNGIHJ_00927	gene	pyrH		
+JPMNGIHJ_00928	CDS	mqnA	4.2.1.151	Chorismate dehydratase
+JPMNGIHJ_00928	gene	mqnA		
+JPMNGIHJ_00929	CDS	acnB	4.2.1.3	Aconitate hydratase B
+JPMNGIHJ_00929	gene	acnB		
+JPMNGIHJ_00930	CDS			hypothetical protein
+JPMNGIHJ_00930	gene			
+JPMNGIHJ_00931	CDS			hypothetical protein
+JPMNGIHJ_00931	gene			
+JPMNGIHJ_00932	CDS			hypothetical protein
+JPMNGIHJ_00932	gene			
+JPMNGIHJ_00933	CDS			hypothetical protein
+JPMNGIHJ_00933	gene			
+JPMNGIHJ_00934	tmRNA	ssrA		transfer-messenger RNA, SsrA
+JPMNGIHJ_00934	gene	ssrA		
+JPMNGIHJ_00935	CDS	lolA		Outer-membrane lipoprotein carrier protein
+JPMNGIHJ_00935	gene	lolA		
+JPMNGIHJ_00936	CDS	secA		Protein translocase subunit SecA
+JPMNGIHJ_00936	gene	secA		
+JPMNGIHJ_00937	CDS	lolC		Lipoprotein-releasing system transmembrane protein LolC
+JPMNGIHJ_00937	gene	lolC		
+JPMNGIHJ_00938	CDS			hypothetical protein
+JPMNGIHJ_00938	gene			
+JPMNGIHJ_00939	CDS			hypothetical protein
+JPMNGIHJ_00939	gene			
+JPMNGIHJ_00940	CDS			hypothetical protein
+JPMNGIHJ_00940	gene			
+JPMNGIHJ_00941	CDS			hypothetical protein
+JPMNGIHJ_00941	gene			
+JPMNGIHJ_00942	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+JPMNGIHJ_00942	gene			
+JPMNGIHJ_00943	CDS	hsdR_3	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+JPMNGIHJ_00943	gene	hsdR_3		
+JPMNGIHJ_00944	CDS			hypothetical protein
+JPMNGIHJ_00944	gene			
+JPMNGIHJ_00945	CDS			hypothetical protein
+JPMNGIHJ_00945	gene			
+JPMNGIHJ_00946	CDS			hypothetical protein
+JPMNGIHJ_00946	gene			
+JPMNGIHJ_00947	CDS			hypothetical protein
+JPMNGIHJ_00947	gene			
+JPMNGIHJ_00948	CDS			hypothetical protein
+JPMNGIHJ_00948	gene			
+JPMNGIHJ_00949	CDS			hypothetical protein
+JPMNGIHJ_00949	gene			
+JPMNGIHJ_00950	CDS	pepF1	3.4.24.-	Oligoendopeptidase F, plasmid
+JPMNGIHJ_00950	gene	pepF1		
+JPMNGIHJ_00951	CDS	kefC		Glutathione-regulated potassium-efflux system protein KefC
+JPMNGIHJ_00951	gene	kefC		
+JPMNGIHJ_00952	CDS			hypothetical protein
+JPMNGIHJ_00952	gene			
+JPMNGIHJ_00953	CDS	modA		Molybdate-binding periplasmic protein
+JPMNGIHJ_00953	gene	modA		
+JPMNGIHJ_00954	CDS	modB		Molybdenum transport system permease protein ModB
+JPMNGIHJ_00954	gene	modB		
+JPMNGIHJ_00955	CDS	potA	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+JPMNGIHJ_00955	gene	potA		
+JPMNGIHJ_00956	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+JPMNGIHJ_00956	gene	gltX		
+JPMNGIHJ_00957	CDS			hypothetical protein
+JPMNGIHJ_00957	gene			
+JPMNGIHJ_00958	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+JPMNGIHJ_00958	gene	argS		
+JPMNGIHJ_00959	CDS	tatA		Sec-independent protein translocase protein TatA
+JPMNGIHJ_00959	gene	tatA		
+JPMNGIHJ_00960	CDS	gmk	2.7.4.8	Guanylate kinase
+JPMNGIHJ_00960	gene	gmk		
+JPMNGIHJ_00961	CDS			hypothetical protein
+JPMNGIHJ_00961	gene			
+JPMNGIHJ_00962	CDS	ywiE	2.7.8.-	putative cardiolipin synthase YwiE
+JPMNGIHJ_00962	gene	ywiE		
+JPMNGIHJ_00963	CDS			hypothetical protein
+JPMNGIHJ_00963	gene			
+JPMNGIHJ_00964	CDS	flgH		Flagellar L-ring protein
+JPMNGIHJ_00964	gene	flgH		
+JPMNGIHJ_00965	CDS	neuA	2.7.7.43	N-acylneuraminate cytidylyltransferase
+JPMNGIHJ_00965	gene	neuA		
+JPMNGIHJ_00966	CDS			hypothetical protein
+JPMNGIHJ_00966	gene			
+JPMNGIHJ_00967	CDS	pseH	2.3.1.202	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine N-acetyltransferase
+JPMNGIHJ_00967	gene	pseH		
+JPMNGIHJ_00968	CDS	lpxK	2.7.1.130	Tetraacyldisaccharide 4'-kinase
+JPMNGIHJ_00968	gene	lpxK		
+JPMNGIHJ_00969	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+JPMNGIHJ_00969	gene	nadE		
+JPMNGIHJ_00970	tRNA			tRNA-Arg(gcg)
+JPMNGIHJ_00970	gene			
+JPMNGIHJ_00971	CDS	ilvC	1.1.1.86	Ketol-acid reductoisomerase (NADP(+))
+JPMNGIHJ_00971	gene	ilvC		
+JPMNGIHJ_00972	CDS	minD		Septum site-determining protein MinD
+JPMNGIHJ_00972	gene	minD		
+JPMNGIHJ_00973	CDS	minE		Cell division topological specificity factor
+JPMNGIHJ_00973	gene	minE		
+JPMNGIHJ_00974	CDS	dprA		DNA processing protein DprA
+JPMNGIHJ_00974	gene	dprA		
+JPMNGIHJ_00975	CDS	yqgF	3.1.-.-	Putative pre-16S rRNA nuclease
+JPMNGIHJ_00975	gene	yqgF		
+JPMNGIHJ_00976	CDS			hypothetical protein
+JPMNGIHJ_00976	gene			
+JPMNGIHJ_00977	CDS	hcpB_2	3.5.2.6	Beta-lactamase HcpB
+JPMNGIHJ_00977	gene	hcpB_2		
+JPMNGIHJ_00978	CDS			hypothetical protein
+JPMNGIHJ_00978	gene			
+JPMNGIHJ_00979	CDS			hypothetical protein
+JPMNGIHJ_00979	gene			
+JPMNGIHJ_00980	CDS			hypothetical protein
+JPMNGIHJ_00980	gene			
+JPMNGIHJ_00981	CDS			hypothetical protein
+JPMNGIHJ_00981	gene			
+JPMNGIHJ_00982	CDS			hypothetical protein
+JPMNGIHJ_00982	gene			
+JPMNGIHJ_00983	CDS			hypothetical protein
+JPMNGIHJ_00983	gene			
+JPMNGIHJ_00984	CDS			hypothetical protein
+JPMNGIHJ_00984	gene			
+JPMNGIHJ_00985	CDS	divIB		Cell division protein DivIB
+JPMNGIHJ_00985	gene	divIB		
+JPMNGIHJ_00986	CDS			hypothetical protein
+JPMNGIHJ_00986	gene			
+JPMNGIHJ_00987	CDS		5.4.99.-	putative RNA pseudouridine synthase
+JPMNGIHJ_00987	gene			
+JPMNGIHJ_00988	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+JPMNGIHJ_00988	gene	recJ		
+JPMNGIHJ_00989	CDS	pyrG	6.3.4.2	CTP synthase
+JPMNGIHJ_00989	gene	pyrG		
+JPMNGIHJ_00990	CDS			hypothetical protein
+JPMNGIHJ_00990	gene			
+JPMNGIHJ_00991	CDS	fliF		Flagellar M-ring protein
+JPMNGIHJ_00991	gene	fliF		
+JPMNGIHJ_00992	CDS	fliG		Flagellar motor switch protein FliG
+JPMNGIHJ_00992	gene	fliG		
+JPMNGIHJ_00993	CDS			hypothetical protein
+JPMNGIHJ_00993	gene			
+JPMNGIHJ_00994	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+JPMNGIHJ_00994	gene	dxs		
+JPMNGIHJ_00995	CDS	lepA	3.6.5.-	Elongation factor 4
+JPMNGIHJ_00995	gene	lepA		
+JPMNGIHJ_00996	CDS			hypothetical protein
+JPMNGIHJ_00996	gene			
+JPMNGIHJ_00997	CDS	ydfG	1.1.1.381	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+JPMNGIHJ_00997	gene	ydfG		
+JPMNGIHJ_00998	CDS			hypothetical protein
+JPMNGIHJ_00998	gene			
+JPMNGIHJ_00999	tRNA			tRNA-Ala(tgc)
+JPMNGIHJ_00999	gene			
+JPMNGIHJ_01000	tRNA			tRNA-Ile(gat)
+JPMNGIHJ_01000	gene			
+JPMNGIHJ_01001	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+JPMNGIHJ_01001	gene	galE		
+JPMNGIHJ_01002	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+JPMNGIHJ_01002	gene	truA		
+JPMNGIHJ_01003	CDS			hypothetical protein
+JPMNGIHJ_01003	gene			
+JPMNGIHJ_01004	CDS	pcm	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+JPMNGIHJ_01004	gene	pcm		
+JPMNGIHJ_01005	CDS	nrdB	1.17.4.1	Ribonucleoside-diphosphate reductase subunit beta
+JPMNGIHJ_01005	gene	nrdB		
+JPMNGIHJ_01006	tRNA			tRNA-Leu(tag)
+JPMNGIHJ_01006	gene			
+JPMNGIHJ_01007	CDS	pseC	2.6.1.92	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase
+JPMNGIHJ_01007	gene	pseC		
+JPMNGIHJ_01008	CDS			hypothetical protein
+JPMNGIHJ_01008	gene			
+JPMNGIHJ_01009	CDS			hypothetical protein
+JPMNGIHJ_01009	gene			
+JPMNGIHJ_01010	CDS			hypothetical protein
+JPMNGIHJ_01010	gene			
+JPMNGIHJ_01011	CDS			hypothetical protein
+JPMNGIHJ_01011	gene			
+JPMNGIHJ_01012	CDS	accC	6.3.4.14	Biotin carboxylase
+JPMNGIHJ_01012	gene	accC		
+JPMNGIHJ_01013	CDS	accB		Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+JPMNGIHJ_01013	gene	accB		
+JPMNGIHJ_01014	CDS	dcd	3.5.4.13	dCTP deaminase
+JPMNGIHJ_01014	gene	dcd		
+JPMNGIHJ_01015	CDS			hypothetical protein
+JPMNGIHJ_01015	gene			
+JPMNGIHJ_01016	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+JPMNGIHJ_01016	gene	rsmE		
+JPMNGIHJ_01017	CDS			hypothetical protein
+JPMNGIHJ_01017	gene			
+JPMNGIHJ_01018	CDS	hemH	4.99.1.1	Ferrochelatase
+JPMNGIHJ_01018	gene	hemH		
+JPMNGIHJ_01019	CDS			hypothetical protein
+JPMNGIHJ_01019	gene			
+JPMNGIHJ_01020	CDS	ccsA		Cytochrome c biogenesis protein CcsA
+JPMNGIHJ_01020	gene	ccsA		
+JPMNGIHJ_01021	CDS	queE_1	4.3.99.3	7-carboxy-7-deazaguanine synthase
+JPMNGIHJ_01021	gene	queE_1		
+JPMNGIHJ_01022	CDS	topA_1	5.99.1.2	DNA topoisomerase 1
+JPMNGIHJ_01022	gene	topA_1		
+JPMNGIHJ_01023	CDS	flaB		Flagellin B
+JPMNGIHJ_01023	gene	flaB		
+JPMNGIHJ_01024	CDS			hypothetical protein
+JPMNGIHJ_01024	gene			
+JPMNGIHJ_01025	CDS			hypothetical protein
+JPMNGIHJ_01025	gene			
+JPMNGIHJ_01026	CDS			hypothetical protein
+JPMNGIHJ_01026	gene			
+JPMNGIHJ_01027	CDS	hrcA		Heat-inducible transcription repressor HrcA
+JPMNGIHJ_01027	gene	hrcA		
+JPMNGIHJ_01028	CDS	grpE		Protein GrpE
+JPMNGIHJ_01028	gene	grpE		
+JPMNGIHJ_01029	CDS	dnaK		Chaperone protein DnaK
+JPMNGIHJ_01029	gene	dnaK		
+JPMNGIHJ_01030	CDS			hypothetical protein
+JPMNGIHJ_01030	gene			
+JPMNGIHJ_01031	CDS	cysM	2.5.1.47	Cysteine synthase
+JPMNGIHJ_01031	gene	cysM		
+JPMNGIHJ_01032	CDS	metB	2.5.1.48	Cystathionine gamma-synthase
+JPMNGIHJ_01032	gene	metB		
+JPMNGIHJ_01033	CDS	luxS	4.4.1.21	S-ribosylhomocysteine lyase
+JPMNGIHJ_01033	gene	luxS		
+JPMNGIHJ_01034	CDS	yfkN		Trifunctional nucleotide phosphoesterase protein YfkN
+JPMNGIHJ_01034	gene	yfkN		
+JPMNGIHJ_01035	CDS	mcp4		Methyl-accepting chemotaxis protein 4
+JPMNGIHJ_01035	gene	mcp4		
+JPMNGIHJ_01036	CDS		2.4.-.-	putative glycosyltransferase
+JPMNGIHJ_01036	gene			
+JPMNGIHJ_01037	CDS			hypothetical protein
+JPMNGIHJ_01037	gene			
+JPMNGIHJ_01038	CDS			hypothetical protein
+JPMNGIHJ_01038	gene			
+JPMNGIHJ_01039	CDS	pctC		Methyl-accepting chemotaxis protein PctC
+JPMNGIHJ_01039	gene	pctC		
+JPMNGIHJ_01040	CDS	thrC	4.2.3.1	Threonine synthase
+JPMNGIHJ_01040	gene	thrC		
+JPMNGIHJ_01041	CDS			hypothetical protein
+JPMNGIHJ_01041	gene			
+JPMNGIHJ_01042	CDS		1.-.-.-	Putative 2-hydroxyacid dehydrogenase
+JPMNGIHJ_01042	gene			
+JPMNGIHJ_01043	CDS			hypothetical protein
+JPMNGIHJ_01043	gene			
+JPMNGIHJ_01044	CDS			hypothetical protein
+JPMNGIHJ_01044	gene			
+JPMNGIHJ_01045	CDS	wbnK	2.4.1.308	O-antigen biosynthesis glycosyltransferase WbnK
+JPMNGIHJ_01045	gene	wbnK		
+JPMNGIHJ_01046	CDS	dpnA_4	2.1.1.72	Modification methylase DpnIIB
+JPMNGIHJ_01046	gene	dpnA_4		
+JPMNGIHJ_01047	CDS	mboIR	3.1.21.4	Type-2 restriction enzyme MboI
+JPMNGIHJ_01047	gene	mboIR		
+JPMNGIHJ_01048	tRNA			tRNA-Ser(gct)
+JPMNGIHJ_01048	gene			
+JPMNGIHJ_01049	CDS	fenF	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+JPMNGIHJ_01049	gene	fenF		
+JPMNGIHJ_01050	CDS	mtnN	3.2.2.30	Aminodeoxyfutalosine nucleosidase
+JPMNGIHJ_01050	gene	mtnN		
+JPMNGIHJ_01051	CDS	rpoD		RNA polymerase sigma factor RpoD
+JPMNGIHJ_01051	gene	rpoD		
+JPMNGIHJ_01052	CDS			hypothetical protein
+JPMNGIHJ_01052	gene			
+JPMNGIHJ_01053	CDS	mqo	1.1.5.4	Malate:quinone oxidoreductase
+JPMNGIHJ_01053	gene	mqo		
+JPMNGIHJ_01054	CDS			hypothetical protein
+JPMNGIHJ_01054	gene			
+JPMNGIHJ_01055	CDS	rplM		50S ribosomal protein L13
+JPMNGIHJ_01055	gene	rplM		
+JPMNGIHJ_01056	CDS	rpsI		30S ribosomal protein S9
+JPMNGIHJ_01056	gene	rpsI		
+JPMNGIHJ_01057	CDS	pctB		Methyl-accepting chemotaxis protein PctB
+JPMNGIHJ_01057	gene	pctB		
+JPMNGIHJ_01058	CDS			hypothetical protein
+JPMNGIHJ_01058	gene			
+JPMNGIHJ_01059	CDS			hypothetical protein
+JPMNGIHJ_01059	gene			
+JPMNGIHJ_01060	CDS			hypothetical protein
+JPMNGIHJ_01060	gene			
+JPMNGIHJ_01061	CDS	prfA		Peptide chain release factor RF1
+JPMNGIHJ_01061	gene	prfA		
+JPMNGIHJ_01062	CDS	rpsT		30S ribosomal protein S20
+JPMNGIHJ_01062	gene	rpsT		
+JPMNGIHJ_01063	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+JPMNGIHJ_01063	gene	glmM		
+JPMNGIHJ_01064	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+JPMNGIHJ_01064	gene	lspA		
+JPMNGIHJ_01065	tRNA			tRNA-Val(gac)
+JPMNGIHJ_01065	gene			
+JPMNGIHJ_01066	CDS	ureA	3.5.1.5	Urease subunit alpha
+JPMNGIHJ_01066	gene	ureA		
+JPMNGIHJ_01067	CDS	ureB	3.5.1.5	Urease subunit beta
+JPMNGIHJ_01067	gene	ureB		
+JPMNGIHJ_01068	CDS	ureI		Acid-activated urea channel
+JPMNGIHJ_01068	gene	ureI		
+JPMNGIHJ_01069	CDS	ureE		Urease accessory protein UreE
+JPMNGIHJ_01069	gene	ureE		
+JPMNGIHJ_01070	CDS	ureF		Urease accessory protein UreF
+JPMNGIHJ_01070	gene	ureF		
+JPMNGIHJ_01071	CDS	ureG		Urease accessory protein UreG
+JPMNGIHJ_01071	gene	ureG		
+JPMNGIHJ_01072	CDS	ureH		Urease accessory protein UreH
+JPMNGIHJ_01072	gene	ureH		
+JPMNGIHJ_01073	CDS	ftsK		DNA translocase FtsK
+JPMNGIHJ_01073	gene	ftsK		
+JPMNGIHJ_01074	CDS			hypothetical protein
+JPMNGIHJ_01074	gene			
+JPMNGIHJ_01075	CDS			hypothetical protein
+JPMNGIHJ_01075	gene			
+JPMNGIHJ_01076	CDS			hypothetical protein
+JPMNGIHJ_01076	gene			
+JPMNGIHJ_01077	CDS			hypothetical protein
+JPMNGIHJ_01077	gene			
+JPMNGIHJ_01078	CDS			hypothetical protein
+JPMNGIHJ_01078	gene			
+JPMNGIHJ_01079	CDS			hypothetical protein
+JPMNGIHJ_01079	gene			
+JPMNGIHJ_01080	CDS	smc_1		Chromosome partition protein Smc
+JPMNGIHJ_01080	gene	smc_1		
+JPMNGIHJ_01081	CDS			hypothetical protein
+JPMNGIHJ_01081	gene			
+JPMNGIHJ_01082	CDS	bicA		Bicarbonate transporter BicA
+JPMNGIHJ_01082	gene	bicA		
+JPMNGIHJ_01083	tRNA			tRNA-Asn(gtt)
+JPMNGIHJ_01083	gene			
+JPMNGIHJ_01084	CDS			hypothetical protein
+JPMNGIHJ_01084	gene			
+JPMNGIHJ_01085	CDS	kdsB	2.7.7.38	3-deoxy-manno-octulosonate cytidylyltransferase
+JPMNGIHJ_01085	gene	kdsB		
+JPMNGIHJ_01086	CDS			hypothetical protein
+JPMNGIHJ_01086	gene			
+JPMNGIHJ_01087	CDS			hypothetical protein
+JPMNGIHJ_01087	gene			
+JPMNGIHJ_01088	CDS	ygiC	6.3.1.-	Putative acid--amine ligase YgiC
+JPMNGIHJ_01088	gene	ygiC		
+JPMNGIHJ_01089	CDS			hypothetical protein
+JPMNGIHJ_01089	gene			
+JPMNGIHJ_01090	CDS	hcpC_2	3.5.2.6	Putative beta-lactamase HcpC
+JPMNGIHJ_01090	gene	hcpC_2		
+JPMNGIHJ_01091	CDS			hypothetical protein
+JPMNGIHJ_01091	gene			
+JPMNGIHJ_01092	CDS	hemC	2.5.1.61	Porphobilinogen deaminase
+JPMNGIHJ_01092	gene	hemC		
+JPMNGIHJ_01093	CDS	proS	6.1.1.15	Proline--tRNA ligase
+JPMNGIHJ_01093	gene	proS		
+JPMNGIHJ_01094	CDS	hemA	1.2.1.70	Glutamyl-tRNA reductase
+JPMNGIHJ_01094	gene	hemA		
+JPMNGIHJ_01095	CDS	ispB	2.5.1.90	Octaprenyl diphosphate synthase
+JPMNGIHJ_01095	gene	ispB		
+JPMNGIHJ_01096	CDS			hypothetical protein
+JPMNGIHJ_01096	gene			
+JPMNGIHJ_01097	CDS			hypothetical protein
+JPMNGIHJ_01097	gene			
+JPMNGIHJ_01098	CDS	dps	1.16.-.-	DNA protection during starvation protein
+JPMNGIHJ_01098	gene	dps		
+JPMNGIHJ_01099	CDS	zraS	2.7.13.3	Sensor protein ZraS
+JPMNGIHJ_01099	gene	zraS		
+JPMNGIHJ_01100	CDS			hypothetical protein
+JPMNGIHJ_01100	gene			
+JPMNGIHJ_01101	CDS	flgI		Flagellar P-ring protein
+JPMNGIHJ_01101	gene	flgI		
+JPMNGIHJ_01102	CDS	rhpA	3.6.4.13	DEAD-box ATP-dependent RNA helicase RhpA
+JPMNGIHJ_01102	gene	rhpA		
+JPMNGIHJ_01103	CDS	hflC		Modulator of FtsH protease HflC
+JPMNGIHJ_01103	gene	hflC		
+JPMNGIHJ_01104	CDS			hypothetical protein
+JPMNGIHJ_01104	gene			
+JPMNGIHJ_01105	CDS	gsiA	3.6.3.-	Glutathione import ATP-binding protein GsiA
+JPMNGIHJ_01105	gene	gsiA		
+JPMNGIHJ_01106	CDS	yejE		Inner membrane ABC transporter permease protein YejE
+JPMNGIHJ_01106	gene	yejE		
+JPMNGIHJ_01107	tRNA			tRNA-Ala(ggc)
+JPMNGIHJ_01107	gene			
+JPMNGIHJ_01108	CDS			hypothetical protein
+JPMNGIHJ_01108	gene			
+JPMNGIHJ_01109	CDS			hypothetical protein
+JPMNGIHJ_01109	gene			
+JPMNGIHJ_01110	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+JPMNGIHJ_01110	gene	purA		
+JPMNGIHJ_01111	CDS			hypothetical protein
+JPMNGIHJ_01111	gene			
+JPMNGIHJ_01112	CDS			hypothetical protein
+JPMNGIHJ_01112	gene			
+JPMNGIHJ_01113	CDS	mmpA	3.4.24.-	Metalloprotease MmpA
+JPMNGIHJ_01113	gene	mmpA		
+JPMNGIHJ_01114	CDS	xseA_1	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+JPMNGIHJ_01114	gene	xseA_1		
+JPMNGIHJ_01115	CDS			hypothetical protein
+JPMNGIHJ_01115	gene			
+JPMNGIHJ_01116	CDS			hypothetical protein
+JPMNGIHJ_01116	gene			
+JPMNGIHJ_01117	CDS			hypothetical protein
+JPMNGIHJ_01117	gene			
+JPMNGIHJ_01118	CDS	dpnA_5	2.1.1.72	Modification methylase DpnIIB
+JPMNGIHJ_01118	gene	dpnA_5		
+JPMNGIHJ_01119	CDS	clpB		Chaperone protein ClpB
+JPMNGIHJ_01119	gene	clpB		
+JPMNGIHJ_01120	CDS	dsbD	1.8.1.8	Thiol:disulfide interchange protein DsbD
+JPMNGIHJ_01120	gene	dsbD		
+JPMNGIHJ_01121	CDS	pyrC_2	3.5.2.3	Dihydroorotase
+JPMNGIHJ_01121	gene	pyrC_2		
+JPMNGIHJ_01122	CDS		3.5.4.4	Adenosine deaminase
+JPMNGIHJ_01122	gene			
+JPMNGIHJ_01123	CDS			hypothetical protein
+JPMNGIHJ_01123	gene			
+JPMNGIHJ_01124	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+JPMNGIHJ_01124	gene	miaB		
+JPMNGIHJ_01125	CDS			hypothetical protein
+JPMNGIHJ_01125	gene			
+JPMNGIHJ_01126	CDS			hypothetical protein
+JPMNGIHJ_01126	gene			
+JPMNGIHJ_01127	CDS			hypothetical protein
+JPMNGIHJ_01127	gene			
+JPMNGIHJ_01128	CDS			hypothetical protein
+JPMNGIHJ_01128	gene			
+JPMNGIHJ_01129	CDS			hypothetical protein
+JPMNGIHJ_01129	gene			
+JPMNGIHJ_01130	CDS			hypothetical protein
+JPMNGIHJ_01130	gene			
+JPMNGIHJ_01131	CDS			hypothetical protein
+JPMNGIHJ_01131	gene			
+JPMNGIHJ_01132	CDS	fdx		Ferredoxin
+JPMNGIHJ_01132	gene	fdx		
+JPMNGIHJ_01133	CDS	gppA	3.6.1.40	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+JPMNGIHJ_01133	gene	gppA		
+JPMNGIHJ_01134	CDS	rfaC	2.-.-.-	Lipopolysaccharide heptosyltransferase 1
+JPMNGIHJ_01134	gene	rfaC		
+JPMNGIHJ_01135	CDS	lpxP	2.3.1.242	Lipid A biosynthesis palmitoleoyltransferase
+JPMNGIHJ_01135	gene	lpxP		
+JPMNGIHJ_01136	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+JPMNGIHJ_01136	gene	tgt		
+JPMNGIHJ_01137	CDS			hypothetical protein
+JPMNGIHJ_01137	gene			
+JPMNGIHJ_01138	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+JPMNGIHJ_01138	gene	aroB		
+JPMNGIHJ_01139	CDS			hypothetical protein
+JPMNGIHJ_01139	gene			
+JPMNGIHJ_01140	CDS	mtaB	2.8.4.5	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+JPMNGIHJ_01140	gene	mtaB		
+JPMNGIHJ_01141	CDS	ftsH_2	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+JPMNGIHJ_01141	gene	ftsH_2		
+JPMNGIHJ_01142	CDS			hypothetical protein
+JPMNGIHJ_01142	gene			
+JPMNGIHJ_01143	CDS			hypothetical protein
+JPMNGIHJ_01143	gene			
+JPMNGIHJ_01144	CDS	vacA_2		Vacuolating cytotoxin autotransporter
+JPMNGIHJ_01144	gene	vacA_2		
+JPMNGIHJ_01145	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+JPMNGIHJ_01145	gene	lysA		
+JPMNGIHJ_01146	CDS	tyrA_2		T-protein
+JPMNGIHJ_01146	gene	tyrA_2		
+JPMNGIHJ_01147	CDS			hypothetical protein
+JPMNGIHJ_01147	gene			
+JPMNGIHJ_01148	CDS	pabB	2.6.1.85	Aminodeoxychorismate synthase component 1
+JPMNGIHJ_01148	gene	pabB		
+JPMNGIHJ_01149	CDS	amiE	3.5.1.4	Aliphatic amidase
+JPMNGIHJ_01149	gene	amiE		
+JPMNGIHJ_01150	CDS	flgL		Flagellar hook-associated protein 3
+JPMNGIHJ_01150	gene	flgL		
+JPMNGIHJ_01151	CDS	rplU		50S ribosomal protein L21
+JPMNGIHJ_01151	gene	rplU		
+JPMNGIHJ_01152	CDS	rpmA		50S ribosomal protein L27
+JPMNGIHJ_01152	gene	rpmA		
+JPMNGIHJ_01153	CDS	hbpA		Heme-binding protein A
+JPMNGIHJ_01153	gene	hbpA		
+JPMNGIHJ_01154	CDS	dppB		Dipeptide transport system permease protein DppB
+JPMNGIHJ_01154	gene	dppB		
+JPMNGIHJ_01155	CDS	dppC		Dipeptide transport system permease protein DppC
+JPMNGIHJ_01155	gene	dppC		
+JPMNGIHJ_01156	CDS	oppD		Oligopeptide transport ATP-binding protein OppD
+JPMNGIHJ_01156	gene	oppD		
+JPMNGIHJ_01157	CDS	oppF		Oligopeptide transport ATP-binding protein OppF
+JPMNGIHJ_01157	gene	oppF		
+JPMNGIHJ_01158	CDS	obg	3.6.5.-	GTPase Obg
+JPMNGIHJ_01158	gene	obg		
+JPMNGIHJ_01159	CDS			hypothetical protein
+JPMNGIHJ_01159	gene			
+JPMNGIHJ_01160	CDS			hypothetical protein
+JPMNGIHJ_01160	gene			
+JPMNGIHJ_01161	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+JPMNGIHJ_01161	gene	hemL		
+JPMNGIHJ_01162	CDS			hypothetical protein
+JPMNGIHJ_01162	gene			
+JPMNGIHJ_01163	CDS			hypothetical protein
+JPMNGIHJ_01163	gene			
+JPMNGIHJ_01164	CDS		3.5.1.111	2-oxoglutaramate amidase
+JPMNGIHJ_01164	gene			
+JPMNGIHJ_01165	CDS	pgdA	3.5.1.-	Peptidoglycan deacetylase
+JPMNGIHJ_01165	gene	pgdA		
+JPMNGIHJ_01166	CDS			hypothetical protein
+JPMNGIHJ_01166	gene			
+JPMNGIHJ_01167	CDS	yjiA		putative GTP-binding protein YjiA
+JPMNGIHJ_01167	gene	yjiA		
+JPMNGIHJ_01168	CDS			hypothetical protein
+JPMNGIHJ_01168	gene			
+JPMNGIHJ_01169	CDS	vapD_1	3.1.-.-	Endoribonuclease VapD
+JPMNGIHJ_01169	gene	vapD_1		
+JPMNGIHJ_01170	CDS			hypothetical protein
+JPMNGIHJ_01170	gene			
+JPMNGIHJ_01171	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+JPMNGIHJ_01171	gene	recD2		
+JPMNGIHJ_01172	CDS			hypothetical protein
+JPMNGIHJ_01172	gene			
+JPMNGIHJ_01173	CDS			hypothetical protein
+JPMNGIHJ_01173	gene			
+JPMNGIHJ_01174	CDS			hypothetical protein
+JPMNGIHJ_01174	gene			
+JPMNGIHJ_01175	CDS			hypothetical protein
+JPMNGIHJ_01175	gene			
+JPMNGIHJ_01176	CDS			hypothetical protein
+JPMNGIHJ_01176	gene			
+JPMNGIHJ_01177	CDS			hypothetical protein
+JPMNGIHJ_01177	gene			
+JPMNGIHJ_01178	CDS			hypothetical protein
+JPMNGIHJ_01178	gene			
+JPMNGIHJ_01179	CDS			hypothetical protein
+JPMNGIHJ_01179	gene			
+JPMNGIHJ_01180	CDS	xseA_2	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+JPMNGIHJ_01180	gene	xseA_2		
+JPMNGIHJ_01181	CDS	rseP	3.4.24.-	Regulator of sigma-E protease RseP
+JPMNGIHJ_01181	gene	rseP		
+JPMNGIHJ_01182	CDS	ftsZ		Cell division protein FtsZ
+JPMNGIHJ_01182	gene	ftsZ		
+JPMNGIHJ_01183	CDS	ftsA		Cell division protein FtsA
+JPMNGIHJ_01183	gene	ftsA		
+JPMNGIHJ_01184	CDS	ppiD	5.2.1.8	Peptidyl-prolyl cis-trans isomerase D
+JPMNGIHJ_01184	gene	ppiD		
+JPMNGIHJ_01185	CDS	bioA	2.6.1.62	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+JPMNGIHJ_01185	gene	bioA		
+JPMNGIHJ_01186	CDS	gatC	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+JPMNGIHJ_01186	gene	gatC		
+JPMNGIHJ_01187	CDS	gpmI	5.4.2.12	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+JPMNGIHJ_01187	gene	gpmI		
+JPMNGIHJ_01188	CDS			hypothetical protein
+JPMNGIHJ_01188	gene			
+JPMNGIHJ_01189	CDS	glyS	6.1.1.14	Glycine--tRNA ligase beta subunit
+JPMNGIHJ_01189	gene	glyS		
+JPMNGIHJ_01190	CDS			hypothetical protein
+JPMNGIHJ_01190	gene			
+JPMNGIHJ_01191	CDS			hypothetical protein
+JPMNGIHJ_01191	gene			
+JPMNGIHJ_01192	CDS	czcA		Cobalt-zinc-cadmium resistance protein CzcA
+JPMNGIHJ_01192	gene	czcA		
+JPMNGIHJ_01193	CDS			hypothetical protein
+JPMNGIHJ_01193	gene			
+JPMNGIHJ_01194	CDS	vapD_2	3.1.-.-	Endoribonuclease VapD
+JPMNGIHJ_01194	gene	vapD_2		
+JPMNGIHJ_01195	CDS			hypothetical protein
+JPMNGIHJ_01195	gene			
+JPMNGIHJ_01196	CDS	der_2		GTPase Der
+JPMNGIHJ_01196	gene	der_2		
+JPMNGIHJ_01197	CDS			hypothetical protein
+JPMNGIHJ_01197	gene			
+JPMNGIHJ_01198	CDS	era_2		GTPase Era
+JPMNGIHJ_01198	gene	era_2		
+JPMNGIHJ_01199	CDS	acpP_2		Acyl carrier protein
+JPMNGIHJ_01199	gene	acpP_2		
+JPMNGIHJ_01200	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+JPMNGIHJ_01200	gene	gpsA		
+JPMNGIHJ_01201	CDS	glyQ	6.1.1.14	Glycine--tRNA ligase alpha subunit
+JPMNGIHJ_01201	gene	glyQ		
+JPMNGIHJ_01202	CDS		3.5.4.16	GTP cyclohydrolase 1 type 2
+JPMNGIHJ_01202	gene			
+JPMNGIHJ_01203	CDS			hypothetical protein
+JPMNGIHJ_01203	gene			
+JPMNGIHJ_01204	CDS	waaA	2.4.99.12	3-deoxy-D-manno-octulosonic acid transferase
+JPMNGIHJ_01204	gene	waaA		
+JPMNGIHJ_01205	CDS		5.4.99.-	putative RNA pseudouridine synthase
+JPMNGIHJ_01205	gene			
+JPMNGIHJ_01206	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+JPMNGIHJ_01206	gene	lgt		
+JPMNGIHJ_01207	CDS	rdxA	1.-.-.-	Oxygen-insensitive NADPH nitroreductase
+JPMNGIHJ_01207	gene	rdxA		
+JPMNGIHJ_01208	CDS			hypothetical protein
+JPMNGIHJ_01208	gene			
+JPMNGIHJ_01209	CDS	pncC	3.5.1.42	Nicotinamide-nucleotide amidohydrolase PncC
+JPMNGIHJ_01209	gene	pncC		
+JPMNGIHJ_01210	CDS			hypothetical protein
+JPMNGIHJ_01210	gene			
+JPMNGIHJ_01211	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+JPMNGIHJ_01211	gene	accD		
+JPMNGIHJ_01212	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+JPMNGIHJ_01212	gene	rlmH		
+JPMNGIHJ_01213	CDS			hypothetical protein
+JPMNGIHJ_01213	gene			
+JPMNGIHJ_01214	CDS			hypothetical protein
+JPMNGIHJ_01214	gene			
+JPMNGIHJ_01215	CDS	mleN		Malate-2H(+)/Na(+)-lactate antiporter
+JPMNGIHJ_01215	gene	mleN		
+JPMNGIHJ_01216	tRNA			tRNA-Ser(tga)
+JPMNGIHJ_01216	gene			
+JPMNGIHJ_01217	tRNA			tRNA-Cys(gca)
+JPMNGIHJ_01217	gene			
+JPMNGIHJ_01218	tRNA			tRNA-Leu(taa)
+JPMNGIHJ_01218	gene			
+JPMNGIHJ_01219	CDS			hypothetical protein
+JPMNGIHJ_01219	gene			
+JPMNGIHJ_01220	tRNA			tRNA-Gly(gcc)
+JPMNGIHJ_01220	gene			
+JPMNGIHJ_01221	CDS			RutC family protein
+JPMNGIHJ_01221	gene			
+JPMNGIHJ_01222	CDS	dadA	1.4.5.1	D-amino acid dehydrogenase
+JPMNGIHJ_01222	gene	dadA		
+JPMNGIHJ_01223	CDS	alsT		Amino-acid carrier protein AlsT
+JPMNGIHJ_01223	gene	alsT		
+JPMNGIHJ_01224	CDS	alr1	5.1.1.1	Alanine racemase 1
+JPMNGIHJ_01224	gene	alr1		
+JPMNGIHJ_01225	CDS			putative amino-acid ABC transporter-binding protein
+JPMNGIHJ_01225	gene			
+JPMNGIHJ_01226	CDS	tcyB		L-cystine transport system permease protein TcyB
+JPMNGIHJ_01226	gene	tcyB		
+JPMNGIHJ_01227	CDS			hypothetical protein
+JPMNGIHJ_01227	gene			
+JPMNGIHJ_01228	CDS			hypothetical protein
+JPMNGIHJ_01228	gene			
+JPMNGIHJ_01229	CDS	proP		Proline/betaine transporter
+JPMNGIHJ_01229	gene	proP		
+JPMNGIHJ_01230	CDS			hypothetical protein
+JPMNGIHJ_01230	gene			
+JPMNGIHJ_01231	CDS	queE_2	4.3.99.3	7-carboxy-7-deazaguanine synthase
+JPMNGIHJ_01231	gene	queE_2		
+JPMNGIHJ_01232	CDS			hypothetical protein
+JPMNGIHJ_01232	gene			
+JPMNGIHJ_01233	CDS			hypothetical protein
+JPMNGIHJ_01233	gene			
+JPMNGIHJ_01234	CDS	surE	3.1.3.5	5'-nucleotidase SurE
+JPMNGIHJ_01234	gene	surE		
+JPMNGIHJ_01235	CDS		2.5.1.10	Farnesyl diphosphate synthase
+JPMNGIHJ_01235	gene			
+JPMNGIHJ_01236	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+JPMNGIHJ_01236	gene	folE		
+JPMNGIHJ_01237	CDS	htpX_1	3.4.24.-	Protease HtpX 
+JPMNGIHJ_01237	gene	htpX_1		
+JPMNGIHJ_01238	CDS	truD	5.4.99.27	tRNA pseudouridine synthase D
+JPMNGIHJ_01238	gene	truD		
+JPMNGIHJ_01239	CDS	recR		Recombination protein RecR
+JPMNGIHJ_01239	gene	recR		
+JPMNGIHJ_01240	CDS		5.3.2.-	putative tautomerase
+JPMNGIHJ_01240	gene			
+JPMNGIHJ_01241	CDS			hypothetical protein
+JPMNGIHJ_01241	gene			
+JPMNGIHJ_01242	CDS			hypothetical protein
+JPMNGIHJ_01242	gene			
+JPMNGIHJ_01243	CDS			hypothetical protein
+JPMNGIHJ_01243	gene			
+JPMNGIHJ_01244	CDS			hypothetical protein
+JPMNGIHJ_01244	gene			
+JPMNGIHJ_01245	CDS			hypothetical protein
+JPMNGIHJ_01245	gene			
+JPMNGIHJ_01246	CDS	cah	4.2.1.1	Carbonic anhydrase
+JPMNGIHJ_01246	gene	cah		
+JPMNGIHJ_01247	CDS	sotB		Sugar efflux transporter B
+JPMNGIHJ_01247	gene	sotB		
+JPMNGIHJ_01248	CDS	mepA		Multidrug export protein MepA
+JPMNGIHJ_01248	gene	mepA		
+JPMNGIHJ_01249	CDS			hypothetical protein
+JPMNGIHJ_01249	gene			
+JPMNGIHJ_01250	CDS			hypothetical protein
+JPMNGIHJ_01250	gene			
+JPMNGIHJ_01251	CDS	ttcA		tRNA 2-thiocytidine biosynthesis protein TtcA
+JPMNGIHJ_01251	gene	ttcA		
+JPMNGIHJ_01252	CDS	yajR		Inner membrane transport protein YajR
+JPMNGIHJ_01252	gene	yajR		
+JPMNGIHJ_01253	tRNA			tRNA-Met(cat)
+JPMNGIHJ_01253	gene			
+JPMNGIHJ_01254	CDS	nupX		Putative nucleoside permease NupX
+JPMNGIHJ_01254	gene	nupX		
+JPMNGIHJ_01255	CDS	deoB	5.4.2.7	Phosphopentomutase
+JPMNGIHJ_01255	gene	deoB		
+JPMNGIHJ_01256	CDS	deoD	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+JPMNGIHJ_01256	gene	deoD		
+JPMNGIHJ_01257	CDS			hypothetical protein
+JPMNGIHJ_01257	gene			
+JPMNGIHJ_01258	CDS	adeQ		Adenine permease AdeQ
+JPMNGIHJ_01258	gene	adeQ		
+JPMNGIHJ_01259	CDS	fucP		L-fucose-proton symporter
+JPMNGIHJ_01259	gene	fucP		
+JPMNGIHJ_01260	CDS			hypothetical protein
+JPMNGIHJ_01260	gene			
+JPMNGIHJ_01261	CDS	glnH		ABC transporter glutamine-binding protein GlnH
+JPMNGIHJ_01261	gene	glnH		
+JPMNGIHJ_01262	CDS	artM		Arginine transport ATP-binding protein ArtM
+JPMNGIHJ_01262	gene	artM		
+JPMNGIHJ_01263	CDS	glnP_1		Glutamine transport system permease protein GlnP
+JPMNGIHJ_01263	gene	glnP_1		
+JPMNGIHJ_01264	CDS	glnP_2		Glutamine transport system permease protein GlnP
+JPMNGIHJ_01264	gene	glnP_2		
+JPMNGIHJ_01265	CDS	cstA		Carbon starvation protein A
+JPMNGIHJ_01265	gene	cstA		
+JPMNGIHJ_01266	CDS			hypothetical protein
+JPMNGIHJ_01266	gene			
+JPMNGIHJ_01267	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+JPMNGIHJ_01267	gene	pgi		
+JPMNGIHJ_01268	CDS			hypothetical protein
+JPMNGIHJ_01268	gene			
+JPMNGIHJ_01269	CDS		1.18.1.2	Ferredoxin--NADP reductase
+JPMNGIHJ_01269	gene			
+JPMNGIHJ_01270	CDS			hypothetical protein
+JPMNGIHJ_01270	gene			
+JPMNGIHJ_01271	CDS	yohD_2		Inner membrane protein YohD
+JPMNGIHJ_01271	gene	yohD_2		
+JPMNGIHJ_01272	CDS	fldA		Flavodoxin
+JPMNGIHJ_01272	gene	fldA		
+JPMNGIHJ_01273	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+JPMNGIHJ_01273	gene	ybeY		
+JPMNGIHJ_01274	CDS		2.7.7.-	Adenosine monophosphate-protein transferase NmFic
+JPMNGIHJ_01274	gene			
+JPMNGIHJ_01275	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+JPMNGIHJ_01275	gene	proC		
+JPMNGIHJ_01276	CDS			hypothetical protein
+JPMNGIHJ_01276	gene			
+JPMNGIHJ_01277	CDS			hypothetical protein
+JPMNGIHJ_01277	gene			
+JPMNGIHJ_01278	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+JPMNGIHJ_01278	gene	murG		
+JPMNGIHJ_01279	CDS	fliW1		Flagellar assembly factor FliW 1
+JPMNGIHJ_01279	gene	fliW1		
+JPMNGIHJ_01280	CDS	valS	6.1.1.9	Valine--tRNA ligase
+JPMNGIHJ_01280	gene	valS		
+JPMNGIHJ_01281	CDS	ffh		Signal recognition particle protein
+JPMNGIHJ_01281	gene	ffh		
+JPMNGIHJ_01282	CDS	rpsP		30S ribosomal protein S16
+JPMNGIHJ_01282	gene	rpsP		
+JPMNGIHJ_01283	CDS			hypothetical protein
+JPMNGIHJ_01283	gene			
+JPMNGIHJ_01284	CDS	rimM		Ribosome maturation factor RimM
+JPMNGIHJ_01284	gene	rimM		
+JPMNGIHJ_01285	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+JPMNGIHJ_01285	gene	trmD		
+JPMNGIHJ_01286	CDS	rplS		50S ribosomal protein L19
+JPMNGIHJ_01286	gene	rplS		
+JPMNGIHJ_01287	CDS			hypothetical protein
+JPMNGIHJ_01287	gene			
+JPMNGIHJ_01288	CDS			hypothetical protein
+JPMNGIHJ_01288	gene			
+JPMNGIHJ_01289	tRNA			tRNA-Arg(tct)
+JPMNGIHJ_01289	gene			
+JPMNGIHJ_01290	tRNA			tRNA-Arg(tcg)
+JPMNGIHJ_01290	gene			
+JPMNGIHJ_01291	tRNA			tRNA-His(gtg)
+JPMNGIHJ_01291	gene			
+JPMNGIHJ_01292	tRNA			tRNA-Pro(tgg)
+JPMNGIHJ_01292	gene			
+JPMNGIHJ_01293	CDS			hypothetical protein
+JPMNGIHJ_01293	gene			
+JPMNGIHJ_01294	CDS			hypothetical protein
+JPMNGIHJ_01294	gene			
+JPMNGIHJ_01295	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+JPMNGIHJ_01295	gene	guaA		
+JPMNGIHJ_01296	CDS			hypothetical protein
+JPMNGIHJ_01296	gene			
+JPMNGIHJ_01297	CDS	dorA	1.7.2.3	Dimethyl sulfoxide/trimethylamine N-oxide reductase
+JPMNGIHJ_01297	gene	dorA		
+JPMNGIHJ_01298	CDS			hypothetical protein
+JPMNGIHJ_01298	gene			
+JPMNGIHJ_01299	CDS	csd	2.8.1.7	putative cysteine desulfurase
+JPMNGIHJ_01299	gene	csd		
+JPMNGIHJ_01300	CDS			putative HIT-like protein
+JPMNGIHJ_01300	gene			
+JPMNGIHJ_01301	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+JPMNGIHJ_01301	gene	pheS		
+JPMNGIHJ_01302	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+JPMNGIHJ_01302	gene	pheT		
+JPMNGIHJ_01303	CDS	aroA1	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase 1
+JPMNGIHJ_01303	gene	aroA1		
+JPMNGIHJ_01304	CDS	ispH	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+JPMNGIHJ_01304	gene	ispH		
+JPMNGIHJ_01305	CDS	rpsA		30S ribosomal protein S1
+JPMNGIHJ_01305	gene	rpsA		
+JPMNGIHJ_01306	CDS			hypothetical protein
+JPMNGIHJ_01306	gene			
+JPMNGIHJ_01307	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+JPMNGIHJ_01307	gene	serA		
+JPMNGIHJ_01308	CDS	ubiD	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+JPMNGIHJ_01308	gene	ubiD		
+JPMNGIHJ_01309	CDS			hypothetical protein
+JPMNGIHJ_01309	gene			
+JPMNGIHJ_01310	CDS	lpxH	3.6.1.54	UDP-2,3-diacylglucosamine hydrolase
+JPMNGIHJ_01310	gene	lpxH		
+JPMNGIHJ_01311	CDS	cheV_3		Chemotaxis protein CheV
+JPMNGIHJ_01311	gene	cheV_3		
+JPMNGIHJ_01312	CDS	cheA	2.7.13.3	Chemotaxis protein CheA
+JPMNGIHJ_01312	gene	cheA		
+JPMNGIHJ_01313	CDS	cheW		Chemotaxis protein CheW
+JPMNGIHJ_01313	gene	cheW		
+JPMNGIHJ_01314	CDS	tpx	1.11.1.-	putative thiol peroxidase
+JPMNGIHJ_01314	gene	tpx		
+JPMNGIHJ_01315	CDS	sodB	1.15.1.1	Superoxide dismutase [Fe]
+JPMNGIHJ_01315	gene	sodB		
+JPMNGIHJ_01316	CDS	cmoA	2.1.3.-	Carboxy-S-adenosyl-L-methionine synthase
+JPMNGIHJ_01316	gene	cmoA		
+JPMNGIHJ_01317	CDS	priA	3.6.4.-	Primosomal protein N'
+JPMNGIHJ_01317	gene	priA		
+JPMNGIHJ_01318	CDS			hypothetical protein
+JPMNGIHJ_01318	gene			
+JPMNGIHJ_01319	CDS			hypothetical protein
+JPMNGIHJ_01319	gene			
+JPMNGIHJ_01320	CDS			hypothetical protein
+JPMNGIHJ_01320	gene			
+JPMNGIHJ_01321	CDS			hypothetical protein
+JPMNGIHJ_01321	gene			
+JPMNGIHJ_01322	CDS	htpX_2	3.4.24.-	Protease HtpX
+JPMNGIHJ_01322	gene	htpX_2		
+JPMNGIHJ_01323	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+JPMNGIHJ_01323	gene	prmC		
+JPMNGIHJ_01324	CDS	gdhA	1.4.1.2	NAD(P)-specific glutamate dehydrogenase
+JPMNGIHJ_01324	gene	gdhA		
+JPMNGIHJ_01325	CDS	fucT	2.4.1.152	Alpha-(1,3)-fucosyltransferase FucT
+JPMNGIHJ_01325	gene	fucT		
+JPMNGIHJ_01326	CDS			hypothetical protein
+JPMNGIHJ_01326	gene			
+JPMNGIHJ_01327	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+JPMNGIHJ_01327	gene	alaS		
+JPMNGIHJ_01328	CDS	maf		Septum formation protein Maf
+JPMNGIHJ_01328	gene	maf		
+JPMNGIHJ_01329	CDS	amiF	3.5.1.49	Formamidase
+JPMNGIHJ_01329	gene	amiF		
+JPMNGIHJ_01330	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+JPMNGIHJ_01330	gene	carA		
+JPMNGIHJ_01331	CDS			hypothetical protein
+JPMNGIHJ_01331	gene			
+JPMNGIHJ_01332	CDS			hypothetical protein
+JPMNGIHJ_01332	gene			
+JPMNGIHJ_01333	CDS			hypothetical protein
+JPMNGIHJ_01333	gene			
+JPMNGIHJ_01334	CDS			hypothetical protein
+JPMNGIHJ_01334	gene			
+JPMNGIHJ_01335	CDS	folP		Bifunctional dihydropteroate synthase/dihydropteroate reductase
+JPMNGIHJ_01335	gene	folP		
+JPMNGIHJ_01336	CDS			hypothetical protein
+JPMNGIHJ_01336	gene			
+JPMNGIHJ_01337	CDS			hypothetical protein
+JPMNGIHJ_01337	gene			
+JPMNGIHJ_01338	CDS	lysC	2.7.2.4	Aspartate kinase Ask_LysC
+JPMNGIHJ_01338	gene	lysC		
+JPMNGIHJ_01339	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+JPMNGIHJ_01339	gene	rppH		
+JPMNGIHJ_01340	CDS			Cytochrome c-553
+JPMNGIHJ_01340	gene			
+JPMNGIHJ_01341	CDS	hemN_2	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+JPMNGIHJ_01341	gene	hemN_2		
+JPMNGIHJ_01342	CDS	crcB		Putative fluoride ion transporter CrcB
+JPMNGIHJ_01342	gene	crcB		
+JPMNGIHJ_01343	CDS			hypothetical protein
+JPMNGIHJ_01343	gene			
+JPMNGIHJ_01344	CDS	glpE	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+JPMNGIHJ_01344	gene	glpE		
+JPMNGIHJ_01345	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+JPMNGIHJ_01345	gene			
+JPMNGIHJ_01346	CDS	uppS	2.5.1.-	Isoprenyl transferase
+JPMNGIHJ_01346	gene	uppS		
+JPMNGIHJ_01347	CDS	ytrB		ABC transporter ATP-binding protein YtrB
+JPMNGIHJ_01347	gene	ytrB		
+JPMNGIHJ_01348	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+JPMNGIHJ_01348	gene	purD		
+JPMNGIHJ_01349	CDS			hypothetical protein
+JPMNGIHJ_01349	gene			
+JPMNGIHJ_01350	CDS	lptD		LPS-assembly protein LptD
+JPMNGIHJ_01350	gene	lptD		
+JPMNGIHJ_01351	CDS			hypothetical protein
+JPMNGIHJ_01351	gene			
+JPMNGIHJ_01352	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+JPMNGIHJ_01352	gene	pnp		
+JPMNGIHJ_01353	CDS	atpE		ATP synthase subunit c
+JPMNGIHJ_01353	gene	atpE		
+JPMNGIHJ_01354	tRNA			tRNA-Leu(gag)
+JPMNGIHJ_01354	gene			
+JPMNGIHJ_01355	tRNA			tRNA-Leu(caa)
+JPMNGIHJ_01355	gene			
+JPMNGIHJ_01356	CDS	cysE	2.3.1.30	Serine acetyltransferase
+JPMNGIHJ_01356	gene	cysE		
+JPMNGIHJ_01357	CDS			hypothetical protein
+JPMNGIHJ_01357	gene			
+JPMNGIHJ_01358	CDS	fokIM	2.1.1.72	Modification methylase FokI
+JPMNGIHJ_01358	gene	fokIM		
+JPMNGIHJ_01359	CDS			hypothetical protein
+JPMNGIHJ_01359	gene			
+JPMNGIHJ_01360	CDS	hepA		Heterocyst differentiation ATP-binding protein HepA
+JPMNGIHJ_01360	gene	hepA		
+JPMNGIHJ_01361	tRNA			tRNA-Thr(tgt)
+JPMNGIHJ_01361	gene			
+JPMNGIHJ_01362	tRNA			tRNA-Tyr(gta)
+JPMNGIHJ_01362	gene			
+JPMNGIHJ_01363	tRNA			tRNA-Gly(tcc)
+JPMNGIHJ_01363	gene			
+JPMNGIHJ_01364	tRNA			tRNA-Thr(ggt)
+JPMNGIHJ_01364	gene			
+JPMNGIHJ_01365	CDS	tufA		Elongation factor Tu
+JPMNGIHJ_01365	gene	tufA		
+JPMNGIHJ_01366	CDS	rpmG2		50S ribosomal protein L33 2
+JPMNGIHJ_01366	gene	rpmG2		
+JPMNGIHJ_01367	tRNA			tRNA-Trp(cca)
+JPMNGIHJ_01367	gene			
+JPMNGIHJ_01368	CDS			hypothetical protein
+JPMNGIHJ_01368	gene			
+JPMNGIHJ_01369	CDS	nusG		Transcription termination/antitermination protein NusG
+JPMNGIHJ_01369	gene	nusG		
+JPMNGIHJ_01370	CDS	rplK		50S ribosomal protein L11
+JPMNGIHJ_01370	gene	rplK		
+JPMNGIHJ_01371	CDS	rplA		50S ribosomal protein L1
+JPMNGIHJ_01371	gene	rplA		
+JPMNGIHJ_01372	CDS	rplJ		50S ribosomal protein L10
+JPMNGIHJ_01372	gene	rplJ		
+JPMNGIHJ_01373	CDS	rplL		50S ribosomal protein L7/L12
+JPMNGIHJ_01373	gene	rplL		
+JPMNGIHJ_01374	CDS	rpoBC	2.7.7.6	Bifunctional DNA-directed RNA polymerase subunit beta-beta'
+JPMNGIHJ_01374	gene	rpoBC		
+JPMNGIHJ_01375	CDS	rpsL		30S ribosomal protein S12
+JPMNGIHJ_01375	gene	rpsL		
+JPMNGIHJ_01376	CDS	rpsG		30S ribosomal protein S7
+JPMNGIHJ_01376	gene	rpsG		
+JPMNGIHJ_01377	CDS	fusA		Elongation factor G
+JPMNGIHJ_01377	gene	fusA		
+JPMNGIHJ_01378	CDS	yhdN	1.1.1.-	General stress protein 69
+JPMNGIHJ_01378	gene	yhdN		
+JPMNGIHJ_01379	CDS			hypothetical protein
+JPMNGIHJ_01379	gene			
+JPMNGIHJ_01380	CDS	rfaF	2.-.-.-	ADP-heptose--LPS heptosyltransferase 2
+JPMNGIHJ_01380	gene	rfaF		
+JPMNGIHJ_01381	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+JPMNGIHJ_01381	gene	hisS		
+JPMNGIHJ_01382	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+JPMNGIHJ_01382	gene	asd		
+JPMNGIHJ_01383	CDS			hypothetical protein
+JPMNGIHJ_01383	gene			
+JPMNGIHJ_01384	CDS			hypothetical protein
+JPMNGIHJ_01384	gene			
+JPMNGIHJ_01385	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+JPMNGIHJ_01385	gene	rsmA		
+JPMNGIHJ_01386	CDS	rnj	3.1.-.-	Ribonuclease J
+JPMNGIHJ_01386	gene	rnj		
+JPMNGIHJ_01387	CDS	kdsD	5.3.1.13	Arabinose 5-phosphate isomerase KdsD
+JPMNGIHJ_01387	gene	kdsD		
+JPMNGIHJ_01388	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+JPMNGIHJ_01388	gene	rlmN		
+JPMNGIHJ_01389	CDS			hypothetical protein
+JPMNGIHJ_01389	gene			
+JPMNGIHJ_01390	CDS			hypothetical protein
+JPMNGIHJ_01390	gene			
+JPMNGIHJ_01391	CDS			hypothetical protein
+JPMNGIHJ_01391	gene			
+JPMNGIHJ_01392	CDS			hypothetical protein
+JPMNGIHJ_01392	gene			
+JPMNGIHJ_01393	CDS			hypothetical protein
+JPMNGIHJ_01393	gene			
+JPMNGIHJ_01394	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+JPMNGIHJ_01394	gene	ileS		
+JPMNGIHJ_01395	CDS	ptlH		Type IV secretion system protein PtlH
+JPMNGIHJ_01395	gene	ptlH		
+JPMNGIHJ_01396	CDS	fliI	3.6.3.14	Flagellum-specific ATP synthase
+JPMNGIHJ_01396	gene	fliI		
+JPMNGIHJ_01397	CDS			hypothetical protein
+JPMNGIHJ_01397	gene			
+JPMNGIHJ_01398	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+JPMNGIHJ_01398	gene	murB		
+JPMNGIHJ_01399	CDS	cptA	2.7.-.-	Phosphoethanolamine transferase CptA
+JPMNGIHJ_01399	gene	cptA		
+JPMNGIHJ_01400	CDS			hypothetical protein
+JPMNGIHJ_01400	gene			
+JPMNGIHJ_01401	CDS			hypothetical protein
+JPMNGIHJ_01401	gene			
+JPMNGIHJ_01402	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+JPMNGIHJ_01402	gene	miaA		
+JPMNGIHJ_01403	CDS	rsfS		Ribosomal silencing factor RsfS
+JPMNGIHJ_01403	gene	rsfS		
+JPMNGIHJ_01404	CDS	queF	1.7.1.13	NADPH-dependent 7-cyano-7-deazaguanine reductase
+JPMNGIHJ_01404	gene	queF		
+JPMNGIHJ_01405	CDS			hypothetical protein
+JPMNGIHJ_01405	gene			
+JPMNGIHJ_01406	CDS			hypothetical protein
+JPMNGIHJ_01406	gene			
+JPMNGIHJ_01407	CDS	smc_2		Chromosome partition protein Smc
+JPMNGIHJ_01407	gene	smc_2		
+JPMNGIHJ_01408	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+JPMNGIHJ_01408	gene	fmt		
+JPMNGIHJ_01409	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+JPMNGIHJ_01409	gene	birA		
+JPMNGIHJ_01410	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+JPMNGIHJ_01410	gene	soj		
+JPMNGIHJ_01411	CDS	parB		putative chromosome-partitioning protein ParB
+JPMNGIHJ_01411	gene	parB		
+JPMNGIHJ_01412	CDS	atpF_1		ATP synthase subunit b, sodium ion specific
+JPMNGIHJ_01412	gene	atpF_1		
+JPMNGIHJ_01413	CDS	atpF_2		ATP synthase subunit b
+JPMNGIHJ_01413	gene	atpF_2		
+JPMNGIHJ_01414	CDS	atpD_1		ATP synthase subunit delta
+JPMNGIHJ_01414	gene	atpD_1		
+JPMNGIHJ_01415	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+JPMNGIHJ_01415	gene	atpA		
+JPMNGIHJ_01416	CDS	atpG		ATP synthase gamma chain
+JPMNGIHJ_01416	gene	atpG		
+JPMNGIHJ_01417	CDS	atpD_2	3.6.3.14	ATP synthase subunit beta
+JPMNGIHJ_01417	gene	atpD_2		
+JPMNGIHJ_01418	CDS	atpC		ATP synthase epsilon chain
+JPMNGIHJ_01418	gene	atpC		
+JPMNGIHJ_01419	CDS	exbB_3		Biopolymer transport protein ExbB
+JPMNGIHJ_01419	gene	exbB_3		
+JPMNGIHJ_01420	CDS	exbD_3		Biopolymer transport protein ExbD
+JPMNGIHJ_01420	gene	exbD_3		
+JPMNGIHJ_01421	CDS			hypothetical protein
+JPMNGIHJ_01421	gene			
+JPMNGIHJ_01422	CDS	tolB		Protein TolB
+JPMNGIHJ_01422	gene	tolB		
+JPMNGIHJ_01423	CDS	pal		Outer membrane protein P6
+JPMNGIHJ_01423	gene	pal		
+JPMNGIHJ_01424	CDS			hypothetical protein
+JPMNGIHJ_01424	gene			
+JPMNGIHJ_01425	CDS	slyD	5.2.1.8	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+JPMNGIHJ_01425	gene	slyD		
+JPMNGIHJ_01426	CDS			hypothetical protein
+JPMNGIHJ_01426	gene			
+JPMNGIHJ_01427	CDS			hypothetical protein
+JPMNGIHJ_01427	gene			
+JPMNGIHJ_01428	CDS	hhaIM	2.1.1.37	Modification methylase HhaI
+JPMNGIHJ_01428	gene	hhaIM		
+JPMNGIHJ_01429	CDS			hypothetical protein
+JPMNGIHJ_01429	gene			
+JPMNGIHJ_01430	CDS	flgK		Flagellar hook-associated protein 1
+JPMNGIHJ_01430	gene	flgK		
+JPMNGIHJ_01431	CDS	ggt	2.3.2.2	Gamma-glutamyltranspeptidase
+JPMNGIHJ_01431	gene	ggt		
+JPMNGIHJ_01432	CDS	esiB		Secretory immunoglobulin A-binding protein EsiB
+JPMNGIHJ_01432	gene	esiB		
+JPMNGIHJ_01433	CDS			hypothetical protein
+JPMNGIHJ_01433	gene			
+JPMNGIHJ_01434	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+JPMNGIHJ_01434	gene			
+JPMNGIHJ_01435	CDS			hypothetical protein
+JPMNGIHJ_01435	gene			
+JPMNGIHJ_01436	CDS			hypothetical protein
+JPMNGIHJ_01436	gene			
+JPMNGIHJ_01437	CDS	ybiT		putative ABC transporter ATP-binding protein YbiT
+JPMNGIHJ_01437	gene	ybiT		
+JPMNGIHJ_01438	CDS	guaC	1.7.1.7	GMP reductase
+JPMNGIHJ_01438	gene	guaC		
+JPMNGIHJ_01439	CDS	patA	2.3.1.-	Peptidoglycan O-acetyltransferase
+JPMNGIHJ_01439	gene	patA		
+JPMNGIHJ_01440	CDS			hypothetical protein
+JPMNGIHJ_01440	gene			
+JPMNGIHJ_01441	CDS	gmhA1	5.3.1.28	Phosphoheptose isomerase 1
+JPMNGIHJ_01441	gene	gmhA1		
+JPMNGIHJ_01442	CDS	hldE		Bifunctional protein HldE
+JPMNGIHJ_01442	gene	hldE		
+JPMNGIHJ_01443	CDS	hldD	5.1.3.20	ADP-L-glycero-D-manno-heptose-6-epimerase
+JPMNGIHJ_01443	gene	hldD		
+JPMNGIHJ_01444	CDS	gmhB	3.1.3.82	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+JPMNGIHJ_01444	gene	gmhB		
+JPMNGIHJ_01445	CDS			hypothetical protein
+JPMNGIHJ_01445	gene			
+JPMNGIHJ_01446	CDS	coaX	2.7.1.33	Type III pantothenate kinase
+JPMNGIHJ_01446	gene	coaX		
+JPMNGIHJ_01447	CDS	pgbB		Plasminogen-binding protein PgbB
+JPMNGIHJ_01447	gene	pgbB		
+JPMNGIHJ_01448	CDS			hypothetical protein
+JPMNGIHJ_01448	gene			
+JPMNGIHJ_01449	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+JPMNGIHJ_01449	gene	dut		
+JPMNGIHJ_01450	CDS	greA		Transcription elongation factor GreA
+JPMNGIHJ_01450	gene	greA		
+JPMNGIHJ_01451	CDS	lpxB	2.4.1.182	Lipid-A-disaccharide synthase
+JPMNGIHJ_01451	gene	lpxB		
+JPMNGIHJ_01452	CDS			hypothetical protein
+JPMNGIHJ_01452	gene			
+JPMNGIHJ_01453	CDS	hypA		Hydrogenase/urease nickel incorporation protein HypA
+JPMNGIHJ_01453	gene	hypA		
+JPMNGIHJ_01454	CDS	flgE_2		Flagellar hook protein FlgE
+JPMNGIHJ_01454	gene	flgE_2		
+JPMNGIHJ_01455	CDS	cdh	3.6.1.26	CDP-diacylglycerol pyrophosphatase
+JPMNGIHJ_01455	gene	cdh		
+JPMNGIHJ_01456	CDS			hypothetical protein
+JPMNGIHJ_01456	gene			
+JPMNGIHJ_01457	CDS			hypothetical protein
+JPMNGIHJ_01457	gene			
+JPMNGIHJ_01458	CDS			hypothetical protein
+JPMNGIHJ_01458	gene			
+JPMNGIHJ_01459	CDS	katA	1.11.1.6	Catalase
+JPMNGIHJ_01459	gene	katA		
+JPMNGIHJ_01460	CDS	tdhA		TonB-dependent heme receptor A
+JPMNGIHJ_01460	gene	tdhA		
+JPMNGIHJ_01461	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+JPMNGIHJ_01461	gene	ruvC		
+JPMNGIHJ_01462	CDS			hypothetical protein
+JPMNGIHJ_01462	gene			
+JPMNGIHJ_01463	CDS			hypothetical protein
+JPMNGIHJ_01463	gene			
+JPMNGIHJ_01464	CDS			hypothetical protein
+JPMNGIHJ_01464	gene			
+JPMNGIHJ_01465	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+JPMNGIHJ_01465	gene	ruvA		
+JPMNGIHJ_01466	CDS			hypothetical protein
+JPMNGIHJ_01466	gene			
+JPMNGIHJ_01467	CDS	murJ		Lipid II flippase MurJ
+JPMNGIHJ_01467	gene	murJ		
+JPMNGIHJ_01468	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+JPMNGIHJ_01468	gene	cysS		
+JPMNGIHJ_01469	CDS	vacA_3		Vacuolating cytotoxin autotransporter
+JPMNGIHJ_01469	gene	vacA_3		
+JPMNGIHJ_01470	CDS			putative ABC transporter ATP-binding protein
+JPMNGIHJ_01470	gene			
+JPMNGIHJ_01471	CDS	hmuU		Hemin transport system permease protein HmuU
+JPMNGIHJ_01471	gene	hmuU		
+JPMNGIHJ_01472	CDS		1.-.-.-	putative oxidoreductase
+JPMNGIHJ_01472	gene			
+JPMNGIHJ_01473	CDS			hypothetical protein
+JPMNGIHJ_01473	gene			
+JPMNGIHJ_01474	CDS	yafQ_1	3.1.-.-	mRNA interferase YafQ
+JPMNGIHJ_01474	gene	yafQ_1		
+JPMNGIHJ_01475	CDS			hypothetical protein
+JPMNGIHJ_01475	gene			
+JPMNGIHJ_01476	CDS	yafQ_2	3.1.-.-	mRNA interferase YafQ
+JPMNGIHJ_01476	gene	yafQ_2		
+JPMNGIHJ_01477	CDS			hypothetical protein
+JPMNGIHJ_01477	gene			
+JPMNGIHJ_01478	CDS			hypothetical protein
+JPMNGIHJ_01478	gene			
+JPMNGIHJ_01479	CDS			hypothetical protein
+JPMNGIHJ_01479	gene			
+JPMNGIHJ_01480	CDS			hypothetical protein
+JPMNGIHJ_01480	gene			
+JPMNGIHJ_01481	CDS			hypothetical protein
+JPMNGIHJ_01481	gene			
+JPMNGIHJ_01482	CDS			hypothetical protein
+JPMNGIHJ_01482	gene			
+JPMNGIHJ_01483	CDS			hypothetical protein
+JPMNGIHJ_01483	gene			
+JPMNGIHJ_01484	CDS			hypothetical protein
+JPMNGIHJ_01484	gene			
+JPMNGIHJ_01485	CDS			hypothetical protein
+JPMNGIHJ_01485	gene			
+JPMNGIHJ_01486	CDS	ptlC		Type IV secretion system protein PtlC
+JPMNGIHJ_01486	gene	ptlC		
+JPMNGIHJ_01487	CDS	topA_2	5.99.1.2	DNA topoisomerase 1
+JPMNGIHJ_01487	gene	topA_2		
+JPMNGIHJ_01488	CDS			hypothetical protein
+JPMNGIHJ_01488	gene			
+JPMNGIHJ_01489	CDS			hypothetical protein
+JPMNGIHJ_01489	gene			
+JPMNGIHJ_01490	CDS			hypothetical protein
+JPMNGIHJ_01490	gene			
+JPMNGIHJ_01491	CDS			hypothetical protein
+JPMNGIHJ_01491	gene			
+JPMNGIHJ_01492	CDS			hypothetical protein
+JPMNGIHJ_01492	gene			
+JPMNGIHJ_01493	CDS			hypothetical protein
+JPMNGIHJ_01493	gene			
+JPMNGIHJ_01494	CDS			hypothetical protein
+JPMNGIHJ_01494	gene			
+JPMNGIHJ_01495	CDS			hypothetical protein
+JPMNGIHJ_01495	gene			
+JPMNGIHJ_01496	CDS			hypothetical protein
+JPMNGIHJ_01496	gene			
+JPMNGIHJ_01497	CDS			hypothetical protein
+JPMNGIHJ_01497	gene			
+JPMNGIHJ_01498	CDS			hypothetical protein
+JPMNGIHJ_01498	gene			
+JPMNGIHJ_01499	CDS			hypothetical protein
+JPMNGIHJ_01499	gene			
+JPMNGIHJ_01500	CDS			hypothetical protein
+JPMNGIHJ_01500	gene			
+JPMNGIHJ_01501	CDS	virB4_3		Type IV secretion system protein virB4
+JPMNGIHJ_01501	gene	virB4_3		
+JPMNGIHJ_01502	CDS			hypothetical protein
+JPMNGIHJ_01502	gene			
+JPMNGIHJ_01503	CDS			hypothetical protein
+JPMNGIHJ_01503	gene			
+JPMNGIHJ_01504	CDS			hypothetical protein
+JPMNGIHJ_01504	gene			
+JPMNGIHJ_01505	CDS			hypothetical protein
+JPMNGIHJ_01505	gene			
+JPMNGIHJ_01506	CDS			hypothetical protein
+JPMNGIHJ_01506	gene			
+JPMNGIHJ_01507	CDS	ctkA	2.7.11.1	Serine/threonine-protein kinase CtkA
+JPMNGIHJ_01507	gene	ctkA		
+JPMNGIHJ_01508	CDS	xerH_2		Tyrosine recombinase XerH
+JPMNGIHJ_01508	gene	xerH_2		
+JPMNGIHJ_01509	CDS			hypothetical protein
+JPMNGIHJ_01509	gene			
+JPMNGIHJ_01510	CDS			hypothetical protein
+JPMNGIHJ_01510	gene			
+JPMNGIHJ_01511	CDS			hypothetical protein
+JPMNGIHJ_01511	gene			
+JPMNGIHJ_01512	CDS			hypothetical protein
+JPMNGIHJ_01512	gene			
+JPMNGIHJ_01513	CDS	vspIM	2.1.1.72	Modification methylase VspI
+JPMNGIHJ_01513	gene	vspIM		
+JPMNGIHJ_01514	CDS			hypothetical protein
+JPMNGIHJ_01514	gene			
+JPMNGIHJ_01515	CDS	typA		GTP-binding protein TypA/BipA
+JPMNGIHJ_01515	gene	typA		
+JPMNGIHJ_01516	CDS			hypothetical protein
+JPMNGIHJ_01516	gene			
+JPMNGIHJ_01517	CDS			hypothetical protein
+JPMNGIHJ_01517	gene			
+JPMNGIHJ_01518	CDS			hypothetical protein
+JPMNGIHJ_01518	gene			
+JPMNGIHJ_01519	CDS			hypothetical protein
+JPMNGIHJ_01519	gene			
+JPMNGIHJ_01520	CDS	ydiO	2.1.1.37	putative BsuMI modification methylase subunit YdiO
+JPMNGIHJ_01520	gene	ydiO		
+JPMNGIHJ_01521	CDS			hypothetical protein
+JPMNGIHJ_01521	gene			
+JPMNGIHJ_01522	CDS			hypothetical protein
+JPMNGIHJ_01522	gene			
+JPMNGIHJ_01523	CDS	srpA	1.11.1.-	Catalase-related peroxidase
+JPMNGIHJ_01523	gene	srpA		
+JPMNGIHJ_01524	CDS			hypothetical protein
+JPMNGIHJ_01524	gene			
+JPMNGIHJ_01525	CDS			hypothetical protein
+JPMNGIHJ_01525	gene			
+JPMNGIHJ_01526	CDS			hypothetical protein
+JPMNGIHJ_01526	gene			
+JPMNGIHJ_01527	CDS			hypothetical protein
+JPMNGIHJ_01527	gene			
+JPMNGIHJ_01528	CDS	mscS		Small-conductance mechanosensitive channel
+JPMNGIHJ_01528	gene	mscS		
+JPMNGIHJ_01529	CDS			hypothetical protein
+JPMNGIHJ_01529	gene			
+JPMNGIHJ_01530	CDS			hypothetical protein
+JPMNGIHJ_01530	gene			
+JPMNGIHJ_01531	CDS			hypothetical protein
+JPMNGIHJ_01531	gene			
+JPMNGIHJ_01532	CDS	tsaA	1.11.1.15	putative peroxiredoxin
+JPMNGIHJ_01532	gene	tsaA		
+JPMNGIHJ_01533	CDS	metQ		D-methionine-binding lipoprotein MetQ
+JPMNGIHJ_01533	gene	metQ		
+JPMNGIHJ_01534	CDS	mrdA	3.4.16.4	Peptidoglycan D,D-transpeptidase MrdA
+JPMNGIHJ_01534	gene	mrdA		
+JPMNGIHJ_01535	CDS			hypothetical protein
+JPMNGIHJ_01535	gene			
+JPMNGIHJ_01536	CDS	engB		putative GTP-binding protein EngB
+JPMNGIHJ_01536	gene	engB		
+JPMNGIHJ_01537	CDS	lptA		Lipopolysaccharide export system protein LptA
+JPMNGIHJ_01537	gene	lptA		
+JPMNGIHJ_01538	CDS			hypothetical protein
+JPMNGIHJ_01538	gene			
+JPMNGIHJ_01539	CDS	kdsC	3.1.3.45	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+JPMNGIHJ_01539	gene	kdsC		
+JPMNGIHJ_01540	CDS	rlpA	4.2.2.-	Endolytic peptidoglycan transglycosylase RlpA
+JPMNGIHJ_01540	gene	rlpA		
+JPMNGIHJ_01541	CDS	mltD	4.2.2.-	Membrane-bound lytic murein transglycosylase D
+JPMNGIHJ_01541	gene	mltD		
+JPMNGIHJ_01542	CDS	ycfH	3.1.-.-	putative metal-dependent hydrolase YcfH
+JPMNGIHJ_01542	gene	ycfH		
+JPMNGIHJ_01543	CDS	ribE	2.5.1.9	Riboflavin synthase
+JPMNGIHJ_01543	gene	ribE		
+JPMNGIHJ_01544	CDS	flhB_2		Flagellar biosynthetic protein FlhB
+JPMNGIHJ_01544	gene	flhB_2		
+JPMNGIHJ_01545	CDS	metN	3.6.3.-	Methionine import ATP-binding protein MetN
+JPMNGIHJ_01545	gene	metN		
+JPMNGIHJ_01546	CDS	metI		D-methionine transport system permease protein MetI
+JPMNGIHJ_01546	gene	metI		
+JPMNGIHJ_01547	CDS			hypothetical protein
+JPMNGIHJ_01547	gene			
+JPMNGIHJ_01548	CDS			hypothetical protein
+JPMNGIHJ_01548	gene			
+JPMNGIHJ_01549	CDS	lpxE_2	3.1.-.-	Lipid A 1-phosphatase
+JPMNGIHJ_01549	gene	lpxE_2		
+JPMNGIHJ_01550	CDS	tagO	2.7.8.33	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+JPMNGIHJ_01550	gene	tagO		
+JPMNGIHJ_01551	CDS	pdxJ	2.6.99.2	Pyridoxine 5'-phosphate synthase
+JPMNGIHJ_01551	gene	pdxJ		
+JPMNGIHJ_01552	CDS	pdxA	1.1.1.262	4-hydroxythreonine-4-phosphate dehydrogenase
+JPMNGIHJ_01552	gene	pdxA		
+JPMNGIHJ_01553	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+JPMNGIHJ_01553	gene	tsaD		
+JPMNGIHJ_01554	CDS	flgG_2		Flagellar basal-body rod protein FlgG
+JPMNGIHJ_01554	gene	flgG_2		
+JPMNGIHJ_01555	CDS			hypothetical protein
+JPMNGIHJ_01555	gene			
+JPMNGIHJ_01556	CDS			hypothetical protein
+JPMNGIHJ_01556	gene			
+JPMNGIHJ_01557	CDS			hypothetical protein
+JPMNGIHJ_01557	gene			
+JPMNGIHJ_01558	CDS			hypothetical protein
+JPMNGIHJ_01558	gene			
+JPMNGIHJ_01559	CDS	vacA_4		Vacuolating cytotoxin autotransporter
+JPMNGIHJ_01559	gene	vacA_4		
+JPMNGIHJ_01560	CDS	gap1	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase 1
+JPMNGIHJ_01560	gene	gap1		
+JPMNGIHJ_01561	CDS	yccA		Modulator of FtsH protease YccA
+JPMNGIHJ_01561	gene	yccA		
+JPMNGIHJ_01562	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+JPMNGIHJ_01562	gene	carB		
+JPMNGIHJ_01563	CDS			hypothetical protein
+JPMNGIHJ_01563	gene			
+JPMNGIHJ_01564	CDS	bhuA_2		Heme transporter BhuA
+JPMNGIHJ_01564	gene	bhuA_2		
+JPMNGIHJ_01565	CDS			hypothetical protein
+JPMNGIHJ_01565	gene			
+JPMNGIHJ_01566	CDS			hypothetical protein
+JPMNGIHJ_01566	gene			
+JPMNGIHJ_01567	CDS	xerH_3		Tyrosine recombinase XerH
+JPMNGIHJ_01567	gene	xerH_3		
+JPMNGIHJ_01568	CDS			hypothetical protein
+JPMNGIHJ_01568	gene			
+JPMNGIHJ_01569	CDS			hypothetical protein
+JPMNGIHJ_01569	gene			
+JPMNGIHJ_01570	CDS			hypothetical protein
+JPMNGIHJ_01570	gene			

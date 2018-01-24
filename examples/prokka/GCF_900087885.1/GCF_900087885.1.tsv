@@ -1,0 +1,3135 @@
+locus_tag	ftype	gene	EC_number	product
+PHDCEHKO_00001	tRNA			tRNA-Arg(tct)
+PHDCEHKO_00001	gene			
+PHDCEHKO_00002	tRNA			tRNA-Arg(tcg)
+PHDCEHKO_00002	gene			
+PHDCEHKO_00003	tRNA			tRNA-His(gtg)
+PHDCEHKO_00003	gene			
+PHDCEHKO_00004	tRNA			tRNA-Pro(tgg)
+PHDCEHKO_00004	gene			
+PHDCEHKO_00005	CDS			hypothetical protein
+PHDCEHKO_00005	gene			
+PHDCEHKO_00006	CDS			hypothetical protein
+PHDCEHKO_00006	gene			
+PHDCEHKO_00007	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+PHDCEHKO_00007	gene	guaA		
+PHDCEHKO_00008	CDS			hypothetical protein
+PHDCEHKO_00008	gene			
+PHDCEHKO_00009	CDS	dorA	1.7.2.3	Dimethyl sulfoxide/trimethylamine N-oxide reductase
+PHDCEHKO_00009	gene	dorA		
+PHDCEHKO_00010	CDS			hypothetical protein
+PHDCEHKO_00010	gene			
+PHDCEHKO_00011	CDS	csd	2.8.1.7	putative cysteine desulfurase
+PHDCEHKO_00011	gene	csd		
+PHDCEHKO_00012	CDS			putative HIT-like protein
+PHDCEHKO_00012	gene			
+PHDCEHKO_00013	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+PHDCEHKO_00013	gene	pheS		
+PHDCEHKO_00014	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+PHDCEHKO_00014	gene	pheT		
+PHDCEHKO_00015	CDS	aroA1	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase 1
+PHDCEHKO_00015	gene	aroA1		
+PHDCEHKO_00016	CDS	ispH	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+PHDCEHKO_00016	gene	ispH		
+PHDCEHKO_00017	CDS	rpsA		30S ribosomal protein S1
+PHDCEHKO_00017	gene	rpsA		
+PHDCEHKO_00018	CDS			hypothetical protein
+PHDCEHKO_00018	gene			
+PHDCEHKO_00019	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+PHDCEHKO_00019	gene	serA		
+PHDCEHKO_00020	CDS	ubiD	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+PHDCEHKO_00020	gene	ubiD		
+PHDCEHKO_00021	CDS			hypothetical protein
+PHDCEHKO_00021	gene			
+PHDCEHKO_00022	CDS	lpxH	3.6.1.54	UDP-2,3-diacylglucosamine hydrolase
+PHDCEHKO_00022	gene	lpxH		
+PHDCEHKO_00023	CDS	cheV_1		Chemotaxis protein CheV
+PHDCEHKO_00023	gene	cheV_1		
+PHDCEHKO_00024	CDS	cheA	2.7.13.3	Chemotaxis protein CheA
+PHDCEHKO_00024	gene	cheA		
+PHDCEHKO_00025	CDS	cheW		Chemotaxis protein CheW
+PHDCEHKO_00025	gene	cheW		
+PHDCEHKO_00026	CDS	tpx	1.11.1.-	putative thiol peroxidase
+PHDCEHKO_00026	gene	tpx		
+PHDCEHKO_00027	CDS	sodB	1.15.1.1	Superoxide dismutase [Fe]
+PHDCEHKO_00027	gene	sodB		
+PHDCEHKO_00028	CDS	cmoA	2.1.3.-	Carboxy-S-adenosyl-L-methionine synthase
+PHDCEHKO_00028	gene	cmoA		
+PHDCEHKO_00029	CDS	priA	3.6.4.-	Primosomal protein N'
+PHDCEHKO_00029	gene	priA		
+PHDCEHKO_00030	CDS			hypothetical protein
+PHDCEHKO_00030	gene			
+PHDCEHKO_00031	CDS			hypothetical protein
+PHDCEHKO_00031	gene			
+PHDCEHKO_00032	CDS			hypothetical protein
+PHDCEHKO_00032	gene			
+PHDCEHKO_00033	CDS			hypothetical protein
+PHDCEHKO_00033	gene			
+PHDCEHKO_00034	CDS	htpX_1	3.4.24.-	Protease HtpX
+PHDCEHKO_00034	gene	htpX_1		
+PHDCEHKO_00035	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+PHDCEHKO_00035	gene	prmC		
+PHDCEHKO_00036	CDS	gdhA	1.4.1.2	NAD(P)-specific glutamate dehydrogenase
+PHDCEHKO_00036	gene	gdhA		
+PHDCEHKO_00037	CDS	rseP	3.4.24.-	Regulator of sigma-E protease RseP
+PHDCEHKO_00037	gene	rseP		
+PHDCEHKO_00038	CDS	ftsZ		Cell division protein FtsZ
+PHDCEHKO_00038	gene	ftsZ		
+PHDCEHKO_00039	CDS	ftsA		Cell division protein FtsA
+PHDCEHKO_00039	gene	ftsA		
+PHDCEHKO_00040	CDS	ppiD	5.2.1.8	Peptidyl-prolyl cis-trans isomerase D
+PHDCEHKO_00040	gene	ppiD		
+PHDCEHKO_00041	CDS	bioA	2.6.1.62	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+PHDCEHKO_00041	gene	bioA		
+PHDCEHKO_00042	CDS	gatC	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+PHDCEHKO_00042	gene	gatC		
+PHDCEHKO_00043	CDS	gpmI	5.4.2.12	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+PHDCEHKO_00043	gene	gpmI		
+PHDCEHKO_00044	CDS			hypothetical protein
+PHDCEHKO_00044	gene			
+PHDCEHKO_00045	CDS	glyS	6.1.1.14	Glycine--tRNA ligase beta subunit
+PHDCEHKO_00045	gene	glyS		
+PHDCEHKO_00046	CDS			hypothetical protein
+PHDCEHKO_00046	gene			
+PHDCEHKO_00047	CDS			hypothetical protein
+PHDCEHKO_00047	gene			
+PHDCEHKO_00048	CDS	czcA		Cobalt-zinc-cadmium resistance protein CzcA
+PHDCEHKO_00048	gene	czcA		
+PHDCEHKO_00049	CDS			hypothetical protein
+PHDCEHKO_00049	gene			
+PHDCEHKO_00050	CDS	vapD_1	3.1.-.-	Endoribonuclease VapD
+PHDCEHKO_00050	gene	vapD_1		
+PHDCEHKO_00051	CDS			hypothetical protein
+PHDCEHKO_00051	gene			
+PHDCEHKO_00052	CDS	der_1		GTPase Der
+PHDCEHKO_00052	gene	der_1		
+PHDCEHKO_00053	CDS			hypothetical protein
+PHDCEHKO_00053	gene			
+PHDCEHKO_00054	CDS	era_1		GTPase Era
+PHDCEHKO_00054	gene	era_1		
+PHDCEHKO_00055	CDS	acpP_1		Acyl carrier protein
+PHDCEHKO_00055	gene	acpP_1		
+PHDCEHKO_00056	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+PHDCEHKO_00056	gene	gpsA		
+PHDCEHKO_00057	CDS	glyQ	6.1.1.14	Glycine--tRNA ligase alpha subunit
+PHDCEHKO_00057	gene	glyQ		
+PHDCEHKO_00058	CDS		3.5.4.16	GTP cyclohydrolase 1 type 2
+PHDCEHKO_00058	gene			
+PHDCEHKO_00059	CDS			hypothetical protein
+PHDCEHKO_00059	gene			
+PHDCEHKO_00060	CDS	waaA	2.4.99.12	3-deoxy-D-manno-octulosonic acid transferase
+PHDCEHKO_00060	gene	waaA		
+PHDCEHKO_00061	CDS		5.4.99.-	putative RNA pseudouridine synthase
+PHDCEHKO_00061	gene			
+PHDCEHKO_00062	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+PHDCEHKO_00062	gene	lgt		
+PHDCEHKO_00063	CDS	rdxA	1.-.-.-	Oxygen-insensitive NADPH nitroreductase
+PHDCEHKO_00063	gene	rdxA		
+PHDCEHKO_00064	CDS			hypothetical protein
+PHDCEHKO_00064	gene			
+PHDCEHKO_00065	CDS	pncC	3.5.1.42	Nicotinamide-nucleotide amidohydrolase PncC
+PHDCEHKO_00065	gene	pncC		
+PHDCEHKO_00066	CDS			hypothetical protein
+PHDCEHKO_00066	gene			
+PHDCEHKO_00067	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+PHDCEHKO_00067	gene	accD		
+PHDCEHKO_00068	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+PHDCEHKO_00068	gene	rlmH		
+PHDCEHKO_00069	CDS			hypothetical protein
+PHDCEHKO_00069	gene			
+PHDCEHKO_00070	CDS			hypothetical protein
+PHDCEHKO_00070	gene			
+PHDCEHKO_00071	CDS	mleN		Malate-2H(+)/Na(+)-lactate antiporter
+PHDCEHKO_00071	gene	mleN		
+PHDCEHKO_00072	tRNA			tRNA-Ser(tga)
+PHDCEHKO_00072	gene			
+PHDCEHKO_00073	tRNA			tRNA-Cys(gca)
+PHDCEHKO_00073	gene			
+PHDCEHKO_00074	tRNA			tRNA-Leu(taa)
+PHDCEHKO_00074	gene			
+PHDCEHKO_00075	CDS			hypothetical protein
+PHDCEHKO_00075	gene			
+PHDCEHKO_00076	tRNA			tRNA-Gly(gcc)
+PHDCEHKO_00076	gene			
+PHDCEHKO_00077	CDS			RutC family protein
+PHDCEHKO_00077	gene			
+PHDCEHKO_00078	CDS	dadA	1.4.5.1	D-amino acid dehydrogenase
+PHDCEHKO_00078	gene	dadA		
+PHDCEHKO_00079	CDS	alsT		Amino-acid carrier protein AlsT
+PHDCEHKO_00079	gene	alsT		
+PHDCEHKO_00080	CDS	alr1	5.1.1.1	Alanine racemase 1
+PHDCEHKO_00080	gene	alr1		
+PHDCEHKO_00081	CDS			putative amino-acid ABC transporter-binding protein
+PHDCEHKO_00081	gene			
+PHDCEHKO_00082	CDS	tcyB_1		L-cystine transport system permease protein TcyB
+PHDCEHKO_00082	gene	tcyB_1		
+PHDCEHKO_00083	CDS			hypothetical protein
+PHDCEHKO_00083	gene			
+PHDCEHKO_00084	CDS			hypothetical protein
+PHDCEHKO_00084	gene			
+PHDCEHKO_00085	CDS	proP		Proline/betaine transporter
+PHDCEHKO_00085	gene	proP		
+PHDCEHKO_00086	CDS			hypothetical protein
+PHDCEHKO_00086	gene			
+PHDCEHKO_00087	CDS	queE_1	4.3.99.3	7-carboxy-7-deazaguanine synthase
+PHDCEHKO_00087	gene	queE_1		
+PHDCEHKO_00088	CDS			hypothetical protein
+PHDCEHKO_00088	gene			
+PHDCEHKO_00089	CDS			hypothetical protein
+PHDCEHKO_00089	gene			
+PHDCEHKO_00090	CDS	surE	3.1.3.5	5'-nucleotidase SurE
+PHDCEHKO_00090	gene	surE		
+PHDCEHKO_00091	CDS		2.5.1.10	Farnesyl diphosphate synthase
+PHDCEHKO_00091	gene			
+PHDCEHKO_00092	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+PHDCEHKO_00092	gene	folE		
+PHDCEHKO_00093	CDS	htpX_2	3.4.24.-	Protease HtpX 
+PHDCEHKO_00093	gene	htpX_2		
+PHDCEHKO_00094	CDS	truD	5.4.99.27	tRNA pseudouridine synthase D
+PHDCEHKO_00094	gene	truD		
+PHDCEHKO_00095	CDS	recR		Recombination protein RecR
+PHDCEHKO_00095	gene	recR		
+PHDCEHKO_00096	CDS		5.3.2.-	putative tautomerase
+PHDCEHKO_00096	gene			
+PHDCEHKO_00097	CDS			hypothetical protein
+PHDCEHKO_00097	gene			
+PHDCEHKO_00098	CDS			hypothetical protein
+PHDCEHKO_00098	gene			
+PHDCEHKO_00099	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+PHDCEHKO_00099	gene			
+PHDCEHKO_00100	CDS			hypothetical protein
+PHDCEHKO_00100	gene			
+PHDCEHKO_00101	CDS			hypothetical protein
+PHDCEHKO_00101	gene			
+PHDCEHKO_00102	CDS	ybiT		putative ABC transporter ATP-binding protein YbiT
+PHDCEHKO_00102	gene	ybiT		
+PHDCEHKO_00103	CDS	guaC	1.7.1.7	GMP reductase
+PHDCEHKO_00103	gene	guaC		
+PHDCEHKO_00104	CDS	patA	2.3.1.-	Peptidoglycan O-acetyltransferase
+PHDCEHKO_00104	gene	patA		
+PHDCEHKO_00105	CDS			hypothetical protein
+PHDCEHKO_00105	gene			
+PHDCEHKO_00106	CDS	gmhA1	5.3.1.28	Phosphoheptose isomerase 1
+PHDCEHKO_00106	gene	gmhA1		
+PHDCEHKO_00107	CDS	hldE		Bifunctional protein HldE
+PHDCEHKO_00107	gene	hldE		
+PHDCEHKO_00108	CDS	hldD	5.1.3.20	ADP-L-glycero-D-manno-heptose-6-epimerase
+PHDCEHKO_00108	gene	hldD		
+PHDCEHKO_00109	CDS	gmhB	3.1.3.82	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+PHDCEHKO_00109	gene	gmhB		
+PHDCEHKO_00110	CDS			hypothetical protein
+PHDCEHKO_00110	gene			
+PHDCEHKO_00111	CDS	coaX	2.7.1.33	Type III pantothenate kinase
+PHDCEHKO_00111	gene	coaX		
+PHDCEHKO_00112	CDS	pgbB		Plasminogen-binding protein PgbB
+PHDCEHKO_00112	gene	pgbB		
+PHDCEHKO_00113	CDS			hypothetical protein
+PHDCEHKO_00113	gene			
+PHDCEHKO_00114	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+PHDCEHKO_00114	gene	dut		
+PHDCEHKO_00115	CDS	greA		Transcription elongation factor GreA
+PHDCEHKO_00115	gene	greA		
+PHDCEHKO_00116	CDS	lpxB	2.4.1.182	Lipid-A-disaccharide synthase
+PHDCEHKO_00116	gene	lpxB		
+PHDCEHKO_00117	CDS			hypothetical protein
+PHDCEHKO_00117	gene			
+PHDCEHKO_00118	CDS	hypA		Hydrogenase/urease nickel incorporation protein HypA
+PHDCEHKO_00118	gene	hypA		
+PHDCEHKO_00119	CDS	flgE_1		Flagellar hook protein FlgE
+PHDCEHKO_00119	gene	flgE_1		
+PHDCEHKO_00120	CDS	cdh	3.6.1.26	CDP-diacylglycerol pyrophosphatase
+PHDCEHKO_00120	gene	cdh		
+PHDCEHKO_00121	CDS			hypothetical protein
+PHDCEHKO_00121	gene			
+PHDCEHKO_00122	CDS			hypothetical protein
+PHDCEHKO_00122	gene			
+PHDCEHKO_00123	CDS			hypothetical protein
+PHDCEHKO_00123	gene			
+PHDCEHKO_00124	CDS	katA	1.11.1.6	Catalase
+PHDCEHKO_00124	gene	katA		
+PHDCEHKO_00125	CDS	tdhA		TonB-dependent heme receptor A
+PHDCEHKO_00125	gene	tdhA		
+PHDCEHKO_00126	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+PHDCEHKO_00126	gene	ruvC		
+PHDCEHKO_00127	CDS			hypothetical protein
+PHDCEHKO_00127	gene			
+PHDCEHKO_00128	CDS			hypothetical protein
+PHDCEHKO_00128	gene			
+PHDCEHKO_00129	CDS			hypothetical protein
+PHDCEHKO_00129	gene			
+PHDCEHKO_00130	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+PHDCEHKO_00130	gene	ruvA		
+PHDCEHKO_00131	CDS			hypothetical protein
+PHDCEHKO_00131	gene			
+PHDCEHKO_00132	CDS	murJ		Lipid II flippase MurJ
+PHDCEHKO_00132	gene	murJ		
+PHDCEHKO_00133	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+PHDCEHKO_00133	gene	cysS		
+PHDCEHKO_00134	CDS	vacA_1		Vacuolating cytotoxin autotransporter
+PHDCEHKO_00134	gene	vacA_1		
+PHDCEHKO_00135	CDS			putative ABC transporter ATP-binding protein
+PHDCEHKO_00135	gene			
+PHDCEHKO_00136	CDS	hmuU		Hemin transport system permease protein HmuU
+PHDCEHKO_00136	gene	hmuU		
+PHDCEHKO_00137	CDS		1.-.-.-	putative oxidoreductase
+PHDCEHKO_00137	gene			
+PHDCEHKO_00138	CDS			hypothetical protein
+PHDCEHKO_00138	gene			
+PHDCEHKO_00139	CDS	yafQ_1	3.1.-.-	mRNA interferase YafQ
+PHDCEHKO_00139	gene	yafQ_1		
+PHDCEHKO_00140	CDS			hypothetical protein
+PHDCEHKO_00140	gene			
+PHDCEHKO_00141	CDS	yafQ_2	3.1.-.-	mRNA interferase YafQ
+PHDCEHKO_00141	gene	yafQ_2		
+PHDCEHKO_00142	CDS			hypothetical protein
+PHDCEHKO_00142	gene			
+PHDCEHKO_00143	CDS			hypothetical protein
+PHDCEHKO_00143	gene			
+PHDCEHKO_00144	CDS			hypothetical protein
+PHDCEHKO_00144	gene			
+PHDCEHKO_00145	CDS			hypothetical protein
+PHDCEHKO_00145	gene			
+PHDCEHKO_00146	CDS			hypothetical protein
+PHDCEHKO_00146	gene			
+PHDCEHKO_00147	CDS	queF	1.7.1.13	NADPH-dependent 7-cyano-7-deazaguanine reductase
+PHDCEHKO_00147	gene	queF		
+PHDCEHKO_00148	CDS	rsfS		Ribosomal silencing factor RsfS
+PHDCEHKO_00148	gene	rsfS		
+PHDCEHKO_00149	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+PHDCEHKO_00149	gene	miaA		
+PHDCEHKO_00150	CDS			hypothetical protein
+PHDCEHKO_00150	gene			
+PHDCEHKO_00151	CDS			hypothetical protein
+PHDCEHKO_00151	gene			
+PHDCEHKO_00152	CDS	cptA	2.7.-.-	Phosphoethanolamine transferase CptA
+PHDCEHKO_00152	gene	cptA		
+PHDCEHKO_00153	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+PHDCEHKO_00153	gene	murB		
+PHDCEHKO_00154	CDS			hypothetical protein
+PHDCEHKO_00154	gene			
+PHDCEHKO_00155	CDS	fliI	3.6.3.14	Flagellum-specific ATP synthase
+PHDCEHKO_00155	gene	fliI		
+PHDCEHKO_00156	CDS	ptlH		Type IV secretion system protein PtlH
+PHDCEHKO_00156	gene	ptlH		
+PHDCEHKO_00157	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+PHDCEHKO_00157	gene	ileS		
+PHDCEHKO_00158	CDS			hypothetical protein
+PHDCEHKO_00158	gene			
+PHDCEHKO_00159	CDS			hypothetical protein
+PHDCEHKO_00159	gene			
+PHDCEHKO_00160	CDS			hypothetical protein
+PHDCEHKO_00160	gene			
+PHDCEHKO_00161	CDS			hypothetical protein
+PHDCEHKO_00161	gene			
+PHDCEHKO_00162	CDS			hypothetical protein
+PHDCEHKO_00162	gene			
+PHDCEHKO_00163	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+PHDCEHKO_00163	gene	rlmN		
+PHDCEHKO_00164	CDS	kdsD	5.3.1.13	Arabinose 5-phosphate isomerase KdsD
+PHDCEHKO_00164	gene	kdsD		
+PHDCEHKO_00165	CDS	rnj	3.1.-.-	Ribonuclease J
+PHDCEHKO_00165	gene	rnj		
+PHDCEHKO_00166	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+PHDCEHKO_00166	gene	rsmA		
+PHDCEHKO_00167	CDS			hypothetical protein
+PHDCEHKO_00167	gene			
+PHDCEHKO_00168	CDS			hypothetical protein
+PHDCEHKO_00168	gene			
+PHDCEHKO_00169	CDS	purU	3.5.1.10	Formyltetrahydrofolate deformylase
+PHDCEHKO_00169	gene	purU		
+PHDCEHKO_00170	CDS	sppA	3.4.21.-	Putative signal peptide peptidase SppA
+PHDCEHKO_00170	gene	sppA		
+PHDCEHKO_00171	CDS			hypothetical protein
+PHDCEHKO_00171	gene			
+PHDCEHKO_00172	CDS			hypothetical protein
+PHDCEHKO_00172	gene			
+PHDCEHKO_00173	CDS			hypothetical protein
+PHDCEHKO_00173	gene			
+PHDCEHKO_00174	CDS			hypothetical protein
+PHDCEHKO_00174	gene			
+PHDCEHKO_00175	tRNA			tRNA-Pro(ggg)
+PHDCEHKO_00175	gene			
+PHDCEHKO_00176	CDS	ppk	2.7.4.1	Polyphosphate kinase
+PHDCEHKO_00176	gene	ppk		
+PHDCEHKO_00177	CDS	pyrD_1	1.3.5.2	Dihydroorotate dehydrogenase (quinone)
+PHDCEHKO_00177	gene	pyrD_1		
+PHDCEHKO_00178	CDS		3.4.24.-	putative zinc protease
+PHDCEHKO_00178	gene			
+PHDCEHKO_00179	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+PHDCEHKO_00179	gene	dapA		
+PHDCEHKO_00180	CDS	fabL	1.3.1.104	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabL
+PHDCEHKO_00180	gene	fabL		
+PHDCEHKO_00181	CDS			hypothetical protein
+PHDCEHKO_00181	gene			
+PHDCEHKO_00182	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+PHDCEHKO_00182	gene	pgsA		
+PHDCEHKO_00183	CDS	rocE		Amino-acid permease RocE
+PHDCEHKO_00183	gene	rocE		
+PHDCEHKO_00184	CDS	degP	3.4.21.107	Periplasmic serine endoprotease DegP
+PHDCEHKO_00184	gene	degP		
+PHDCEHKO_00185	CDS	ispDF		Bifunctional enzyme IspD/IspF
+PHDCEHKO_00185	gene	ispDF		
+PHDCEHKO_00186	CDS			hypothetical protein
+PHDCEHKO_00186	gene			
+PHDCEHKO_00187	CDS	xni	3.1.-.-	Flap endonuclease Xni
+PHDCEHKO_00187	gene	xni		
+PHDCEHKO_00188	CDS			hypothetical protein
+PHDCEHKO_00188	gene			
+PHDCEHKO_00189	CDS	cbpA		Curved DNA-binding protein
+PHDCEHKO_00189	gene	cbpA		
+PHDCEHKO_00190	CDS	hspR		Putative heat shock protein HspR
+PHDCEHKO_00190	gene	hspR		
+PHDCEHKO_00191	CDS			putative AAA domain-containing protein
+PHDCEHKO_00191	gene			
+PHDCEHKO_00192	CDS	fur		Ferric uptake regulation protein
+PHDCEHKO_00192	gene	fur		
+PHDCEHKO_00193	CDS			hypothetical protein
+PHDCEHKO_00193	gene			
+PHDCEHKO_00194	CDS			hypothetical protein
+PHDCEHKO_00194	gene			
+PHDCEHKO_00195	CDS	fliN_1		Flagellar motor switch protein FliN
+PHDCEHKO_00195	gene	fliN_1		
+PHDCEHKO_00196	CDS	fliM		Flagellar motor switch protein FliM
+PHDCEHKO_00196	gene	fliM		
+PHDCEHKO_00197	CDS	fliA		RNA polymerase sigma factor FliA
+PHDCEHKO_00197	gene	fliA		
+PHDCEHKO_00198	CDS			hypothetical protein
+PHDCEHKO_00198	gene			
+PHDCEHKO_00199	CDS	ylxH		Flagellum site-determining protein YlxH
+PHDCEHKO_00199	gene	ylxH		
+PHDCEHKO_00200	CDS	flhF		Flagellar biosynthesis protein FlhF
+PHDCEHKO_00200	gene	flhF		
+PHDCEHKO_00201	CDS	folK	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+PHDCEHKO_00201	gene	folK		
+PHDCEHKO_00202	CDS		3.4.11.-	Aminopeptidase
+PHDCEHKO_00202	gene			
+PHDCEHKO_00203	CDS	aroQ	4.2.1.10	3-dehydroquinate dehydratase
+PHDCEHKO_00203	gene	aroQ		
+PHDCEHKO_00204	CDS			hypothetical protein
+PHDCEHKO_00204	gene			
+PHDCEHKO_00205	CDS	rpsO		30S ribosomal protein S15
+PHDCEHKO_00205	gene	rpsO		
+PHDCEHKO_00206	CDS	flhA		Flagellar biosynthesis protein FlhA
+PHDCEHKO_00206	gene	flhA		
+PHDCEHKO_00207	CDS		3.1.4.17	3',5'-cyclic-nucleotide phosphodiesterase
+PHDCEHKO_00207	gene			
+PHDCEHKO_00208	CDS	cusR		Transcriptional regulatory protein CusR
+PHDCEHKO_00208	gene	cusR		
+PHDCEHKO_00209	CDS	cpdA	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+PHDCEHKO_00209	gene	cpdA		
+PHDCEHKO_00210	CDS	acsA	6.2.1.1	Acetyl-coenzyme A synthetase
+PHDCEHKO_00210	gene	acsA		
+PHDCEHKO_00211	CDS	rimP		Ribosome maturation factor RimP
+PHDCEHKO_00211	gene	rimP		
+PHDCEHKO_00212	CDS	rbfA		Ribosome-binding factor A
+PHDCEHKO_00212	gene	rbfA		
+PHDCEHKO_00213	CDS	infB		Translation initiation factor IF-2
+PHDCEHKO_00213	gene	infB		
+PHDCEHKO_00214	CDS			hypothetical protein
+PHDCEHKO_00214	gene			
+PHDCEHKO_00215	CDS	thrB	2.7.1.39	Homoserine kinase
+PHDCEHKO_00215	gene	thrB		
+PHDCEHKO_00216	CDS			hypothetical protein
+PHDCEHKO_00216	gene			
+PHDCEHKO_00217	CDS	lpxC	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+PHDCEHKO_00217	gene	lpxC		
+PHDCEHKO_00218	CDS	minC		putative septum site-determining protein MinC
+PHDCEHKO_00218	gene	minC		
+PHDCEHKO_00219	CDS			hypothetical protein
+PHDCEHKO_00219	gene			
+PHDCEHKO_00220	CDS			hypothetical protein
+PHDCEHKO_00220	gene			
+PHDCEHKO_00221	CDS			hypothetical protein
+PHDCEHKO_00221	gene			
+PHDCEHKO_00222	CDS			hypothetical protein
+PHDCEHKO_00222	gene			
+PHDCEHKO_00223	CDS	panB	2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase
+PHDCEHKO_00223	gene	panB		
+PHDCEHKO_00224	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+PHDCEHKO_00224	gene	ruvB		
+PHDCEHKO_00225	CDS	tatB		Sec-independent protein translocase protein TatB
+PHDCEHKO_00225	gene	tatB		
+PHDCEHKO_00226	CDS	tatC		Sec-independent protein translocase protein TatC
+PHDCEHKO_00226	gene	tatC		
+PHDCEHKO_00227	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+PHDCEHKO_00227	gene	queA		
+PHDCEHKO_00228	CDS	rsmG	2.1.1.170	Ribosomal RNA small subunit methyltransferase G
+PHDCEHKO_00228	gene	rsmG		
+PHDCEHKO_00229	CDS			hypothetical protein
+PHDCEHKO_00229	gene			
+PHDCEHKO_00230	CDS			hypothetical protein
+PHDCEHKO_00230	gene			
+PHDCEHKO_00231	tRNA			tRNA-Ser(gga)
+PHDCEHKO_00231	gene			
+PHDCEHKO_00232	CDS			hypothetical protein
+PHDCEHKO_00232	gene			
+PHDCEHKO_00233	CDS	cheY		Chemotaxis protein CheY 
+PHDCEHKO_00233	gene	cheY		
+PHDCEHKO_00234	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+PHDCEHKO_00234	gene	prmA		
+PHDCEHKO_00235	CDS	ftsH_1	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+PHDCEHKO_00235	gene	ftsH_1		
+PHDCEHKO_00236	CDS	pcs	2.7.8.24	Phosphatidylcholine synthase
+PHDCEHKO_00236	gene	pcs		
+PHDCEHKO_00237	CDS	copA_1	3.6.3.54	Copper-exporting P-type ATPase A
+PHDCEHKO_00237	gene	copA_1		
+PHDCEHKO_00238	CDS	copP		COP-associated protein
+PHDCEHKO_00238	gene	copP		
+PHDCEHKO_00239	CDS			hypothetical protein
+PHDCEHKO_00239	gene			
+PHDCEHKO_00240	CDS			hypothetical protein
+PHDCEHKO_00240	gene			
+PHDCEHKO_00241	CDS			hypothetical protein
+PHDCEHKO_00241	gene			
+PHDCEHKO_00242	CDS	nixA		High-affinity nickel-transport protein NixA
+PHDCEHKO_00242	gene	nixA		
+PHDCEHKO_00243	CDS			hypothetical protein
+PHDCEHKO_00243	gene			
+PHDCEHKO_00244	CDS		3.6.1.-	ATP/GTP phosphatase
+PHDCEHKO_00244	gene			
+PHDCEHKO_00245	CDS			hypothetical protein
+PHDCEHKO_00245	gene			
+PHDCEHKO_00246	CDS			hypothetical protein
+PHDCEHKO_00246	gene			
+PHDCEHKO_00247	CDS	msbA	3.6.3.-	Lipid A export ATP-binding/permease protein MsbA
+PHDCEHKO_00247	gene	msbA		
+PHDCEHKO_00248	CDS			hypothetical protein
+PHDCEHKO_00248	gene			
+PHDCEHKO_00249	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+PHDCEHKO_00249	gene	pyrB		
+PHDCEHKO_00250	CDS			hypothetical protein
+PHDCEHKO_00250	gene			
+PHDCEHKO_00251	CDS	tlyA	2.1.1.226	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+PHDCEHKO_00251	gene	tlyA		
+PHDCEHKO_00252	CDS	ribF		Riboflavin biosynthesis protein RibF
+PHDCEHKO_00252	gene	ribF		
+PHDCEHKO_00253	CDS	tkt	2.2.1.1	Transketolase
+PHDCEHKO_00253	gene	tkt		
+PHDCEHKO_00254	CDS			hypothetical protein
+PHDCEHKO_00254	gene			
+PHDCEHKO_00255	CDS	spoIIIE		DNA translocase SpoIIIE
+PHDCEHKO_00255	gene	spoIIIE		
+PHDCEHKO_00256	CDS	kgtP		Alpha-ketoglutarate permease
+PHDCEHKO_00256	gene	kgtP		
+PHDCEHKO_00257	CDS	flgG_1		Flagellar basal-body rod protein FlgG
+PHDCEHKO_00257	gene	flgG_1		
+PHDCEHKO_00258	CDS			hypothetical protein
+PHDCEHKO_00258	gene			
+PHDCEHKO_00259	CDS	ppiB	5.2.1.8	Peptidyl-prolyl cis-trans isomerase B
+PHDCEHKO_00259	gene	ppiB		
+PHDCEHKO_00260	CDS	csrA		Carbon storage regulator 
+PHDCEHKO_00260	gene	csrA		
+PHDCEHKO_00261	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+PHDCEHKO_00261	gene	ispE		
+PHDCEHKO_00262	CDS	smpB		SsrA-binding protein
+PHDCEHKO_00262	gene	smpB		
+PHDCEHKO_00263	CDS	exbB_1		Biopolymer transport protein ExbB
+PHDCEHKO_00263	gene	exbB_1		
+PHDCEHKO_00264	CDS	exbD_1		Biopolymer transport protein ExbD
+PHDCEHKO_00264	gene	exbD_1		
+PHDCEHKO_00265	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+PHDCEHKO_00265	gene	rnpA		
+PHDCEHKO_00266	CDS	yidC		Membrane protein insertase YidC
+PHDCEHKO_00266	gene	yidC		
+PHDCEHKO_00267	CDS			hypothetical protein
+PHDCEHKO_00267	gene			
+PHDCEHKO_00268	CDS	mnmE	3.6.5.-	tRNA modification GTPase MnmE
+PHDCEHKO_00268	gene	mnmE		
+PHDCEHKO_00269	CDS			hypothetical protein
+PHDCEHKO_00269	gene			
+PHDCEHKO_00270	CDS			hypothetical protein
+PHDCEHKO_00270	gene			
+PHDCEHKO_00271	CDS			hypothetical protein
+PHDCEHKO_00271	gene			
+PHDCEHKO_00272	CDS			LPP20 lipoprotein
+PHDCEHKO_00272	gene			
+PHDCEHKO_00273	CDS			hypothetical protein
+PHDCEHKO_00273	gene			
+PHDCEHKO_00274	CDS	trxA_1		Thioredoxin
+PHDCEHKO_00274	gene	trxA_1		
+PHDCEHKO_00275	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+PHDCEHKO_00275	gene	rluB		
+PHDCEHKO_00276	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+PHDCEHKO_00276	gene	dnaE		
+PHDCEHKO_00277	CDS	ccpA	1.11.1.5	Cytochrome c551 peroxidase
+PHDCEHKO_00277	gene	ccpA		
+PHDCEHKO_00278	CDS			hypothetical protein
+PHDCEHKO_00278	gene			
+PHDCEHKO_00279	CDS			hypothetical protein
+PHDCEHKO_00279	gene			
+PHDCEHKO_00280	CDS			hypothetical protein
+PHDCEHKO_00280	gene			
+PHDCEHKO_00281	CDS	metN2	3.6.3.-	Methionine import ATP-binding protein MetN 2
+PHDCEHKO_00281	gene	metN2		
+PHDCEHKO_00282	CDS	mlaE		putative phospholipid ABC transporter permease protein MlaE
+PHDCEHKO_00282	gene	mlaE		
+PHDCEHKO_00283	CDS			hypothetical protein
+PHDCEHKO_00283	gene			
+PHDCEHKO_00284	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid transaminase 1
+PHDCEHKO_00284	gene	ilvE		
+PHDCEHKO_00285	CDS			hypothetical protein
+PHDCEHKO_00285	gene			
+PHDCEHKO_00286	CDS	polA	2.7.7.7	DNA polymerase I, thermostable
+PHDCEHKO_00286	gene	polA		
+PHDCEHKO_00287	CDS	bcgIB	3.1.21.-	Restriction enzyme BgcI subunit beta
+PHDCEHKO_00287	gene	bcgIB		
+PHDCEHKO_00288	CDS	bcgIA	3.1.21.-	Restriction enzyme BgcI subunit alpha
+PHDCEHKO_00288	gene	bcgIA		
+PHDCEHKO_00289	CDS			hypothetical protein
+PHDCEHKO_00289	gene			
+PHDCEHKO_00290	CDS	tmk	2.7.4.9	Thymidylate kinase
+PHDCEHKO_00290	gene	tmk		
+PHDCEHKO_00291	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+PHDCEHKO_00291	gene	coaD		
+PHDCEHKO_00292	CDS	ubiX	2.5.1.129	Flavin prenyltransferase UbiX
+PHDCEHKO_00292	gene	ubiX		
+PHDCEHKO_00293	CDS			hypothetical protein
+PHDCEHKO_00293	gene			
+PHDCEHKO_00294	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+PHDCEHKO_00294	gene	pcrA		
+PHDCEHKO_00295	CDS			hypothetical protein
+PHDCEHKO_00295	gene			
+PHDCEHKO_00296	CDS	serS	6.1.1.11	Serine--tRNA ligase
+PHDCEHKO_00296	gene	serS		
+PHDCEHKO_00297	CDS			hypothetical protein
+PHDCEHKO_00297	gene			
+PHDCEHKO_00298	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+PHDCEHKO_00298	gene	xseB		
+PHDCEHKO_00299	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+PHDCEHKO_00299	gene	menG		
+PHDCEHKO_00300	CDS			hypothetical protein
+PHDCEHKO_00300	gene			
+PHDCEHKO_00301	CDS	yigZ		IMPACT family member YigZ
+PHDCEHKO_00301	gene	yigZ		
+PHDCEHKO_00302	CDS	ybhS		Inner membrane transport permease YbhS
+PHDCEHKO_00302	gene	ybhS		
+PHDCEHKO_00303	CDS			hypothetical protein
+PHDCEHKO_00303	gene			
+PHDCEHKO_00304	CDS	mdtN		Multidrug resistance protein MdtN
+PHDCEHKO_00304	gene	mdtN		
+PHDCEHKO_00305	CDS			hypothetical protein
+PHDCEHKO_00305	gene			
+PHDCEHKO_00306	CDS	corC		Magnesium and cobalt efflux protein CorC
+PHDCEHKO_00306	gene	corC		
+PHDCEHKO_00307	CDS	cysP		Sulfate permease CysP
+PHDCEHKO_00307	gene	cysP		
+PHDCEHKO_00308	CDS	nfuA		Fe/S biogenesis protein NfuA
+PHDCEHKO_00308	gene	nfuA		
+PHDCEHKO_00309	CDS			hypothetical protein
+PHDCEHKO_00309	gene			
+PHDCEHKO_00310	CDS	murE	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+PHDCEHKO_00310	gene	murE		
+PHDCEHKO_00311	CDS	tal	2.2.1.2	Transaldolase
+PHDCEHKO_00311	gene	tal		
+PHDCEHKO_00312	CDS	rplY		50S ribosomal protein L25
+PHDCEHKO_00312	gene	rplY		
+PHDCEHKO_00313	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+PHDCEHKO_00313	gene	pth		
+PHDCEHKO_00314	CDS			hypothetical protein
+PHDCEHKO_00314	gene			
+PHDCEHKO_00315	CDS			hypothetical protein
+PHDCEHKO_00315	gene			
+PHDCEHKO_00316	CDS			hypothetical protein
+PHDCEHKO_00316	gene			
+PHDCEHKO_00317	CDS			hypothetical protein
+PHDCEHKO_00317	gene			
+PHDCEHKO_00318	CDS	copA_2	3.6.3.54	Copper-exporting P-type ATPase A
+PHDCEHKO_00318	gene	copA_2		
+PHDCEHKO_00319	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+PHDCEHKO_00319	gene	yfiC		
+PHDCEHKO_00320	CDS	ribD		Riboflavin biosynthesis protein RibD
+PHDCEHKO_00320	gene	ribD		
+PHDCEHKO_00321	CDS	gltS		Sodium/glutamate symporter
+PHDCEHKO_00321	gene	gltS		
+PHDCEHKO_00322	CDS		1.5.1.43	Carboxynorspermidine synthase
+PHDCEHKO_00322	gene			
+PHDCEHKO_00323	CDS	yccM		Putative electron transport protein YccM
+PHDCEHKO_00323	gene	yccM		
+PHDCEHKO_00324	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+PHDCEHKO_00324	gene	plsY		
+PHDCEHKO_00325	CDS			hypothetical protein
+PHDCEHKO_00325	gene			
+PHDCEHKO_00326	CDS			hypothetical protein
+PHDCEHKO_00326	gene			
+PHDCEHKO_00327	CDS	bhuA_1		Heme transporter BhuA
+PHDCEHKO_00327	gene	bhuA_1		
+PHDCEHKO_00328	CDS	selA	2.9.1.1	L-seryl-tRNA(Sec) selenium transferase
+PHDCEHKO_00328	gene	selA		
+PHDCEHKO_00329	CDS	nusA		Transcription termination/antitermination protein NusA
+PHDCEHKO_00329	gene	nusA		
+PHDCEHKO_00330	CDS			hypothetical protein
+PHDCEHKO_00330	gene			
+PHDCEHKO_00331	CDS	paeR7IM	2.1.1.72	Modification methylase PaeR7I
+PHDCEHKO_00331	gene	paeR7IM		
+PHDCEHKO_00332	CDS			hypothetical protein
+PHDCEHKO_00332	gene			
+PHDCEHKO_00333	CDS			hypothetical protein
+PHDCEHKO_00333	gene			
+PHDCEHKO_00334	CDS			hypothetical protein
+PHDCEHKO_00334	gene			
+PHDCEHKO_00335	CDS			hypothetical protein
+PHDCEHKO_00335	gene			
+PHDCEHKO_00336	CDS			hypothetical protein
+PHDCEHKO_00336	gene			
+PHDCEHKO_00337	CDS			hypothetical protein
+PHDCEHKO_00337	gene			
+PHDCEHKO_00338	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+PHDCEHKO_00338	gene	recG		
+PHDCEHKO_00339	CDS			hypothetical protein
+PHDCEHKO_00339	gene			
+PHDCEHKO_00340	CDS			hypothetical protein
+PHDCEHKO_00340	gene			
+PHDCEHKO_00341	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+PHDCEHKO_00341	gene	exoA		
+PHDCEHKO_00342	tRNA			tRNA-Phe(gaa)
+PHDCEHKO_00342	gene			
+PHDCEHKO_00343	CDS			hypothetical protein
+PHDCEHKO_00343	gene			
+PHDCEHKO_00344	CDS	dnaA		Chromosomal replication initiator protein DnaA
+PHDCEHKO_00344	gene	dnaA		
+PHDCEHKO_00345	CDS	mqnB	3.2.2.26	Futalosine hydrolase
+PHDCEHKO_00345	gene	mqnB		
+PHDCEHKO_00346	CDS			hypothetical protein
+PHDCEHKO_00346	gene			
+PHDCEHKO_00347	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+PHDCEHKO_00347	gene	glmS		
+PHDCEHKO_00348	CDS	thyX	2.1.1.148	Flavin-dependent thymidylate synthase
+PHDCEHKO_00348	gene	thyX		
+PHDCEHKO_00349	CDS			hypothetical protein
+PHDCEHKO_00349	gene			
+PHDCEHKO_00350	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+PHDCEHKO_00350	gene	argS		
+PHDCEHKO_00351	CDS	tatA		Sec-independent protein translocase protein TatA
+PHDCEHKO_00351	gene	tatA		
+PHDCEHKO_00352	CDS	gmk	2.7.4.8	Guanylate kinase
+PHDCEHKO_00352	gene	gmk		
+PHDCEHKO_00353	CDS			hypothetical protein
+PHDCEHKO_00353	gene			
+PHDCEHKO_00354	CDS	ywiE	2.7.8.-	putative cardiolipin synthase YwiE
+PHDCEHKO_00354	gene	ywiE		
+PHDCEHKO_00355	CDS			hypothetical protein
+PHDCEHKO_00355	gene			
+PHDCEHKO_00356	CDS	flgH		Flagellar L-ring protein
+PHDCEHKO_00356	gene	flgH		
+PHDCEHKO_00357	CDS	neuA	2.7.7.43	N-acylneuraminate cytidylyltransferase
+PHDCEHKO_00357	gene	neuA		
+PHDCEHKO_00358	CDS			hypothetical protein
+PHDCEHKO_00358	gene			
+PHDCEHKO_00359	CDS	pseH	2.3.1.202	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine N-acetyltransferase
+PHDCEHKO_00359	gene	pseH		
+PHDCEHKO_00360	CDS	lpxK	2.7.1.130	Tetraacyldisaccharide 4'-kinase
+PHDCEHKO_00360	gene	lpxK		
+PHDCEHKO_00361	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+PHDCEHKO_00361	gene	nadE		
+PHDCEHKO_00362	tRNA			tRNA-Arg(gcg)
+PHDCEHKO_00362	gene			
+PHDCEHKO_00363	CDS	ilvC	1.1.1.86	Ketol-acid reductoisomerase (NADP(+))
+PHDCEHKO_00363	gene	ilvC		
+PHDCEHKO_00364	CDS	minD		Septum site-determining protein MinD
+PHDCEHKO_00364	gene	minD		
+PHDCEHKO_00365	CDS	minE		Cell division topological specificity factor
+PHDCEHKO_00365	gene	minE		
+PHDCEHKO_00366	CDS	dprA		DNA processing protein DprA
+PHDCEHKO_00366	gene	dprA		
+PHDCEHKO_00367	CDS	yqgF	3.1.-.-	Putative pre-16S rRNA nuclease
+PHDCEHKO_00367	gene	yqgF		
+PHDCEHKO_00368	CDS			hypothetical protein
+PHDCEHKO_00368	gene			
+PHDCEHKO_00369	CDS	hcpB_1	3.5.2.6	Beta-lactamase HcpB
+PHDCEHKO_00369	gene	hcpB_1		
+PHDCEHKO_00370	CDS			hypothetical protein
+PHDCEHKO_00370	gene			
+PHDCEHKO_00371	CDS			hypothetical protein
+PHDCEHKO_00371	gene			
+PHDCEHKO_00372	CDS			hypothetical protein
+PHDCEHKO_00372	gene			
+PHDCEHKO_00373	CDS			hypothetical protein
+PHDCEHKO_00373	gene			
+PHDCEHKO_00374	CDS			hypothetical protein
+PHDCEHKO_00374	gene			
+PHDCEHKO_00375	CDS			hypothetical protein
+PHDCEHKO_00375	gene			
+PHDCEHKO_00376	CDS			hypothetical protein
+PHDCEHKO_00376	gene			
+PHDCEHKO_00377	CDS	divIB		Cell division protein DivIB
+PHDCEHKO_00377	gene	divIB		
+PHDCEHKO_00378	CDS			hypothetical protein
+PHDCEHKO_00378	gene			
+PHDCEHKO_00379	CDS		5.4.99.-	putative RNA pseudouridine synthase
+PHDCEHKO_00379	gene			
+PHDCEHKO_00380	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+PHDCEHKO_00380	gene	recJ		
+PHDCEHKO_00381	CDS	pyrG	6.3.4.2	CTP synthase
+PHDCEHKO_00381	gene	pyrG		
+PHDCEHKO_00382	CDS			hypothetical protein
+PHDCEHKO_00382	gene			
+PHDCEHKO_00383	CDS	fliF		Flagellar M-ring protein
+PHDCEHKO_00383	gene	fliF		
+PHDCEHKO_00384	CDS	fliG		Flagellar motor switch protein FliG
+PHDCEHKO_00384	gene	fliG		
+PHDCEHKO_00385	CDS			hypothetical protein
+PHDCEHKO_00385	gene			
+PHDCEHKO_00386	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+PHDCEHKO_00386	gene	dxs		
+PHDCEHKO_00387	CDS	lepA	3.6.5.-	Elongation factor 4
+PHDCEHKO_00387	gene	lepA		
+PHDCEHKO_00388	CDS			hypothetical protein
+PHDCEHKO_00388	gene			
+PHDCEHKO_00389	CDS	ydfG	1.1.1.381	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+PHDCEHKO_00389	gene	ydfG		
+PHDCEHKO_00390	CDS			hypothetical protein
+PHDCEHKO_00390	gene			
+PHDCEHKO_00391	tRNA			tRNA-Ala(tgc)
+PHDCEHKO_00391	gene			
+PHDCEHKO_00392	tRNA			tRNA-Ile(gat)
+PHDCEHKO_00392	gene			
+PHDCEHKO_00393	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+PHDCEHKO_00393	gene	galE		
+PHDCEHKO_00394	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+PHDCEHKO_00394	gene	truA		
+PHDCEHKO_00395	CDS			hypothetical protein
+PHDCEHKO_00395	gene			
+PHDCEHKO_00396	CDS	pcm	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+PHDCEHKO_00396	gene	pcm		
+PHDCEHKO_00397	CDS	nrdB	1.17.4.1	Ribonucleoside-diphosphate reductase subunit beta
+PHDCEHKO_00397	gene	nrdB		
+PHDCEHKO_00398	tRNA			tRNA-Leu(tag)
+PHDCEHKO_00398	gene			
+PHDCEHKO_00399	CDS	pseC	2.6.1.92	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase
+PHDCEHKO_00399	gene	pseC		
+PHDCEHKO_00400	CDS			hypothetical protein
+PHDCEHKO_00400	gene			
+PHDCEHKO_00401	CDS			hypothetical protein
+PHDCEHKO_00401	gene			
+PHDCEHKO_00402	CDS			hypothetical protein
+PHDCEHKO_00402	gene			
+PHDCEHKO_00403	CDS			hypothetical protein
+PHDCEHKO_00403	gene			
+PHDCEHKO_00404	CDS	accC	6.3.4.14	Biotin carboxylase
+PHDCEHKO_00404	gene	accC		
+PHDCEHKO_00405	CDS	accB		Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+PHDCEHKO_00405	gene	accB		
+PHDCEHKO_00406	CDS	dcd	3.5.4.13	dCTP deaminase
+PHDCEHKO_00406	gene	dcd		
+PHDCEHKO_00407	CDS			hypothetical protein
+PHDCEHKO_00407	gene			
+PHDCEHKO_00408	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+PHDCEHKO_00408	gene	rsmE		
+PHDCEHKO_00409	CDS			hypothetical protein
+PHDCEHKO_00409	gene			
+PHDCEHKO_00410	CDS	hemH	4.99.1.1	Ferrochelatase
+PHDCEHKO_00410	gene	hemH		
+PHDCEHKO_00411	CDS			hypothetical protein
+PHDCEHKO_00411	gene			
+PHDCEHKO_00412	CDS	ccsA		Cytochrome c biogenesis protein CcsA
+PHDCEHKO_00412	gene	ccsA		
+PHDCEHKO_00413	CDS			hypothetical protein
+PHDCEHKO_00413	gene			
+PHDCEHKO_00414	CDS			hypothetical protein
+PHDCEHKO_00414	gene			
+PHDCEHKO_00415	CDS	rplS		50S ribosomal protein L19
+PHDCEHKO_00415	gene	rplS		
+PHDCEHKO_00416	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+PHDCEHKO_00416	gene	trmD		
+PHDCEHKO_00417	CDS	rimM		Ribosome maturation factor RimM
+PHDCEHKO_00417	gene	rimM		
+PHDCEHKO_00418	CDS			hypothetical protein
+PHDCEHKO_00418	gene			
+PHDCEHKO_00419	CDS	rpsP		30S ribosomal protein S16
+PHDCEHKO_00419	gene	rpsP		
+PHDCEHKO_00420	CDS	ffh		Signal recognition particle protein
+PHDCEHKO_00420	gene	ffh		
+PHDCEHKO_00421	CDS	valS	6.1.1.9	Valine--tRNA ligase
+PHDCEHKO_00421	gene	valS		
+PHDCEHKO_00422	CDS	fliW1		Flagellar assembly factor FliW 1
+PHDCEHKO_00422	gene	fliW1		
+PHDCEHKO_00423	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+PHDCEHKO_00423	gene	murG		
+PHDCEHKO_00424	CDS			hypothetical protein
+PHDCEHKO_00424	gene			
+PHDCEHKO_00425	CDS			hypothetical protein
+PHDCEHKO_00425	gene			
+PHDCEHKO_00426	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+PHDCEHKO_00426	gene	proC		
+PHDCEHKO_00427	CDS		2.7.7.-	Adenosine monophosphate-protein transferase NmFic
+PHDCEHKO_00427	gene			
+PHDCEHKO_00428	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+PHDCEHKO_00428	gene	ybeY		
+PHDCEHKO_00429	CDS	fldA		Flavodoxin
+PHDCEHKO_00429	gene	fldA		
+PHDCEHKO_00430	CDS	yohD_1		Inner membrane protein YohD
+PHDCEHKO_00430	gene	yohD_1		
+PHDCEHKO_00431	CDS			hypothetical protein
+PHDCEHKO_00431	gene			
+PHDCEHKO_00432	CDS		1.18.1.2	Ferredoxin--NADP reductase
+PHDCEHKO_00432	gene			
+PHDCEHKO_00433	CDS			hypothetical protein
+PHDCEHKO_00433	gene			
+PHDCEHKO_00434	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+PHDCEHKO_00434	gene	pgi		
+PHDCEHKO_00435	CDS			hypothetical protein
+PHDCEHKO_00435	gene			
+PHDCEHKO_00436	CDS	cstA		Carbon starvation protein A
+PHDCEHKO_00436	gene	cstA		
+PHDCEHKO_00437	CDS	glnP		Glutamine transport system permease protein GlnP
+PHDCEHKO_00437	gene	glnP		
+PHDCEHKO_00438	CDS	tcyB_2		L-cystine transport system permease protein TcyB
+PHDCEHKO_00438	gene	tcyB_2		
+PHDCEHKO_00439	CDS	artM		Arginine transport ATP-binding protein ArtM
+PHDCEHKO_00439	gene	artM		
+PHDCEHKO_00440	CDS	glnH		ABC transporter glutamine-binding protein GlnH
+PHDCEHKO_00440	gene	glnH		
+PHDCEHKO_00441	CDS			hypothetical protein
+PHDCEHKO_00441	gene			
+PHDCEHKO_00442	CDS	fucP		L-fucose-proton symporter
+PHDCEHKO_00442	gene	fucP		
+PHDCEHKO_00443	CDS	adeQ		Adenine permease AdeQ
+PHDCEHKO_00443	gene	adeQ		
+PHDCEHKO_00444	CDS			hypothetical protein
+PHDCEHKO_00444	gene			
+PHDCEHKO_00445	CDS	deoD	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+PHDCEHKO_00445	gene	deoD		
+PHDCEHKO_00446	CDS	deoB	5.4.2.7	Phosphopentomutase
+PHDCEHKO_00446	gene	deoB		
+PHDCEHKO_00447	CDS	nupX		Putative nucleoside permease NupX
+PHDCEHKO_00447	gene	nupX		
+PHDCEHKO_00448	tRNA			tRNA-Met(cat)
+PHDCEHKO_00448	gene			
+PHDCEHKO_00449	CDS	yajR		Inner membrane transport protein YajR
+PHDCEHKO_00449	gene	yajR		
+PHDCEHKO_00450	CDS	ttcA		tRNA 2-thiocytidine biosynthesis protein TtcA
+PHDCEHKO_00450	gene	ttcA		
+PHDCEHKO_00451	CDS			hypothetical protein
+PHDCEHKO_00451	gene			
+PHDCEHKO_00452	CDS	mepA		Multidrug export protein MepA
+PHDCEHKO_00452	gene	mepA		
+PHDCEHKO_00453	CDS	sotB		Sugar efflux transporter B
+PHDCEHKO_00453	gene	sotB		
+PHDCEHKO_00454	CDS	cah	4.2.1.1	Carbonic anhydrase
+PHDCEHKO_00454	gene	cah		
+PHDCEHKO_00455	CDS			hypothetical protein
+PHDCEHKO_00455	gene			
+PHDCEHKO_00456	CDS			hypothetical protein
+PHDCEHKO_00456	gene			
+PHDCEHKO_00457	CDS	queE_2	4.3.99.3	7-carboxy-7-deazaguanine synthase
+PHDCEHKO_00457	gene	queE_2		
+PHDCEHKO_00458	CDS	topA_1	5.99.1.2	DNA topoisomerase 1
+PHDCEHKO_00458	gene	topA_1		
+PHDCEHKO_00459	CDS	flaB		Flagellin B
+PHDCEHKO_00459	gene	flaB		
+PHDCEHKO_00460	CDS			hypothetical protein
+PHDCEHKO_00460	gene			
+PHDCEHKO_00461	CDS			hypothetical protein
+PHDCEHKO_00461	gene			
+PHDCEHKO_00462	CDS			hypothetical protein
+PHDCEHKO_00462	gene			
+PHDCEHKO_00463	CDS	hrcA		Heat-inducible transcription repressor HrcA
+PHDCEHKO_00463	gene	hrcA		
+PHDCEHKO_00464	CDS	grpE		Protein GrpE
+PHDCEHKO_00464	gene	grpE		
+PHDCEHKO_00465	CDS	dnaK		Chaperone protein DnaK
+PHDCEHKO_00465	gene	dnaK		
+PHDCEHKO_00466	CDS			hypothetical protein
+PHDCEHKO_00466	gene			
+PHDCEHKO_00467	CDS	cysM	2.5.1.47	Cysteine synthase
+PHDCEHKO_00467	gene	cysM		
+PHDCEHKO_00468	CDS	metB	2.5.1.48	Cystathionine gamma-synthase
+PHDCEHKO_00468	gene	metB		
+PHDCEHKO_00469	CDS	luxS	4.4.1.21	S-ribosylhomocysteine lyase
+PHDCEHKO_00469	gene	luxS		
+PHDCEHKO_00470	CDS	yfkN		Trifunctional nucleotide phosphoesterase protein YfkN
+PHDCEHKO_00470	gene	yfkN		
+PHDCEHKO_00471	CDS	mcp4		Methyl-accepting chemotaxis protein 4
+PHDCEHKO_00471	gene	mcp4		
+PHDCEHKO_00472	CDS		2.4.-.-	putative glycosyltransferase
+PHDCEHKO_00472	gene			
+PHDCEHKO_00473	CDS			hypothetical protein
+PHDCEHKO_00473	gene			
+PHDCEHKO_00474	CDS			hypothetical protein
+PHDCEHKO_00474	gene			
+PHDCEHKO_00475	CDS	ctpL		Methyl-accepting chemotaxis protein CtpL
+PHDCEHKO_00475	gene	ctpL		
+PHDCEHKO_00476	CDS			hypothetical protein
+PHDCEHKO_00476	gene			
+PHDCEHKO_00477	CDS	thrC	4.2.3.1	Threonine synthase
+PHDCEHKO_00477	gene	thrC		
+PHDCEHKO_00478	CDS			hypothetical protein
+PHDCEHKO_00478	gene			
+PHDCEHKO_00479	CDS		1.-.-.-	Putative 2-hydroxyacid dehydrogenase
+PHDCEHKO_00479	gene			
+PHDCEHKO_00480	CDS			hypothetical protein
+PHDCEHKO_00480	gene			
+PHDCEHKO_00481	CDS			hypothetical protein
+PHDCEHKO_00481	gene			
+PHDCEHKO_00482	CDS	wbnK	2.4.1.308	O-antigen biosynthesis glycosyltransferase WbnK
+PHDCEHKO_00482	gene	wbnK		
+PHDCEHKO_00483	CDS	dpnA_1	2.1.1.72	Modification methylase DpnIIB
+PHDCEHKO_00483	gene	dpnA_1		
+PHDCEHKO_00484	CDS	mboIR	3.1.21.4	Type-2 restriction enzyme MboI
+PHDCEHKO_00484	gene	mboIR		
+PHDCEHKO_00485	tRNA			tRNA-Ser(gct)
+PHDCEHKO_00485	gene			
+PHDCEHKO_00486	CDS	fenF	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+PHDCEHKO_00486	gene	fenF		
+PHDCEHKO_00487	CDS	mtnN	3.2.2.30	Aminodeoxyfutalosine nucleosidase
+PHDCEHKO_00487	gene	mtnN		
+PHDCEHKO_00488	CDS	rpoD		RNA polymerase sigma factor RpoD
+PHDCEHKO_00488	gene	rpoD		
+PHDCEHKO_00489	CDS			hypothetical protein
+PHDCEHKO_00489	gene			
+PHDCEHKO_00490	CDS	mqo	1.1.5.4	Malate:quinone oxidoreductase
+PHDCEHKO_00490	gene	mqo		
+PHDCEHKO_00491	CDS			hypothetical protein
+PHDCEHKO_00491	gene			
+PHDCEHKO_00492	CDS	rplM		50S ribosomal protein L13
+PHDCEHKO_00492	gene	rplM		
+PHDCEHKO_00493	CDS	rpsI		30S ribosomal protein S9
+PHDCEHKO_00493	gene	rpsI		
+PHDCEHKO_00494	CDS	pctB		Methyl-accepting chemotaxis protein PctB
+PHDCEHKO_00494	gene	pctB		
+PHDCEHKO_00495	CDS			hypothetical protein
+PHDCEHKO_00495	gene			
+PHDCEHKO_00496	CDS			hypothetical protein
+PHDCEHKO_00496	gene			
+PHDCEHKO_00497	CDS			hypothetical protein
+PHDCEHKO_00497	gene			
+PHDCEHKO_00498	CDS	prfA		Peptide chain release factor RF1
+PHDCEHKO_00498	gene	prfA		
+PHDCEHKO_00499	CDS	rpsT		30S ribosomal protein S20
+PHDCEHKO_00499	gene	rpsT		
+PHDCEHKO_00500	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+PHDCEHKO_00500	gene	glmM		
+PHDCEHKO_00501	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+PHDCEHKO_00501	gene	lspA		
+PHDCEHKO_00502	tRNA			tRNA-Val(gac)
+PHDCEHKO_00502	gene			
+PHDCEHKO_00503	CDS	ureA	3.5.1.5	Urease subunit alpha
+PHDCEHKO_00503	gene	ureA		
+PHDCEHKO_00504	CDS	ureB	3.5.1.5	Urease subunit beta
+PHDCEHKO_00504	gene	ureB		
+PHDCEHKO_00505	CDS	ureI		Acid-activated urea channel
+PHDCEHKO_00505	gene	ureI		
+PHDCEHKO_00506	CDS	ureE		Urease accessory protein UreE
+PHDCEHKO_00506	gene	ureE		
+PHDCEHKO_00507	CDS	ureF		Urease accessory protein UreF
+PHDCEHKO_00507	gene	ureF		
+PHDCEHKO_00508	CDS	ureG		Urease accessory protein UreG
+PHDCEHKO_00508	gene	ureG		
+PHDCEHKO_00509	CDS	ureH		Urease accessory protein UreH
+PHDCEHKO_00509	gene	ureH		
+PHDCEHKO_00510	CDS	ftsK		DNA translocase FtsK
+PHDCEHKO_00510	gene	ftsK		
+PHDCEHKO_00511	CDS			hypothetical protein
+PHDCEHKO_00511	gene			
+PHDCEHKO_00512	CDS			hypothetical protein
+PHDCEHKO_00512	gene			
+PHDCEHKO_00513	CDS			hypothetical protein
+PHDCEHKO_00513	gene			
+PHDCEHKO_00514	CDS			hypothetical protein
+PHDCEHKO_00514	gene			
+PHDCEHKO_00515	CDS			hypothetical protein
+PHDCEHKO_00515	gene			
+PHDCEHKO_00516	CDS			hypothetical protein
+PHDCEHKO_00516	gene			
+PHDCEHKO_00517	CDS	smc_1		Chromosome partition protein Smc
+PHDCEHKO_00517	gene	smc_1		
+PHDCEHKO_00518	CDS			hypothetical protein
+PHDCEHKO_00518	gene			
+PHDCEHKO_00519	CDS			hypothetical protein
+PHDCEHKO_00519	gene			
+PHDCEHKO_00520	CDS			hypothetical protein
+PHDCEHKO_00520	gene			
+PHDCEHKO_00521	CDS			hypothetical protein
+PHDCEHKO_00521	gene			
+PHDCEHKO_00522	CDS	ynaI		Low conductance mechanosensitive channel YnaI
+PHDCEHKO_00522	gene	ynaI		
+PHDCEHKO_00523	CDS	cfa	2.1.1.79	Cyclopropane-fatty-acyl-phospholipid synthase
+PHDCEHKO_00523	gene	cfa		
+PHDCEHKO_00524	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+PHDCEHKO_00524	gene	metG		
+PHDCEHKO_00525	CDS			hypothetical protein
+PHDCEHKO_00525	gene			
+PHDCEHKO_00526	CDS	cmoB	2.5.1.-	tRNA U34 carboxymethyltransferase
+PHDCEHKO_00526	gene	cmoB		
+PHDCEHKO_00527	CDS			hypothetical protein
+PHDCEHKO_00527	gene			
+PHDCEHKO_00528	CDS	mgtA	2.4.1.-	GDP-mannose-dependent alpha-mannosyltransferase
+PHDCEHKO_00528	gene	mgtA		
+PHDCEHKO_00529	CDS	speA	4.1.1.19	Biosynthetic arginine decarboxylase
+PHDCEHKO_00529	gene	speA		
+PHDCEHKO_00530	CDS			hypothetical protein
+PHDCEHKO_00530	gene			
+PHDCEHKO_00531	CDS			hypothetical protein
+PHDCEHKO_00531	gene			
+PHDCEHKO_00532	CDS	argO		Arginine exporter protein ArgO
+PHDCEHKO_00532	gene	argO		
+PHDCEHKO_00533	CDS	dnaX	2.7.7.7	DNA polymerase III subunit tau
+PHDCEHKO_00533	gene	dnaX		
+PHDCEHKO_00534	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PHDCEHKO_00534	gene	tsaE		
+PHDCEHKO_00535	CDS	lptB	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+PHDCEHKO_00535	gene	lptB		
+PHDCEHKO_00536	CDS	rpoN		RNA polymerase sigma-54 factor
+PHDCEHKO_00536	gene	rpoN		
+PHDCEHKO_00537	CDS			hypothetical protein
+PHDCEHKO_00537	gene			
+PHDCEHKO_00538	CDS			hypothetical protein
+PHDCEHKO_00538	gene			
+PHDCEHKO_00539	CDS	yfbR	3.1.3.89	5'-deoxynucleotidase YfbR
+PHDCEHKO_00539	gene	yfbR		
+PHDCEHKO_00540	CDS			hypothetical protein
+PHDCEHKO_00540	gene			
+PHDCEHKO_00541	CDS	salL	2.5.1.94	Adenosyl-chloride synthase
+PHDCEHKO_00541	gene	salL		
+PHDCEHKO_00542	CDS			hypothetical protein
+PHDCEHKO_00542	gene			
+PHDCEHKO_00543	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+PHDCEHKO_00543	gene	rsmH		
+PHDCEHKO_00544	CDS			hypothetical protein
+PHDCEHKO_00544	gene			
+PHDCEHKO_00545	CDS	uvrA		UvrABC system protein A
+PHDCEHKO_00545	gene	uvrA		
+PHDCEHKO_00546	CDS	glrR		Transcriptional regulatory protein GlrR
+PHDCEHKO_00546	gene	glrR		
+PHDCEHKO_00547	CDS			hypothetical protein
+PHDCEHKO_00547	gene			
+PHDCEHKO_00548	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+PHDCEHKO_00548	gene	gyrA		
+PHDCEHKO_00549	CDS	dgkA	2.7.1.107	Diacylglycerol kinase
+PHDCEHKO_00549	gene	dgkA		
+PHDCEHKO_00550	CDS			hypothetical protein
+PHDCEHKO_00550	gene			
+PHDCEHKO_00551	CDS	acxC	6.4.1.6	Acetone carboxylase gamma subunit
+PHDCEHKO_00551	gene	acxC		
+PHDCEHKO_00552	CDS	acxB	6.4.1.6	Acetone carboxylase alpha subunit
+PHDCEHKO_00552	gene	acxB		
+PHDCEHKO_00553	CDS	acxA	6.4.1.6	Acetone carboxylase beta subunit
+PHDCEHKO_00553	gene	acxA		
+PHDCEHKO_00554	CDS			hypothetical protein
+PHDCEHKO_00554	gene			
+PHDCEHKO_00555	CDS	atoE		Putative short-chain fatty acid transporter
+PHDCEHKO_00555	gene	atoE		
+PHDCEHKO_00556	CDS	scoB	2.8.3.5	Succinyl-CoA:3-ketoacid coenzyme A transferase subunit B
+PHDCEHKO_00556	gene	scoB		
+PHDCEHKO_00557	CDS	scoA	2.8.3.5	Succinyl-CoA:3-ketoacid coenzyme A transferase subunit A
+PHDCEHKO_00557	gene	scoA		
+PHDCEHKO_00558	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+PHDCEHKO_00558	gene	thlA		
+PHDCEHKO_00559	CDS			hypothetical protein
+PHDCEHKO_00559	gene			
+PHDCEHKO_00560	CDS	feoB		Fe(2+) transporter FeoB
+PHDCEHKO_00560	gene	feoB		
+PHDCEHKO_00561	CDS	fecA_1		Fe(3+) dicitrate transport protein FecA
+PHDCEHKO_00561	gene	fecA_1		
+PHDCEHKO_00562	CDS	fliP_1		Flagellar biosynthetic protein FliP
+PHDCEHKO_00562	gene	fliP_1		
+PHDCEHKO_00563	CDS	fliP_2		Flagellar biosynthetic protein FliP
+PHDCEHKO_00563	gene	fliP_2		
+PHDCEHKO_00564	CDS	glmU		Bifunctional protein GlmU
+PHDCEHKO_00564	gene	glmU		
+PHDCEHKO_00565	CDS			hypothetical protein
+PHDCEHKO_00565	gene			
+PHDCEHKO_00566	CDS			hypothetical protein
+PHDCEHKO_00566	gene			
+PHDCEHKO_00567	CDS	nrdA	1.17.4.1	Ribonucleoside-diphosphate reductase 1 subunit alpha
+PHDCEHKO_00567	gene	nrdA		
+PHDCEHKO_00568	CDS	wbpB	1.1.1.335	UDP-N-acetyl-2-amino-2-deoxy-D-glucuronate oxidase
+PHDCEHKO_00568	gene	wbpB		
+PHDCEHKO_00569	CDS			hypothetical protein
+PHDCEHKO_00569	gene			
+PHDCEHKO_00570	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+PHDCEHKO_00570	gene	ogt		
+PHDCEHKO_00571	CDS	xerH_1		Tyrosine recombinase XerH
+PHDCEHKO_00571	gene	xerH_1		
+PHDCEHKO_00572	CDS			hypothetical protein
+PHDCEHKO_00572	gene			
+PHDCEHKO_00573	CDS			hypothetical protein
+PHDCEHKO_00573	gene			
+PHDCEHKO_00574	CDS		2.6.1.1	Aspartate aminotransferase
+PHDCEHKO_00574	gene			
+PHDCEHKO_00575	CDS			hypothetical protein
+PHDCEHKO_00575	gene			
+PHDCEHKO_00576	CDS			hypothetical protein
+PHDCEHKO_00576	gene			
+PHDCEHKO_00577	CDS			hypothetical protein
+PHDCEHKO_00577	gene			
+PHDCEHKO_00578	CDS			hypothetical protein
+PHDCEHKO_00578	gene			
+PHDCEHKO_00579	CDS			hypothetical protein
+PHDCEHKO_00579	gene			
+PHDCEHKO_00580	CDS	glpC		Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+PHDCEHKO_00580	gene	glpC		
+PHDCEHKO_00581	CDS	hemN_1	1.3.98.3	Oxygen-independent coproporphyrinogen III oxidase
+PHDCEHKO_00581	gene	hemN_1		
+PHDCEHKO_00582	CDS			hypothetical protein
+PHDCEHKO_00582	gene			
+PHDCEHKO_00583	CDS	aroC	4.2.3.5	Chorismate synthase
+PHDCEHKO_00583	gene	aroC		
+PHDCEHKO_00584	CDS	rnc	3.1.26.3	Ribonuclease 3
+PHDCEHKO_00584	gene	rnc		
+PHDCEHKO_00585	CDS	rnhA	3.1.26.4	Ribonuclease HI
+PHDCEHKO_00585	gene	rnhA		
+PHDCEHKO_00586	CDS	lapB		Lipopolysaccharide assembly protein B
+PHDCEHKO_00586	gene	lapB		
+PHDCEHKO_00587	CDS	surA	5.2.1.8	Chaperone SurA
+PHDCEHKO_00587	gene	surA		
+PHDCEHKO_00588	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+PHDCEHKO_00588	gene	gatB		
+PHDCEHKO_00589	CDS		3.4.24.-	putative zinc protease
+PHDCEHKO_00589	gene			
+PHDCEHKO_00590	CDS	mqnC	1.21.98.1	Cyclic dehypoxanthine futalosine synthase
+PHDCEHKO_00590	gene	mqnC		
+PHDCEHKO_00591	CDS	bamA		Outer membrane protein assembly factor BamA
+PHDCEHKO_00591	gene	bamA		
+PHDCEHKO_00592	CDS	mqnE	2.5.1.120	Aminodeoxyfutalosine synthase
+PHDCEHKO_00592	gene	mqnE		
+PHDCEHKO_00593	CDS	ftnA	1.16.3.2	Bacterial non-heme ferritin
+PHDCEHKO_00593	gene	ftnA		
+PHDCEHKO_00594	CDS	SERB	3.1.3.3	Phosphoserine phosphatase
+PHDCEHKO_00594	gene	SERB		
+PHDCEHKO_00595	CDS			hypothetical protein
+PHDCEHKO_00595	gene			
+PHDCEHKO_00596	CDS	aspA	4.3.1.1	Aspartate ammonia-lyase
+PHDCEHKO_00596	gene	aspA		
+PHDCEHKO_00597	CDS	murA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+PHDCEHKO_00597	gene	murA		
+PHDCEHKO_00598	CDS			hypothetical protein
+PHDCEHKO_00598	gene			
+PHDCEHKO_00599	CDS	gtaB	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+PHDCEHKO_00599	gene	gtaB		
+PHDCEHKO_00600	CDS	slt	4.2.2.-	Soluble lytic murein transglycosylase
+PHDCEHKO_00600	gene	slt		
+PHDCEHKO_00601	CDS			hypothetical protein
+PHDCEHKO_00601	gene			
+PHDCEHKO_00602	CDS	gltX1	6.1.1.17	Glutamate--tRNA ligase 1
+PHDCEHKO_00602	gene	gltX1		
+PHDCEHKO_00603	CDS	yfkO	1.-.-.-	Putative NAD(P)H nitroreductase YfkO
+PHDCEHKO_00603	gene	yfkO		
+PHDCEHKO_00604	CDS			hypothetical protein
+PHDCEHKO_00604	gene			
+PHDCEHKO_00605	CDS	cca	2.7.7.72	CCA-adding enzyme
+PHDCEHKO_00605	gene	cca		
+PHDCEHKO_00606	CDS	queC	6.3.4.20	7-cyano-7-deazaguanine synthase
+PHDCEHKO_00606	gene	queC		
+PHDCEHKO_00607	CDS			hypothetical protein
+PHDCEHKO_00607	gene			
+PHDCEHKO_00608	CDS			hypothetical protein
+PHDCEHKO_00608	gene			
+PHDCEHKO_00609	CDS			hypothetical protein
+PHDCEHKO_00609	gene			
+PHDCEHKO_00610	CDS			hypothetical protein
+PHDCEHKO_00610	gene			
+PHDCEHKO_00611	CDS	hybD	3.4.23.-	Hydrogenase 2 maturation protease
+PHDCEHKO_00611	gene	hybD		
+PHDCEHKO_00612	CDS	hydC		Quinone-reactive Ni/Fe-hydrogenase B-type cytochrome subunit
+PHDCEHKO_00612	gene	hydC		
+PHDCEHKO_00613	CDS	hydB	1.12.5.1	Quinone-reactive Ni/Fe-hydrogenase large chain
+PHDCEHKO_00613	gene	hydB		
+PHDCEHKO_00614	CDS	hydA_1	1.12.5.1	Quinone-reactive Ni/Fe-hydrogenase small chain
+PHDCEHKO_00614	gene	hydA_1		
+PHDCEHKO_00615	CDS	mdaB		Modulator of drug activity B
+PHDCEHKO_00615	gene	mdaB		
+PHDCEHKO_00616	CDS			hypothetical protein
+PHDCEHKO_00616	gene			
+PHDCEHKO_00617	CDS	hcpD_1	3.5.2.6	Putative beta-lactamase HcpD
+PHDCEHKO_00617	gene	hcpD_1		
+PHDCEHKO_00618	CDS	dapD	2.3.1.117	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+PHDCEHKO_00618	gene	dapD		
+PHDCEHKO_00619	CDS	ispG	1.17.7.3	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+PHDCEHKO_00619	gene	ispG		
+PHDCEHKO_00620	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+PHDCEHKO_00620	gene	dapL		
+PHDCEHKO_00621	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+PHDCEHKO_00621	gene	murC		
+PHDCEHKO_00622	CDS			hypothetical protein
+PHDCEHKO_00622	gene			
+PHDCEHKO_00623	CDS	mutS2	3.1.-.-	Endonuclease MutS2
+PHDCEHKO_00623	gene	mutS2		
+PHDCEHKO_00624	CDS	ppa	3.6.1.1	Inorganic pyrophosphatase
+PHDCEHKO_00624	gene	ppa		
+PHDCEHKO_00625	CDS			hypothetical protein
+PHDCEHKO_00625	gene			
+PHDCEHKO_00626	CDS			hypothetical protein
+PHDCEHKO_00626	gene			
+PHDCEHKO_00627	CDS	adk	2.7.4.3	Adenylate kinase
+PHDCEHKO_00627	gene	adk		
+PHDCEHKO_00628	CDS	aspS	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+PHDCEHKO_00628	gene	aspS		
+PHDCEHKO_00629	CDS	cheV_2		Chemotaxis protein CheV
+PHDCEHKO_00629	gene	cheV_2		
+PHDCEHKO_00630	CDS	ligA	6.5.1.2	DNA ligase
+PHDCEHKO_00630	gene	ligA		
+PHDCEHKO_00631	CDS			hypothetical protein
+PHDCEHKO_00631	gene			
+PHDCEHKO_00632	CDS	yxdL		ABC transporter ATP-binding protein YxdL
+PHDCEHKO_00632	gene	yxdL		
+PHDCEHKO_00633	CDS			hypothetical protein
+PHDCEHKO_00633	gene			
+PHDCEHKO_00634	CDS			hypothetical protein
+PHDCEHKO_00634	gene			
+PHDCEHKO_00635	CDS	vacA_2		Vacuolating cytotoxin autotransporter
+PHDCEHKO_00635	gene	vacA_2		
+PHDCEHKO_00636	CDS			hypothetical protein
+PHDCEHKO_00636	gene			
+PHDCEHKO_00637	CDS	mdtC		Multidrug resistance protein MdtC
+PHDCEHKO_00637	gene	mdtC		
+PHDCEHKO_00638	CDS	czcB		Cobalt-zinc-cadmium resistance protein CzcB
+PHDCEHKO_00638	gene	czcB		
+PHDCEHKO_00639	CDS			hypothetical protein
+PHDCEHKO_00639	gene			
+PHDCEHKO_00640	CDS	hemE	4.1.1.37	Uroporphyrinogen decarboxylase
+PHDCEHKO_00640	gene	hemE		
+PHDCEHKO_00641	CDS			hypothetical protein
+PHDCEHKO_00641	gene			
+PHDCEHKO_00642	CDS	nth_1	4.2.99.18	Endonuclease III
+PHDCEHKO_00642	gene	nth_1		
+PHDCEHKO_00643	CDS	flaA		Flagellin A
+PHDCEHKO_00643	gene	flaA		
+PHDCEHKO_00644	CDS			hypothetical protein
+PHDCEHKO_00644	gene			
+PHDCEHKO_00645	CDS			putative ABC transporter ATP-binding protein
+PHDCEHKO_00645	gene			
+PHDCEHKO_00646	CDS	mcpU		Methyl-accepting chemotaxis protein McpU
+PHDCEHKO_00646	gene	mcpU		
+PHDCEHKO_00647	CDS	bioF	2.3.1.47	8-amino-7-oxononanoate synthase 2
+PHDCEHKO_00647	gene	bioF		
+PHDCEHKO_00648	CDS	mrcA		Penicillin-binding protein 1A
+PHDCEHKO_00648	gene	mrcA		
+PHDCEHKO_00649	CDS			hypothetical protein
+PHDCEHKO_00649	gene			
+PHDCEHKO_00650	CDS	dsbB		Disulfide bond formation protein B
+PHDCEHKO_00650	gene	dsbB		
+PHDCEHKO_00651	CDS			hypothetical protein
+PHDCEHKO_00651	gene			
+PHDCEHKO_00652	CDS			hypothetical protein
+PHDCEHKO_00652	gene			
+PHDCEHKO_00653	CDS			hypothetical protein
+PHDCEHKO_00653	gene			
+PHDCEHKO_00654	CDS			hypothetical protein
+PHDCEHKO_00654	gene			
+PHDCEHKO_00655	CDS	korB	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+PHDCEHKO_00655	gene	korB		
+PHDCEHKO_00656	CDS	korA	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+PHDCEHKO_00656	gene	korA		
+PHDCEHKO_00657	CDS	hydA_2	1.12.7.2	Periplasmic [Fe] hydrogenase large subunit
+PHDCEHKO_00657	gene	hydA_2		
+PHDCEHKO_00658	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+PHDCEHKO_00658	gene	mltG		
+PHDCEHKO_00659	CDS			hypothetical protein
+PHDCEHKO_00659	gene			
+PHDCEHKO_00660	CDS	feoA		Putative Fe(2+) transport protein A
+PHDCEHKO_00660	gene	feoA		
+PHDCEHKO_00661	CDS	nth_2	4.2.99.18	Endonuclease III
+PHDCEHKO_00661	gene	nth_2		
+PHDCEHKO_00662	CDS	fliN_2		Flagellar motor switch protein FliN
+PHDCEHKO_00662	gene	fliN_2		
+PHDCEHKO_00663	CDS			hypothetical protein
+PHDCEHKO_00663	gene			
+PHDCEHKO_00664	CDS			hypothetical protein
+PHDCEHKO_00664	gene			
+PHDCEHKO_00665	CDS	pyrC_1	3.5.2.3	Dihydroorotase
+PHDCEHKO_00665	gene	pyrC_1		
+PHDCEHKO_00666	CDS			hypothetical protein
+PHDCEHKO_00666	gene			
+PHDCEHKO_00667	CDS			hypothetical protein
+PHDCEHKO_00667	gene			
+PHDCEHKO_00668	CDS	mdoB	2.7.8.20	Phosphoglycerol transferase I
+PHDCEHKO_00668	gene	mdoB		
+PHDCEHKO_00669	CDS	folD		Bifunctional protein FolD protein
+PHDCEHKO_00669	gene	folD		
+PHDCEHKO_00670	CDS	lepB	3.4.21.89	Signal peptidase I
+PHDCEHKO_00670	gene	lepB		
+PHDCEHKO_00671	CDS			hypothetical protein
+PHDCEHKO_00671	gene			
+PHDCEHKO_00672	CDS	ywlF	5.3.1.-	Putative sugar phosphate isomerase YwlF
+PHDCEHKO_00672	gene	ywlF		
+PHDCEHKO_00673	CDS			hypothetical protein
+PHDCEHKO_00673	gene			
+PHDCEHKO_00674	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+PHDCEHKO_00674	gene	apt		
+PHDCEHKO_00675	CDS	yohD_2		Inner membrane protein YohD
+PHDCEHKO_00675	gene	yohD_2		
+PHDCEHKO_00676	CDS	pepA	3.4.11.1	Cytosol aminopeptidase
+PHDCEHKO_00676	gene	pepA		
+PHDCEHKO_00677	CDS	ychF		Ribosome-binding ATPase YchF
+PHDCEHKO_00677	gene	ychF		
+PHDCEHKO_00678	CDS	pqqE		Coenzyme PQQ synthesis protein E
+PHDCEHKO_00678	gene	pqqE		
+PHDCEHKO_00679	CDS			hypothetical protein
+PHDCEHKO_00679	gene			
+PHDCEHKO_00680	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+PHDCEHKO_00680	gene	dapF		
+PHDCEHKO_00681	CDS	rclC		Inner membrane protein RclC
+PHDCEHKO_00681	gene	rclC		
+PHDCEHKO_00682	CDS			hypothetical protein
+PHDCEHKO_00682	gene			
+PHDCEHKO_00683	CDS			hypothetical protein
+PHDCEHKO_00683	gene			
+PHDCEHKO_00684	CDS	rpsU		30S ribosomal protein S21
+PHDCEHKO_00684	gene	rpsU		
+PHDCEHKO_00685	CDS	fabG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+PHDCEHKO_00685	gene	fabG		
+PHDCEHKO_00686	CDS	acpP_2		Acyl carrier protein
+PHDCEHKO_00686	gene	acpP_2		
+PHDCEHKO_00687	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+PHDCEHKO_00687	gene	fabF		
+PHDCEHKO_00688	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+PHDCEHKO_00688	gene	accA		
+PHDCEHKO_00689	CDS			hypothetical protein
+PHDCEHKO_00689	gene			
+PHDCEHKO_00690	CDS			hypothetical protein
+PHDCEHKO_00690	gene			
+PHDCEHKO_00691	CDS			hypothetical protein
+PHDCEHKO_00691	gene			
+PHDCEHKO_00692	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+PHDCEHKO_00692	gene			
+PHDCEHKO_00693	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+PHDCEHKO_00693	gene	rsmI		
+PHDCEHKO_00694	CDS	rpmE		50S ribosomal protein L31
+PHDCEHKO_00694	gene	rpmE		
+PHDCEHKO_00695	CDS	rho	3.6.4.-	Transcription termination factor Rho
+PHDCEHKO_00695	gene	rho		
+PHDCEHKO_00696	CDS	murI	5.1.1.3	Glutamate racemase
+PHDCEHKO_00696	gene	murI		
+PHDCEHKO_00697	CDS			hypothetical protein
+PHDCEHKO_00697	gene			
+PHDCEHKO_00698	CDS			hypothetical protein
+PHDCEHKO_00698	gene			
+PHDCEHKO_00699	CDS	cagA		Cytotoxicity-associated immunodominant antigen
+PHDCEHKO_00699	gene	cagA		
+PHDCEHKO_00700	CDS			hypothetical protein
+PHDCEHKO_00700	gene			
+PHDCEHKO_00701	CDS			hypothetical protein
+PHDCEHKO_00701	gene			
+PHDCEHKO_00702	CDS			hypothetical protein
+PHDCEHKO_00702	gene			
+PHDCEHKO_00703	CDS	virB4_1		Type IV secretion system protein virB4
+PHDCEHKO_00703	gene	virB4_1		
+PHDCEHKO_00704	CDS			hypothetical protein
+PHDCEHKO_00704	gene			
+PHDCEHKO_00705	CDS			hypothetical protein
+PHDCEHKO_00705	gene			
+PHDCEHKO_00706	CDS			hypothetical protein
+PHDCEHKO_00706	gene			
+PHDCEHKO_00707	CDS			hypothetical protein
+PHDCEHKO_00707	gene			
+PHDCEHKO_00708	CDS			hypothetical protein
+PHDCEHKO_00708	gene			
+PHDCEHKO_00709	CDS			hypothetical protein
+PHDCEHKO_00709	gene			
+PHDCEHKO_00710	CDS			hypothetical protein
+PHDCEHKO_00710	gene			
+PHDCEHKO_00711	CDS			hypothetical protein
+PHDCEHKO_00711	gene			
+PHDCEHKO_00712	CDS	cagS		CAG pathogenicity island protein 13
+PHDCEHKO_00712	gene	cagS		
+PHDCEHKO_00713	CDS			hypothetical protein
+PHDCEHKO_00713	gene			
+PHDCEHKO_00714	CDS	cagT		CAG pathogenicity island protein 12
+PHDCEHKO_00714	gene	cagT		
+PHDCEHKO_00715	CDS			hypothetical protein
+PHDCEHKO_00715	gene			
+PHDCEHKO_00716	CDS			hypothetical protein
+PHDCEHKO_00716	gene			
+PHDCEHKO_00717	CDS			hypothetical protein
+PHDCEHKO_00717	gene			
+PHDCEHKO_00718	CDS			hypothetical protein
+PHDCEHKO_00718	gene			
+PHDCEHKO_00719	CDS			hypothetical protein
+PHDCEHKO_00719	gene			
+PHDCEHKO_00720	CDS			hypothetical protein
+PHDCEHKO_00720	gene			
+PHDCEHKO_00721	CDS	bicA		Bicarbonate transporter BicA
+PHDCEHKO_00721	gene	bicA		
+PHDCEHKO_00722	tRNA			tRNA-Asn(gtt)
+PHDCEHKO_00722	gene			
+PHDCEHKO_00723	CDS			hypothetical protein
+PHDCEHKO_00723	gene			
+PHDCEHKO_00724	CDS	kdsB	2.7.7.38	3-deoxy-manno-octulosonate cytidylyltransferase
+PHDCEHKO_00724	gene	kdsB		
+PHDCEHKO_00725	CDS			hypothetical protein
+PHDCEHKO_00725	gene			
+PHDCEHKO_00726	CDS			hypothetical protein
+PHDCEHKO_00726	gene			
+PHDCEHKO_00727	CDS	ygiC	6.3.1.-	Putative acid--amine ligase YgiC
+PHDCEHKO_00727	gene	ygiC		
+PHDCEHKO_00728	CDS			hypothetical protein
+PHDCEHKO_00728	gene			
+PHDCEHKO_00729	CDS	hcpC_1	3.5.2.6	Putative beta-lactamase HcpC
+PHDCEHKO_00729	gene	hcpC_1		
+PHDCEHKO_00730	CDS			hypothetical protein
+PHDCEHKO_00730	gene			
+PHDCEHKO_00731	CDS	hemC	2.5.1.61	Porphobilinogen deaminase
+PHDCEHKO_00731	gene	hemC		
+PHDCEHKO_00732	CDS	proS	6.1.1.15	Proline--tRNA ligase
+PHDCEHKO_00732	gene	proS		
+PHDCEHKO_00733	CDS	hemA	1.2.1.70	Glutamyl-tRNA reductase
+PHDCEHKO_00733	gene	hemA		
+PHDCEHKO_00734	CDS	ispB	2.5.1.90	Octaprenyl diphosphate synthase
+PHDCEHKO_00734	gene	ispB		
+PHDCEHKO_00735	CDS			hypothetical protein
+PHDCEHKO_00735	gene			
+PHDCEHKO_00736	CDS			hypothetical protein
+PHDCEHKO_00736	gene			
+PHDCEHKO_00737	CDS	dps	1.16.-.-	DNA protection during starvation protein
+PHDCEHKO_00737	gene	dps		
+PHDCEHKO_00738	CDS	zraS	2.7.13.3	Sensor protein ZraS
+PHDCEHKO_00738	gene	zraS		
+PHDCEHKO_00739	CDS			hypothetical protein
+PHDCEHKO_00739	gene			
+PHDCEHKO_00740	CDS	flgI		Flagellar P-ring protein
+PHDCEHKO_00740	gene	flgI		
+PHDCEHKO_00741	CDS	rhpA	3.6.4.13	DEAD-box ATP-dependent RNA helicase RhpA
+PHDCEHKO_00741	gene	rhpA		
+PHDCEHKO_00742	CDS	hflC		Modulator of FtsH protease HflC
+PHDCEHKO_00742	gene	hflC		
+PHDCEHKO_00743	CDS			hypothetical protein
+PHDCEHKO_00743	gene			
+PHDCEHKO_00744	CDS	gsiA	3.6.3.-	Glutathione import ATP-binding protein GsiA
+PHDCEHKO_00744	gene	gsiA		
+PHDCEHKO_00745	CDS	yejE		Inner membrane ABC transporter permease protein YejE
+PHDCEHKO_00745	gene	yejE		
+PHDCEHKO_00746	tRNA			tRNA-Ala(ggc)
+PHDCEHKO_00746	gene			
+PHDCEHKO_00747	CDS			hypothetical protein
+PHDCEHKO_00747	gene			
+PHDCEHKO_00748	CDS			hypothetical protein
+PHDCEHKO_00748	gene			
+PHDCEHKO_00749	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+PHDCEHKO_00749	gene	purA		
+PHDCEHKO_00750	CDS			hypothetical protein
+PHDCEHKO_00750	gene			
+PHDCEHKO_00751	CDS			hypothetical protein
+PHDCEHKO_00751	gene			
+PHDCEHKO_00752	CDS	mmpA	3.4.24.-	Metalloprotease MmpA
+PHDCEHKO_00752	gene	mmpA		
+PHDCEHKO_00753	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+PHDCEHKO_00753	gene	xseA		
+PHDCEHKO_00754	CDS			hypothetical protein
+PHDCEHKO_00754	gene			
+PHDCEHKO_00755	CDS			hypothetical protein
+PHDCEHKO_00755	gene			
+PHDCEHKO_00756	CDS			hypothetical protein
+PHDCEHKO_00756	gene			
+PHDCEHKO_00757	CDS	dpnA_2	2.1.1.72	Modification methylase DpnIIB
+PHDCEHKO_00757	gene	dpnA_2		
+PHDCEHKO_00758	CDS	clpB		Chaperone protein ClpB
+PHDCEHKO_00758	gene	clpB		
+PHDCEHKO_00759	CDS	dsbD	1.8.1.8	Thiol:disulfide interchange protein DsbD
+PHDCEHKO_00759	gene	dsbD		
+PHDCEHKO_00760	CDS	pyrC_2	3.5.2.3	Dihydroorotase
+PHDCEHKO_00760	gene	pyrC_2		
+PHDCEHKO_00761	CDS		3.5.4.4	Adenosine deaminase
+PHDCEHKO_00761	gene			
+PHDCEHKO_00762	CDS			hypothetical protein
+PHDCEHKO_00762	gene			
+PHDCEHKO_00763	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+PHDCEHKO_00763	gene	miaB		
+PHDCEHKO_00764	CDS			hypothetical protein
+PHDCEHKO_00764	gene			
+PHDCEHKO_00765	CDS			hypothetical protein
+PHDCEHKO_00765	gene			
+PHDCEHKO_00766	CDS			hypothetical protein
+PHDCEHKO_00766	gene			
+PHDCEHKO_00767	CDS			hypothetical protein
+PHDCEHKO_00767	gene			
+PHDCEHKO_00768	CDS			hypothetical protein
+PHDCEHKO_00768	gene			
+PHDCEHKO_00769	CDS			hypothetical protein
+PHDCEHKO_00769	gene			
+PHDCEHKO_00770	CDS			hypothetical protein
+PHDCEHKO_00770	gene			
+PHDCEHKO_00771	CDS	fdx		Ferredoxin
+PHDCEHKO_00771	gene	fdx		
+PHDCEHKO_00772	CDS	gppA	3.6.1.40	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+PHDCEHKO_00772	gene	gppA		
+PHDCEHKO_00773	CDS	rfaC	2.-.-.-	Lipopolysaccharide heptosyltransferase 1
+PHDCEHKO_00773	gene	rfaC		
+PHDCEHKO_00774	CDS	lpxP	2.3.1.242	Lipid A biosynthesis palmitoleoyltransferase
+PHDCEHKO_00774	gene	lpxP		
+PHDCEHKO_00775	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+PHDCEHKO_00775	gene	tgt		
+PHDCEHKO_00776	CDS			hypothetical protein
+PHDCEHKO_00776	gene			
+PHDCEHKO_00777	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+PHDCEHKO_00777	gene	aroB		
+PHDCEHKO_00778	CDS			hypothetical protein
+PHDCEHKO_00778	gene			
+PHDCEHKO_00779	CDS	mtaB	2.8.4.5	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+PHDCEHKO_00779	gene	mtaB		
+PHDCEHKO_00780	CDS	ftsH_2	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+PHDCEHKO_00780	gene	ftsH_2		
+PHDCEHKO_00781	CDS			hypothetical protein
+PHDCEHKO_00781	gene			
+PHDCEHKO_00782	CDS			hypothetical protein
+PHDCEHKO_00782	gene			
+PHDCEHKO_00783	CDS	vacA_3		Vacuolating cytotoxin autotransporter
+PHDCEHKO_00783	gene	vacA_3		
+PHDCEHKO_00784	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+PHDCEHKO_00784	gene	lysA		
+PHDCEHKO_00785	CDS	tyrA_1		T-protein
+PHDCEHKO_00785	gene	tyrA_1		
+PHDCEHKO_00786	CDS			hypothetical protein
+PHDCEHKO_00786	gene			
+PHDCEHKO_00787	CDS	pabB	2.6.1.85	Aminodeoxychorismate synthase component 1
+PHDCEHKO_00787	gene	pabB		
+PHDCEHKO_00788	CDS	amiE	3.5.1.4	Aliphatic amidase
+PHDCEHKO_00788	gene	amiE		
+PHDCEHKO_00789	CDS	flgL		Flagellar hook-associated protein 3
+PHDCEHKO_00789	gene	flgL		
+PHDCEHKO_00790	CDS	rplU		50S ribosomal protein L21
+PHDCEHKO_00790	gene	rplU		
+PHDCEHKO_00791	CDS	rpmA		50S ribosomal protein L27
+PHDCEHKO_00791	gene	rpmA		
+PHDCEHKO_00792	CDS	hbpA		Heme-binding protein A
+PHDCEHKO_00792	gene	hbpA		
+PHDCEHKO_00793	CDS	dppB		Dipeptide transport system permease protein DppB
+PHDCEHKO_00793	gene	dppB		
+PHDCEHKO_00794	CDS	dppC		Dipeptide transport system permease protein DppC
+PHDCEHKO_00794	gene	dppC		
+PHDCEHKO_00795	CDS	oppD		Oligopeptide transport ATP-binding protein OppD
+PHDCEHKO_00795	gene	oppD		
+PHDCEHKO_00796	CDS	oppF		Oligopeptide transport ATP-binding protein OppF
+PHDCEHKO_00796	gene	oppF		
+PHDCEHKO_00797	CDS	obg	3.6.5.-	GTPase Obg
+PHDCEHKO_00797	gene	obg		
+PHDCEHKO_00798	CDS			hypothetical protein
+PHDCEHKO_00798	gene			
+PHDCEHKO_00799	CDS			hypothetical protein
+PHDCEHKO_00799	gene			
+PHDCEHKO_00800	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+PHDCEHKO_00800	gene	hemL		
+PHDCEHKO_00801	CDS			hypothetical protein
+PHDCEHKO_00801	gene			
+PHDCEHKO_00802	CDS			hypothetical protein
+PHDCEHKO_00802	gene			
+PHDCEHKO_00803	CDS		3.5.1.111	2-oxoglutaramate amidase
+PHDCEHKO_00803	gene			
+PHDCEHKO_00804	CDS	pgdA	3.5.1.-	Peptidoglycan deacetylase
+PHDCEHKO_00804	gene	pgdA		
+PHDCEHKO_00805	CDS			hypothetical protein
+PHDCEHKO_00805	gene			
+PHDCEHKO_00806	CDS	yjiA		putative GTP-binding protein YjiA
+PHDCEHKO_00806	gene	yjiA		
+PHDCEHKO_00807	CDS			hypothetical protein
+PHDCEHKO_00807	gene			
+PHDCEHKO_00808	CDS	vapD_2	3.1.-.-	Endoribonuclease VapD
+PHDCEHKO_00808	gene	vapD_2		
+PHDCEHKO_00809	CDS			hypothetical protein
+PHDCEHKO_00809	gene			
+PHDCEHKO_00810	CDS	kch		Voltage-gated potassium channel Kch
+PHDCEHKO_00810	gene	kch		
+PHDCEHKO_00811	CDS	rpmB		50S ribosomal protein L28
+PHDCEHKO_00811	gene	rpmB		
+PHDCEHKO_00812	CDS			hypothetical protein
+PHDCEHKO_00812	gene			
+PHDCEHKO_00813	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+PHDCEHKO_00813	gene	mraY		
+PHDCEHKO_00814	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+PHDCEHKO_00814	gene	murD		
+PHDCEHKO_00815	CDS			hypothetical protein
+PHDCEHKO_00815	gene			
+PHDCEHKO_00816	CDS	ybgC	3.1.2.-	Acyl-CoA thioesterase YbgC
+PHDCEHKO_00816	gene	ybgC		
+PHDCEHKO_00817	CDS			hypothetical protein
+PHDCEHKO_00817	gene			
+PHDCEHKO_00818	CDS			hypothetical protein
+PHDCEHKO_00818	gene			
+PHDCEHKO_00819	CDS	pldA	3.1.1.32	Phospholipase A1
+PHDCEHKO_00819	gene	pldA		
+PHDCEHKO_00820	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+PHDCEHKO_00820	gene	dnaN		
+PHDCEHKO_00821	CDS	gyrB	5.99.1.3	Type 2 topoisomerase subunit B
+PHDCEHKO_00821	gene	gyrB		
+PHDCEHKO_00822	CDS			hypothetical protein
+PHDCEHKO_00822	gene			
+PHDCEHKO_00823	CDS			hypothetical protein
+PHDCEHKO_00823	gene			
+PHDCEHKO_00824	CDS			hypothetical protein
+PHDCEHKO_00824	gene			
+PHDCEHKO_00825	CDS			hypothetical protein
+PHDCEHKO_00825	gene			
+PHDCEHKO_00826	CDS	mepM_1	3.4.24.-	Murein DD-endopeptidase MepM
+PHDCEHKO_00826	gene	mepM_1		
+PHDCEHKO_00827	CDS	nudK	3.6.1.-	GDP-mannose pyrophosphatase NudK
+PHDCEHKO_00827	gene	nudK		
+PHDCEHKO_00828	CDS	pgbA		Plasminogen-binding protein PgbA
+PHDCEHKO_00828	gene	pgbA		
+PHDCEHKO_00829	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+PHDCEHKO_00829	gene			
+PHDCEHKO_00830	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+PHDCEHKO_00830	gene	dapB		
+PHDCEHKO_00831	CDS			hypothetical protein
+PHDCEHKO_00831	gene			
+PHDCEHKO_00832	CDS		5.4.4.3	3-hydroxylaminophenol mutase
+PHDCEHKO_00832	gene			
+PHDCEHKO_00833	CDS			hypothetical protein
+PHDCEHKO_00833	gene			
+PHDCEHKO_00834	CDS			hypothetical protein
+PHDCEHKO_00834	gene			
+PHDCEHKO_00835	CDS	rplI		50S ribosomal protein L9
+PHDCEHKO_00835	gene	rplI		
+PHDCEHKO_00836	CDS	hslV	3.4.25.2	ATP-dependent protease subunit HslV
+PHDCEHKO_00836	gene	hslV		
+PHDCEHKO_00837	CDS	clpY		ATP-dependent protease ATPase subunit ClpY
+PHDCEHKO_00837	gene	clpY		
+PHDCEHKO_00838	CDS	era_2		GTPase Era
+PHDCEHKO_00838	gene	era_2		
+PHDCEHKO_00839	CDS			hypothetical protein
+PHDCEHKO_00839	gene			
+PHDCEHKO_00840	CDS	hcpB_2	3.5.2.6	Beta-lactamase HcpB
+PHDCEHKO_00840	gene	hcpB_2		
+PHDCEHKO_00841	CDS			hypothetical protein
+PHDCEHKO_00841	gene			
+PHDCEHKO_00842	CDS			hypothetical protein
+PHDCEHKO_00842	gene			
+PHDCEHKO_00843	CDS			hypothetical protein
+PHDCEHKO_00843	gene			
+PHDCEHKO_00844	CDS	traG		Conjugal transfer protein TraG
+PHDCEHKO_00844	gene	traG		
+PHDCEHKO_00845	CDS			Type IV secretion system protein VirB11
+PHDCEHKO_00845	gene			
+PHDCEHKO_00846	CDS			hypothetical protein
+PHDCEHKO_00846	gene			
+PHDCEHKO_00847	CDS			Type IV secretion system protein virB10
+PHDCEHKO_00847	gene			
+PHDCEHKO_00848	CDS			hypothetical protein
+PHDCEHKO_00848	gene			
+PHDCEHKO_00849	CDS	rnhB	3.1.26.4	Ribonuclease HII
+PHDCEHKO_00849	gene	rnhB		
+PHDCEHKO_00850	CDS			hypothetical protein
+PHDCEHKO_00850	gene			
+PHDCEHKO_00851	CDS	fumC	4.2.1.2	Fumarate hydratase class II
+PHDCEHKO_00851	gene	fumC		
+PHDCEHKO_00852	CDS			hypothetical protein
+PHDCEHKO_00852	gene			
+PHDCEHKO_00853	CDS			hypothetical protein
+PHDCEHKO_00853	gene			
+PHDCEHKO_00854	CDS	cusB		Cation efflux system protein CusB
+PHDCEHKO_00854	gene	cusB		
+PHDCEHKO_00855	CDS	cusA		Cation efflux system protein CusA
+PHDCEHKO_00855	gene	cusA		
+PHDCEHKO_00856	CDS			hypothetical protein
+PHDCEHKO_00856	gene			
+PHDCEHKO_00857	CDS	ygaZ		Inner membrane protein YgaZ
+PHDCEHKO_00857	gene	ygaZ		
+PHDCEHKO_00858	CDS	dnaJ		Chaperone protein DnaJ
+PHDCEHKO_00858	gene	dnaJ		
+PHDCEHKO_00859	CDS			hypothetical protein
+PHDCEHKO_00859	gene			
+PHDCEHKO_00860	CDS			hypothetical protein
+PHDCEHKO_00860	gene			
+PHDCEHKO_00861	CDS	mnmA_1	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+PHDCEHKO_00861	gene	mnmA_1		
+PHDCEHKO_00862	CDS			hypothetical protein
+PHDCEHKO_00862	gene			
+PHDCEHKO_00863	CDS	nadD	2.7.7.18	putative nicotinate-nucleotide adenylyltransferase
+PHDCEHKO_00863	gene	nadD		
+PHDCEHKO_00864	CDS			Putative nickel-responsive regulator
+PHDCEHKO_00864	gene			
+PHDCEHKO_00865	CDS	exbB_2		Biopolymer transport protein ExbB
+PHDCEHKO_00865	gene	exbB_2		
+PHDCEHKO_00866	CDS	exbD_2		Biopolymer transport protein ExbD
+PHDCEHKO_00866	gene	exbD_2		
+PHDCEHKO_00867	CDS			hypothetical protein
+PHDCEHKO_00867	gene			
+PHDCEHKO_00868	CDS			hypothetical protein
+PHDCEHKO_00868	gene			
+PHDCEHKO_00869	CDS			hypothetical protein
+PHDCEHKO_00869	gene			
+PHDCEHKO_00870	CDS	corA		Magnesium transport protein CorA
+PHDCEHKO_00870	gene	corA		
+PHDCEHKO_00871	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+PHDCEHKO_00871	gene	pgk		
+PHDCEHKO_00872	CDS	gapB	1.2.1.59	Glyceraldehyde-3-phosphate dehydrogenase 2
+PHDCEHKO_00872	gene	gapB		
+PHDCEHKO_00873	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+PHDCEHKO_00873	gene	ung		
+PHDCEHKO_00874	CDS			hypothetical protein
+PHDCEHKO_00874	gene			
+PHDCEHKO_00875	CDS			hypothetical protein
+PHDCEHKO_00875	gene			
+PHDCEHKO_00876	CDS	ctpB	3.4.21.102	Carboxy-terminal processing protease CtpB
+PHDCEHKO_00876	gene	ctpB		
+PHDCEHKO_00877	CDS			hypothetical protein
+PHDCEHKO_00877	gene			
+PHDCEHKO_00878	CDS	dpnA_3	2.1.1.72	Modification methylase DpnIIB
+PHDCEHKO_00878	gene	dpnA_3		
+PHDCEHKO_00879	CDS			hypothetical protein
+PHDCEHKO_00879	gene			
+PHDCEHKO_00880	CDS			hypothetical protein
+PHDCEHKO_00880	gene			
+PHDCEHKO_00881	CDS	nadC	2.4.2.19	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+PHDCEHKO_00881	gene	nadC		
+PHDCEHKO_00882	CDS	nadA	2.5.1.72	Quinolinate synthase A
+PHDCEHKO_00882	gene	nadA		
+PHDCEHKO_00883	CDS	psd	4.1.1.65	Phosphatidylserine decarboxylase proenzyme
+PHDCEHKO_00883	gene	psd		
+PHDCEHKO_00884	CDS			hypothetical protein
+PHDCEHKO_00884	gene			
+PHDCEHKO_00885	CDS			hypothetical protein
+PHDCEHKO_00885	gene			
+PHDCEHKO_00886	CDS	plqA	2.5.1.-	4-hydroxybenzoate solanesyltransferase
+PHDCEHKO_00886	gene	plqA		
+PHDCEHKO_00887	CDS			hypothetical protein
+PHDCEHKO_00887	gene			
+PHDCEHKO_00888	CDS	dnaB	3.6.4.12	Replicative DNA helicase
+PHDCEHKO_00888	gene	dnaB		
+PHDCEHKO_00889	CDS	nnr		Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+PHDCEHKO_00889	gene	nnr		
+PHDCEHKO_00890	CDS	senX3	2.7.13.3	Signal-transduction histidine kinase senX3
+PHDCEHKO_00890	gene	senX3		
+PHDCEHKO_00891	CDS	qseB		Transcriptional regulatory protein QseB
+PHDCEHKO_00891	gene	qseB		
+PHDCEHKO_00892	CDS	mboIIR	3.1.21.4	Type-2 restriction enzyme MboII
+PHDCEHKO_00892	gene	mboIIR		
+PHDCEHKO_00893	CDS	mboIIM	2.1.1.72	Modification methylase MboII
+PHDCEHKO_00893	gene	mboIIM		
+PHDCEHKO_00894	CDS	rsrIM	2.1.1.72	Modification methylase RsrI
+PHDCEHKO_00894	gene	rsrIM		
+PHDCEHKO_00895	CDS			hypothetical protein
+PHDCEHKO_00895	gene			
+PHDCEHKO_00896	CDS	dpnA_4	2.1.1.72	Modification methylase DpnIIB
+PHDCEHKO_00896	gene	dpnA_4		
+PHDCEHKO_00897	CDS			hypothetical protein
+PHDCEHKO_00897	gene			
+PHDCEHKO_00898	CDS			hypothetical protein
+PHDCEHKO_00898	gene			
+PHDCEHKO_00899	CDS	mreB		Rod shape-determining protein MreB
+PHDCEHKO_00899	gene	mreB		
+PHDCEHKO_00900	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+PHDCEHKO_00900	gene	clpX		
+PHDCEHKO_00901	CDS	lpxA	2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+PHDCEHKO_00901	gene	lpxA		
+PHDCEHKO_00902	CDS	fabZ	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+PHDCEHKO_00902	gene	fabZ		
+PHDCEHKO_00903	CDS	fliW2		Flagellar assembly factor FliW 2
+PHDCEHKO_00903	gene	fliW2		
+PHDCEHKO_00904	CDS	bamD		Outer membrane protein assembly factor BamD
+PHDCEHKO_00904	gene	bamD		
+PHDCEHKO_00905	CDS	lon	3.4.21.53	Lon protease
+PHDCEHKO_00905	gene	lon		
+PHDCEHKO_00906	CDS	tyrA_2	1.3.1.12	Prephenate dehydrogenase
+PHDCEHKO_00906	gene	tyrA_2		
+PHDCEHKO_00907	CDS			hypothetical protein
+PHDCEHKO_00907	gene			
+PHDCEHKO_00908	CDS			hypothetical protein
+PHDCEHKO_00908	gene			
+PHDCEHKO_00909	CDS			hypothetical protein
+PHDCEHKO_00909	gene			
+PHDCEHKO_00910	CDS	fbp	3.1.3.11	Fructose-1,6-bisphosphatase class 1
+PHDCEHKO_00910	gene	fbp		
+PHDCEHKO_00911	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+PHDCEHKO_00911	gene	rpe		
+PHDCEHKO_00912	CDS	polC	2.7.7.7	DNA polymerase III PolC-type
+PHDCEHKO_00912	gene	polC		
+PHDCEHKO_00913	CDS			hypothetical protein
+PHDCEHKO_00913	gene			
+PHDCEHKO_00914	CDS			hypothetical protein
+PHDCEHKO_00914	gene			
+PHDCEHKO_00915	CDS			hypothetical protein
+PHDCEHKO_00915	gene			
+PHDCEHKO_00916	CDS			hypothetical protein
+PHDCEHKO_00916	gene			
+PHDCEHKO_00917	CDS			hypothetical protein
+PHDCEHKO_00917	gene			
+PHDCEHKO_00918	CDS			hypothetical protein
+PHDCEHKO_00918	gene			
+PHDCEHKO_00919	CDS	recN		DNA repair protein RecN
+PHDCEHKO_00919	gene	recN		
+PHDCEHKO_00920	CDS	nadK	2.7.1.23	NAD kinase
+PHDCEHKO_00920	gene	nadK		
+PHDCEHKO_00921	CDS			hypothetical protein
+PHDCEHKO_00921	gene			
+PHDCEHKO_00922	CDS			hypothetical protein
+PHDCEHKO_00922	gene			
+PHDCEHKO_00923	CDS			hypothetical protein
+PHDCEHKO_00923	gene			
+PHDCEHKO_00924	CDS	ald	1.4.1.1	Alanine dehydrogenase
+PHDCEHKO_00924	gene	ald		
+PHDCEHKO_00925	CDS	rocF	3.5.3.1	Arginase
+PHDCEHKO_00925	gene	rocF		
+PHDCEHKO_00926	CDS	fecA_2		Fe(3+) dicitrate transport protein FecA
+PHDCEHKO_00926	gene	fecA_2		
+PHDCEHKO_00927	CDS			hypothetical protein
+PHDCEHKO_00927	gene			
+PHDCEHKO_00928	CDS	hsdR_1	3.1.21.3	Type-1 restriction enzyme R protein
+PHDCEHKO_00928	gene	hsdR_1		
+PHDCEHKO_00929	CDS	hsdM	2.1.1.72	Type I restriction enzyme EcoKI M protein
+PHDCEHKO_00929	gene	hsdM		
+PHDCEHKO_00930	CDS			hypothetical protein
+PHDCEHKO_00930	gene			
+PHDCEHKO_00931	CDS	bioB	2.8.1.6	Biotin synthase
+PHDCEHKO_00931	gene	bioB		
+PHDCEHKO_00932	CDS			hypothetical protein
+PHDCEHKO_00932	gene			
+PHDCEHKO_00933	CDS	vacA_4		Vacuolating cytotoxin autotransporter
+PHDCEHKO_00933	gene	vacA_4		
+PHDCEHKO_00934	CDS	gap1	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase 1
+PHDCEHKO_00934	gene	gap1		
+PHDCEHKO_00935	CDS	yccA		Modulator of FtsH protease YccA
+PHDCEHKO_00935	gene	yccA		
+PHDCEHKO_00936	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+PHDCEHKO_00936	gene	carB		
+PHDCEHKO_00937	CDS			hypothetical protein
+PHDCEHKO_00937	gene			
+PHDCEHKO_00938	CDS	bhuA_2		Heme transporter BhuA
+PHDCEHKO_00938	gene	bhuA_2		
+PHDCEHKO_00939	CDS	hemR		Hemin receptor
+PHDCEHKO_00939	gene	hemR		
+PHDCEHKO_00940	CDS			hypothetical protein
+PHDCEHKO_00940	gene			
+PHDCEHKO_00941	CDS			hypothetical protein
+PHDCEHKO_00941	gene			
+PHDCEHKO_00942	CDS			hypothetical protein
+PHDCEHKO_00942	gene			
+PHDCEHKO_00943	CDS	uvrD	3.6.4.12	DNA helicase II
+PHDCEHKO_00943	gene	uvrD		
+PHDCEHKO_00944	CDS	taqIM	2.1.1.72	Modification methylase TaqI
+PHDCEHKO_00944	gene	taqIM		
+PHDCEHKO_00945	CDS			hypothetical protein
+PHDCEHKO_00945	gene			
+PHDCEHKO_00946	CDS	flgE_2		Flagellar hook protein FlgE
+PHDCEHKO_00946	gene	flgE_2		
+PHDCEHKO_00947	CDS	flgD		Basal-body rod modification protein FlgD
+PHDCEHKO_00947	gene	flgD		
+PHDCEHKO_00948	CDS			hypothetical protein
+PHDCEHKO_00948	gene			
+PHDCEHKO_00949	CDS			hypothetical protein
+PHDCEHKO_00949	gene			
+PHDCEHKO_00950	CDS	pta_1	2.3.1.8	Phosphate acetyltransferase
+PHDCEHKO_00950	gene	pta_1		
+PHDCEHKO_00951	CDS	pta_2	2.3.1.8	Phosphate acetyltransferase
+PHDCEHKO_00951	gene	pta_2		
+PHDCEHKO_00952	CDS	pta_3	2.3.1.8	Phosphate acetyltransferase
+PHDCEHKO_00952	gene	pta_3		
+PHDCEHKO_00953	CDS	ackA_1	2.7.2.1	Acetate kinase
+PHDCEHKO_00953	gene	ackA_1		
+PHDCEHKO_00954	CDS	ackA_2	2.7.2.1	Acetate kinase
+PHDCEHKO_00954	gene	ackA_2		
+PHDCEHKO_00955	CDS			hypothetical protein
+PHDCEHKO_00955	gene			
+PHDCEHKO_00956	CDS			hypothetical protein
+PHDCEHKO_00956	gene			
+PHDCEHKO_00957	CDS	hypB		Hydrogenase/urease nickel incorporation protein HypB
+PHDCEHKO_00957	gene	hypB		
+PHDCEHKO_00958	CDS	hypC		Hydrogenase isoenzymes formation protein HypC
+PHDCEHKO_00958	gene	hypC		
+PHDCEHKO_00959	CDS	hypD		Hydrogenase isoenzymes formation protein HypD
+PHDCEHKO_00959	gene	hypD		
+PHDCEHKO_00960	tRNA			tRNA-Gln(ttg)
+PHDCEHKO_00960	gene			
+PHDCEHKO_00961	tRNA			tRNA-Met(cat)
+PHDCEHKO_00961	gene			
+PHDCEHKO_00962	CDS	ppsA	2.7.9.2	Phosphoenolpyruvate synthase
+PHDCEHKO_00962	gene	ppsA		
+PHDCEHKO_00963	CDS	thrZ	6.1.1.3	Threonine--tRNA ligase 2
+PHDCEHKO_00963	gene	thrZ		
+PHDCEHKO_00964	CDS	infC		Translation initiation factor IF-3
+PHDCEHKO_00964	gene	infC		
+PHDCEHKO_00965	CDS	rpmI		50S ribosomal protein L35
+PHDCEHKO_00965	gene	rpmI		
+PHDCEHKO_00966	CDS	rplT		50S ribosomal protein L20
+PHDCEHKO_00966	gene	rplT		
+PHDCEHKO_00967	CDS			hypothetical protein
+PHDCEHKO_00967	gene			
+PHDCEHKO_00968	CDS			hypothetical protein
+PHDCEHKO_00968	gene			
+PHDCEHKO_00969	CDS			hypothetical protein
+PHDCEHKO_00969	gene			
+PHDCEHKO_00970	CDS	sdaA	4.3.1.17	L-serine dehydratase 1
+PHDCEHKO_00970	gene	sdaA		
+PHDCEHKO_00971	CDS	sdaC		Serine transporter
+PHDCEHKO_00971	gene	sdaC		
+PHDCEHKO_00972	CDS	aroH	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+PHDCEHKO_00972	gene	aroH		
+PHDCEHKO_00973	CDS			hypothetical protein
+PHDCEHKO_00973	gene			
+PHDCEHKO_00974	CDS	bcp	1.11.1.15	Putative peroxiredoxin bcp
+PHDCEHKO_00974	gene	bcp		
+PHDCEHKO_00975	CDS	lutC		Lactate utilization protein C
+PHDCEHKO_00975	gene	lutC		
+PHDCEHKO_00976	CDS	lutB		Lactate utilization protein B
+PHDCEHKO_00976	gene	lutB		
+PHDCEHKO_00977	CDS	lutA		Lactate utilization protein A
+PHDCEHKO_00977	gene	lutA		
+PHDCEHKO_00978	CDS	lldP_1		L-lactate permease
+PHDCEHKO_00978	gene	lldP_1		
+PHDCEHKO_00979	CDS	lldP_2		L-lactate permease
+PHDCEHKO_00979	gene	lldP_2		
+PHDCEHKO_00980	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+PHDCEHKO_00980	gene	mutY		
+PHDCEHKO_00981	CDS	citT_1		Citrate carrier
+PHDCEHKO_00981	gene	citT_1		
+PHDCEHKO_00982	CDS	citT_2		Citrate carrier
+PHDCEHKO_00982	gene	citT_2		
+PHDCEHKO_00983	CDS	ccoN1	1.9.3.1	Cbb3-type cytochrome c oxidase subunit CcoN1
+PHDCEHKO_00983	gene	ccoN1		
+PHDCEHKO_00984	CDS			hypothetical protein
+PHDCEHKO_00984	gene			
+PHDCEHKO_00985	CDS			hypothetical protein
+PHDCEHKO_00985	gene			
+PHDCEHKO_00986	CDS	ccoP		Cbb3-type cytochrome c oxidase subunit CcoP
+PHDCEHKO_00986	gene	ccoP		
+PHDCEHKO_00987	CDS			hypothetical protein
+PHDCEHKO_00987	gene			
+PHDCEHKO_00988	CDS			hypothetical protein
+PHDCEHKO_00988	gene			
+PHDCEHKO_00989	CDS			hypothetical protein
+PHDCEHKO_00989	gene			
+PHDCEHKO_00990	CDS			hypothetical protein
+PHDCEHKO_00990	gene			
+PHDCEHKO_00991	CDS			hypothetical protein
+PHDCEHKO_00991	gene			
+PHDCEHKO_00992	CDS	mqnD	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+PHDCEHKO_00992	gene	mqnD		
+PHDCEHKO_00993	CDS	recA		Protein RecA
+PHDCEHKO_00993	gene	recA		
+PHDCEHKO_00994	CDS	eno	4.2.1.11	Enolase
+PHDCEHKO_00994	gene	eno		
+PHDCEHKO_00995	CDS			hypothetical protein
+PHDCEHKO_00995	gene			
+PHDCEHKO_00996	CDS			hypothetical protein
+PHDCEHKO_00996	gene			
+PHDCEHKO_00997	CDS	aroK	2.7.1.71	Shikimate kinase
+PHDCEHKO_00997	gene	aroK		
+PHDCEHKO_00998	CDS			hypothetical protein
+PHDCEHKO_00998	gene			
+PHDCEHKO_00999	CDS			hypothetical protein
+PHDCEHKO_00999	gene			
+PHDCEHKO_01000	CDS	hcpD_2	3.5.2.6	Putative beta-lactamase HcpD
+PHDCEHKO_01000	gene	hcpD_2		
+PHDCEHKO_01001	CDS			putative transcriptional regulatory protein
+PHDCEHKO_01001	gene			
+PHDCEHKO_01002	CDS	hemB	4.2.1.24	Delta-aminolevulinic acid dehydratase
+PHDCEHKO_01002	gene	hemB		
+PHDCEHKO_01003	CDS	hssS	2.7.13.3	Heme sensor protein HssS
+PHDCEHKO_01003	gene	hssS		
+PHDCEHKO_01004	CDS	arlR		Response regulator ArlR
+PHDCEHKO_01004	gene	arlR		
+PHDCEHKO_01005	CDS			hypothetical protein
+PHDCEHKO_01005	gene			
+PHDCEHKO_01006	CDS			hypothetical protein
+PHDCEHKO_01006	gene			
+PHDCEHKO_01007	CDS	ydcP	3.4.-.-	putative protease YdcP
+PHDCEHKO_01007	gene	ydcP		
+PHDCEHKO_01008	CDS			hypothetical protein
+PHDCEHKO_01008	gene			
+PHDCEHKO_01009	CDS	prfB		Peptide chain release factor RF2
+PHDCEHKO_01009	gene	prfB		
+PHDCEHKO_01010	CDS	moeA	2.10.1.1	Molybdopterin molybdenumtransferase
+PHDCEHKO_01010	gene	moeA		
+PHDCEHKO_01011	CDS			hypothetical protein
+PHDCEHKO_01011	gene			
+PHDCEHKO_01012	CDS			hypothetical protein
+PHDCEHKO_01012	gene			
+PHDCEHKO_01013	CDS		5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+PHDCEHKO_01013	gene			
+PHDCEHKO_01014	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+PHDCEHKO_01014	gene	fba		
+PHDCEHKO_01015	CDS	efp		Elongation factor P
+PHDCEHKO_01015	gene	efp		
+PHDCEHKO_01016	CDS	pseI	2.5.1.97	Pseudaminic acid synthase
+PHDCEHKO_01016	gene	pseI		
+PHDCEHKO_01017	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+PHDCEHKO_01017	gene	lolD		
+PHDCEHKO_01018	CDS	lnt	2.3.1.-	Apolipoprotein N-acyltransferase
+PHDCEHKO_01018	gene	lnt		
+PHDCEHKO_01019	CDS			hypothetical protein
+PHDCEHKO_01019	gene			
+PHDCEHKO_01020	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+PHDCEHKO_01020	gene	lysS		
+PHDCEHKO_01021	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+PHDCEHKO_01021	gene	glyA		
+PHDCEHKO_01022	CDS			hypothetical protein
+PHDCEHKO_01022	gene			
+PHDCEHKO_01023	CDS	zipA		Cell division protein ZipA
+PHDCEHKO_01023	gene	zipA		
+PHDCEHKO_01024	CDS			hypothetical protein
+PHDCEHKO_01024	gene			
+PHDCEHKO_01025	CDS			hypothetical protein
+PHDCEHKO_01025	gene			
+PHDCEHKO_01026	CDS			hypothetical protein
+PHDCEHKO_01026	gene			
+PHDCEHKO_01027	CDS			hypothetical protein
+PHDCEHKO_01027	gene			
+PHDCEHKO_01028	CDS	clsC	2.7.8.-	Cardiolipin synthase C
+PHDCEHKO_01028	gene	clsC		
+PHDCEHKO_01029	CDS	frdB	1.3.5.1	Fumarate reductase iron-sulfur subunit
+PHDCEHKO_01029	gene	frdB		
+PHDCEHKO_01030	CDS	frdA	1.3.5.4	Fumarate reductase flavoprotein subunit
+PHDCEHKO_01030	gene	frdA		
+PHDCEHKO_01031	CDS	frdC		Fumarate reductase cytochrome b subunit
+PHDCEHKO_01031	gene	frdC		
+PHDCEHKO_01032	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+PHDCEHKO_01032	gene	tpiA		
+PHDCEHKO_01033	CDS	fabI	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+PHDCEHKO_01033	gene	fabI		
+PHDCEHKO_01034	CDS	lpxD	2.3.1.-	UDP-3-O-acylglucosamine N-acyltransferase
+PHDCEHKO_01034	gene	lpxD		
+PHDCEHKO_01035	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+PHDCEHKO_01035	gene	metK		
+PHDCEHKO_01036	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+PHDCEHKO_01036	gene	ndk		
+PHDCEHKO_01037	CDS			hypothetical protein
+PHDCEHKO_01037	gene			
+PHDCEHKO_01038	CDS	rpmF		50S ribosomal protein L32
+PHDCEHKO_01038	gene	rpmF		
+PHDCEHKO_01039	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+PHDCEHKO_01039	gene	plsX		
+PHDCEHKO_01040	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+PHDCEHKO_01040	gene	fabH		
+PHDCEHKO_01041	CDS			hypothetical protein
+PHDCEHKO_01041	gene			
+PHDCEHKO_01042	CDS			hypothetical protein
+PHDCEHKO_01042	gene			
+PHDCEHKO_01043	CDS			hypothetical protein
+PHDCEHKO_01043	gene			
+PHDCEHKO_01044	CDS			hypothetical protein
+PHDCEHKO_01044	gene			
+PHDCEHKO_01045	CDS			hypothetical protein
+PHDCEHKO_01045	gene			
+PHDCEHKO_01046	CDS	apbC		Iron-sulfur cluster carrier protein
+PHDCEHKO_01046	gene	apbC		
+PHDCEHKO_01047	CDS	gspA		General stress protein A
+PHDCEHKO_01047	gene	gspA		
+PHDCEHKO_01048	CDS			hypothetical protein
+PHDCEHKO_01048	gene			
+PHDCEHKO_01049	CDS			hypothetical protein
+PHDCEHKO_01049	gene			
+PHDCEHKO_01050	CDS	htpG		Chaperone protein HtpG
+PHDCEHKO_01050	gene	htpG		
+PHDCEHKO_01051	CDS	hcpA	3.5.2.6	Beta-lactamase HcpA
+PHDCEHKO_01051	gene	hcpA		
+PHDCEHKO_01052	CDS	dapE	3.5.1.18	Succinyl-diaminopimelate desuccinylase
+PHDCEHKO_01052	gene	dapE		
+PHDCEHKO_01053	CDS	mnmG		tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+PHDCEHKO_01053	gene	mnmG		
+PHDCEHKO_01054	CDS	sdcS		Sodium-dependent dicarboxylate transporter SdcS
+PHDCEHKO_01054	gene	sdcS		
+PHDCEHKO_01055	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+PHDCEHKO_01055	gene	cdsA		
+PHDCEHKO_01056	CDS	dxr	1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+PHDCEHKO_01056	gene	dxr		
+PHDCEHKO_01057	CDS			hypothetical protein
+PHDCEHKO_01057	gene			
+PHDCEHKO_01058	CDS			hypothetical protein
+PHDCEHKO_01058	gene			
+PHDCEHKO_01059	CDS			hypothetical protein
+PHDCEHKO_01059	gene			
+PHDCEHKO_01060	CDS	iscS	2.8.1.7	Cysteine desulfurase IscS
+PHDCEHKO_01060	gene	iscS		
+PHDCEHKO_01061	CDS	iscU		Iron-sulfur cluster assembly scaffold protein IscU
+PHDCEHKO_01061	gene	iscU		
+PHDCEHKO_01062	CDS			hypothetical protein
+PHDCEHKO_01062	gene			
+PHDCEHKO_01063	CDS	radA	3.6.4.-	DNA repair protein RadA
+PHDCEHKO_01063	gene	radA		
+PHDCEHKO_01064	CDS	msrAB		Peptide methionine sulfoxide reductase msrA/msrB
+PHDCEHKO_01064	gene	msrAB		
+PHDCEHKO_01065	CDS			hypothetical protein
+PHDCEHKO_01065	gene			
+PHDCEHKO_01066	CDS	cadA	3.6.3.3	Cadmium, zinc and cobalt-transporting ATPase
+PHDCEHKO_01066	gene	cadA		
+PHDCEHKO_01067	CDS	comM		Competence protein ComM
+PHDCEHKO_01067	gene	comM		
+PHDCEHKO_01068	CDS	def	3.5.1.88	Peptide deformylase
+PHDCEHKO_01068	gene	def		
+PHDCEHKO_01069	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+PHDCEHKO_01069	gene	clpP		
+PHDCEHKO_01070	CDS	tig	5.2.1.8	Trigger factor
+PHDCEHKO_01070	gene	tig		
+PHDCEHKO_01071	CDS			hypothetical protein
+PHDCEHKO_01071	gene			
+PHDCEHKO_01072	CDS			hypothetical protein
+PHDCEHKO_01072	gene			
+PHDCEHKO_01073	CDS	moaC	4.6.1.17	Cyclic pyranopterin monophosphate synthase
+PHDCEHKO_01073	gene	moaC		
+PHDCEHKO_01074	CDS	mog	2.7.7.75	Molybdopterin adenylyltransferase
+PHDCEHKO_01074	gene	mog		
+PHDCEHKO_01075	CDS	moaE	2.8.1.12	Molybdopterin synthase catalytic subunit
+PHDCEHKO_01075	gene	moaE		
+PHDCEHKO_01076	CDS			hypothetical protein
+PHDCEHKO_01076	gene			
+PHDCEHKO_01077	CDS	ribA	3.5.4.25	GTP cyclohydrolase-2
+PHDCEHKO_01077	gene	ribA		
+PHDCEHKO_01078	CDS			hypothetical protein
+PHDCEHKO_01078	gene			
+PHDCEHKO_01079	CDS	ribBA		Riboflavin biosynthesis protein RibBA
+PHDCEHKO_01079	gene	ribBA		
+PHDCEHKO_01080	CDS			hypothetical protein
+PHDCEHKO_01080	gene			
+PHDCEHKO_01081	CDS			hypothetical protein
+PHDCEHKO_01081	gene			
+PHDCEHKO_01082	CDS	fecA_3		Fe(3+) dicitrate transport protein FecA
+PHDCEHKO_01082	gene	fecA_3		
+PHDCEHKO_01083	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+PHDCEHKO_01083	gene	acpS		
+PHDCEHKO_01084	CDS			hypothetical protein
+PHDCEHKO_01084	gene			
+PHDCEHKO_01085	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+PHDCEHKO_01085	gene	rsmD		
+PHDCEHKO_01086	CDS			hypothetical protein
+PHDCEHKO_01086	gene			
+PHDCEHKO_01087	CDS			hypothetical protein
+PHDCEHKO_01087	gene			
+PHDCEHKO_01088	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+PHDCEHKO_01088	gene	gloC		
+PHDCEHKO_01089	CDS	moeZ		putative adenylyltransferase/sulfurtransferase MoeZ
+PHDCEHKO_01089	gene	moeZ		
+PHDCEHKO_01090	CDS	pomA		Chemotaxis protein PomA
+PHDCEHKO_01090	gene	pomA		
+PHDCEHKO_01091	CDS	motB		Motility protein B
+PHDCEHKO_01091	gene	motB		
+PHDCEHKO_01092	CDS			hypothetical protein
+PHDCEHKO_01092	gene			
+PHDCEHKO_01093	CDS	opuCC		Glycine betaine/carnitine/choline-binding protein OpuCC
+PHDCEHKO_01093	gene	opuCC		
+PHDCEHKO_01094	CDS	opuBA		Choline transport ATP-binding protein OpuBA
+PHDCEHKO_01094	gene	opuBA		
+PHDCEHKO_01095	CDS			hypothetical protein
+PHDCEHKO_01095	gene			
+PHDCEHKO_01096	CDS	uvrC		UvrABC system protein C
+PHDCEHKO_01096	gene	uvrC		
+PHDCEHKO_01097	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+PHDCEHKO_01097	gene	hom		
+PHDCEHKO_01098	CDS			hypothetical protein
+PHDCEHKO_01098	gene			
+PHDCEHKO_01099	CDS	trxA_2		Thioredoxin
+PHDCEHKO_01099	gene	trxA_2		
+PHDCEHKO_01100	CDS	trxB	1.8.1.9	Thioredoxin reductase
+PHDCEHKO_01100	gene	trxB		
+PHDCEHKO_01101	CDS	lex1	2.-.-.-	Lipooligosaccharide biosynthesis protein lex-1
+PHDCEHKO_01101	gene	lex1		
+PHDCEHKO_01102	CDS			hypothetical protein
+PHDCEHKO_01102	gene			
+PHDCEHKO_01103	CDS	atpB		ATP synthase subunit a
+PHDCEHKO_01103	gene	atpB		
+PHDCEHKO_01104	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+PHDCEHKO_01104	gene	guaB		
+PHDCEHKO_01105	CDS	gatA	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+PHDCEHKO_01105	gene	gatA		
+PHDCEHKO_01106	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+PHDCEHKO_01106	gene	coaE		
+PHDCEHKO_01107	CDS	speE	2.5.1.16	Polyamine aminopropyltransferase
+PHDCEHKO_01107	gene	speE		
+PHDCEHKO_01108	CDS			hypothetical protein
+PHDCEHKO_01108	gene			
+PHDCEHKO_01109	CDS	der_2		GTPase Der
+PHDCEHKO_01109	gene	der_2		
+PHDCEHKO_01110	CDS	hup		DNA-binding protein HU
+PHDCEHKO_01110	gene	hup		
+PHDCEHKO_01111	tRNA			tRNA-Arg(cct)
+PHDCEHKO_01111	gene			
+PHDCEHKO_01112	CDS			hypothetical protein
+PHDCEHKO_01112	gene			
+PHDCEHKO_01113	CDS			hypothetical protein
+PHDCEHKO_01113	gene			
+PHDCEHKO_01114	CDS			hypothetical protein
+PHDCEHKO_01114	gene			
+PHDCEHKO_01115	CDS	pseB	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+PHDCEHKO_01115	gene	pseB		
+PHDCEHKO_01116	CDS	coaBC		Coenzyme A biosynthesis bifunctional protein CoaBC
+PHDCEHKO_01116	gene	coaBC		
+PHDCEHKO_01117	CDS			hypothetical protein
+PHDCEHKO_01117	gene			
+PHDCEHKO_01118	CDS	thiE	2.5.1.3	Thiamine-phosphate synthase
+PHDCEHKO_01118	gene	thiE		
+PHDCEHKO_01119	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+PHDCEHKO_01119	gene	thiD		
+PHDCEHKO_01120	CDS	thiM	2.7.1.50	Hydroxyethylthiazole kinase
+PHDCEHKO_01120	gene	thiM		
+PHDCEHKO_01121	CDS	hsdR_2	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+PHDCEHKO_01121	gene	hsdR_2		
+PHDCEHKO_01122	CDS			hypothetical protein
+PHDCEHKO_01122	gene			
+PHDCEHKO_01123	CDS			hypothetical protein
+PHDCEHKO_01123	gene			
+PHDCEHKO_01124	CDS			hypothetical protein
+PHDCEHKO_01124	gene			
+PHDCEHKO_01125	CDS	rpsJ		30S ribosomal protein S10
+PHDCEHKO_01125	gene	rpsJ		
+PHDCEHKO_01126	CDS	rplC		50S ribosomal protein L3
+PHDCEHKO_01126	gene	rplC		
+PHDCEHKO_01127	CDS	rplD		50S ribosomal protein L4
+PHDCEHKO_01127	gene	rplD		
+PHDCEHKO_01128	CDS	rplW		50S ribosomal protein L23
+PHDCEHKO_01128	gene	rplW		
+PHDCEHKO_01129	CDS	rplB		50S ribosomal protein L2
+PHDCEHKO_01129	gene	rplB		
+PHDCEHKO_01130	CDS	rpsS		30S ribosomal protein S19
+PHDCEHKO_01130	gene	rpsS		
+PHDCEHKO_01131	CDS	rplV		50S ribosomal protein L22
+PHDCEHKO_01131	gene	rplV		
+PHDCEHKO_01132	CDS	rpsC		30S ribosomal protein S3
+PHDCEHKO_01132	gene	rpsC		
+PHDCEHKO_01133	CDS	rplP		50S ribosomal protein L16
+PHDCEHKO_01133	gene	rplP		
+PHDCEHKO_01134	CDS	rpmC		50S ribosomal protein L29
+PHDCEHKO_01134	gene	rpmC		
+PHDCEHKO_01135	CDS	rpsQ		30S ribosomal protein S17
+PHDCEHKO_01135	gene	rpsQ		
+PHDCEHKO_01136	CDS	rplN		50S ribosomal protein L14
+PHDCEHKO_01136	gene	rplN		
+PHDCEHKO_01137	CDS	rplX		50S ribosomal protein L24
+PHDCEHKO_01137	gene	rplX		
+PHDCEHKO_01138	CDS	rplE		50S ribosomal protein L5
+PHDCEHKO_01138	gene	rplE		
+PHDCEHKO_01139	CDS	rpsH		30S ribosomal protein S8
+PHDCEHKO_01139	gene	rpsH		
+PHDCEHKO_01140	CDS	rplF		50S ribosomal protein L6
+PHDCEHKO_01140	gene	rplF		
+PHDCEHKO_01141	CDS	rplR		50S ribosomal protein L18
+PHDCEHKO_01141	gene	rplR		
+PHDCEHKO_01142	CDS	rpsE		30S ribosomal protein S5
+PHDCEHKO_01142	gene	rpsE		
+PHDCEHKO_01143	CDS	rplO		50S ribosomal protein L15
+PHDCEHKO_01143	gene	rplO		
+PHDCEHKO_01144	CDS	secY		Protein translocase subunit SecY
+PHDCEHKO_01144	gene	secY		
+PHDCEHKO_01145	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+PHDCEHKO_01145	gene	map		
+PHDCEHKO_01146	CDS	infA		Translation initiation factor IF-1
+PHDCEHKO_01146	gene	infA		
+PHDCEHKO_01147	CDS	rpmJ		50S ribosomal protein L36
+PHDCEHKO_01147	gene	rpmJ		
+PHDCEHKO_01148	CDS	rpsM		30S ribosomal protein S13
+PHDCEHKO_01148	gene	rpsM		
+PHDCEHKO_01149	CDS	rpsK		30S ribosomal protein S11
+PHDCEHKO_01149	gene	rpsK		
+PHDCEHKO_01150	CDS	rpsD		30S ribosomal protein S4
+PHDCEHKO_01150	gene	rpsD		
+PHDCEHKO_01151	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+PHDCEHKO_01151	gene	rpoA		
+PHDCEHKO_01152	CDS	rplQ		50S ribosomal protein L17
+PHDCEHKO_01152	gene	rplQ		
+PHDCEHKO_01153	CDS			hypothetical protein
+PHDCEHKO_01153	gene			
+PHDCEHKO_01154	CDS	pnuC		Nicotinamide riboside transporter PnuC
+PHDCEHKO_01154	gene	pnuC		
+PHDCEHKO_01155	CDS			hypothetical protein
+PHDCEHKO_01155	gene			
+PHDCEHKO_01156	CDS			hypothetical protein
+PHDCEHKO_01156	gene			
+PHDCEHKO_01157	CDS	tenA	3.5.99.2	Aminopyrimidine aminohydrolase
+PHDCEHKO_01157	gene	tenA		
+PHDCEHKO_01158	CDS	yceI		Protein YceI
+PHDCEHKO_01158	gene	yceI		
+PHDCEHKO_01159	CDS	hel		Lipoprotein E
+PHDCEHKO_01159	gene	hel		
+PHDCEHKO_01160	CDS			hypothetical protein
+PHDCEHKO_01160	gene			
+PHDCEHKO_01161	CDS			hypothetical protein
+PHDCEHKO_01161	gene			
+PHDCEHKO_01162	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+PHDCEHKO_01162	gene	trpE		
+PHDCEHKO_01163	CDS	trpG	4.1.3.27	Anthranilate synthase component 2
+PHDCEHKO_01163	gene	trpG		
+PHDCEHKO_01164	CDS	trpGD		Bifunctional protein TrpGD
+PHDCEHKO_01164	gene	trpGD		
+PHDCEHKO_01165	CDS	trpC		Tryptophan biosynthesis protein TrpCF
+PHDCEHKO_01165	gene	trpC		
+PHDCEHKO_01166	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+PHDCEHKO_01166	gene	trpB		
+PHDCEHKO_01167	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+PHDCEHKO_01167	gene	trpA		
+PHDCEHKO_01168	CDS			hypothetical protein
+PHDCEHKO_01168	gene			
+PHDCEHKO_01169	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+PHDCEHKO_01169	gene	algC		
+PHDCEHKO_01170	CDS			hypothetical protein
+PHDCEHKO_01170	gene			
+PHDCEHKO_01171	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+PHDCEHKO_01171	gene	nuoN		
+PHDCEHKO_01172	CDS	ndhD1	1.6.5.-	NAD(P)H-quinone oxidoreductase chain 4 1
+PHDCEHKO_01172	gene	ndhD1		
+PHDCEHKO_01173	CDS	nuoL	1.6.5.11	NADH-quinone oxidoreductase subunit L
+PHDCEHKO_01173	gene	nuoL		
+PHDCEHKO_01174	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+PHDCEHKO_01174	gene			
+PHDCEHKO_01175	CDS	nuoJ	1.6.5.11	NADH-quinone oxidoreductase subunit J
+PHDCEHKO_01175	gene	nuoJ		
+PHDCEHKO_01176	CDS	nuoI	1.6.5.11	NADH-quinone oxidoreductase subunit I
+PHDCEHKO_01176	gene	nuoI		
+PHDCEHKO_01177	CDS	nqo8	1.6.5.11	NADH-quinone oxidoreductase subunit 8
+PHDCEHKO_01177	gene	nqo8		
+PHDCEHKO_01178	CDS	sfrA	1.-.-.-	NADPH-Fe(3+) oxidoreductase subunit alpha
+PHDCEHKO_01178	gene	sfrA		
+PHDCEHKO_01179	CDS			hypothetical protein
+PHDCEHKO_01179	gene			
+PHDCEHKO_01180	CDS			hypothetical protein
+PHDCEHKO_01180	gene			
+PHDCEHKO_01181	CDS	nuoD	1.6.5.11	NADH-quinone oxidoreductase subunit D
+PHDCEHKO_01181	gene	nuoD		
+PHDCEHKO_01182	CDS	ndhJ	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit J
+PHDCEHKO_01182	gene	ndhJ		
+PHDCEHKO_01183	CDS	nqo6	1.6.5.11	NADH-quinone oxidoreductase subunit 6
+PHDCEHKO_01183	gene	nqo6		
+PHDCEHKO_01184	CDS	nuoA	1.6.5.11	NADH-quinone oxidoreductase subunit A
+PHDCEHKO_01184	gene	nuoA		
+PHDCEHKO_01185	CDS	cobB_1	3.5.1.-	NAD-dependent protein deacylase
+PHDCEHKO_01185	gene	cobB_1		
+PHDCEHKO_01186	CDS	cobB_2	3.5.1.-	NAD-dependent protein deacylase
+PHDCEHKO_01186	gene	cobB_2		
+PHDCEHKO_01187	CDS			hypothetical protein
+PHDCEHKO_01187	gene			
+PHDCEHKO_01188	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+PHDCEHKO_01188	gene	pyrE		
+PHDCEHKO_01189	CDS	frr		Ribosome-recycling factor
+PHDCEHKO_01189	gene	frr		
+PHDCEHKO_01190	CDS	secG		putative protein-export membrane protein SecG
+PHDCEHKO_01190	gene	secG		
+PHDCEHKO_01191	CDS	tam	2.1.1.144	Trans-aconitate 2-methyltransferase
+PHDCEHKO_01191	gene	tam		
+PHDCEHKO_01192	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+PHDCEHKO_01192	gene	trpS		
+PHDCEHKO_01193	CDS	dppE		Dipeptide-binding protein DppE
+PHDCEHKO_01193	gene	dppE		
+PHDCEHKO_01194	CDS	yejB		Inner membrane ABC transporter permease protein YejB
+PHDCEHKO_01194	gene	yejB		
+PHDCEHKO_01195	CDS			hypothetical protein
+PHDCEHKO_01195	gene			
+PHDCEHKO_01196	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+PHDCEHKO_01196	gene	aroE		
+PHDCEHKO_01197	CDS	rnr	3.1.13.1	Ribonuclease R
+PHDCEHKO_01197	gene	rnr		
+PHDCEHKO_01198	CDS			hypothetical protein
+PHDCEHKO_01198	gene			
+PHDCEHKO_01199	CDS	rpsF		30S ribosomal protein S6
+PHDCEHKO_01199	gene	rpsF		
+PHDCEHKO_01200	CDS	ssb		Single-stranded DNA-binding protein
+PHDCEHKO_01200	gene	ssb		
+PHDCEHKO_01201	CDS	rpsR		30S ribosomal protein S18
+PHDCEHKO_01201	gene	rpsR		
+PHDCEHKO_01202	CDS			hypothetical protein
+PHDCEHKO_01202	gene			
+PHDCEHKO_01203	CDS	esiB		Secretory immunoglobulin A-binding protein EsiB
+PHDCEHKO_01203	gene	esiB		
+PHDCEHKO_01204	CDS	ggt	2.3.2.2	Gamma-glutamyltranspeptidase
+PHDCEHKO_01204	gene	ggt		
+PHDCEHKO_01205	CDS	flgK		Flagellar hook-associated protein 1
+PHDCEHKO_01205	gene	flgK		
+PHDCEHKO_01206	CDS			hypothetical protein
+PHDCEHKO_01206	gene			
+PHDCEHKO_01207	CDS	hhaIM	2.1.1.37	Modification methylase HhaI
+PHDCEHKO_01207	gene	hhaIM		
+PHDCEHKO_01208	CDS			hypothetical protein
+PHDCEHKO_01208	gene			
+PHDCEHKO_01209	CDS			hypothetical protein
+PHDCEHKO_01209	gene			
+PHDCEHKO_01210	CDS	slyD	5.2.1.8	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+PHDCEHKO_01210	gene	slyD		
+PHDCEHKO_01211	CDS			hypothetical protein
+PHDCEHKO_01211	gene			
+PHDCEHKO_01212	CDS	pal		Outer membrane protein P6
+PHDCEHKO_01212	gene	pal		
+PHDCEHKO_01213	CDS	tolB		Protein TolB
+PHDCEHKO_01213	gene	tolB		
+PHDCEHKO_01214	CDS			hypothetical protein
+PHDCEHKO_01214	gene			
+PHDCEHKO_01215	CDS	exbD_3		Biopolymer transport protein ExbD
+PHDCEHKO_01215	gene	exbD_3		
+PHDCEHKO_01216	CDS	exbB_3		Biopolymer transport protein ExbB
+PHDCEHKO_01216	gene	exbB_3		
+PHDCEHKO_01217	CDS	atpC		ATP synthase epsilon chain
+PHDCEHKO_01217	gene	atpC		
+PHDCEHKO_01218	CDS	atpD_1	3.6.3.14	ATP synthase subunit beta
+PHDCEHKO_01218	gene	atpD_1		
+PHDCEHKO_01219	CDS	atpG		ATP synthase gamma chain
+PHDCEHKO_01219	gene	atpG		
+PHDCEHKO_01220	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+PHDCEHKO_01220	gene	atpA		
+PHDCEHKO_01221	CDS	atpD_2		ATP synthase subunit delta
+PHDCEHKO_01221	gene	atpD_2		
+PHDCEHKO_01222	CDS	atpF_1		ATP synthase subunit b
+PHDCEHKO_01222	gene	atpF_1		
+PHDCEHKO_01223	CDS	atpF_2		ATP synthase subunit b, sodium ion specific
+PHDCEHKO_01223	gene	atpF_2		
+PHDCEHKO_01224	CDS	parB		putative chromosome-partitioning protein ParB
+PHDCEHKO_01224	gene	parB		
+PHDCEHKO_01225	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+PHDCEHKO_01225	gene	soj		
+PHDCEHKO_01226	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+PHDCEHKO_01226	gene	birA		
+PHDCEHKO_01227	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+PHDCEHKO_01227	gene	fmt		
+PHDCEHKO_01228	CDS	smc_2		Chromosome partition protein Smc
+PHDCEHKO_01228	gene	smc_2		
+PHDCEHKO_01229	CDS			hypothetical protein
+PHDCEHKO_01229	gene			
+PHDCEHKO_01230	CDS			hypothetical protein
+PHDCEHKO_01230	gene			
+PHDCEHKO_01231	CDS	ansA	3.5.1.1	putative L-asparaginase
+PHDCEHKO_01231	gene	ansA		
+PHDCEHKO_01232	CDS	dcuA		Anaerobic C4-dicarboxylate transporter DcuA
+PHDCEHKO_01232	gene	dcuA		
+PHDCEHKO_01233	CDS			hypothetical protein
+PHDCEHKO_01233	gene			
+PHDCEHKO_01234	CDS			hypothetical protein
+PHDCEHKO_01234	gene			
+PHDCEHKO_01235	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+PHDCEHKO_01235	gene	alaS		
+PHDCEHKO_01236	CDS	maf		Septum formation protein Maf
+PHDCEHKO_01236	gene	maf		
+PHDCEHKO_01237	CDS	amiF	3.5.1.49	Formamidase
+PHDCEHKO_01237	gene	amiF		
+PHDCEHKO_01238	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+PHDCEHKO_01238	gene	carA		
+PHDCEHKO_01239	CDS			hypothetical protein
+PHDCEHKO_01239	gene			
+PHDCEHKO_01240	CDS			hypothetical protein
+PHDCEHKO_01240	gene			
+PHDCEHKO_01241	CDS			hypothetical protein
+PHDCEHKO_01241	gene			
+PHDCEHKO_01242	CDS			hypothetical protein
+PHDCEHKO_01242	gene			
+PHDCEHKO_01243	CDS	folP		Bifunctional dihydropteroate synthase/dihydropteroate reductase
+PHDCEHKO_01243	gene	folP		
+PHDCEHKO_01244	CDS			hypothetical protein
+PHDCEHKO_01244	gene			
+PHDCEHKO_01245	CDS			hypothetical protein
+PHDCEHKO_01245	gene			
+PHDCEHKO_01246	CDS	lysC	2.7.2.4	Aspartate kinase Ask_LysC
+PHDCEHKO_01246	gene	lysC		
+PHDCEHKO_01247	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+PHDCEHKO_01247	gene	rppH		
+PHDCEHKO_01248	CDS			Cytochrome c-553
+PHDCEHKO_01248	gene			
+PHDCEHKO_01249	CDS	hemN_2	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+PHDCEHKO_01249	gene	hemN_2		
+PHDCEHKO_01250	CDS	crcB		Putative fluoride ion transporter CrcB
+PHDCEHKO_01250	gene	crcB		
+PHDCEHKO_01251	CDS			hypothetical protein
+PHDCEHKO_01251	gene			
+PHDCEHKO_01252	CDS	glpE	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+PHDCEHKO_01252	gene	glpE		
+PHDCEHKO_01253	CDS			hypothetical protein
+PHDCEHKO_01253	gene			
+PHDCEHKO_01254	CDS	uppS	2.5.1.-	Isoprenyl transferase
+PHDCEHKO_01254	gene	uppS		
+PHDCEHKO_01255	CDS	ytrB		ABC transporter ATP-binding protein YtrB
+PHDCEHKO_01255	gene	ytrB		
+PHDCEHKO_01256	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+PHDCEHKO_01256	gene	purD		
+PHDCEHKO_01257	CDS			hypothetical protein
+PHDCEHKO_01257	gene			
+PHDCEHKO_01258	CDS	lptD		LPS-assembly protein LptD
+PHDCEHKO_01258	gene	lptD		
+PHDCEHKO_01259	CDS			hypothetical protein
+PHDCEHKO_01259	gene			
+PHDCEHKO_01260	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+PHDCEHKO_01260	gene	pnp		
+PHDCEHKO_01261	CDS	atpE		ATP synthase subunit c
+PHDCEHKO_01261	gene	atpE		
+PHDCEHKO_01262	tRNA			tRNA-Leu(gag)
+PHDCEHKO_01262	gene			
+PHDCEHKO_01263	tRNA			tRNA-Leu(caa)
+PHDCEHKO_01263	gene			
+PHDCEHKO_01264	CDS	cysE	2.3.1.30	Serine acetyltransferase
+PHDCEHKO_01264	gene	cysE		
+PHDCEHKO_01265	CDS			hypothetical protein
+PHDCEHKO_01265	gene			
+PHDCEHKO_01266	CDS	fokIM	2.1.1.72	Modification methylase FokI
+PHDCEHKO_01266	gene	fokIM		
+PHDCEHKO_01267	CDS			hypothetical protein
+PHDCEHKO_01267	gene			
+PHDCEHKO_01268	CDS	hepA		Heterocyst differentiation ATP-binding protein HepA
+PHDCEHKO_01268	gene	hepA		
+PHDCEHKO_01269	tRNA			tRNA-Thr(tgt)
+PHDCEHKO_01269	gene			
+PHDCEHKO_01270	tRNA			tRNA-Tyr(gta)
+PHDCEHKO_01270	gene			
+PHDCEHKO_01271	tRNA			tRNA-Gly(tcc)
+PHDCEHKO_01271	gene			
+PHDCEHKO_01272	tRNA			tRNA-Thr(ggt)
+PHDCEHKO_01272	gene			
+PHDCEHKO_01273	CDS	tufA		Elongation factor Tu
+PHDCEHKO_01273	gene	tufA		
+PHDCEHKO_01274	CDS	rpmG2		50S ribosomal protein L33 2
+PHDCEHKO_01274	gene	rpmG2		
+PHDCEHKO_01275	tRNA			tRNA-Trp(cca)
+PHDCEHKO_01275	gene			
+PHDCEHKO_01276	CDS			hypothetical protein
+PHDCEHKO_01276	gene			
+PHDCEHKO_01277	CDS	nusG		Transcription termination/antitermination protein NusG
+PHDCEHKO_01277	gene	nusG		
+PHDCEHKO_01278	CDS	rplK		50S ribosomal protein L11
+PHDCEHKO_01278	gene	rplK		
+PHDCEHKO_01279	CDS	rplA		50S ribosomal protein L1
+PHDCEHKO_01279	gene	rplA		
+PHDCEHKO_01280	CDS	rplJ		50S ribosomal protein L10
+PHDCEHKO_01280	gene	rplJ		
+PHDCEHKO_01281	CDS	rplL		50S ribosomal protein L7/L12
+PHDCEHKO_01281	gene	rplL		
+PHDCEHKO_01282	CDS	rpoBC	2.7.7.6	Bifunctional DNA-directed RNA polymerase subunit beta-beta'
+PHDCEHKO_01282	gene	rpoBC		
+PHDCEHKO_01283	CDS	rpsL		30S ribosomal protein S12
+PHDCEHKO_01283	gene	rpsL		
+PHDCEHKO_01284	CDS	rpsG		30S ribosomal protein S7
+PHDCEHKO_01284	gene	rpsG		
+PHDCEHKO_01285	CDS	fusA		Elongation factor G
+PHDCEHKO_01285	gene	fusA		
+PHDCEHKO_01286	CDS	yhdN	1.1.1.-	General stress protein 69
+PHDCEHKO_01286	gene	yhdN		
+PHDCEHKO_01287	CDS			hypothetical protein
+PHDCEHKO_01287	gene			
+PHDCEHKO_01288	CDS	rfaF	2.-.-.-	ADP-heptose--LPS heptosyltransferase 2
+PHDCEHKO_01288	gene	rfaF		
+PHDCEHKO_01289	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+PHDCEHKO_01289	gene	hisS		
+PHDCEHKO_01290	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+PHDCEHKO_01290	gene	asd		
+PHDCEHKO_01291	CDS	topA_2	5.99.1.2	DNA topoisomerase 1
+PHDCEHKO_01291	gene	topA_2		
+PHDCEHKO_01292	CDS	ptlC		Type IV secretion system protein PtlC
+PHDCEHKO_01292	gene	ptlC		
+PHDCEHKO_01293	CDS			hypothetical protein
+PHDCEHKO_01293	gene			
+PHDCEHKO_01294	CDS			hypothetical protein
+PHDCEHKO_01294	gene			
+PHDCEHKO_01295	CDS			hypothetical protein
+PHDCEHKO_01295	gene			
+PHDCEHKO_01296	CDS			hypothetical protein
+PHDCEHKO_01296	gene			
+PHDCEHKO_01297	CDS			hypothetical protein
+PHDCEHKO_01297	gene			
+PHDCEHKO_01298	CDS			hypothetical protein
+PHDCEHKO_01298	gene			
+PHDCEHKO_01299	CDS			hypothetical protein
+PHDCEHKO_01299	gene			
+PHDCEHKO_01300	CDS			hypothetical protein
+PHDCEHKO_01300	gene			
+PHDCEHKO_01301	CDS			hypothetical protein
+PHDCEHKO_01301	gene			
+PHDCEHKO_01302	CDS			hypothetical protein
+PHDCEHKO_01302	gene			
+PHDCEHKO_01303	CDS			hypothetical protein
+PHDCEHKO_01303	gene			
+PHDCEHKO_01304	CDS			hypothetical protein
+PHDCEHKO_01304	gene			
+PHDCEHKO_01305	CDS			hypothetical protein
+PHDCEHKO_01305	gene			
+PHDCEHKO_01306	CDS			hypothetical protein
+PHDCEHKO_01306	gene			
+PHDCEHKO_01307	CDS			hypothetical protein
+PHDCEHKO_01307	gene			
+PHDCEHKO_01308	CDS			hypothetical protein
+PHDCEHKO_01308	gene			
+PHDCEHKO_01309	CDS			hypothetical protein
+PHDCEHKO_01309	gene			
+PHDCEHKO_01310	CDS			hypothetical protein
+PHDCEHKO_01310	gene			
+PHDCEHKO_01311	CDS			hypothetical protein
+PHDCEHKO_01311	gene			
+PHDCEHKO_01312	CDS			hypothetical protein
+PHDCEHKO_01312	gene			
+PHDCEHKO_01313	CDS	virB4_2		Type IV secretion system protein virB4
+PHDCEHKO_01313	gene	virB4_2		
+PHDCEHKO_01314	CDS			hypothetical protein
+PHDCEHKO_01314	gene			
+PHDCEHKO_01315	CDS	tsaA	1.11.1.15	putative peroxiredoxin
+PHDCEHKO_01315	gene	tsaA		
+PHDCEHKO_01316	CDS	metQ		D-methionine-binding lipoprotein MetQ
+PHDCEHKO_01316	gene	metQ		
+PHDCEHKO_01317	CDS	mrdA	3.4.16.4	Peptidoglycan D,D-transpeptidase MrdA
+PHDCEHKO_01317	gene	mrdA		
+PHDCEHKO_01318	CDS			hypothetical protein
+PHDCEHKO_01318	gene			
+PHDCEHKO_01319	CDS	engB		putative GTP-binding protein EngB
+PHDCEHKO_01319	gene	engB		
+PHDCEHKO_01320	CDS	lptA		Lipopolysaccharide export system protein LptA
+PHDCEHKO_01320	gene	lptA		
+PHDCEHKO_01321	CDS			hypothetical protein
+PHDCEHKO_01321	gene			
+PHDCEHKO_01322	CDS	kdsC	3.1.3.45	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+PHDCEHKO_01322	gene	kdsC		
+PHDCEHKO_01323	CDS	rlpA	4.2.2.-	Endolytic peptidoglycan transglycosylase RlpA
+PHDCEHKO_01323	gene	rlpA		
+PHDCEHKO_01324	CDS	mltD	4.2.2.-	Membrane-bound lytic murein transglycosylase D
+PHDCEHKO_01324	gene	mltD		
+PHDCEHKO_01325	CDS	ycfH	3.1.-.-	putative metal-dependent hydrolase YcfH
+PHDCEHKO_01325	gene	ycfH		
+PHDCEHKO_01326	CDS	ribE	2.5.1.9	Riboflavin synthase
+PHDCEHKO_01326	gene	ribE		
+PHDCEHKO_01327	CDS	flhB_1		Flagellar biosynthetic protein FlhB
+PHDCEHKO_01327	gene	flhB_1		
+PHDCEHKO_01328	CDS	metN	3.6.3.-	Methionine import ATP-binding protein MetN
+PHDCEHKO_01328	gene	metN		
+PHDCEHKO_01329	CDS	metI		D-methionine transport system permease protein MetI
+PHDCEHKO_01329	gene	metI		
+PHDCEHKO_01330	CDS			hypothetical protein
+PHDCEHKO_01330	gene			
+PHDCEHKO_01331	CDS			hypothetical protein
+PHDCEHKO_01331	gene			
+PHDCEHKO_01332	CDS	lpxE_1	3.1.-.-	Lipid A 1-phosphatase
+PHDCEHKO_01332	gene	lpxE_1		
+PHDCEHKO_01333	CDS	tagO	2.7.8.33	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+PHDCEHKO_01333	gene	tagO		
+PHDCEHKO_01334	CDS	pdxJ	2.6.99.2	Pyridoxine 5'-phosphate synthase
+PHDCEHKO_01334	gene	pdxJ		
+PHDCEHKO_01335	CDS	pdxA	1.1.1.262	4-hydroxythreonine-4-phosphate dehydrogenase
+PHDCEHKO_01335	gene	pdxA		
+PHDCEHKO_01336	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+PHDCEHKO_01336	gene	tsaD		
+PHDCEHKO_01337	CDS	flgG_2		Flagellar basal-body rod protein FlgG
+PHDCEHKO_01337	gene	flgG_2		
+PHDCEHKO_01338	CDS			hypothetical protein
+PHDCEHKO_01338	gene			
+PHDCEHKO_01339	CDS			hypothetical protein
+PHDCEHKO_01339	gene			
+PHDCEHKO_01340	CDS			hypothetical protein
+PHDCEHKO_01340	gene			
+PHDCEHKO_01341	CDS			hypothetical protein
+PHDCEHKO_01341	gene			
+PHDCEHKO_01342	CDS			hypothetical protein
+PHDCEHKO_01342	gene			
+PHDCEHKO_01343	CDS	nusB		N utilization substance protein B 
+PHDCEHKO_01343	gene	nusB		
+PHDCEHKO_01344	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+PHDCEHKO_01344	gene	ribH		
+PHDCEHKO_01345	CDS	kdsA	2.5.1.55	2-dehydro-3-deoxyphosphooctonate aldolase
+PHDCEHKO_01345	gene	kdsA		
+PHDCEHKO_01346	CDS	cynT	4.2.1.1	Carbonic anhydrase 1
+PHDCEHKO_01346	gene	cynT		
+PHDCEHKO_01347	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+PHDCEHKO_01347	gene	pyrF		
+PHDCEHKO_01348	CDS	panC	6.3.2.1	Pantothenate synthetase
+PHDCEHKO_01348	gene	panC		
+PHDCEHKO_01349	tRNA			tRNA-Glu(ttc)
+PHDCEHKO_01349	gene			
+PHDCEHKO_01350	tRNA			tRNA-Asp(gtc)
+PHDCEHKO_01350	gene			
+PHDCEHKO_01351	tRNA			tRNA-Val(tac)
+PHDCEHKO_01351	gene			
+PHDCEHKO_01352	tRNA			tRNA-Glu(ttc)
+PHDCEHKO_01352	gene			
+PHDCEHKO_01353	tRNA			tRNA-Lys(ttt)
+PHDCEHKO_01353	gene			
+PHDCEHKO_01354	CDS			hypothetical protein
+PHDCEHKO_01354	gene			
+PHDCEHKO_01355	CDS	groL		60 kDa chaperonin
+PHDCEHKO_01355	gene	groL		
+PHDCEHKO_01356	CDS	groS		10 kDa chaperonin
+PHDCEHKO_01356	gene	groS		
+PHDCEHKO_01357	CDS	dnaG	2.7.7.-	DNA primase
+PHDCEHKO_01357	gene	dnaG		
+PHDCEHKO_01358	CDS	mnmA_2	2.8.1.-	tRNA-specific 2-thiouridylase MnmA
+PHDCEHKO_01358	gene	mnmA_2		
+PHDCEHKO_01359	CDS			hypothetical protein
+PHDCEHKO_01359	gene			
+PHDCEHKO_01360	CDS			hypothetical protein
+PHDCEHKO_01360	gene			
+PHDCEHKO_01361	CDS			hypothetical protein
+PHDCEHKO_01361	gene			
+PHDCEHKO_01362	CDS	virB4_3		Type IV secretion system protein virB4
+PHDCEHKO_01362	gene	virB4_3		
+PHDCEHKO_01363	CDS			hypothetical protein
+PHDCEHKO_01363	gene			
+PHDCEHKO_01364	CDS	cheV_3		Chemotaxis protein CheV
+PHDCEHKO_01364	gene	cheV_3		
+PHDCEHKO_01365	CDS	nspC	4.1.1.96	Carboxynorspermidine/carboxyspermidine decarboxylase
+PHDCEHKO_01365	gene	nspC		
+PHDCEHKO_01366	CDS	lpxE_2	3.1.-.-	Lipid A 1-phosphatase
+PHDCEHKO_01366	gene	lpxE_2		
+PHDCEHKO_01367	CDS	eptA	2.7.-.-	Phosphoethanolamine transferase EptA
+PHDCEHKO_01367	gene	eptA		
+PHDCEHKO_01368	CDS			hypothetical protein
+PHDCEHKO_01368	gene			
+PHDCEHKO_01369	CDS	aarA	2.3.3.16	Citrate synthase
+PHDCEHKO_01369	gene	aarA		
+PHDCEHKO_01370	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+PHDCEHKO_01370	gene	icd		
+PHDCEHKO_01371	CDS			hypothetical protein
+PHDCEHKO_01371	gene			
+PHDCEHKO_01372	CDS	bioD	6.3.3.3	ATP-dependent dethiobiotin synthetase BioD
+PHDCEHKO_01372	gene	bioD		
+PHDCEHKO_01373	CDS			hypothetical protein
+PHDCEHKO_01373	gene			
+PHDCEHKO_01374	CDS			hypothetical protein
+PHDCEHKO_01374	gene			
+PHDCEHKO_01375	CDS	clpS		ATP-dependent Clp protease adapter protein ClpS
+PHDCEHKO_01375	gene	clpS		
+PHDCEHKO_01376	CDS	clpA		ATP-dependent Clp protease ATP-binding subunit ClpA
+PHDCEHKO_01376	gene	clpA		
+PHDCEHKO_01377	CDS	panD	4.1.1.11	Aspartate 1-decarboxylase
+PHDCEHKO_01377	gene	panD		
+PHDCEHKO_01378	CDS			Nucleoid-associated protein
+PHDCEHKO_01378	gene			
+PHDCEHKO_01379	CDS			hypothetical protein
+PHDCEHKO_01379	gene			
+PHDCEHKO_01380	CDS			hypothetical protein
+PHDCEHKO_01380	gene			
+PHDCEHKO_01381	CDS			hypothetical protein
+PHDCEHKO_01381	gene			
+PHDCEHKO_01382	CDS			hypothetical protein
+PHDCEHKO_01382	gene			
+PHDCEHKO_01383	CDS			hypothetical protein
+PHDCEHKO_01383	gene			
+PHDCEHKO_01384	CDS	ptlG		Type IV secretion system protein PtlG
+PHDCEHKO_01384	gene	ptlG		
+PHDCEHKO_01385	CDS	algA		Alginate biosynthesis protein AlgA
+PHDCEHKO_01385	gene	algA		
+PHDCEHKO_01386	CDS	gmd	4.2.1.47	GDP-mannose 4,6-dehydratase
+PHDCEHKO_01386	gene	gmd		
+PHDCEHKO_01387	CDS	colC	1.1.1.356	GDP-L-colitose synthase
+PHDCEHKO_01387	gene	colC		
+PHDCEHKO_01388	CDS	hypE		Hydrogenase isoenzymes formation protein HypE
+PHDCEHKO_01388	gene	hypE		
+PHDCEHKO_01389	CDS	hypF	2.1.3.-	Carbamoyltransferase HypF
+PHDCEHKO_01389	gene	hypF		
+PHDCEHKO_01390	CDS	aguA	3.5.3.12	Agmatine deiminase
+PHDCEHKO_01390	gene	aguA		
+PHDCEHKO_01391	CDS	dpnA_5	2.1.1.72	Modification methylase DpnIIB
+PHDCEHKO_01391	gene	dpnA_5		
+PHDCEHKO_01392	CDS	bspRIM	2.1.1.37	Modification methylase BspRI
+PHDCEHKO_01392	gene	bspRIM		
+PHDCEHKO_01393	CDS			hypothetical protein
+PHDCEHKO_01393	gene			
+PHDCEHKO_01394	CDS			hypothetical protein
+PHDCEHKO_01394	gene			
+PHDCEHKO_01395	CDS			hypothetical protein
+PHDCEHKO_01395	gene			
+PHDCEHKO_01396	CDS	haeIIIM	2.1.1.37	Modification methylase HaeIII
+PHDCEHKO_01396	gene	haeIIIM		
+PHDCEHKO_01397	CDS	putP		High-affinity proline transporter PutP
+PHDCEHKO_01397	gene	putP		
+PHDCEHKO_01398	CDS	rocA1	1.2.1.88	1-pyrroline-5-carboxylate dehydrogenase 1
+PHDCEHKO_01398	gene	rocA1		
+PHDCEHKO_01399	CDS			hypothetical protein
+PHDCEHKO_01399	gene			
+PHDCEHKO_01400	CDS			hypothetical protein
+PHDCEHKO_01400	gene			
+PHDCEHKO_01401	CDS			hypothetical protein
+PHDCEHKO_01401	gene			
+PHDCEHKO_01402	CDS	lolC		Lipoprotein-releasing system transmembrane protein LolC
+PHDCEHKO_01402	gene	lolC		
+PHDCEHKO_01403	CDS	secA		Protein translocase subunit SecA
+PHDCEHKO_01403	gene	secA		
+PHDCEHKO_01404	CDS	lolA		Outer-membrane lipoprotein carrier protein
+PHDCEHKO_01404	gene	lolA		
+PHDCEHKO_01405	tmRNA	ssrA		transfer-messenger RNA, SsrA
+PHDCEHKO_01405	gene	ssrA		
+PHDCEHKO_01406	CDS			hypothetical protein
+PHDCEHKO_01406	gene			
+PHDCEHKO_01407	CDS			hypothetical protein
+PHDCEHKO_01407	gene			
+PHDCEHKO_01408	CDS			hypothetical protein
+PHDCEHKO_01408	gene			
+PHDCEHKO_01409	CDS			hypothetical protein
+PHDCEHKO_01409	gene			
+PHDCEHKO_01410	CDS	acnB	4.2.1.3	Aconitate hydratase B
+PHDCEHKO_01410	gene	acnB		
+PHDCEHKO_01411	CDS	mqnA	4.2.1.151	Chorismate dehydratase
+PHDCEHKO_01411	gene	mqnA		
+PHDCEHKO_01412	CDS	pyrH	2.7.4.22	Uridylate kinase
+PHDCEHKO_01412	gene	pyrH		
+PHDCEHKO_01413	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+PHDCEHKO_01413	gene	rpoZ		
+PHDCEHKO_01414	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+PHDCEHKO_01414	gene	relA		
+PHDCEHKO_01415	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+PHDCEHKO_01415	gene	tyrS		
+PHDCEHKO_01416	CDS	pyrD_2	1.3.-.-	Dihydroorotate dehydrogenase
+PHDCEHKO_01416	gene	pyrD_2		
+PHDCEHKO_01417	CDS	amiC	3.5.1.28	N-acetylmuramoyl-L-alanine amidase AmiC
+PHDCEHKO_01417	gene	amiC		
+PHDCEHKO_01418	CDS			hypothetical protein
+PHDCEHKO_01418	gene			
+PHDCEHKO_01419	CDS	flhB_2		Flagellar biosynthetic protein FlhB
+PHDCEHKO_01419	gene	flhB_2		
+PHDCEHKO_01420	CDS	mobA	2.7.7.77	putative molybdenum cofactor guanylyltransferase
+PHDCEHKO_01420	gene	mobA		
+PHDCEHKO_01421	CDS	moaA	4.1.99.22	GTP 3',8-cyclase
+PHDCEHKO_01421	gene	moaA		
+PHDCEHKO_01422	CDS			hypothetical protein
+PHDCEHKO_01422	gene			
+PHDCEHKO_01423	CDS			hypothetical protein
+PHDCEHKO_01423	gene			
+PHDCEHKO_01424	CDS			hypothetical protein
+PHDCEHKO_01424	gene			
+PHDCEHKO_01425	CDS	ftsY		Signal recognition particle receptor FtsY
+PHDCEHKO_01425	gene	ftsY		
+PHDCEHKO_01426	CDS			hypothetical protein
+PHDCEHKO_01426	gene			
+PHDCEHKO_01427	CDS			hypothetical protein
+PHDCEHKO_01427	gene			
+PHDCEHKO_01428	CDS	rny	3.1.-.-	Ribonuclease Y
+PHDCEHKO_01428	gene	rny		
+PHDCEHKO_01429	CDS	yeeO		putative FMN/FAD exporter YeeO
+PHDCEHKO_01429	gene	yeeO		
+PHDCEHKO_01430	CDS			hypothetical protein
+PHDCEHKO_01430	gene			
+PHDCEHKO_01431	CDS		3.5.1.77	N-carbamoyl-D-amino acid hydrolase
+PHDCEHKO_01431	gene			
+PHDCEHKO_01432	CDS			hypothetical protein
+PHDCEHKO_01432	gene			
+PHDCEHKO_01433	CDS	tcdA	6.1.-.-	tRNA threonylcarbamoyladenosine dehydratase
+PHDCEHKO_01433	gene	tcdA		
+PHDCEHKO_01434	CDS			hypothetical protein
+PHDCEHKO_01434	gene			
+PHDCEHKO_01435	CDS	fliS		Flagellar protein FliS
+PHDCEHKO_01435	gene	fliS		
+PHDCEHKO_01436	CDS	fliD		Flagellar hook-associated protein 2
+PHDCEHKO_01436	gene	fliD		
+PHDCEHKO_01437	CDS			hypothetical protein
+PHDCEHKO_01437	gene			
+PHDCEHKO_01438	CDS			hypothetical protein
+PHDCEHKO_01438	gene			
+PHDCEHKO_01439	CDS			hypothetical protein
+PHDCEHKO_01439	gene			
+PHDCEHKO_01440	CDS	ftsE		Cell division ATP-binding protein FtsE
+PHDCEHKO_01440	gene	ftsE		
+PHDCEHKO_01441	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+PHDCEHKO_01441	gene	trmB		
+PHDCEHKO_01442	CDS			hypothetical protein
+PHDCEHKO_01442	gene			
+PHDCEHKO_01443	CDS	rluD	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+PHDCEHKO_01443	gene	rluD		
+PHDCEHKO_01444	CDS	rsgA	3.6.1.-	Putative ribosome biogenesis GTPase RsgA
+PHDCEHKO_01444	gene	rsgA		
+PHDCEHKO_01445	CDS			hypothetical protein
+PHDCEHKO_01445	gene			
+PHDCEHKO_01446	tRNA			tRNA-Met(cat)
+PHDCEHKO_01446	gene			
+PHDCEHKO_01447	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+PHDCEHKO_01447	gene	prs		
+PHDCEHKO_01448	CDS		2.7.7.53	AP-4-A phosphorylase
+PHDCEHKO_01448	gene			
+PHDCEHKO_01449	CDS	murF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+PHDCEHKO_01449	gene	murF		
+PHDCEHKO_01450	CDS	menH	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+PHDCEHKO_01450	gene	menH		
+PHDCEHKO_01451	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+PHDCEHKO_01451	gene	ddl		
+PHDCEHKO_01452	CDS	pgpA	3.1.3.27	Phosphatidylglycerophosphatase A
+PHDCEHKO_01452	gene	pgpA		
+PHDCEHKO_01453	CDS		2.6.1.51	Serine-pyruvate aminotransferase
+PHDCEHKO_01453	gene			
+PHDCEHKO_01454	CDS	gpt	2.4.2.22	Xanthine phosphoribosyltransferase
+PHDCEHKO_01454	gene	gpt		
+PHDCEHKO_01455	CDS	rimO	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+PHDCEHKO_01455	gene	rimO		
+PHDCEHKO_01456	CDS			hypothetical protein
+PHDCEHKO_01456	gene			
+PHDCEHKO_01457	CDS			hypothetical protein
+PHDCEHKO_01457	gene			
+PHDCEHKO_01458	CDS			hypothetical protein
+PHDCEHKO_01458	gene			
+PHDCEHKO_01459	CDS			hypothetical protein
+PHDCEHKO_01459	gene			
+PHDCEHKO_01460	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+PHDCEHKO_01460	gene	tilS		
+PHDCEHKO_01461	CDS	dusC	1.3.1.-	tRNA-dihydrouridine(16) synthase
+PHDCEHKO_01461	gene	dusC		
+PHDCEHKO_01462	CDS			hypothetical protein
+PHDCEHKO_01462	gene			
+PHDCEHKO_01463	CDS			hypothetical protein
+PHDCEHKO_01463	gene			
+PHDCEHKO_01464	CDS	vspIM	2.1.1.72	Modification methylase VspI
+PHDCEHKO_01464	gene	vspIM		
+PHDCEHKO_01465	CDS			hypothetical protein
+PHDCEHKO_01465	gene			
+PHDCEHKO_01466	CDS	typA		GTP-binding protein TypA/BipA
+PHDCEHKO_01466	gene	typA		
+PHDCEHKO_01467	CDS			hypothetical protein
+PHDCEHKO_01467	gene			
+PHDCEHKO_01468	CDS			hypothetical protein
+PHDCEHKO_01468	gene			
+PHDCEHKO_01469	CDS			hypothetical protein
+PHDCEHKO_01469	gene			
+PHDCEHKO_01470	CDS			hypothetical protein
+PHDCEHKO_01470	gene			
+PHDCEHKO_01471	CDS	ydiO	2.1.1.37	putative BsuMI modification methylase subunit YdiO
+PHDCEHKO_01471	gene	ydiO		
+PHDCEHKO_01472	CDS			hypothetical protein
+PHDCEHKO_01472	gene			
+PHDCEHKO_01473	CDS			hypothetical protein
+PHDCEHKO_01473	gene			
+PHDCEHKO_01474	CDS	srpA	1.11.1.-	Catalase-related peroxidase
+PHDCEHKO_01474	gene	srpA		
+PHDCEHKO_01475	CDS			hypothetical protein
+PHDCEHKO_01475	gene			
+PHDCEHKO_01476	CDS			hypothetical protein
+PHDCEHKO_01476	gene			
+PHDCEHKO_01477	CDS			hypothetical protein
+PHDCEHKO_01477	gene			
+PHDCEHKO_01478	CDS			hypothetical protein
+PHDCEHKO_01478	gene			
+PHDCEHKO_01479	CDS			hypothetical protein
+PHDCEHKO_01479	gene			
+PHDCEHKO_01480	CDS			hypothetical protein
+PHDCEHKO_01480	gene			
+PHDCEHKO_01481	CDS			hypothetical protein
+PHDCEHKO_01481	gene			
+PHDCEHKO_01482	CDS			hypothetical protein
+PHDCEHKO_01482	gene			
+PHDCEHKO_01483	CDS			hypothetical protein
+PHDCEHKO_01483	gene			
+PHDCEHKO_01484	CDS			hypothetical protein
+PHDCEHKO_01484	gene			
+PHDCEHKO_01485	CDS			hypothetical protein
+PHDCEHKO_01485	gene			
+PHDCEHKO_01486	CDS			hypothetical protein
+PHDCEHKO_01486	gene			
+PHDCEHKO_01487	CDS			hypothetical protein
+PHDCEHKO_01487	gene			
+PHDCEHKO_01488	CDS			hypothetical protein
+PHDCEHKO_01488	gene			
+PHDCEHKO_01489	CDS			hypothetical protein
+PHDCEHKO_01489	gene			
+PHDCEHKO_01490	CDS			hypothetical protein
+PHDCEHKO_01490	gene			
+PHDCEHKO_01491	CDS	pepF1	3.4.24.-	Oligoendopeptidase F, plasmid
+PHDCEHKO_01491	gene	pepF1		
+PHDCEHKO_01492	CDS	kefC		Glutathione-regulated potassium-efflux system protein KefC
+PHDCEHKO_01492	gene	kefC		
+PHDCEHKO_01493	CDS			hypothetical protein
+PHDCEHKO_01493	gene			
+PHDCEHKO_01494	CDS	modA		Molybdate-binding periplasmic protein
+PHDCEHKO_01494	gene	modA		
+PHDCEHKO_01495	CDS	modB		Molybdenum transport system permease protein ModB
+PHDCEHKO_01495	gene	modB		
+PHDCEHKO_01496	CDS	potA	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+PHDCEHKO_01496	gene	potA		
+PHDCEHKO_01497	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+PHDCEHKO_01497	gene	gltX		
+PHDCEHKO_01498	CDS			hypothetical protein
+PHDCEHKO_01498	gene			
+PHDCEHKO_01499	CDS			hypothetical protein
+PHDCEHKO_01499	gene			
+PHDCEHKO_01500	CDS	petB		Cytochrome b
+PHDCEHKO_01500	gene	petB		
+PHDCEHKO_01501	CDS	petA	1.10.2.2	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+PHDCEHKO_01501	gene	petA		
+PHDCEHKO_01502	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+PHDCEHKO_01502	gene	mfd		
+PHDCEHKO_01503	CDS			hypothetical protein
+PHDCEHKO_01503	gene			
+PHDCEHKO_01504	CDS	mepM_2	3.4.24.-	Murein DD-endopeptidase MepM
+PHDCEHKO_01504	gene	mepM_2		
+PHDCEHKO_01505	CDS	mepM_3	3.4.24.-	Murein DD-endopeptidase MepM
+PHDCEHKO_01505	gene	mepM_3		
+PHDCEHKO_01506	CDS	folC	6.3.2.12	Dihydrofolate synthase/folylpolyglutamate synthase
+PHDCEHKO_01506	gene	folC		
+PHDCEHKO_01507	CDS			hypothetical protein
+PHDCEHKO_01507	gene			
+PHDCEHKO_01508	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+PHDCEHKO_01508	gene	leuS		
+PHDCEHKO_01509	CDS			hypothetical protein
+PHDCEHKO_01509	gene			
+PHDCEHKO_01510	CDS			hypothetical protein
+PHDCEHKO_01510	gene			
+PHDCEHKO_01511	CDS			hypothetical protein
+PHDCEHKO_01511	gene			
+PHDCEHKO_01512	CDS			hypothetical protein
+PHDCEHKO_01512	gene			
+PHDCEHKO_01513	CDS	nhaA		Na(+)/H(+) antiporter NhaA
+PHDCEHKO_01513	gene	nhaA		
+PHDCEHKO_01514	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+PHDCEHKO_01514	gene	addA		
+PHDCEHKO_01515	CDS	rpsB		30S ribosomal protein S2
+PHDCEHKO_01515	gene	rpsB		
+PHDCEHKO_01516	CDS	tsf		Elongation factor Ts
+PHDCEHKO_01516	gene	tsf		
+PHDCEHKO_01517	CDS	ftsI	3.4.16.4	Peptidoglycan D,D-transpeptidase FtsI
+PHDCEHKO_01517	gene	ftsI		
+PHDCEHKO_01518	CDS	fliE		Flagellar hook-basal body complex protein FliE
+PHDCEHKO_01518	gene	fliE		
+PHDCEHKO_01519	CDS	flgC		Flagellar basal-body rod protein FlgC
+PHDCEHKO_01519	gene	flgC		
+PHDCEHKO_01520	CDS	flgB		Flagellar basal body rod protein FlgB
+PHDCEHKO_01520	gene	flgB		
+PHDCEHKO_01521	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+PHDCEHKO_01521	gene	ftsW		
+PHDCEHKO_01522	CDS			hypothetical protein
+PHDCEHKO_01522	gene			
+PHDCEHKO_01523	CDS			hypothetical protein
+PHDCEHKO_01523	gene			
+PHDCEHKO_01524	CDS			hypothetical protein
+PHDCEHKO_01524	gene			
+PHDCEHKO_01525	CDS			hypothetical protein
+PHDCEHKO_01525	gene			
+PHDCEHKO_01526	CDS	ctkA	2.7.11.1	Serine/threonine-protein kinase CtkA
+PHDCEHKO_01526	gene	ctkA		
+PHDCEHKO_01527	CDS	xerH_2		Tyrosine recombinase XerH
+PHDCEHKO_01527	gene	xerH_2		
+PHDCEHKO_01528	CDS			hypothetical protein
+PHDCEHKO_01528	gene			
+PHDCEHKO_01529	CDS			hypothetical protein
+PHDCEHKO_01529	gene			
+PHDCEHKO_01530	CDS			hypothetical protein
+PHDCEHKO_01530	gene			
+PHDCEHKO_01531	CDS			hypothetical protein
+PHDCEHKO_01531	gene			
+PHDCEHKO_01532	CDS	mscS		Small-conductance mechanosensitive channel
+PHDCEHKO_01532	gene	mscS		
+PHDCEHKO_01533	CDS			hypothetical protein
+PHDCEHKO_01533	gene			
+PHDCEHKO_01534	CDS			hypothetical protein
+PHDCEHKO_01534	gene			
+PHDCEHKO_01535	CDS			hypothetical protein
+PHDCEHKO_01535	gene			
+PHDCEHKO_01536	CDS	hcpC_2	3.5.2.6	Putative beta-lactamase HcpC
+PHDCEHKO_01536	gene	hcpC_2		
+PHDCEHKO_01537	CDS	eda		KHG/KDPG aldolase
+PHDCEHKO_01537	gene	eda		
+PHDCEHKO_01538	CDS	edd	4.2.1.12	Phosphogluconate dehydratase
+PHDCEHKO_01538	gene	edd		
+PHDCEHKO_01539	CDS	zwf	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase
+PHDCEHKO_01539	gene	zwf		
+PHDCEHKO_01540	CDS	pgl	3.1.1.31	6-phosphogluconolactonase
+PHDCEHKO_01540	gene	pgl		
+PHDCEHKO_01541	CDS	glk	2.7.1.2	Glucokinase
+PHDCEHKO_01541	gene	glk		
+PHDCEHKO_01542	CDS	adhA	1.1.1.-	putative formaldehyde dehydrogenase AdhA
+PHDCEHKO_01542	gene	adhA		
+PHDCEHKO_01543	CDS			hypothetical protein
+PHDCEHKO_01543	gene			
+PHDCEHKO_01544	CDS			hypothetical protein
+PHDCEHKO_01544	gene			
+PHDCEHKO_01545	CDS			hypothetical protein
+PHDCEHKO_01545	gene			
+PHDCEHKO_01546	CDS	porC	1.2.7.1	Pyruvate synthase subunit PorC
+PHDCEHKO_01546	gene	porC		
+PHDCEHKO_01547	CDS	porD		Pyruvate synthase subunit PorD
+PHDCEHKO_01547	gene	porD		
+PHDCEHKO_01548	CDS	porA	1.2.7.1	Pyruvate synthase subunit PorA
+PHDCEHKO_01548	gene	porA		
+PHDCEHKO_01549	CDS	porB	1.2.7.1	Pyruvate synthase subunit PorB
+PHDCEHKO_01549	gene	porB		
+PHDCEHKO_01550	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+PHDCEHKO_01550	gene	purB		
+PHDCEHKO_01551	CDS			hypothetical protein
+PHDCEHKO_01551	gene			
+PHDCEHKO_01552	CDS	uvrB		UvrABC system protein B
+PHDCEHKO_01552	gene	uvrB		
+PHDCEHKO_01553	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+PHDCEHKO_01553	gene	recD2		
+PHDCEHKO_01554	CDS			hypothetical protein
+PHDCEHKO_01554	gene			
+PHDCEHKO_01555	CDS			hypothetical protein
+PHDCEHKO_01555	gene			
+PHDCEHKO_01556	CDS			hypothetical protein
+PHDCEHKO_01556	gene			
+PHDCEHKO_01557	CDS			hypothetical protein
+PHDCEHKO_01557	gene			
+PHDCEHKO_01558	CDS			hypothetical protein
+PHDCEHKO_01558	gene			
+PHDCEHKO_01559	CDS			hypothetical protein
+PHDCEHKO_01559	gene			
+PHDCEHKO_01560	CDS			hypothetical protein
+PHDCEHKO_01560	gene			
+PHDCEHKO_01561	CDS			hypothetical protein
+PHDCEHKO_01561	gene			
+PHDCEHKO_01562	CDS			hypothetical protein
+PHDCEHKO_01562	gene			
+PHDCEHKO_01563	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+PHDCEHKO_01563	gene			
+PHDCEHKO_01564	CDS	hsdR_3	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+PHDCEHKO_01564	gene	hsdR_3		
+PHDCEHKO_01565	CDS			hypothetical protein
+PHDCEHKO_01565	gene			
+PHDCEHKO_01566	CDS			hypothetical protein
+PHDCEHKO_01566	gene			
+PHDCEHKO_01567	CDS	xerH_3		Tyrosine recombinase XerH
+PHDCEHKO_01567	gene	xerH_3		

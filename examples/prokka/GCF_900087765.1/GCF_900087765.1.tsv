@@ -1,0 +1,3123 @@
+locus_tag	ftype	gene	EC_number	product
+EKEBIHOE_00001	tRNA			tRNA-Met(cat)
+EKEBIHOE_00001	gene			
+EKEBIHOE_00002	tRNA			tRNA-Gln(ttg)
+EKEBIHOE_00002	gene			
+EKEBIHOE_00003	CDS	hypD		Hydrogenase isoenzymes formation protein HypD
+EKEBIHOE_00003	gene	hypD		
+EKEBIHOE_00004	CDS	hypC		Hydrogenase isoenzymes formation protein HypC
+EKEBIHOE_00004	gene	hypC		
+EKEBIHOE_00005	CDS	hypB		Hydrogenase/urease nickel incorporation protein HypB
+EKEBIHOE_00005	gene	hypB		
+EKEBIHOE_00006	CDS			hypothetical protein
+EKEBIHOE_00006	gene			
+EKEBIHOE_00007	CDS			hypothetical protein
+EKEBIHOE_00007	gene			
+EKEBIHOE_00008	CDS	ackA_1	2.7.2.1	Acetate kinase
+EKEBIHOE_00008	gene	ackA_1		
+EKEBIHOE_00009	CDS	ackA_2	2.7.2.1	Acetate kinase
+EKEBIHOE_00009	gene	ackA_2		
+EKEBIHOE_00010	CDS	pta_1	2.3.1.8	Phosphate acetyltransferase
+EKEBIHOE_00010	gene	pta_1		
+EKEBIHOE_00011	CDS	pta_2	2.3.1.8	Phosphate acetyltransferase
+EKEBIHOE_00011	gene	pta_2		
+EKEBIHOE_00012	CDS	pta_3	2.3.1.8	Phosphate acetyltransferase
+EKEBIHOE_00012	gene	pta_3		
+EKEBIHOE_00013	CDS			hypothetical protein
+EKEBIHOE_00013	gene			
+EKEBIHOE_00014	CDS			hypothetical protein
+EKEBIHOE_00014	gene			
+EKEBIHOE_00015	CDS	flgD		Basal-body rod modification protein FlgD
+EKEBIHOE_00015	gene	flgD		
+EKEBIHOE_00016	CDS	flgE_1		Flagellar hook protein FlgE
+EKEBIHOE_00016	gene	flgE_1		
+EKEBIHOE_00017	CDS			hypothetical protein
+EKEBIHOE_00017	gene			
+EKEBIHOE_00018	CDS	taqIM	2.1.1.72	Modification methylase TaqI
+EKEBIHOE_00018	gene	taqIM		
+EKEBIHOE_00019	CDS	uvrD	3.6.4.12	DNA helicase II
+EKEBIHOE_00019	gene	uvrD		
+EKEBIHOE_00020	CDS			hypothetical protein
+EKEBIHOE_00020	gene			
+EKEBIHOE_00021	CDS			hypothetical protein
+EKEBIHOE_00021	gene			
+EKEBIHOE_00022	CDS			hypothetical protein
+EKEBIHOE_00022	gene			
+EKEBIHOE_00023	CDS	hemR		Hemin receptor
+EKEBIHOE_00023	gene	hemR		
+EKEBIHOE_00024	CDS	bhuA_1		Heme transporter BhuA
+EKEBIHOE_00024	gene	bhuA_1		
+EKEBIHOE_00025	CDS			hypothetical protein
+EKEBIHOE_00025	gene			
+EKEBIHOE_00026	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+EKEBIHOE_00026	gene	carB		
+EKEBIHOE_00027	CDS	yccA		Modulator of FtsH protease YccA
+EKEBIHOE_00027	gene	yccA		
+EKEBIHOE_00028	CDS	gap1	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase 1
+EKEBIHOE_00028	gene	gap1		
+EKEBIHOE_00029	CDS	vacA_1		Vacuolating cytotoxin autotransporter
+EKEBIHOE_00029	gene	vacA_1		
+EKEBIHOE_00030	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+EKEBIHOE_00030	gene	asd		
+EKEBIHOE_00031	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+EKEBIHOE_00031	gene	hisS		
+EKEBIHOE_00032	CDS	rfaF	2.-.-.-	ADP-heptose--LPS heptosyltransferase 2
+EKEBIHOE_00032	gene	rfaF		
+EKEBIHOE_00033	CDS			hypothetical protein
+EKEBIHOE_00033	gene			
+EKEBIHOE_00034	CDS	yhdN	1.1.1.-	General stress protein 69
+EKEBIHOE_00034	gene	yhdN		
+EKEBIHOE_00035	CDS	fusA		Elongation factor G
+EKEBIHOE_00035	gene	fusA		
+EKEBIHOE_00036	CDS	rpsG		30S ribosomal protein S7
+EKEBIHOE_00036	gene	rpsG		
+EKEBIHOE_00037	CDS	rpsL		30S ribosomal protein S12
+EKEBIHOE_00037	gene	rpsL		
+EKEBIHOE_00038	CDS	rpoBC	2.7.7.6	Bifunctional DNA-directed RNA polymerase subunit beta-beta'
+EKEBIHOE_00038	gene	rpoBC		
+EKEBIHOE_00039	CDS	rplL		50S ribosomal protein L7/L12
+EKEBIHOE_00039	gene	rplL		
+EKEBIHOE_00040	CDS	rplJ		50S ribosomal protein L10
+EKEBIHOE_00040	gene	rplJ		
+EKEBIHOE_00041	CDS	rplA		50S ribosomal protein L1
+EKEBIHOE_00041	gene	rplA		
+EKEBIHOE_00042	CDS	rplK		50S ribosomal protein L11
+EKEBIHOE_00042	gene	rplK		
+EKEBIHOE_00043	CDS	nusG		Transcription termination/antitermination protein NusG
+EKEBIHOE_00043	gene	nusG		
+EKEBIHOE_00044	CDS			hypothetical protein
+EKEBIHOE_00044	gene			
+EKEBIHOE_00045	tRNA			tRNA-Trp(cca)
+EKEBIHOE_00045	gene			
+EKEBIHOE_00046	CDS	rpmG2		50S ribosomal protein L33 2
+EKEBIHOE_00046	gene	rpmG2		
+EKEBIHOE_00047	CDS	tufA		Elongation factor Tu
+EKEBIHOE_00047	gene	tufA		
+EKEBIHOE_00048	tRNA			tRNA-Thr(ggt)
+EKEBIHOE_00048	gene			
+EKEBIHOE_00049	tRNA			tRNA-Gly(tcc)
+EKEBIHOE_00049	gene			
+EKEBIHOE_00050	tRNA			tRNA-Tyr(gta)
+EKEBIHOE_00050	gene			
+EKEBIHOE_00051	tRNA			tRNA-Thr(tgt)
+EKEBIHOE_00051	gene			
+EKEBIHOE_00052	CDS	hepA		Heterocyst differentiation ATP-binding protein HepA
+EKEBIHOE_00052	gene	hepA		
+EKEBIHOE_00053	CDS			hypothetical protein
+EKEBIHOE_00053	gene			
+EKEBIHOE_00054	CDS	fokIM	2.1.1.72	Modification methylase FokI
+EKEBIHOE_00054	gene	fokIM		
+EKEBIHOE_00055	CDS			hypothetical protein
+EKEBIHOE_00055	gene			
+EKEBIHOE_00056	CDS	cysE	2.3.1.30	Serine acetyltransferase
+EKEBIHOE_00056	gene	cysE		
+EKEBIHOE_00057	tRNA			tRNA-Leu(caa)
+EKEBIHOE_00057	gene			
+EKEBIHOE_00058	tRNA			tRNA-Leu(gag)
+EKEBIHOE_00058	gene			
+EKEBIHOE_00059	CDS	atpE		ATP synthase subunit c
+EKEBIHOE_00059	gene	atpE		
+EKEBIHOE_00060	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+EKEBIHOE_00060	gene	pnp		
+EKEBIHOE_00061	CDS			hypothetical protein
+EKEBIHOE_00061	gene			
+EKEBIHOE_00062	CDS	lptD		LPS-assembly protein LptD
+EKEBIHOE_00062	gene	lptD		
+EKEBIHOE_00063	CDS			hypothetical protein
+EKEBIHOE_00063	gene			
+EKEBIHOE_00064	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+EKEBIHOE_00064	gene	purD		
+EKEBIHOE_00065	CDS	ytrB		ABC transporter ATP-binding protein YtrB
+EKEBIHOE_00065	gene	ytrB		
+EKEBIHOE_00066	CDS	uppS	2.5.1.-	Isoprenyl transferase
+EKEBIHOE_00066	gene	uppS		
+EKEBIHOE_00067	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+EKEBIHOE_00067	gene			
+EKEBIHOE_00068	CDS	glpE	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+EKEBIHOE_00068	gene	glpE		
+EKEBIHOE_00069	CDS			hypothetical protein
+EKEBIHOE_00069	gene			
+EKEBIHOE_00070	CDS	crcB		Putative fluoride ion transporter CrcB
+EKEBIHOE_00070	gene	crcB		
+EKEBIHOE_00071	CDS	hemN_1	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+EKEBIHOE_00071	gene	hemN_1		
+EKEBIHOE_00072	CDS			Cytochrome c-553
+EKEBIHOE_00072	gene			
+EKEBIHOE_00073	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+EKEBIHOE_00073	gene	rppH		
+EKEBIHOE_00074	CDS	lysC	2.7.2.4	Aspartate kinase Ask_LysC
+EKEBIHOE_00074	gene	lysC		
+EKEBIHOE_00075	CDS			hypothetical protein
+EKEBIHOE_00075	gene			
+EKEBIHOE_00076	CDS			hypothetical protein
+EKEBIHOE_00076	gene			
+EKEBIHOE_00077	CDS	folP		Bifunctional dihydropteroate synthase/dihydropteroate reductase
+EKEBIHOE_00077	gene	folP		
+EKEBIHOE_00078	CDS			hypothetical protein
+EKEBIHOE_00078	gene			
+EKEBIHOE_00079	CDS			hypothetical protein
+EKEBIHOE_00079	gene			
+EKEBIHOE_00080	CDS			hypothetical protein
+EKEBIHOE_00080	gene			
+EKEBIHOE_00081	CDS			hypothetical protein
+EKEBIHOE_00081	gene			
+EKEBIHOE_00082	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+EKEBIHOE_00082	gene	carA		
+EKEBIHOE_00083	CDS	amiF	3.5.1.49	Formamidase
+EKEBIHOE_00083	gene	amiF		
+EKEBIHOE_00084	CDS	maf		Septum formation protein Maf
+EKEBIHOE_00084	gene	maf		
+EKEBIHOE_00085	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+EKEBIHOE_00085	gene	alaS		
+EKEBIHOE_00086	CDS			hypothetical protein
+EKEBIHOE_00086	gene			
+EKEBIHOE_00087	CDS			hypothetical protein
+EKEBIHOE_00087	gene			
+EKEBIHOE_00088	CDS	thyX	2.1.1.148	Flavin-dependent thymidylate synthase
+EKEBIHOE_00088	gene	thyX		
+EKEBIHOE_00089	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+EKEBIHOE_00089	gene	glmS		
+EKEBIHOE_00090	CDS			hypothetical protein
+EKEBIHOE_00090	gene			
+EKEBIHOE_00091	CDS	mqnB	3.2.2.26	Futalosine hydrolase
+EKEBIHOE_00091	gene	mqnB		
+EKEBIHOE_00092	CDS	dnaA		Chromosomal replication initiator protein DnaA
+EKEBIHOE_00092	gene	dnaA		
+EKEBIHOE_00093	CDS			hypothetical protein
+EKEBIHOE_00093	gene			
+EKEBIHOE_00094	tRNA			tRNA-Phe(gaa)
+EKEBIHOE_00094	gene			
+EKEBIHOE_00095	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+EKEBIHOE_00095	gene	exoA		
+EKEBIHOE_00096	CDS			hypothetical protein
+EKEBIHOE_00096	gene			
+EKEBIHOE_00097	CDS			hypothetical protein
+EKEBIHOE_00097	gene			
+EKEBIHOE_00098	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+EKEBIHOE_00098	gene	recG		
+EKEBIHOE_00099	CDS			hypothetical protein
+EKEBIHOE_00099	gene			
+EKEBIHOE_00100	CDS			hypothetical protein
+EKEBIHOE_00100	gene			
+EKEBIHOE_00101	CDS			hypothetical protein
+EKEBIHOE_00101	gene			
+EKEBIHOE_00102	CDS			hypothetical protein
+EKEBIHOE_00102	gene			
+EKEBIHOE_00103	CDS			hypothetical protein
+EKEBIHOE_00103	gene			
+EKEBIHOE_00104	CDS			hypothetical protein
+EKEBIHOE_00104	gene			
+EKEBIHOE_00105	CDS	paeR7IM	2.1.1.72	Modification methylase PaeR7I
+EKEBIHOE_00105	gene	paeR7IM		
+EKEBIHOE_00106	CDS			hypothetical protein
+EKEBIHOE_00106	gene			
+EKEBIHOE_00107	CDS	nusA		Transcription termination/antitermination protein NusA
+EKEBIHOE_00107	gene	nusA		
+EKEBIHOE_00108	CDS	selA	2.9.1.1	L-seryl-tRNA(Sec) selenium transferase
+EKEBIHOE_00108	gene	selA		
+EKEBIHOE_00109	CDS	bhuA_2		Heme transporter BhuA
+EKEBIHOE_00109	gene	bhuA_2		
+EKEBIHOE_00110	CDS			hypothetical protein
+EKEBIHOE_00110	gene			
+EKEBIHOE_00111	CDS			hypothetical protein
+EKEBIHOE_00111	gene			
+EKEBIHOE_00112	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+EKEBIHOE_00112	gene	plsY		
+EKEBIHOE_00113	CDS	yccM		Putative electron transport protein YccM
+EKEBIHOE_00113	gene	yccM		
+EKEBIHOE_00114	CDS		1.5.1.43	Carboxynorspermidine synthase
+EKEBIHOE_00114	gene			
+EKEBIHOE_00115	CDS	gltS		Sodium/glutamate symporter
+EKEBIHOE_00115	gene	gltS		
+EKEBIHOE_00116	CDS	ribD		Riboflavin biosynthesis protein RibD
+EKEBIHOE_00116	gene	ribD		
+EKEBIHOE_00117	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+EKEBIHOE_00117	gene	yfiC		
+EKEBIHOE_00118	CDS	copA_1	3.6.3.54	Copper-exporting P-type ATPase A
+EKEBIHOE_00118	gene	copA_1		
+EKEBIHOE_00119	CDS			hypothetical protein
+EKEBIHOE_00119	gene			
+EKEBIHOE_00120	CDS			hypothetical protein
+EKEBIHOE_00120	gene			
+EKEBIHOE_00121	CDS			hypothetical protein
+EKEBIHOE_00121	gene			
+EKEBIHOE_00122	CDS			hypothetical protein
+EKEBIHOE_00122	gene			
+EKEBIHOE_00123	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+EKEBIHOE_00123	gene	pth		
+EKEBIHOE_00124	CDS	rplY		50S ribosomal protein L25
+EKEBIHOE_00124	gene	rplY		
+EKEBIHOE_00125	CDS	tal	2.2.1.2	Transaldolase
+EKEBIHOE_00125	gene	tal		
+EKEBIHOE_00126	CDS	murE	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+EKEBIHOE_00126	gene	murE		
+EKEBIHOE_00127	CDS			hypothetical protein
+EKEBIHOE_00127	gene			
+EKEBIHOE_00128	CDS	nfuA		Fe/S biogenesis protein NfuA
+EKEBIHOE_00128	gene	nfuA		
+EKEBIHOE_00129	CDS	cysP		Sulfate permease CysP
+EKEBIHOE_00129	gene	cysP		
+EKEBIHOE_00130	CDS	corC		Magnesium and cobalt efflux protein CorC
+EKEBIHOE_00130	gene	corC		
+EKEBIHOE_00131	CDS			hypothetical protein
+EKEBIHOE_00131	gene			
+EKEBIHOE_00132	CDS	mdtN		Multidrug resistance protein MdtN
+EKEBIHOE_00132	gene	mdtN		
+EKEBIHOE_00133	CDS			hypothetical protein
+EKEBIHOE_00133	gene			
+EKEBIHOE_00134	CDS	ybhS		Inner membrane transport permease YbhS
+EKEBIHOE_00134	gene	ybhS		
+EKEBIHOE_00135	CDS	yigZ		IMPACT family member YigZ
+EKEBIHOE_00135	gene	yigZ		
+EKEBIHOE_00136	CDS			hypothetical protein
+EKEBIHOE_00136	gene			
+EKEBIHOE_00137	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+EKEBIHOE_00137	gene	menG		
+EKEBIHOE_00138	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+EKEBIHOE_00138	gene	xseB		
+EKEBIHOE_00139	CDS			hypothetical protein
+EKEBIHOE_00139	gene			
+EKEBIHOE_00140	CDS	serS	6.1.1.11	Serine--tRNA ligase
+EKEBIHOE_00140	gene	serS		
+EKEBIHOE_00141	CDS			hypothetical protein
+EKEBIHOE_00141	gene			
+EKEBIHOE_00142	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+EKEBIHOE_00142	gene	pcrA		
+EKEBIHOE_00143	CDS			hypothetical protein
+EKEBIHOE_00143	gene			
+EKEBIHOE_00144	CDS	ubiX	2.5.1.129	Flavin prenyltransferase UbiX
+EKEBIHOE_00144	gene	ubiX		
+EKEBIHOE_00145	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+EKEBIHOE_00145	gene	coaD		
+EKEBIHOE_00146	CDS	tmk	2.7.4.9	Thymidylate kinase
+EKEBIHOE_00146	gene	tmk		
+EKEBIHOE_00147	CDS			hypothetical protein
+EKEBIHOE_00147	gene			
+EKEBIHOE_00148	CDS	bcgIA	3.1.21.-	Restriction enzyme BgcI subunit alpha
+EKEBIHOE_00148	gene	bcgIA		
+EKEBIHOE_00149	CDS	bcgIB	3.1.21.-	Restriction enzyme BgcI subunit beta
+EKEBIHOE_00149	gene	bcgIB		
+EKEBIHOE_00150	CDS	polA	2.7.7.7	DNA polymerase I, thermostable
+EKEBIHOE_00150	gene	polA		
+EKEBIHOE_00151	CDS			hypothetical protein
+EKEBIHOE_00151	gene			
+EKEBIHOE_00152	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid transaminase 1
+EKEBIHOE_00152	gene	ilvE		
+EKEBIHOE_00153	CDS			hypothetical protein
+EKEBIHOE_00153	gene			
+EKEBIHOE_00154	CDS	mlaE		putative phospholipid ABC transporter permease protein MlaE
+EKEBIHOE_00154	gene	mlaE		
+EKEBIHOE_00155	CDS	metN2	3.6.3.-	Methionine import ATP-binding protein MetN 2
+EKEBIHOE_00155	gene	metN2		
+EKEBIHOE_00156	CDS			hypothetical protein
+EKEBIHOE_00156	gene			
+EKEBIHOE_00157	CDS			hypothetical protein
+EKEBIHOE_00157	gene			
+EKEBIHOE_00158	CDS			hypothetical protein
+EKEBIHOE_00158	gene			
+EKEBIHOE_00159	CDS	ccpA	1.11.1.5	Cytochrome c551 peroxidase
+EKEBIHOE_00159	gene	ccpA		
+EKEBIHOE_00160	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+EKEBIHOE_00160	gene	dnaE		
+EKEBIHOE_00161	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+EKEBIHOE_00161	gene	rluB		
+EKEBIHOE_00162	CDS	trxA_1		Thioredoxin
+EKEBIHOE_00162	gene	trxA_1		
+EKEBIHOE_00163	CDS			hypothetical protein
+EKEBIHOE_00163	gene			
+EKEBIHOE_00164	CDS			LPP20 lipoprotein
+EKEBIHOE_00164	gene			
+EKEBIHOE_00165	CDS			hypothetical protein
+EKEBIHOE_00165	gene			
+EKEBIHOE_00166	CDS			hypothetical protein
+EKEBIHOE_00166	gene			
+EKEBIHOE_00167	CDS			hypothetical protein
+EKEBIHOE_00167	gene			
+EKEBIHOE_00168	CDS	mnmE	3.6.5.-	tRNA modification GTPase MnmE
+EKEBIHOE_00168	gene	mnmE		
+EKEBIHOE_00169	CDS			hypothetical protein
+EKEBIHOE_00169	gene			
+EKEBIHOE_00170	CDS	yidC		Membrane protein insertase YidC
+EKEBIHOE_00170	gene	yidC		
+EKEBIHOE_00171	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+EKEBIHOE_00171	gene	rnpA		
+EKEBIHOE_00172	CDS	exbD_1		Biopolymer transport protein ExbD
+EKEBIHOE_00172	gene	exbD_1		
+EKEBIHOE_00173	CDS	exbB_1		Biopolymer transport protein ExbB
+EKEBIHOE_00173	gene	exbB_1		
+EKEBIHOE_00174	CDS	smpB		SsrA-binding protein
+EKEBIHOE_00174	gene	smpB		
+EKEBIHOE_00175	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+EKEBIHOE_00175	gene	ispE		
+EKEBIHOE_00176	CDS	csrA		Carbon storage regulator 
+EKEBIHOE_00176	gene	csrA		
+EKEBIHOE_00177	CDS	ppiB	5.2.1.8	Peptidyl-prolyl cis-trans isomerase B
+EKEBIHOE_00177	gene	ppiB		
+EKEBIHOE_00178	tRNA			tRNA-Arg(tct)
+EKEBIHOE_00178	gene			
+EKEBIHOE_00179	tRNA			tRNA-Arg(tcg)
+EKEBIHOE_00179	gene			
+EKEBIHOE_00180	tRNA			tRNA-His(gtg)
+EKEBIHOE_00180	gene			
+EKEBIHOE_00181	tRNA			tRNA-Pro(tgg)
+EKEBIHOE_00181	gene			
+EKEBIHOE_00182	CDS			hypothetical protein
+EKEBIHOE_00182	gene			
+EKEBIHOE_00183	CDS			hypothetical protein
+EKEBIHOE_00183	gene			
+EKEBIHOE_00184	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+EKEBIHOE_00184	gene	guaA		
+EKEBIHOE_00185	CDS			hypothetical protein
+EKEBIHOE_00185	gene			
+EKEBIHOE_00186	CDS	dorA	1.7.2.3	Dimethyl sulfoxide/trimethylamine N-oxide reductase
+EKEBIHOE_00186	gene	dorA		
+EKEBIHOE_00187	CDS			hypothetical protein
+EKEBIHOE_00187	gene			
+EKEBIHOE_00188	CDS	csd	2.8.1.7	putative cysteine desulfurase
+EKEBIHOE_00188	gene	csd		
+EKEBIHOE_00189	CDS			putative HIT-like protein
+EKEBIHOE_00189	gene			
+EKEBIHOE_00190	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+EKEBIHOE_00190	gene	pheS		
+EKEBIHOE_00191	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+EKEBIHOE_00191	gene	pheT		
+EKEBIHOE_00192	CDS	aroA1	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase 1
+EKEBIHOE_00192	gene	aroA1		
+EKEBIHOE_00193	CDS	ispH	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+EKEBIHOE_00193	gene	ispH		
+EKEBIHOE_00194	CDS	rpsA		30S ribosomal protein S1
+EKEBIHOE_00194	gene	rpsA		
+EKEBIHOE_00195	CDS			hypothetical protein
+EKEBIHOE_00195	gene			
+EKEBIHOE_00196	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+EKEBIHOE_00196	gene	serA		
+EKEBIHOE_00197	CDS	ubiD	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+EKEBIHOE_00197	gene	ubiD		
+EKEBIHOE_00198	CDS			hypothetical protein
+EKEBIHOE_00198	gene			
+EKEBIHOE_00199	CDS	lpxH	3.6.1.54	UDP-2,3-diacylglucosamine hydrolase
+EKEBIHOE_00199	gene	lpxH		
+EKEBIHOE_00200	CDS	cheV_1		Chemotaxis protein CheV
+EKEBIHOE_00200	gene	cheV_1		
+EKEBIHOE_00201	CDS	cheA	2.7.13.3	Chemotaxis protein CheA
+EKEBIHOE_00201	gene	cheA		
+EKEBIHOE_00202	CDS	cheW		Chemotaxis protein CheW
+EKEBIHOE_00202	gene	cheW		
+EKEBIHOE_00203	CDS	tpx	1.11.1.-	putative thiol peroxidase
+EKEBIHOE_00203	gene	tpx		
+EKEBIHOE_00204	CDS	sodB	1.15.1.1	Superoxide dismutase [Fe]
+EKEBIHOE_00204	gene	sodB		
+EKEBIHOE_00205	CDS	cmoA	2.1.3.-	Carboxy-S-adenosyl-L-methionine synthase
+EKEBIHOE_00205	gene	cmoA		
+EKEBIHOE_00206	CDS	priA	3.6.4.-	Primosomal protein N'
+EKEBIHOE_00206	gene	priA		
+EKEBIHOE_00207	CDS			hypothetical protein
+EKEBIHOE_00207	gene			
+EKEBIHOE_00208	CDS			hypothetical protein
+EKEBIHOE_00208	gene			
+EKEBIHOE_00209	CDS			hypothetical protein
+EKEBIHOE_00209	gene			
+EKEBIHOE_00210	CDS			hypothetical protein
+EKEBIHOE_00210	gene			
+EKEBIHOE_00211	CDS	htpX_1	3.4.24.-	Protease HtpX
+EKEBIHOE_00211	gene	htpX_1		
+EKEBIHOE_00212	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+EKEBIHOE_00212	gene	prmC		
+EKEBIHOE_00213	CDS	gdhA	1.4.1.2	NAD(P)-specific glutamate dehydrogenase
+EKEBIHOE_00213	gene	gdhA		
+EKEBIHOE_00214	CDS			hypothetical protein
+EKEBIHOE_00214	gene			
+EKEBIHOE_00215	CDS	yafQ_1	3.1.-.-	mRNA interferase YafQ
+EKEBIHOE_00215	gene	yafQ_1		
+EKEBIHOE_00216	CDS			hypothetical protein
+EKEBIHOE_00216	gene			
+EKEBIHOE_00217	CDS	yafQ_2	3.1.-.-	mRNA interferase YafQ
+EKEBIHOE_00217	gene	yafQ_2		
+EKEBIHOE_00218	CDS			hypothetical protein
+EKEBIHOE_00218	gene			
+EKEBIHOE_00219	CDS		1.-.-.-	putative oxidoreductase
+EKEBIHOE_00219	gene			
+EKEBIHOE_00220	CDS	hmuU		Hemin transport system permease protein HmuU
+EKEBIHOE_00220	gene	hmuU		
+EKEBIHOE_00221	CDS			putative ABC transporter ATP-binding protein
+EKEBIHOE_00221	gene			
+EKEBIHOE_00222	CDS	vacA_2		Vacuolating cytotoxin autotransporter
+EKEBIHOE_00222	gene	vacA_2		
+EKEBIHOE_00223	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+EKEBIHOE_00223	gene	cysS		
+EKEBIHOE_00224	CDS	murJ		Lipid II flippase MurJ
+EKEBIHOE_00224	gene	murJ		
+EKEBIHOE_00225	CDS			hypothetical protein
+EKEBIHOE_00225	gene			
+EKEBIHOE_00226	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+EKEBIHOE_00226	gene	ruvA		
+EKEBIHOE_00227	CDS			hypothetical protein
+EKEBIHOE_00227	gene			
+EKEBIHOE_00228	CDS			hypothetical protein
+EKEBIHOE_00228	gene			
+EKEBIHOE_00229	CDS			hypothetical protein
+EKEBIHOE_00229	gene			
+EKEBIHOE_00230	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+EKEBIHOE_00230	gene	ruvC		
+EKEBIHOE_00231	CDS	tdhA		TonB-dependent heme receptor A
+EKEBIHOE_00231	gene	tdhA		
+EKEBIHOE_00232	CDS	katA	1.11.1.6	Catalase
+EKEBIHOE_00232	gene	katA		
+EKEBIHOE_00233	CDS			hypothetical protein
+EKEBIHOE_00233	gene			
+EKEBIHOE_00234	CDS			hypothetical protein
+EKEBIHOE_00234	gene			
+EKEBIHOE_00235	CDS			hypothetical protein
+EKEBIHOE_00235	gene			
+EKEBIHOE_00236	CDS	cdh	3.6.1.26	CDP-diacylglycerol pyrophosphatase
+EKEBIHOE_00236	gene	cdh		
+EKEBIHOE_00237	CDS	flgE_2		Flagellar hook protein FlgE
+EKEBIHOE_00237	gene	flgE_2		
+EKEBIHOE_00238	CDS	hypA		Hydrogenase/urease nickel incorporation protein HypA
+EKEBIHOE_00238	gene	hypA		
+EKEBIHOE_00239	CDS			hypothetical protein
+EKEBIHOE_00239	gene			
+EKEBIHOE_00240	CDS	lpxB	2.4.1.182	Lipid-A-disaccharide synthase
+EKEBIHOE_00240	gene	lpxB		
+EKEBIHOE_00241	CDS	greA		Transcription elongation factor GreA
+EKEBIHOE_00241	gene	greA		
+EKEBIHOE_00242	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+EKEBIHOE_00242	gene	dut		
+EKEBIHOE_00243	CDS			hypothetical protein
+EKEBIHOE_00243	gene			
+EKEBIHOE_00244	CDS	pgbB		Plasminogen-binding protein PgbB
+EKEBIHOE_00244	gene	pgbB		
+EKEBIHOE_00245	CDS	coaX	2.7.1.33	Type III pantothenate kinase
+EKEBIHOE_00245	gene	coaX		
+EKEBIHOE_00246	CDS			hypothetical protein
+EKEBIHOE_00246	gene			
+EKEBIHOE_00247	CDS	gmhB	3.1.3.82	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+EKEBIHOE_00247	gene	gmhB		
+EKEBIHOE_00248	CDS	hldD	5.1.3.20	ADP-L-glycero-D-manno-heptose-6-epimerase
+EKEBIHOE_00248	gene	hldD		
+EKEBIHOE_00249	CDS	hldE		Bifunctional protein HldE
+EKEBIHOE_00249	gene	hldE		
+EKEBIHOE_00250	CDS	gmhA1	5.3.1.28	Phosphoheptose isomerase 1
+EKEBIHOE_00250	gene	gmhA1		
+EKEBIHOE_00251	CDS			hypothetical protein
+EKEBIHOE_00251	gene			
+EKEBIHOE_00252	CDS	patA	2.3.1.-	Peptidoglycan O-acetyltransferase
+EKEBIHOE_00252	gene	patA		
+EKEBIHOE_00253	CDS	guaC	1.7.1.7	GMP reductase
+EKEBIHOE_00253	gene	guaC		
+EKEBIHOE_00254	CDS	ybiT		putative ABC transporter ATP-binding protein YbiT
+EKEBIHOE_00254	gene	ybiT		
+EKEBIHOE_00255	CDS			hypothetical protein
+EKEBIHOE_00255	gene			
+EKEBIHOE_00256	CDS			hypothetical protein
+EKEBIHOE_00256	gene			
+EKEBIHOE_00257	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+EKEBIHOE_00257	gene			
+EKEBIHOE_00258	CDS			hypothetical protein
+EKEBIHOE_00258	gene			
+EKEBIHOE_00259	CDS		5.3.2.-	putative tautomerase
+EKEBIHOE_00259	gene			
+EKEBIHOE_00260	CDS	recR		Recombination protein RecR
+EKEBIHOE_00260	gene	recR		
+EKEBIHOE_00261	CDS	truD	5.4.99.27	tRNA pseudouridine synthase D
+EKEBIHOE_00261	gene	truD		
+EKEBIHOE_00262	CDS	htpX_2	3.4.24.-	Protease HtpX 
+EKEBIHOE_00262	gene	htpX_2		
+EKEBIHOE_00263	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+EKEBIHOE_00263	gene	folE		
+EKEBIHOE_00264	CDS		2.5.1.10	Farnesyl diphosphate synthase
+EKEBIHOE_00264	gene			
+EKEBIHOE_00265	CDS	surE	3.1.3.5	5'-nucleotidase SurE
+EKEBIHOE_00265	gene	surE		
+EKEBIHOE_00266	CDS			hypothetical protein
+EKEBIHOE_00266	gene			
+EKEBIHOE_00267	CDS			hypothetical protein
+EKEBIHOE_00267	gene			
+EKEBIHOE_00268	CDS	queE_1	4.3.99.3	7-carboxy-7-deazaguanine synthase
+EKEBIHOE_00268	gene	queE_1		
+EKEBIHOE_00269	CDS			hypothetical protein
+EKEBIHOE_00269	gene			
+EKEBIHOE_00270	CDS	proP		Proline/betaine transporter
+EKEBIHOE_00270	gene	proP		
+EKEBIHOE_00271	CDS			hypothetical protein
+EKEBIHOE_00271	gene			
+EKEBIHOE_00272	CDS			hypothetical protein
+EKEBIHOE_00272	gene			
+EKEBIHOE_00273	CDS	tcyB_1		L-cystine transport system permease protein TcyB
+EKEBIHOE_00273	gene	tcyB_1		
+EKEBIHOE_00274	CDS			putative amino-acid ABC transporter-binding protein
+EKEBIHOE_00274	gene			
+EKEBIHOE_00275	CDS	alr1	5.1.1.1	Alanine racemase 1
+EKEBIHOE_00275	gene	alr1		
+EKEBIHOE_00276	CDS	alsT		Amino-acid carrier protein AlsT
+EKEBIHOE_00276	gene	alsT		
+EKEBIHOE_00277	CDS	dadA	1.4.5.1	D-amino acid dehydrogenase
+EKEBIHOE_00277	gene	dadA		
+EKEBIHOE_00278	CDS			RutC family protein
+EKEBIHOE_00278	gene			
+EKEBIHOE_00279	tRNA			tRNA-Gly(gcc)
+EKEBIHOE_00279	gene			
+EKEBIHOE_00280	CDS			hypothetical protein
+EKEBIHOE_00280	gene			
+EKEBIHOE_00281	tRNA			tRNA-Leu(taa)
+EKEBIHOE_00281	gene			
+EKEBIHOE_00282	tRNA			tRNA-Cys(gca)
+EKEBIHOE_00282	gene			
+EKEBIHOE_00283	tRNA			tRNA-Ser(tga)
+EKEBIHOE_00283	gene			
+EKEBIHOE_00284	CDS	mleN		Malate-2H(+)/Na(+)-lactate antiporter
+EKEBIHOE_00284	gene	mleN		
+EKEBIHOE_00285	CDS			hypothetical protein
+EKEBIHOE_00285	gene			
+EKEBIHOE_00286	CDS			hypothetical protein
+EKEBIHOE_00286	gene			
+EKEBIHOE_00287	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+EKEBIHOE_00287	gene	rlmH		
+EKEBIHOE_00288	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+EKEBIHOE_00288	gene	accD		
+EKEBIHOE_00289	CDS			hypothetical protein
+EKEBIHOE_00289	gene			
+EKEBIHOE_00290	CDS	pncC	3.5.1.42	Nicotinamide-nucleotide amidohydrolase PncC
+EKEBIHOE_00290	gene	pncC		
+EKEBIHOE_00291	CDS			hypothetical protein
+EKEBIHOE_00291	gene			
+EKEBIHOE_00292	CDS	rdxA	1.-.-.-	Oxygen-insensitive NADPH nitroreductase
+EKEBIHOE_00292	gene	rdxA		
+EKEBIHOE_00293	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+EKEBIHOE_00293	gene	lgt		
+EKEBIHOE_00294	CDS		5.4.99.-	putative RNA pseudouridine synthase
+EKEBIHOE_00294	gene			
+EKEBIHOE_00295	CDS	waaA	2.4.99.12	3-deoxy-D-manno-octulosonic acid transferase
+EKEBIHOE_00295	gene	waaA		
+EKEBIHOE_00296	CDS			hypothetical protein
+EKEBIHOE_00296	gene			
+EKEBIHOE_00297	CDS		3.5.4.16	GTP cyclohydrolase 1 type 2
+EKEBIHOE_00297	gene			
+EKEBIHOE_00298	CDS	glyQ	6.1.1.14	Glycine--tRNA ligase alpha subunit
+EKEBIHOE_00298	gene	glyQ		
+EKEBIHOE_00299	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+EKEBIHOE_00299	gene	gpsA		
+EKEBIHOE_00300	CDS	acpP_1		Acyl carrier protein
+EKEBIHOE_00300	gene	acpP_1		
+EKEBIHOE_00301	CDS	era_1		GTPase Era
+EKEBIHOE_00301	gene	era_1		
+EKEBIHOE_00302	CDS			hypothetical protein
+EKEBIHOE_00302	gene			
+EKEBIHOE_00303	CDS	der_1		GTPase Der
+EKEBIHOE_00303	gene	der_1		
+EKEBIHOE_00304	CDS			hypothetical protein
+EKEBIHOE_00304	gene			
+EKEBIHOE_00305	CDS	vapD_1	3.1.-.-	Endoribonuclease VapD
+EKEBIHOE_00305	gene	vapD_1		
+EKEBIHOE_00306	CDS			hypothetical protein
+EKEBIHOE_00306	gene			
+EKEBIHOE_00307	CDS	czcA		Cobalt-zinc-cadmium resistance protein CzcA
+EKEBIHOE_00307	gene	czcA		
+EKEBIHOE_00308	CDS			hypothetical protein
+EKEBIHOE_00308	gene			
+EKEBIHOE_00309	CDS			hypothetical protein
+EKEBIHOE_00309	gene			
+EKEBIHOE_00310	CDS	glyS	6.1.1.14	Glycine--tRNA ligase beta subunit
+EKEBIHOE_00310	gene	glyS		
+EKEBIHOE_00311	CDS			hypothetical protein
+EKEBIHOE_00311	gene			
+EKEBIHOE_00312	CDS	gpmI	5.4.2.12	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+EKEBIHOE_00312	gene	gpmI		
+EKEBIHOE_00313	CDS	gatC	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+EKEBIHOE_00313	gene	gatC		
+EKEBIHOE_00314	CDS	bioA	2.6.1.62	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+EKEBIHOE_00314	gene	bioA		
+EKEBIHOE_00315	CDS	ppiD	5.2.1.8	Peptidyl-prolyl cis-trans isomerase D
+EKEBIHOE_00315	gene	ppiD		
+EKEBIHOE_00316	CDS	vapD_2	3.1.-.-	Endoribonuclease VapD
+EKEBIHOE_00316	gene	vapD_2		
+EKEBIHOE_00317	CDS			hypothetical protein
+EKEBIHOE_00317	gene			
+EKEBIHOE_00318	CDS	yjiA		putative GTP-binding protein YjiA
+EKEBIHOE_00318	gene	yjiA		
+EKEBIHOE_00319	CDS			hypothetical protein
+EKEBIHOE_00319	gene			
+EKEBIHOE_00320	CDS	pgdA	3.5.1.-	Peptidoglycan deacetylase
+EKEBIHOE_00320	gene	pgdA		
+EKEBIHOE_00321	CDS		3.5.1.111	2-oxoglutaramate amidase
+EKEBIHOE_00321	gene			
+EKEBIHOE_00322	CDS			hypothetical protein
+EKEBIHOE_00322	gene			
+EKEBIHOE_00323	CDS			hypothetical protein
+EKEBIHOE_00323	gene			
+EKEBIHOE_00324	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+EKEBIHOE_00324	gene	hemL		
+EKEBIHOE_00325	CDS			hypothetical protein
+EKEBIHOE_00325	gene			
+EKEBIHOE_00326	CDS			hypothetical protein
+EKEBIHOE_00326	gene			
+EKEBIHOE_00327	CDS	obg	3.6.5.-	GTPase Obg
+EKEBIHOE_00327	gene	obg		
+EKEBIHOE_00328	CDS	oppF		Oligopeptide transport ATP-binding protein OppF
+EKEBIHOE_00328	gene	oppF		
+EKEBIHOE_00329	CDS	oppD		Oligopeptide transport ATP-binding protein OppD
+EKEBIHOE_00329	gene	oppD		
+EKEBIHOE_00330	CDS	dppC		Dipeptide transport system permease protein DppC
+EKEBIHOE_00330	gene	dppC		
+EKEBIHOE_00331	CDS	dppB		Dipeptide transport system permease protein DppB
+EKEBIHOE_00331	gene	dppB		
+EKEBIHOE_00332	CDS	hbpA		Heme-binding protein A
+EKEBIHOE_00332	gene	hbpA		
+EKEBIHOE_00333	CDS	rpmA		50S ribosomal protein L27
+EKEBIHOE_00333	gene	rpmA		
+EKEBIHOE_00334	CDS	rplU		50S ribosomal protein L21
+EKEBIHOE_00334	gene	rplU		
+EKEBIHOE_00335	CDS	flgL		Flagellar hook-associated protein 3
+EKEBIHOE_00335	gene	flgL		
+EKEBIHOE_00336	CDS	amiE	3.5.1.4	Aliphatic amidase
+EKEBIHOE_00336	gene	amiE		
+EKEBIHOE_00337	CDS	pabB	2.6.1.85	Aminodeoxychorismate synthase component 1
+EKEBIHOE_00337	gene	pabB		
+EKEBIHOE_00338	CDS			hypothetical protein
+EKEBIHOE_00338	gene			
+EKEBIHOE_00339	CDS	tyrA_1		T-protein
+EKEBIHOE_00339	gene	tyrA_1		
+EKEBIHOE_00340	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+EKEBIHOE_00340	gene	lysA		
+EKEBIHOE_00341	CDS	vacA_3		Vacuolating cytotoxin autotransporter
+EKEBIHOE_00341	gene	vacA_3		
+EKEBIHOE_00342	CDS			hypothetical protein
+EKEBIHOE_00342	gene			
+EKEBIHOE_00343	CDS			hypothetical protein
+EKEBIHOE_00343	gene			
+EKEBIHOE_00344	CDS	ftsH_1	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+EKEBIHOE_00344	gene	ftsH_1		
+EKEBIHOE_00345	CDS	mtaB	2.8.4.5	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+EKEBIHOE_00345	gene	mtaB		
+EKEBIHOE_00346	CDS			hypothetical protein
+EKEBIHOE_00346	gene			
+EKEBIHOE_00347	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+EKEBIHOE_00347	gene	aroB		
+EKEBIHOE_00348	CDS			hypothetical protein
+EKEBIHOE_00348	gene			
+EKEBIHOE_00349	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+EKEBIHOE_00349	gene	tgt		
+EKEBIHOE_00350	CDS	lpxP	2.3.1.242	Lipid A biosynthesis palmitoleoyltransferase
+EKEBIHOE_00350	gene	lpxP		
+EKEBIHOE_00351	CDS	rfaC	2.-.-.-	Lipopolysaccharide heptosyltransferase 1
+EKEBIHOE_00351	gene	rfaC		
+EKEBIHOE_00352	CDS	gppA	3.6.1.40	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+EKEBIHOE_00352	gene	gppA		
+EKEBIHOE_00353	CDS	fdx		Ferredoxin
+EKEBIHOE_00353	gene	fdx		
+EKEBIHOE_00354	CDS			hypothetical protein
+EKEBIHOE_00354	gene			
+EKEBIHOE_00355	CDS			hypothetical protein
+EKEBIHOE_00355	gene			
+EKEBIHOE_00356	CDS			hypothetical protein
+EKEBIHOE_00356	gene			
+EKEBIHOE_00357	CDS			hypothetical protein
+EKEBIHOE_00357	gene			
+EKEBIHOE_00358	CDS			hypothetical protein
+EKEBIHOE_00358	gene			
+EKEBIHOE_00359	CDS			hypothetical protein
+EKEBIHOE_00359	gene			
+EKEBIHOE_00360	CDS			hypothetical protein
+EKEBIHOE_00360	gene			
+EKEBIHOE_00361	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+EKEBIHOE_00361	gene	miaB		
+EKEBIHOE_00362	CDS			hypothetical protein
+EKEBIHOE_00362	gene			
+EKEBIHOE_00363	CDS		3.5.4.4	Adenosine deaminase
+EKEBIHOE_00363	gene			
+EKEBIHOE_00364	CDS	pyrC_1	3.5.2.3	Dihydroorotase
+EKEBIHOE_00364	gene	pyrC_1		
+EKEBIHOE_00365	CDS	dsbD	1.8.1.8	Thiol:disulfide interchange protein DsbD
+EKEBIHOE_00365	gene	dsbD		
+EKEBIHOE_00366	CDS	clpB		Chaperone protein ClpB
+EKEBIHOE_00366	gene	clpB		
+EKEBIHOE_00367	CDS	dpnA_1	2.1.1.72	Modification methylase DpnIIB
+EKEBIHOE_00367	gene	dpnA_1		
+EKEBIHOE_00368	CDS			hypothetical protein
+EKEBIHOE_00368	gene			
+EKEBIHOE_00369	CDS			hypothetical protein
+EKEBIHOE_00369	gene			
+EKEBIHOE_00370	CDS			hypothetical protein
+EKEBIHOE_00370	gene			
+EKEBIHOE_00371	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+EKEBIHOE_00371	gene	xseA		
+EKEBIHOE_00372	CDS	mmpA	3.4.24.-	Metalloprotease MmpA
+EKEBIHOE_00372	gene	mmpA		
+EKEBIHOE_00373	CDS			hypothetical protein
+EKEBIHOE_00373	gene			
+EKEBIHOE_00374	CDS			hypothetical protein
+EKEBIHOE_00374	gene			
+EKEBIHOE_00375	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+EKEBIHOE_00375	gene	purA		
+EKEBIHOE_00376	CDS			hypothetical protein
+EKEBIHOE_00376	gene			
+EKEBIHOE_00377	CDS			hypothetical protein
+EKEBIHOE_00377	gene			
+EKEBIHOE_00378	tRNA			tRNA-Ala(ggc)
+EKEBIHOE_00378	gene			
+EKEBIHOE_00379	CDS	yejE		Inner membrane ABC transporter permease protein YejE
+EKEBIHOE_00379	gene	yejE		
+EKEBIHOE_00380	CDS	gsiA	3.6.3.-	Glutathione import ATP-binding protein GsiA
+EKEBIHOE_00380	gene	gsiA		
+EKEBIHOE_00381	CDS			hypothetical protein
+EKEBIHOE_00381	gene			
+EKEBIHOE_00382	CDS	hflC		Modulator of FtsH protease HflC
+EKEBIHOE_00382	gene	hflC		
+EKEBIHOE_00383	CDS	rhpA	3.6.4.13	DEAD-box ATP-dependent RNA helicase RhpA
+EKEBIHOE_00383	gene	rhpA		
+EKEBIHOE_00384	CDS	flgI		Flagellar P-ring protein
+EKEBIHOE_00384	gene	flgI		
+EKEBIHOE_00385	CDS			hypothetical protein
+EKEBIHOE_00385	gene			
+EKEBIHOE_00386	CDS	zraS	2.7.13.3	Sensor protein ZraS
+EKEBIHOE_00386	gene	zraS		
+EKEBIHOE_00387	CDS	dps	1.16.-.-	DNA protection during starvation protein
+EKEBIHOE_00387	gene	dps		
+EKEBIHOE_00388	CDS			hypothetical protein
+EKEBIHOE_00388	gene			
+EKEBIHOE_00389	CDS			hypothetical protein
+EKEBIHOE_00389	gene			
+EKEBIHOE_00390	CDS	ispB	2.5.1.90	Octaprenyl diphosphate synthase
+EKEBIHOE_00390	gene	ispB		
+EKEBIHOE_00391	CDS	hemA	1.2.1.70	Glutamyl-tRNA reductase
+EKEBIHOE_00391	gene	hemA		
+EKEBIHOE_00392	CDS	proS	6.1.1.15	Proline--tRNA ligase
+EKEBIHOE_00392	gene	proS		
+EKEBIHOE_00393	CDS	hemC	2.5.1.61	Porphobilinogen deaminase
+EKEBIHOE_00393	gene	hemC		
+EKEBIHOE_00394	CDS			hypothetical protein
+EKEBIHOE_00394	gene			
+EKEBIHOE_00395	CDS	hcpC_1	3.5.2.6	Putative beta-lactamase HcpC
+EKEBIHOE_00395	gene	hcpC_1		
+EKEBIHOE_00396	CDS			hypothetical protein
+EKEBIHOE_00396	gene			
+EKEBIHOE_00397	CDS	ygiC	6.3.1.-	Putative acid--amine ligase YgiC
+EKEBIHOE_00397	gene	ygiC		
+EKEBIHOE_00398	CDS			hypothetical protein
+EKEBIHOE_00398	gene			
+EKEBIHOE_00399	CDS			hypothetical protein
+EKEBIHOE_00399	gene			
+EKEBIHOE_00400	CDS	kdsB	2.7.7.38	3-deoxy-manno-octulosonate cytidylyltransferase
+EKEBIHOE_00400	gene	kdsB		
+EKEBIHOE_00401	CDS			hypothetical protein
+EKEBIHOE_00401	gene			
+EKEBIHOE_00402	tRNA			tRNA-Asn(gtt)
+EKEBIHOE_00402	gene			
+EKEBIHOE_00403	CDS	bicA		Bicarbonate transporter BicA
+EKEBIHOE_00403	gene	bicA		
+EKEBIHOE_00404	CDS	rpsD		30S ribosomal protein S4
+EKEBIHOE_00404	gene	rpsD		
+EKEBIHOE_00405	CDS	rpsK		30S ribosomal protein S11
+EKEBIHOE_00405	gene	rpsK		
+EKEBIHOE_00406	CDS	rpsM		30S ribosomal protein S13
+EKEBIHOE_00406	gene	rpsM		
+EKEBIHOE_00407	CDS	rpmJ		50S ribosomal protein L36
+EKEBIHOE_00407	gene	rpmJ		
+EKEBIHOE_00408	CDS	infA		Translation initiation factor IF-1
+EKEBIHOE_00408	gene	infA		
+EKEBIHOE_00409	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+EKEBIHOE_00409	gene	map		
+EKEBIHOE_00410	CDS	secY		Protein translocase subunit SecY
+EKEBIHOE_00410	gene	secY		
+EKEBIHOE_00411	CDS	rplO		50S ribosomal protein L15
+EKEBIHOE_00411	gene	rplO		
+EKEBIHOE_00412	CDS	rpsE		30S ribosomal protein S5
+EKEBIHOE_00412	gene	rpsE		
+EKEBIHOE_00413	CDS	rplR		50S ribosomal protein L18
+EKEBIHOE_00413	gene	rplR		
+EKEBIHOE_00414	CDS	rplF		50S ribosomal protein L6
+EKEBIHOE_00414	gene	rplF		
+EKEBIHOE_00415	CDS	rpsH		30S ribosomal protein S8
+EKEBIHOE_00415	gene	rpsH		
+EKEBIHOE_00416	CDS	rplE		50S ribosomal protein L5
+EKEBIHOE_00416	gene	rplE		
+EKEBIHOE_00417	CDS	rplX		50S ribosomal protein L24
+EKEBIHOE_00417	gene	rplX		
+EKEBIHOE_00418	CDS	rplN		50S ribosomal protein L14
+EKEBIHOE_00418	gene	rplN		
+EKEBIHOE_00419	CDS	rpsQ		30S ribosomal protein S17
+EKEBIHOE_00419	gene	rpsQ		
+EKEBIHOE_00420	CDS	rpmC		50S ribosomal protein L29
+EKEBIHOE_00420	gene	rpmC		
+EKEBIHOE_00421	CDS	rplP		50S ribosomal protein L16
+EKEBIHOE_00421	gene	rplP		
+EKEBIHOE_00422	CDS	rpsC		30S ribosomal protein S3
+EKEBIHOE_00422	gene	rpsC		
+EKEBIHOE_00423	CDS	rplV		50S ribosomal protein L22
+EKEBIHOE_00423	gene	rplV		
+EKEBIHOE_00424	CDS	rpsS		30S ribosomal protein S19
+EKEBIHOE_00424	gene	rpsS		
+EKEBIHOE_00425	CDS	rplB		50S ribosomal protein L2
+EKEBIHOE_00425	gene	rplB		
+EKEBIHOE_00426	CDS	rplW		50S ribosomal protein L23
+EKEBIHOE_00426	gene	rplW		
+EKEBIHOE_00427	CDS	rplD		50S ribosomal protein L4
+EKEBIHOE_00427	gene	rplD		
+EKEBIHOE_00428	CDS	rplC		50S ribosomal protein L3
+EKEBIHOE_00428	gene	rplC		
+EKEBIHOE_00429	CDS	rpsJ		30S ribosomal protein S10
+EKEBIHOE_00429	gene	rpsJ		
+EKEBIHOE_00430	CDS			hypothetical protein
+EKEBIHOE_00430	gene			
+EKEBIHOE_00431	CDS			hypothetical protein
+EKEBIHOE_00431	gene			
+EKEBIHOE_00432	CDS	rnhB	3.1.26.4	Ribonuclease HII
+EKEBIHOE_00432	gene	rnhB		
+EKEBIHOE_00433	CDS			hypothetical protein
+EKEBIHOE_00433	gene			
+EKEBIHOE_00434	CDS	fumC	4.2.1.2	Fumarate hydratase class II
+EKEBIHOE_00434	gene	fumC		
+EKEBIHOE_00435	CDS			hypothetical protein
+EKEBIHOE_00435	gene			
+EKEBIHOE_00436	CDS			hypothetical protein
+EKEBIHOE_00436	gene			
+EKEBIHOE_00437	CDS	cusB		Cation efflux system protein CusB
+EKEBIHOE_00437	gene	cusB		
+EKEBIHOE_00438	CDS	cusA		Cation efflux system protein CusA
+EKEBIHOE_00438	gene	cusA		
+EKEBIHOE_00439	CDS			hypothetical protein
+EKEBIHOE_00439	gene			
+EKEBIHOE_00440	CDS	ygaZ		Inner membrane protein YgaZ
+EKEBIHOE_00440	gene	ygaZ		
+EKEBIHOE_00441	CDS	dnaJ		Chaperone protein DnaJ
+EKEBIHOE_00441	gene	dnaJ		
+EKEBIHOE_00442	CDS			hypothetical protein
+EKEBIHOE_00442	gene			
+EKEBIHOE_00443	CDS			hypothetical protein
+EKEBIHOE_00443	gene			
+EKEBIHOE_00444	CDS	mnmA_1	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+EKEBIHOE_00444	gene	mnmA_1		
+EKEBIHOE_00445	CDS			hypothetical protein
+EKEBIHOE_00445	gene			
+EKEBIHOE_00446	CDS	nadD	2.7.7.18	putative nicotinate-nucleotide adenylyltransferase
+EKEBIHOE_00446	gene	nadD		
+EKEBIHOE_00447	CDS			Putative nickel-responsive regulator
+EKEBIHOE_00447	gene			
+EKEBIHOE_00448	CDS	exbB_2		Biopolymer transport protein ExbB
+EKEBIHOE_00448	gene	exbB_2		
+EKEBIHOE_00449	CDS	exbD_2		Biopolymer transport protein ExbD
+EKEBIHOE_00449	gene	exbD_2		
+EKEBIHOE_00450	CDS			hypothetical protein
+EKEBIHOE_00450	gene			
+EKEBIHOE_00451	CDS	nusB		N utilization substance protein B 
+EKEBIHOE_00451	gene	nusB		
+EKEBIHOE_00452	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+EKEBIHOE_00452	gene	ribH		
+EKEBIHOE_00453	CDS	kdsA	2.5.1.55	2-dehydro-3-deoxyphosphooctonate aldolase
+EKEBIHOE_00453	gene	kdsA		
+EKEBIHOE_00454	CDS	cynT	4.2.1.1	Carbonic anhydrase 1
+EKEBIHOE_00454	gene	cynT		
+EKEBIHOE_00455	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+EKEBIHOE_00455	gene	pyrF		
+EKEBIHOE_00456	CDS	panC	6.3.2.1	Pantothenate synthetase
+EKEBIHOE_00456	gene	panC		
+EKEBIHOE_00457	tRNA			tRNA-Glu(ttc)
+EKEBIHOE_00457	gene			
+EKEBIHOE_00458	tRNA			tRNA-Asp(gtc)
+EKEBIHOE_00458	gene			
+EKEBIHOE_00459	tRNA			tRNA-Val(tac)
+EKEBIHOE_00459	gene			
+EKEBIHOE_00460	tRNA			tRNA-Glu(ttc)
+EKEBIHOE_00460	gene			
+EKEBIHOE_00461	tRNA			tRNA-Lys(ttt)
+EKEBIHOE_00461	gene			
+EKEBIHOE_00462	CDS			hypothetical protein
+EKEBIHOE_00462	gene			
+EKEBIHOE_00463	CDS	groL		60 kDa chaperonin
+EKEBIHOE_00463	gene	groL		
+EKEBIHOE_00464	CDS	groS		10 kDa chaperonin
+EKEBIHOE_00464	gene	groS		
+EKEBIHOE_00465	CDS	dnaG	2.7.7.-	DNA primase
+EKEBIHOE_00465	gene	dnaG		
+EKEBIHOE_00466	CDS	mnmA_2	2.8.1.-	tRNA-specific 2-thiouridylase MnmA
+EKEBIHOE_00466	gene	mnmA_2		
+EKEBIHOE_00467	CDS			hypothetical protein
+EKEBIHOE_00467	gene			
+EKEBIHOE_00468	CDS			hypothetical protein
+EKEBIHOE_00468	gene			
+EKEBIHOE_00469	CDS			hypothetical protein
+EKEBIHOE_00469	gene			
+EKEBIHOE_00470	CDS	virB4_1		Type IV secretion system protein virB4
+EKEBIHOE_00470	gene	virB4_1		
+EKEBIHOE_00471	CDS			hypothetical protein
+EKEBIHOE_00471	gene			
+EKEBIHOE_00472	CDS	cheV_2		Chemotaxis protein CheV
+EKEBIHOE_00472	gene	cheV_2		
+EKEBIHOE_00473	CDS	nspC	4.1.1.96	Carboxynorspermidine/carboxyspermidine decarboxylase
+EKEBIHOE_00473	gene	nspC		
+EKEBIHOE_00474	CDS	lpxE_1	3.1.-.-	Lipid A 1-phosphatase
+EKEBIHOE_00474	gene	lpxE_1		
+EKEBIHOE_00475	CDS	eptA	2.7.-.-	Phosphoethanolamine transferase EptA
+EKEBIHOE_00475	gene	eptA		
+EKEBIHOE_00476	CDS			hypothetical protein
+EKEBIHOE_00476	gene			
+EKEBIHOE_00477	CDS	aarA	2.3.3.16	Citrate synthase
+EKEBIHOE_00477	gene	aarA		
+EKEBIHOE_00478	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+EKEBIHOE_00478	gene	icd		
+EKEBIHOE_00479	CDS			hypothetical protein
+EKEBIHOE_00479	gene			
+EKEBIHOE_00480	CDS	bioD	6.3.3.3	ATP-dependent dethiobiotin synthetase BioD
+EKEBIHOE_00480	gene	bioD		
+EKEBIHOE_00481	CDS			hypothetical protein
+EKEBIHOE_00481	gene			
+EKEBIHOE_00482	CDS			hypothetical protein
+EKEBIHOE_00482	gene			
+EKEBIHOE_00483	CDS	clpS		ATP-dependent Clp protease adapter protein ClpS
+EKEBIHOE_00483	gene	clpS		
+EKEBIHOE_00484	CDS	clpA		ATP-dependent Clp protease ATP-binding subunit ClpA
+EKEBIHOE_00484	gene	clpA		
+EKEBIHOE_00485	CDS	panD	4.1.1.11	Aspartate 1-decarboxylase
+EKEBIHOE_00485	gene	panD		
+EKEBIHOE_00486	CDS			Nucleoid-associated protein
+EKEBIHOE_00486	gene			
+EKEBIHOE_00487	CDS			hypothetical protein
+EKEBIHOE_00487	gene			
+EKEBIHOE_00488	CDS			hypothetical protein
+EKEBIHOE_00488	gene			
+EKEBIHOE_00489	CDS			hypothetical protein
+EKEBIHOE_00489	gene			
+EKEBIHOE_00490	CDS			hypothetical protein
+EKEBIHOE_00490	gene			
+EKEBIHOE_00491	CDS			hypothetical protein
+EKEBIHOE_00491	gene			
+EKEBIHOE_00492	CDS	ptlG		Type IV secretion system protein PtlG
+EKEBIHOE_00492	gene	ptlG		
+EKEBIHOE_00493	CDS	algA		Alginate biosynthesis protein AlgA
+EKEBIHOE_00493	gene	algA		
+EKEBIHOE_00494	CDS	gmd	4.2.1.47	GDP-mannose 4,6-dehydratase
+EKEBIHOE_00494	gene	gmd		
+EKEBIHOE_00495	CDS	colC	1.1.1.356	GDP-L-colitose synthase
+EKEBIHOE_00495	gene	colC		
+EKEBIHOE_00496	CDS	hypE		Hydrogenase isoenzymes formation protein HypE
+EKEBIHOE_00496	gene	hypE		
+EKEBIHOE_00497	CDS	hypF	2.1.3.-	Carbamoyltransferase HypF
+EKEBIHOE_00497	gene	hypF		
+EKEBIHOE_00498	CDS	aguA	3.5.3.12	Agmatine deiminase
+EKEBIHOE_00498	gene	aguA		
+EKEBIHOE_00499	CDS	dpnA_2	2.1.1.72	Modification methylase DpnIIB
+EKEBIHOE_00499	gene	dpnA_2		
+EKEBIHOE_00500	CDS	bspRIM	2.1.1.37	Modification methylase BspRI
+EKEBIHOE_00500	gene	bspRIM		
+EKEBIHOE_00501	CDS			hypothetical protein
+EKEBIHOE_00501	gene			
+EKEBIHOE_00502	CDS			hypothetical protein
+EKEBIHOE_00502	gene			
+EKEBIHOE_00503	CDS			hypothetical protein
+EKEBIHOE_00503	gene			
+EKEBIHOE_00504	CDS	haeIIIM	2.1.1.37	Modification methylase HaeIII
+EKEBIHOE_00504	gene	haeIIIM		
+EKEBIHOE_00505	CDS	putP		High-affinity proline transporter PutP
+EKEBIHOE_00505	gene	putP		
+EKEBIHOE_00506	CDS	rocA1	1.2.1.88	1-pyrroline-5-carboxylate dehydrogenase 1
+EKEBIHOE_00506	gene	rocA1		
+EKEBIHOE_00507	CDS			hypothetical protein
+EKEBIHOE_00507	gene			
+EKEBIHOE_00508	CDS			hypothetical protein
+EKEBIHOE_00508	gene			
+EKEBIHOE_00509	CDS	smc_1		Chromosome partition protein Smc
+EKEBIHOE_00509	gene	smc_1		
+EKEBIHOE_00510	CDS			hypothetical protein
+EKEBIHOE_00510	gene			
+EKEBIHOE_00511	CDS			hypothetical protein
+EKEBIHOE_00511	gene			
+EKEBIHOE_00512	CDS			hypothetical protein
+EKEBIHOE_00512	gene			
+EKEBIHOE_00513	CDS			hypothetical protein
+EKEBIHOE_00513	gene			
+EKEBIHOE_00514	CDS			hypothetical protein
+EKEBIHOE_00514	gene			
+EKEBIHOE_00515	CDS			hypothetical protein
+EKEBIHOE_00515	gene			
+EKEBIHOE_00516	CDS	ftsK		DNA translocase FtsK
+EKEBIHOE_00516	gene	ftsK		
+EKEBIHOE_00517	CDS	ureH		Urease accessory protein UreH
+EKEBIHOE_00517	gene	ureH		
+EKEBIHOE_00518	CDS	ureG		Urease accessory protein UreG
+EKEBIHOE_00518	gene	ureG		
+EKEBIHOE_00519	CDS	ureF		Urease accessory protein UreF
+EKEBIHOE_00519	gene	ureF		
+EKEBIHOE_00520	CDS	ureE		Urease accessory protein UreE
+EKEBIHOE_00520	gene	ureE		
+EKEBIHOE_00521	CDS	ureI		Acid-activated urea channel
+EKEBIHOE_00521	gene	ureI		
+EKEBIHOE_00522	CDS	ureB	3.5.1.5	Urease subunit beta
+EKEBIHOE_00522	gene	ureB		
+EKEBIHOE_00523	CDS	ureA	3.5.1.5	Urease subunit alpha
+EKEBIHOE_00523	gene	ureA		
+EKEBIHOE_00524	tRNA			tRNA-Val(gac)
+EKEBIHOE_00524	gene			
+EKEBIHOE_00525	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+EKEBIHOE_00525	gene	lspA		
+EKEBIHOE_00526	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+EKEBIHOE_00526	gene	glmM		
+EKEBIHOE_00527	CDS	rpsT		30S ribosomal protein S20
+EKEBIHOE_00527	gene	rpsT		
+EKEBIHOE_00528	CDS	prfA		Peptide chain release factor RF1
+EKEBIHOE_00528	gene	prfA		
+EKEBIHOE_00529	CDS			hypothetical protein
+EKEBIHOE_00529	gene			
+EKEBIHOE_00530	CDS			hypothetical protein
+EKEBIHOE_00530	gene			
+EKEBIHOE_00531	CDS			hypothetical protein
+EKEBIHOE_00531	gene			
+EKEBIHOE_00532	CDS	pctB		Methyl-accepting chemotaxis protein PctB
+EKEBIHOE_00532	gene	pctB		
+EKEBIHOE_00533	CDS	rpsI		30S ribosomal protein S9
+EKEBIHOE_00533	gene	rpsI		
+EKEBIHOE_00534	CDS	rplM		50S ribosomal protein L13
+EKEBIHOE_00534	gene	rplM		
+EKEBIHOE_00535	CDS			hypothetical protein
+EKEBIHOE_00535	gene			
+EKEBIHOE_00536	CDS	mqo	1.1.5.4	Malate:quinone oxidoreductase
+EKEBIHOE_00536	gene	mqo		
+EKEBIHOE_00537	CDS			hypothetical protein
+EKEBIHOE_00537	gene			
+EKEBIHOE_00538	CDS	rpoD		RNA polymerase sigma factor RpoD
+EKEBIHOE_00538	gene	rpoD		
+EKEBIHOE_00539	CDS	mtnN	3.2.2.30	Aminodeoxyfutalosine nucleosidase
+EKEBIHOE_00539	gene	mtnN		
+EKEBIHOE_00540	CDS	fenF	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+EKEBIHOE_00540	gene	fenF		
+EKEBIHOE_00541	tRNA			tRNA-Ser(gct)
+EKEBIHOE_00541	gene			
+EKEBIHOE_00542	CDS	mboIR	3.1.21.4	Type-2 restriction enzyme MboI
+EKEBIHOE_00542	gene	mboIR		
+EKEBIHOE_00543	CDS	dpnA_3	2.1.1.72	Modification methylase DpnIIB
+EKEBIHOE_00543	gene	dpnA_3		
+EKEBIHOE_00544	CDS	wbnK	2.4.1.308	O-antigen biosynthesis glycosyltransferase WbnK
+EKEBIHOE_00544	gene	wbnK		
+EKEBIHOE_00545	CDS	ppsA	2.7.9.2	Phosphoenolpyruvate synthase
+EKEBIHOE_00545	gene	ppsA		
+EKEBIHOE_00546	CDS	thrZ	6.1.1.3	Threonine--tRNA ligase 2
+EKEBIHOE_00546	gene	thrZ		
+EKEBIHOE_00547	CDS	infC		Translation initiation factor IF-3
+EKEBIHOE_00547	gene	infC		
+EKEBIHOE_00548	CDS	rpmI		50S ribosomal protein L35
+EKEBIHOE_00548	gene	rpmI		
+EKEBIHOE_00549	CDS	rplT		50S ribosomal protein L20
+EKEBIHOE_00549	gene	rplT		
+EKEBIHOE_00550	CDS			hypothetical protein
+EKEBIHOE_00550	gene			
+EKEBIHOE_00551	CDS			hypothetical protein
+EKEBIHOE_00551	gene			
+EKEBIHOE_00552	CDS			hypothetical protein
+EKEBIHOE_00552	gene			
+EKEBIHOE_00553	CDS	sdaA	4.3.1.17	L-serine dehydratase 1
+EKEBIHOE_00553	gene	sdaA		
+EKEBIHOE_00554	CDS	sdaC		Serine transporter
+EKEBIHOE_00554	gene	sdaC		
+EKEBIHOE_00555	CDS	aroH	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+EKEBIHOE_00555	gene	aroH		
+EKEBIHOE_00556	CDS			hypothetical protein
+EKEBIHOE_00556	gene			
+EKEBIHOE_00557	CDS	bcp	1.11.1.15	Putative peroxiredoxin bcp
+EKEBIHOE_00557	gene	bcp		
+EKEBIHOE_00558	CDS	lutC		Lactate utilization protein C
+EKEBIHOE_00558	gene	lutC		
+EKEBIHOE_00559	CDS	lutB		Lactate utilization protein B
+EKEBIHOE_00559	gene	lutB		
+EKEBIHOE_00560	CDS	lutA		Lactate utilization protein A
+EKEBIHOE_00560	gene	lutA		
+EKEBIHOE_00561	CDS	lldP_1		L-lactate permease
+EKEBIHOE_00561	gene	lldP_1		
+EKEBIHOE_00562	CDS	lldP_2		L-lactate permease
+EKEBIHOE_00562	gene	lldP_2		
+EKEBIHOE_00563	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+EKEBIHOE_00563	gene	mutY		
+EKEBIHOE_00564	CDS	citT_1		Citrate carrier
+EKEBIHOE_00564	gene	citT_1		
+EKEBIHOE_00565	CDS	citT_2		Citrate carrier
+EKEBIHOE_00565	gene	citT_2		
+EKEBIHOE_00566	CDS	ccoN1	1.9.3.1	Cbb3-type cytochrome c oxidase subunit CcoN1
+EKEBIHOE_00566	gene	ccoN1		
+EKEBIHOE_00567	CDS			hypothetical protein
+EKEBIHOE_00567	gene			
+EKEBIHOE_00568	CDS			hypothetical protein
+EKEBIHOE_00568	gene			
+EKEBIHOE_00569	CDS	ccoP		Cbb3-type cytochrome c oxidase subunit CcoP
+EKEBIHOE_00569	gene	ccoP		
+EKEBIHOE_00570	CDS			hypothetical protein
+EKEBIHOE_00570	gene			
+EKEBIHOE_00571	CDS			hypothetical protein
+EKEBIHOE_00571	gene			
+EKEBIHOE_00572	CDS			hypothetical protein
+EKEBIHOE_00572	gene			
+EKEBIHOE_00573	CDS			hypothetical protein
+EKEBIHOE_00573	gene			
+EKEBIHOE_00574	CDS			hypothetical protein
+EKEBIHOE_00574	gene			
+EKEBIHOE_00575	CDS	mqnD	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+EKEBIHOE_00575	gene	mqnD		
+EKEBIHOE_00576	CDS	recA		Protein RecA
+EKEBIHOE_00576	gene	recA		
+EKEBIHOE_00577	CDS	eno	4.2.1.11	Enolase
+EKEBIHOE_00577	gene	eno		
+EKEBIHOE_00578	CDS			hypothetical protein
+EKEBIHOE_00578	gene			
+EKEBIHOE_00579	CDS			hypothetical protein
+EKEBIHOE_00579	gene			
+EKEBIHOE_00580	CDS	aroK	2.7.1.71	Shikimate kinase
+EKEBIHOE_00580	gene	aroK		
+EKEBIHOE_00581	CDS			hypothetical protein
+EKEBIHOE_00581	gene			
+EKEBIHOE_00582	CDS			hypothetical protein
+EKEBIHOE_00582	gene			
+EKEBIHOE_00583	CDS	hcpD_1	3.5.2.6	Putative beta-lactamase HcpD
+EKEBIHOE_00583	gene	hcpD_1		
+EKEBIHOE_00584	CDS			putative transcriptional regulatory protein
+EKEBIHOE_00584	gene			
+EKEBIHOE_00585	CDS	hemB	4.2.1.24	Delta-aminolevulinic acid dehydratase
+EKEBIHOE_00585	gene	hemB		
+EKEBIHOE_00586	CDS	hssS	2.7.13.3	Heme sensor protein HssS
+EKEBIHOE_00586	gene	hssS		
+EKEBIHOE_00587	CDS	arlR		Response regulator ArlR
+EKEBIHOE_00587	gene	arlR		
+EKEBIHOE_00588	CDS			hypothetical protein
+EKEBIHOE_00588	gene			
+EKEBIHOE_00589	CDS			hypothetical protein
+EKEBIHOE_00589	gene			
+EKEBIHOE_00590	CDS	ydcP	3.4.-.-	putative protease YdcP
+EKEBIHOE_00590	gene	ydcP		
+EKEBIHOE_00591	CDS			hypothetical protein
+EKEBIHOE_00591	gene			
+EKEBIHOE_00592	CDS	prfB		Peptide chain release factor RF2
+EKEBIHOE_00592	gene	prfB		
+EKEBIHOE_00593	CDS	moeA	2.10.1.1	Molybdopterin molybdenumtransferase
+EKEBIHOE_00593	gene	moeA		
+EKEBIHOE_00594	CDS			hypothetical protein
+EKEBIHOE_00594	gene			
+EKEBIHOE_00595	CDS			hypothetical protein
+EKEBIHOE_00595	gene			
+EKEBIHOE_00596	CDS		5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+EKEBIHOE_00596	gene			
+EKEBIHOE_00597	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+EKEBIHOE_00597	gene	fba		
+EKEBIHOE_00598	CDS	efp		Elongation factor P
+EKEBIHOE_00598	gene	efp		
+EKEBIHOE_00599	CDS	pseI	2.5.1.97	Pseudaminic acid synthase
+EKEBIHOE_00599	gene	pseI		
+EKEBIHOE_00600	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+EKEBIHOE_00600	gene	lolD		
+EKEBIHOE_00601	CDS	lnt	2.3.1.-	Apolipoprotein N-acyltransferase
+EKEBIHOE_00601	gene	lnt		
+EKEBIHOE_00602	CDS			hypothetical protein
+EKEBIHOE_00602	gene			
+EKEBIHOE_00603	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+EKEBIHOE_00603	gene	lysS		
+EKEBIHOE_00604	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+EKEBIHOE_00604	gene	glyA		
+EKEBIHOE_00605	CDS			hypothetical protein
+EKEBIHOE_00605	gene			
+EKEBIHOE_00606	CDS	zipA		Cell division protein ZipA
+EKEBIHOE_00606	gene	zipA		
+EKEBIHOE_00607	CDS			hypothetical protein
+EKEBIHOE_00607	gene			
+EKEBIHOE_00608	CDS			hypothetical protein
+EKEBIHOE_00608	gene			
+EKEBIHOE_00609	CDS			hypothetical protein
+EKEBIHOE_00609	gene			
+EKEBIHOE_00610	CDS			hypothetical protein
+EKEBIHOE_00610	gene			
+EKEBIHOE_00611	CDS	clsC	2.7.8.-	Cardiolipin synthase C
+EKEBIHOE_00611	gene	clsC		
+EKEBIHOE_00612	CDS	frdB	1.3.5.1	Fumarate reductase iron-sulfur subunit
+EKEBIHOE_00612	gene	frdB		
+EKEBIHOE_00613	CDS	frdA	1.3.5.4	Fumarate reductase flavoprotein subunit
+EKEBIHOE_00613	gene	frdA		
+EKEBIHOE_00614	CDS	frdC		Fumarate reductase cytochrome b subunit
+EKEBIHOE_00614	gene	frdC		
+EKEBIHOE_00615	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+EKEBIHOE_00615	gene	tpiA		
+EKEBIHOE_00616	CDS	fabI	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+EKEBIHOE_00616	gene	fabI		
+EKEBIHOE_00617	CDS	lpxD	2.3.1.-	UDP-3-O-acylglucosamine N-acyltransferase
+EKEBIHOE_00617	gene	lpxD		
+EKEBIHOE_00618	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+EKEBIHOE_00618	gene	metK		
+EKEBIHOE_00619	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+EKEBIHOE_00619	gene	ndk		
+EKEBIHOE_00620	CDS			hypothetical protein
+EKEBIHOE_00620	gene			
+EKEBIHOE_00621	CDS	rpmF		50S ribosomal protein L32
+EKEBIHOE_00621	gene	rpmF		
+EKEBIHOE_00622	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+EKEBIHOE_00622	gene	plsX		
+EKEBIHOE_00623	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+EKEBIHOE_00623	gene	fabH		
+EKEBIHOE_00624	CDS			hypothetical protein
+EKEBIHOE_00624	gene			
+EKEBIHOE_00625	CDS			hypothetical protein
+EKEBIHOE_00625	gene			
+EKEBIHOE_00626	CDS			hypothetical protein
+EKEBIHOE_00626	gene			
+EKEBIHOE_00627	CDS			hypothetical protein
+EKEBIHOE_00627	gene			
+EKEBIHOE_00628	CDS			hypothetical protein
+EKEBIHOE_00628	gene			
+EKEBIHOE_00629	CDS	apbC		Iron-sulfur cluster carrier protein
+EKEBIHOE_00629	gene	apbC		
+EKEBIHOE_00630	CDS	gspA		General stress protein A
+EKEBIHOE_00630	gene	gspA		
+EKEBIHOE_00631	CDS			hypothetical protein
+EKEBIHOE_00631	gene			
+EKEBIHOE_00632	CDS			hypothetical protein
+EKEBIHOE_00632	gene			
+EKEBIHOE_00633	CDS	htpG		Chaperone protein HtpG
+EKEBIHOE_00633	gene	htpG		
+EKEBIHOE_00634	CDS	hcpA	3.5.2.6	Beta-lactamase HcpA
+EKEBIHOE_00634	gene	hcpA		
+EKEBIHOE_00635	CDS	dapE	3.5.1.18	Succinyl-diaminopimelate desuccinylase
+EKEBIHOE_00635	gene	dapE		
+EKEBIHOE_00636	CDS	mnmG		tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+EKEBIHOE_00636	gene	mnmG		
+EKEBIHOE_00637	CDS	sdcS		Sodium-dependent dicarboxylate transporter SdcS
+EKEBIHOE_00637	gene	sdcS		
+EKEBIHOE_00638	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+EKEBIHOE_00638	gene	cdsA		
+EKEBIHOE_00639	CDS	dxr	1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+EKEBIHOE_00639	gene	dxr		
+EKEBIHOE_00640	CDS			hypothetical protein
+EKEBIHOE_00640	gene			
+EKEBIHOE_00641	CDS			hypothetical protein
+EKEBIHOE_00641	gene			
+EKEBIHOE_00642	CDS			hypothetical protein
+EKEBIHOE_00642	gene			
+EKEBIHOE_00643	CDS	iscS	2.8.1.7	Cysteine desulfurase IscS
+EKEBIHOE_00643	gene	iscS		
+EKEBIHOE_00644	CDS	iscU		Iron-sulfur cluster assembly scaffold protein IscU
+EKEBIHOE_00644	gene	iscU		
+EKEBIHOE_00645	CDS			hypothetical protein
+EKEBIHOE_00645	gene			
+EKEBIHOE_00646	CDS	radA	3.6.4.-	DNA repair protein RadA
+EKEBIHOE_00646	gene	radA		
+EKEBIHOE_00647	CDS	msrAB		Peptide methionine sulfoxide reductase msrA/msrB
+EKEBIHOE_00647	gene	msrAB		
+EKEBIHOE_00648	CDS			hypothetical protein
+EKEBIHOE_00648	gene			
+EKEBIHOE_00649	CDS			hypothetical protein
+EKEBIHOE_00649	gene			
+EKEBIHOE_00650	CDS			hypothetical protein
+EKEBIHOE_00650	gene			
+EKEBIHOE_00651	CDS	ppa	3.6.1.1	Inorganic pyrophosphatase
+EKEBIHOE_00651	gene	ppa		
+EKEBIHOE_00652	CDS	mutS2	3.1.-.-	Endonuclease MutS2
+EKEBIHOE_00652	gene	mutS2		
+EKEBIHOE_00653	CDS			hypothetical protein
+EKEBIHOE_00653	gene			
+EKEBIHOE_00654	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+EKEBIHOE_00654	gene	murC		
+EKEBIHOE_00655	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+EKEBIHOE_00655	gene	dapL		
+EKEBIHOE_00656	CDS	ispG	1.17.7.3	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+EKEBIHOE_00656	gene	ispG		
+EKEBIHOE_00657	CDS	dapD	2.3.1.117	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+EKEBIHOE_00657	gene	dapD		
+EKEBIHOE_00658	CDS	hcpD_2	3.5.2.6	Putative beta-lactamase HcpD
+EKEBIHOE_00658	gene	hcpD_2		
+EKEBIHOE_00659	CDS			hypothetical protein
+EKEBIHOE_00659	gene			
+EKEBIHOE_00660	CDS	mdaB		Modulator of drug activity B
+EKEBIHOE_00660	gene	mdaB		
+EKEBIHOE_00661	CDS	hydA_1	1.12.5.1	Quinone-reactive Ni/Fe-hydrogenase small chain
+EKEBIHOE_00661	gene	hydA_1		
+EKEBIHOE_00662	CDS	hydB	1.12.5.1	Quinone-reactive Ni/Fe-hydrogenase large chain
+EKEBIHOE_00662	gene	hydB		
+EKEBIHOE_00663	CDS	hydC		Quinone-reactive Ni/Fe-hydrogenase B-type cytochrome subunit
+EKEBIHOE_00663	gene	hydC		
+EKEBIHOE_00664	CDS	hybD	3.4.23.-	Hydrogenase 2 maturation protease
+EKEBIHOE_00664	gene	hybD		
+EKEBIHOE_00665	CDS			hypothetical protein
+EKEBIHOE_00665	gene			
+EKEBIHOE_00666	CDS			hypothetical protein
+EKEBIHOE_00666	gene			
+EKEBIHOE_00667	CDS			hypothetical protein
+EKEBIHOE_00667	gene			
+EKEBIHOE_00668	CDS			hypothetical protein
+EKEBIHOE_00668	gene			
+EKEBIHOE_00669	CDS	queC	6.3.4.20	7-cyano-7-deazaguanine synthase
+EKEBIHOE_00669	gene	queC		
+EKEBIHOE_00670	CDS	cca	2.7.7.72	CCA-adding enzyme
+EKEBIHOE_00670	gene	cca		
+EKEBIHOE_00671	CDS			hypothetical protein
+EKEBIHOE_00671	gene			
+EKEBIHOE_00672	CDS	yfkO	1.-.-.-	Putative NAD(P)H nitroreductase YfkO
+EKEBIHOE_00672	gene	yfkO		
+EKEBIHOE_00673	CDS	gltX1	6.1.1.17	Glutamate--tRNA ligase 1
+EKEBIHOE_00673	gene	gltX1		
+EKEBIHOE_00674	CDS			hypothetical protein
+EKEBIHOE_00674	gene			
+EKEBIHOE_00675	CDS	slt	4.2.2.-	Soluble lytic murein transglycosylase
+EKEBIHOE_00675	gene	slt		
+EKEBIHOE_00676	CDS	gtaB	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+EKEBIHOE_00676	gene	gtaB		
+EKEBIHOE_00677	CDS			hypothetical protein
+EKEBIHOE_00677	gene			
+EKEBIHOE_00678	CDS	murA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+EKEBIHOE_00678	gene	murA		
+EKEBIHOE_00679	CDS	aspA	4.3.1.1	Aspartate ammonia-lyase
+EKEBIHOE_00679	gene	aspA		
+EKEBIHOE_00680	CDS			hypothetical protein
+EKEBIHOE_00680	gene			
+EKEBIHOE_00681	CDS	fucT	2.4.1.152	Alpha-(1,3)-fucosyltransferase FucT
+EKEBIHOE_00681	gene	fucT		
+EKEBIHOE_00682	CDS	ccsA		Cytochrome c biogenesis protein CcsA
+EKEBIHOE_00682	gene	ccsA		
+EKEBIHOE_00683	CDS			hypothetical protein
+EKEBIHOE_00683	gene			
+EKEBIHOE_00684	CDS	hemH	4.99.1.1	Ferrochelatase
+EKEBIHOE_00684	gene	hemH		
+EKEBIHOE_00685	CDS			hypothetical protein
+EKEBIHOE_00685	gene			
+EKEBIHOE_00686	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+EKEBIHOE_00686	gene	rsmE		
+EKEBIHOE_00687	CDS			hypothetical protein
+EKEBIHOE_00687	gene			
+EKEBIHOE_00688	CDS	dcd	3.5.4.13	dCTP deaminase
+EKEBIHOE_00688	gene	dcd		
+EKEBIHOE_00689	CDS	accB		Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+EKEBIHOE_00689	gene	accB		
+EKEBIHOE_00690	CDS	accC	6.3.4.14	Biotin carboxylase
+EKEBIHOE_00690	gene	accC		
+EKEBIHOE_00691	CDS			hypothetical protein
+EKEBIHOE_00691	gene			
+EKEBIHOE_00692	CDS			hypothetical protein
+EKEBIHOE_00692	gene			
+EKEBIHOE_00693	CDS			hypothetical protein
+EKEBIHOE_00693	gene			
+EKEBIHOE_00694	CDS			hypothetical protein
+EKEBIHOE_00694	gene			
+EKEBIHOE_00695	CDS	pseC	2.6.1.92	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase
+EKEBIHOE_00695	gene	pseC		
+EKEBIHOE_00696	tRNA			tRNA-Leu(tag)
+EKEBIHOE_00696	gene			
+EKEBIHOE_00697	CDS	nrdB	1.17.4.1	Ribonucleoside-diphosphate reductase subunit beta
+EKEBIHOE_00697	gene	nrdB		
+EKEBIHOE_00698	CDS	pcm	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+EKEBIHOE_00698	gene	pcm		
+EKEBIHOE_00699	CDS			hypothetical protein
+EKEBIHOE_00699	gene			
+EKEBIHOE_00700	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+EKEBIHOE_00700	gene	truA		
+EKEBIHOE_00701	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+EKEBIHOE_00701	gene	galE		
+EKEBIHOE_00702	tRNA			tRNA-Ile(gat)
+EKEBIHOE_00702	gene			
+EKEBIHOE_00703	tRNA			tRNA-Ala(tgc)
+EKEBIHOE_00703	gene			
+EKEBIHOE_00704	CDS			hypothetical protein
+EKEBIHOE_00704	gene			
+EKEBIHOE_00705	CDS	ydfG	1.1.1.381	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+EKEBIHOE_00705	gene	ydfG		
+EKEBIHOE_00706	CDS			hypothetical protein
+EKEBIHOE_00706	gene			
+EKEBIHOE_00707	CDS	lepA	3.6.5.-	Elongation factor 4
+EKEBIHOE_00707	gene	lepA		
+EKEBIHOE_00708	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+EKEBIHOE_00708	gene	dxs		
+EKEBIHOE_00709	CDS			hypothetical protein
+EKEBIHOE_00709	gene			
+EKEBIHOE_00710	CDS	fliG		Flagellar motor switch protein FliG
+EKEBIHOE_00710	gene	fliG		
+EKEBIHOE_00711	CDS	fliF		Flagellar M-ring protein
+EKEBIHOE_00711	gene	fliF		
+EKEBIHOE_00712	CDS			hypothetical protein
+EKEBIHOE_00712	gene			
+EKEBIHOE_00713	CDS	pyrG	6.3.4.2	CTP synthase
+EKEBIHOE_00713	gene	pyrG		
+EKEBIHOE_00714	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+EKEBIHOE_00714	gene	recJ		
+EKEBIHOE_00715	CDS		5.4.99.-	putative RNA pseudouridine synthase
+EKEBIHOE_00715	gene			
+EKEBIHOE_00716	CDS			hypothetical protein
+EKEBIHOE_00716	gene			
+EKEBIHOE_00717	CDS	divIB		Cell division protein DivIB
+EKEBIHOE_00717	gene	divIB		
+EKEBIHOE_00718	CDS			hypothetical protein
+EKEBIHOE_00718	gene			
+EKEBIHOE_00719	CDS			hypothetical protein
+EKEBIHOE_00719	gene			
+EKEBIHOE_00720	CDS			hypothetical protein
+EKEBIHOE_00720	gene			
+EKEBIHOE_00721	CDS			hypothetical protein
+EKEBIHOE_00721	gene			
+EKEBIHOE_00722	CDS			hypothetical protein
+EKEBIHOE_00722	gene			
+EKEBIHOE_00723	CDS			hypothetical protein
+EKEBIHOE_00723	gene			
+EKEBIHOE_00724	CDS			hypothetical protein
+EKEBIHOE_00724	gene			
+EKEBIHOE_00725	CDS	hcpB_1	3.5.2.6	Beta-lactamase HcpB
+EKEBIHOE_00725	gene	hcpB_1		
+EKEBIHOE_00726	CDS			hypothetical protein
+EKEBIHOE_00726	gene			
+EKEBIHOE_00727	CDS	yqgF	3.1.-.-	Putative pre-16S rRNA nuclease
+EKEBIHOE_00727	gene	yqgF		
+EKEBIHOE_00728	CDS	dprA		DNA processing protein DprA
+EKEBIHOE_00728	gene	dprA		
+EKEBIHOE_00729	CDS	minE		Cell division topological specificity factor
+EKEBIHOE_00729	gene	minE		
+EKEBIHOE_00730	CDS	minD		Septum site-determining protein MinD
+EKEBIHOE_00730	gene	minD		
+EKEBIHOE_00731	CDS	ilvC	1.1.1.86	Ketol-acid reductoisomerase (NADP(+))
+EKEBIHOE_00731	gene	ilvC		
+EKEBIHOE_00732	tRNA			tRNA-Arg(gcg)
+EKEBIHOE_00732	gene			
+EKEBIHOE_00733	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+EKEBIHOE_00733	gene	nadE		
+EKEBIHOE_00734	CDS	lpxK	2.7.1.130	Tetraacyldisaccharide 4'-kinase
+EKEBIHOE_00734	gene	lpxK		
+EKEBIHOE_00735	CDS	pseH	2.3.1.202	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine N-acetyltransferase
+EKEBIHOE_00735	gene	pseH		
+EKEBIHOE_00736	CDS			hypothetical protein
+EKEBIHOE_00736	gene			
+EKEBIHOE_00737	CDS	neuA	2.7.7.43	N-acylneuraminate cytidylyltransferase
+EKEBIHOE_00737	gene	neuA		
+EKEBIHOE_00738	CDS	flgH		Flagellar L-ring protein
+EKEBIHOE_00738	gene	flgH		
+EKEBIHOE_00739	CDS			hypothetical protein
+EKEBIHOE_00739	gene			
+EKEBIHOE_00740	CDS	ywiE	2.7.8.-	putative cardiolipin synthase YwiE
+EKEBIHOE_00740	gene	ywiE		
+EKEBIHOE_00741	CDS			hypothetical protein
+EKEBIHOE_00741	gene			
+EKEBIHOE_00742	CDS	gmk	2.7.4.8	Guanylate kinase
+EKEBIHOE_00742	gene	gmk		
+EKEBIHOE_00743	CDS	tatA		Sec-independent protein translocase protein TatA
+EKEBIHOE_00743	gene	tatA		
+EKEBIHOE_00744	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+EKEBIHOE_00744	gene	argS		
+EKEBIHOE_00745	CDS			hypothetical protein
+EKEBIHOE_00745	gene			
+EKEBIHOE_00746	CDS			hypothetical protein
+EKEBIHOE_00746	gene			
+EKEBIHOE_00747	CDS			hypothetical protein
+EKEBIHOE_00747	gene			
+EKEBIHOE_00748	CDS			hypothetical protein
+EKEBIHOE_00748	gene			
+EKEBIHOE_00749	CDS	lolC		Lipoprotein-releasing system transmembrane protein LolC
+EKEBIHOE_00749	gene	lolC		
+EKEBIHOE_00750	CDS	secA		Protein translocase subunit SecA
+EKEBIHOE_00750	gene	secA		
+EKEBIHOE_00751	CDS	lolA		Outer-membrane lipoprotein carrier protein
+EKEBIHOE_00751	gene	lolA		
+EKEBIHOE_00752	tmRNA	ssrA		transfer-messenger RNA, SsrA
+EKEBIHOE_00752	gene	ssrA		
+EKEBIHOE_00753	CDS			hypothetical protein
+EKEBIHOE_00753	gene			
+EKEBIHOE_00754	CDS			hypothetical protein
+EKEBIHOE_00754	gene			
+EKEBIHOE_00755	CDS			hypothetical protein
+EKEBIHOE_00755	gene			
+EKEBIHOE_00756	CDS			hypothetical protein
+EKEBIHOE_00756	gene			
+EKEBIHOE_00757	CDS	acnB	4.2.1.3	Aconitate hydratase B
+EKEBIHOE_00757	gene	acnB		
+EKEBIHOE_00758	CDS	mqnA	4.2.1.151	Chorismate dehydratase
+EKEBIHOE_00758	gene	mqnA		
+EKEBIHOE_00759	CDS	pyrH	2.7.4.22	Uridylate kinase
+EKEBIHOE_00759	gene	pyrH		
+EKEBIHOE_00760	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+EKEBIHOE_00760	gene	rpoZ		
+EKEBIHOE_00761	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+EKEBIHOE_00761	gene	relA		
+EKEBIHOE_00762	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+EKEBIHOE_00762	gene	tyrS		
+EKEBIHOE_00763	CDS	pyrD_1	1.3.-.-	Dihydroorotate dehydrogenase
+EKEBIHOE_00763	gene	pyrD_1		
+EKEBIHOE_00764	CDS	amiC	3.5.1.28	N-acetylmuramoyl-L-alanine amidase AmiC
+EKEBIHOE_00764	gene	amiC		
+EKEBIHOE_00765	CDS			hypothetical protein
+EKEBIHOE_00765	gene			
+EKEBIHOE_00766	CDS	flhB_1		Flagellar biosynthetic protein FlhB
+EKEBIHOE_00766	gene	flhB_1		
+EKEBIHOE_00767	CDS	mobA	2.7.7.77	putative molybdenum cofactor guanylyltransferase
+EKEBIHOE_00767	gene	mobA		
+EKEBIHOE_00768	CDS	moaA	4.1.99.22	GTP 3',8-cyclase
+EKEBIHOE_00768	gene	moaA		
+EKEBIHOE_00769	CDS			hypothetical protein
+EKEBIHOE_00769	gene			
+EKEBIHOE_00770	CDS			hypothetical protein
+EKEBIHOE_00770	gene			
+EKEBIHOE_00771	CDS			hypothetical protein
+EKEBIHOE_00771	gene			
+EKEBIHOE_00772	CDS	ftsY		Signal recognition particle receptor FtsY
+EKEBIHOE_00772	gene	ftsY		
+EKEBIHOE_00773	CDS			hypothetical protein
+EKEBIHOE_00773	gene			
+EKEBIHOE_00774	CDS			hypothetical protein
+EKEBIHOE_00774	gene			
+EKEBIHOE_00775	CDS	rny	3.1.-.-	Ribonuclease Y
+EKEBIHOE_00775	gene	rny		
+EKEBIHOE_00776	CDS	yeeO		putative FMN/FAD exporter YeeO
+EKEBIHOE_00776	gene	yeeO		
+EKEBIHOE_00777	CDS			hypothetical protein
+EKEBIHOE_00777	gene			
+EKEBIHOE_00778	CDS		3.5.1.77	N-carbamoyl-D-amino acid hydrolase
+EKEBIHOE_00778	gene			
+EKEBIHOE_00779	CDS			hypothetical protein
+EKEBIHOE_00779	gene			
+EKEBIHOE_00780	CDS	tcdA	6.1.-.-	tRNA threonylcarbamoyladenosine dehydratase
+EKEBIHOE_00780	gene	tcdA		
+EKEBIHOE_00781	CDS			hypothetical protein
+EKEBIHOE_00781	gene			
+EKEBIHOE_00782	CDS	fliS		Flagellar protein FliS
+EKEBIHOE_00782	gene	fliS		
+EKEBIHOE_00783	CDS	fliD		Flagellar hook-associated protein 2
+EKEBIHOE_00783	gene	fliD		
+EKEBIHOE_00784	CDS			hypothetical protein
+EKEBIHOE_00784	gene			
+EKEBIHOE_00785	CDS			hypothetical protein
+EKEBIHOE_00785	gene			
+EKEBIHOE_00786	CDS			hypothetical protein
+EKEBIHOE_00786	gene			
+EKEBIHOE_00787	CDS	ftsE		Cell division ATP-binding protein FtsE
+EKEBIHOE_00787	gene	ftsE		
+EKEBIHOE_00788	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+EKEBIHOE_00788	gene	trmB		
+EKEBIHOE_00789	CDS			hypothetical protein
+EKEBIHOE_00789	gene			
+EKEBIHOE_00790	CDS	rluD	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+EKEBIHOE_00790	gene	rluD		
+EKEBIHOE_00791	CDS	rsgA	3.6.1.-	Putative ribosome biogenesis GTPase RsgA
+EKEBIHOE_00791	gene	rsgA		
+EKEBIHOE_00792	CDS			hypothetical protein
+EKEBIHOE_00792	gene			
+EKEBIHOE_00793	tRNA			tRNA-Met(cat)
+EKEBIHOE_00793	gene			
+EKEBIHOE_00794	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+EKEBIHOE_00794	gene	prs		
+EKEBIHOE_00795	CDS		2.7.7.53	AP-4-A phosphorylase
+EKEBIHOE_00795	gene			
+EKEBIHOE_00796	CDS	murF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+EKEBIHOE_00796	gene	murF		
+EKEBIHOE_00797	CDS	menH	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+EKEBIHOE_00797	gene	menH		
+EKEBIHOE_00798	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+EKEBIHOE_00798	gene	ddl		
+EKEBIHOE_00799	CDS	pgpA	3.1.3.27	Phosphatidylglycerophosphatase A
+EKEBIHOE_00799	gene	pgpA		
+EKEBIHOE_00800	CDS		2.6.1.51	Serine-pyruvate aminotransferase
+EKEBIHOE_00800	gene			
+EKEBIHOE_00801	CDS	gpt	2.4.2.22	Xanthine phosphoribosyltransferase
+EKEBIHOE_00801	gene	gpt		
+EKEBIHOE_00802	CDS	rimO	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+EKEBIHOE_00802	gene	rimO		
+EKEBIHOE_00803	CDS			hypothetical protein
+EKEBIHOE_00803	gene			
+EKEBIHOE_00804	CDS			hypothetical protein
+EKEBIHOE_00804	gene			
+EKEBIHOE_00805	CDS			hypothetical protein
+EKEBIHOE_00805	gene			
+EKEBIHOE_00806	CDS			hypothetical protein
+EKEBIHOE_00806	gene			
+EKEBIHOE_00807	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+EKEBIHOE_00807	gene	tilS		
+EKEBIHOE_00808	CDS	dusC	1.3.1.-	tRNA-dihydrouridine(16) synthase
+EKEBIHOE_00808	gene	dusC		
+EKEBIHOE_00809	CDS			hypothetical protein
+EKEBIHOE_00809	gene			
+EKEBIHOE_00810	CDS			hypothetical protein
+EKEBIHOE_00810	gene			
+EKEBIHOE_00811	CDS	cah	4.2.1.1	Carbonic anhydrase
+EKEBIHOE_00811	gene	cah		
+EKEBIHOE_00812	CDS	sotB		Sugar efflux transporter B
+EKEBIHOE_00812	gene	sotB		
+EKEBIHOE_00813	CDS	mepA		Multidrug export protein MepA
+EKEBIHOE_00813	gene	mepA		
+EKEBIHOE_00814	CDS			hypothetical protein
+EKEBIHOE_00814	gene			
+EKEBIHOE_00815	CDS	ttcA		tRNA 2-thiocytidine biosynthesis protein TtcA
+EKEBIHOE_00815	gene	ttcA		
+EKEBIHOE_00816	CDS	yajR		Inner membrane transport protein YajR
+EKEBIHOE_00816	gene	yajR		
+EKEBIHOE_00817	tRNA			tRNA-Met(cat)
+EKEBIHOE_00817	gene			
+EKEBIHOE_00818	CDS	nupX		Putative nucleoside permease NupX
+EKEBIHOE_00818	gene	nupX		
+EKEBIHOE_00819	CDS	deoB	5.4.2.7	Phosphopentomutase
+EKEBIHOE_00819	gene	deoB		
+EKEBIHOE_00820	CDS	deoD	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+EKEBIHOE_00820	gene	deoD		
+EKEBIHOE_00821	CDS			hypothetical protein
+EKEBIHOE_00821	gene			
+EKEBIHOE_00822	CDS	adeQ		Adenine permease AdeQ
+EKEBIHOE_00822	gene	adeQ		
+EKEBIHOE_00823	CDS	fucP		L-fucose-proton symporter
+EKEBIHOE_00823	gene	fucP		
+EKEBIHOE_00824	CDS			hypothetical protein
+EKEBIHOE_00824	gene			
+EKEBIHOE_00825	CDS	glnH		ABC transporter glutamine-binding protein GlnH
+EKEBIHOE_00825	gene	glnH		
+EKEBIHOE_00826	CDS	artM		Arginine transport ATP-binding protein ArtM
+EKEBIHOE_00826	gene	artM		
+EKEBIHOE_00827	CDS	tcyB_2		L-cystine transport system permease protein TcyB
+EKEBIHOE_00827	gene	tcyB_2		
+EKEBIHOE_00828	CDS	glnP		Glutamine transport system permease protein GlnP
+EKEBIHOE_00828	gene	glnP		
+EKEBIHOE_00829	CDS	cstA		Carbon starvation protein A
+EKEBIHOE_00829	gene	cstA		
+EKEBIHOE_00830	CDS			hypothetical protein
+EKEBIHOE_00830	gene			
+EKEBIHOE_00831	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+EKEBIHOE_00831	gene	pgi		
+EKEBIHOE_00832	CDS			hypothetical protein
+EKEBIHOE_00832	gene			
+EKEBIHOE_00833	CDS		1.18.1.2	Ferredoxin--NADP reductase
+EKEBIHOE_00833	gene			
+EKEBIHOE_00834	CDS			hypothetical protein
+EKEBIHOE_00834	gene			
+EKEBIHOE_00835	CDS	yohD_1		Inner membrane protein YohD
+EKEBIHOE_00835	gene	yohD_1		
+EKEBIHOE_00836	CDS	fldA		Flavodoxin
+EKEBIHOE_00836	gene	fldA		
+EKEBIHOE_00837	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+EKEBIHOE_00837	gene	ybeY		
+EKEBIHOE_00838	CDS		2.7.7.-	Adenosine monophosphate-protein transferase NmFic
+EKEBIHOE_00838	gene			
+EKEBIHOE_00839	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+EKEBIHOE_00839	gene	proC		
+EKEBIHOE_00840	CDS			hypothetical protein
+EKEBIHOE_00840	gene			
+EKEBIHOE_00841	CDS			hypothetical protein
+EKEBIHOE_00841	gene			
+EKEBIHOE_00842	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+EKEBIHOE_00842	gene	murG		
+EKEBIHOE_00843	CDS	fliW1		Flagellar assembly factor FliW 1
+EKEBIHOE_00843	gene	fliW1		
+EKEBIHOE_00844	CDS	valS	6.1.1.9	Valine--tRNA ligase
+EKEBIHOE_00844	gene	valS		
+EKEBIHOE_00845	CDS	ffh		Signal recognition particle protein
+EKEBIHOE_00845	gene	ffh		
+EKEBIHOE_00846	CDS	rpsP		30S ribosomal protein S16
+EKEBIHOE_00846	gene	rpsP		
+EKEBIHOE_00847	CDS			hypothetical protein
+EKEBIHOE_00847	gene			
+EKEBIHOE_00848	CDS	rimM		Ribosome maturation factor RimM
+EKEBIHOE_00848	gene	rimM		
+EKEBIHOE_00849	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+EKEBIHOE_00849	gene	trmD		
+EKEBIHOE_00850	CDS	rplS		50S ribosomal protein L19
+EKEBIHOE_00850	gene	rplS		
+EKEBIHOE_00851	CDS			hypothetical protein
+EKEBIHOE_00851	gene			
+EKEBIHOE_00852	CDS			hypothetical protein
+EKEBIHOE_00852	gene			
+EKEBIHOE_00853	CDS			hypothetical protein
+EKEBIHOE_00853	gene			
+EKEBIHOE_00854	CDS			hypothetical protein
+EKEBIHOE_00854	gene			
+EKEBIHOE_00855	CDS			hypothetical protein
+EKEBIHOE_00855	gene			
+EKEBIHOE_00856	CDS			hypothetical protein
+EKEBIHOE_00856	gene			
+EKEBIHOE_00857	CDS	cagT		CAG pathogenicity island protein 12
+EKEBIHOE_00857	gene	cagT		
+EKEBIHOE_00858	CDS			hypothetical protein
+EKEBIHOE_00858	gene			
+EKEBIHOE_00859	CDS	cagS		CAG pathogenicity island protein 13
+EKEBIHOE_00859	gene	cagS		
+EKEBIHOE_00860	CDS			hypothetical protein
+EKEBIHOE_00860	gene			
+EKEBIHOE_00861	CDS			hypothetical protein
+EKEBIHOE_00861	gene			
+EKEBIHOE_00862	CDS			hypothetical protein
+EKEBIHOE_00862	gene			
+EKEBIHOE_00863	CDS			hypothetical protein
+EKEBIHOE_00863	gene			
+EKEBIHOE_00864	CDS			hypothetical protein
+EKEBIHOE_00864	gene			
+EKEBIHOE_00865	CDS			hypothetical protein
+EKEBIHOE_00865	gene			
+EKEBIHOE_00866	CDS			hypothetical protein
+EKEBIHOE_00866	gene			
+EKEBIHOE_00867	CDS			hypothetical protein
+EKEBIHOE_00867	gene			
+EKEBIHOE_00868	CDS	virB4_2		Type IV secretion system protein virB4
+EKEBIHOE_00868	gene	virB4_2		
+EKEBIHOE_00869	CDS			hypothetical protein
+EKEBIHOE_00869	gene			
+EKEBIHOE_00870	CDS			hypothetical protein
+EKEBIHOE_00870	gene			
+EKEBIHOE_00871	CDS			hypothetical protein
+EKEBIHOE_00871	gene			
+EKEBIHOE_00872	CDS	cagA		Cytotoxicity-associated immunodominant antigen
+EKEBIHOE_00872	gene	cagA		
+EKEBIHOE_00873	CDS			hypothetical protein
+EKEBIHOE_00873	gene			
+EKEBIHOE_00874	CDS			hypothetical protein
+EKEBIHOE_00874	gene			
+EKEBIHOE_00875	CDS	murI	5.1.1.3	Glutamate racemase
+EKEBIHOE_00875	gene	murI		
+EKEBIHOE_00876	CDS	rho	3.6.4.-	Transcription termination factor Rho
+EKEBIHOE_00876	gene	rho		
+EKEBIHOE_00877	CDS	rpmE		50S ribosomal protein L31
+EKEBIHOE_00877	gene	rpmE		
+EKEBIHOE_00878	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+EKEBIHOE_00878	gene	rsmI		
+EKEBIHOE_00879	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+EKEBIHOE_00879	gene			
+EKEBIHOE_00880	CDS			hypothetical protein
+EKEBIHOE_00880	gene			
+EKEBIHOE_00881	CDS			hypothetical protein
+EKEBIHOE_00881	gene			
+EKEBIHOE_00882	CDS			hypothetical protein
+EKEBIHOE_00882	gene			
+EKEBIHOE_00883	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+EKEBIHOE_00883	gene	accA		
+EKEBIHOE_00884	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+EKEBIHOE_00884	gene	fabF		
+EKEBIHOE_00885	CDS	acpP_2		Acyl carrier protein
+EKEBIHOE_00885	gene	acpP_2		
+EKEBIHOE_00886	CDS	fabG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+EKEBIHOE_00886	gene	fabG		
+EKEBIHOE_00887	CDS	rpsU		30S ribosomal protein S21
+EKEBIHOE_00887	gene	rpsU		
+EKEBIHOE_00888	CDS			hypothetical protein
+EKEBIHOE_00888	gene			
+EKEBIHOE_00889	CDS			hypothetical protein
+EKEBIHOE_00889	gene			
+EKEBIHOE_00890	CDS	rclC		Inner membrane protein RclC
+EKEBIHOE_00890	gene	rclC		
+EKEBIHOE_00891	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+EKEBIHOE_00891	gene	dapF		
+EKEBIHOE_00892	CDS			hypothetical protein
+EKEBIHOE_00892	gene			
+EKEBIHOE_00893	CDS	pqqE		Coenzyme PQQ synthesis protein E
+EKEBIHOE_00893	gene	pqqE		
+EKEBIHOE_00894	CDS	ychF		Ribosome-binding ATPase YchF
+EKEBIHOE_00894	gene	ychF		
+EKEBIHOE_00895	CDS	pepA	3.4.11.1	Cytosol aminopeptidase
+EKEBIHOE_00895	gene	pepA		
+EKEBIHOE_00896	CDS	yohD_2		Inner membrane protein YohD
+EKEBIHOE_00896	gene	yohD_2		
+EKEBIHOE_00897	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+EKEBIHOE_00897	gene	apt		
+EKEBIHOE_00898	CDS			hypothetical protein
+EKEBIHOE_00898	gene			
+EKEBIHOE_00899	CDS	ywlF	5.3.1.-	Putative sugar phosphate isomerase YwlF
+EKEBIHOE_00899	gene	ywlF		
+EKEBIHOE_00900	CDS			hypothetical protein
+EKEBIHOE_00900	gene			
+EKEBIHOE_00901	CDS	lepB	3.4.21.89	Signal peptidase I
+EKEBIHOE_00901	gene	lepB		
+EKEBIHOE_00902	CDS	folD		Bifunctional protein FolD protein
+EKEBIHOE_00902	gene	folD		
+EKEBIHOE_00903	CDS	mdoB	2.7.8.20	Phosphoglycerol transferase I
+EKEBIHOE_00903	gene	mdoB		
+EKEBIHOE_00904	CDS			hypothetical protein
+EKEBIHOE_00904	gene			
+EKEBIHOE_00905	CDS			hypothetical protein
+EKEBIHOE_00905	gene			
+EKEBIHOE_00906	CDS	pyrC_2	3.5.2.3	Dihydroorotase
+EKEBIHOE_00906	gene	pyrC_2		
+EKEBIHOE_00907	CDS			hypothetical protein
+EKEBIHOE_00907	gene			
+EKEBIHOE_00908	CDS			hypothetical protein
+EKEBIHOE_00908	gene			
+EKEBIHOE_00909	CDS	fliN_1		Flagellar motor switch protein FliN
+EKEBIHOE_00909	gene	fliN_1		
+EKEBIHOE_00910	CDS	nth_1	4.2.99.18	Endonuclease III
+EKEBIHOE_00910	gene	nth_1		
+EKEBIHOE_00911	CDS	feoA		Putative Fe(2+) transport protein A
+EKEBIHOE_00911	gene	feoA		
+EKEBIHOE_00912	CDS			hypothetical protein
+EKEBIHOE_00912	gene			
+EKEBIHOE_00913	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+EKEBIHOE_00913	gene	mltG		
+EKEBIHOE_00914	CDS	hydA_2	1.12.7.2	Periplasmic [Fe] hydrogenase large subunit
+EKEBIHOE_00914	gene	hydA_2		
+EKEBIHOE_00915	CDS	korA	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+EKEBIHOE_00915	gene	korA		
+EKEBIHOE_00916	CDS	korB	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+EKEBIHOE_00916	gene	korB		
+EKEBIHOE_00917	CDS			hypothetical protein
+EKEBIHOE_00917	gene			
+EKEBIHOE_00918	CDS			hypothetical protein
+EKEBIHOE_00918	gene			
+EKEBIHOE_00919	CDS			hypothetical protein
+EKEBIHOE_00919	gene			
+EKEBIHOE_00920	CDS			hypothetical protein
+EKEBIHOE_00920	gene			
+EKEBIHOE_00921	CDS	dsbB		Disulfide bond formation protein B
+EKEBIHOE_00921	gene	dsbB		
+EKEBIHOE_00922	CDS			hypothetical protein
+EKEBIHOE_00922	gene			
+EKEBIHOE_00923	CDS	mrcA		Penicillin-binding protein 1A
+EKEBIHOE_00923	gene	mrcA		
+EKEBIHOE_00924	CDS	bioF	2.3.1.47	8-amino-7-oxononanoate synthase 2
+EKEBIHOE_00924	gene	bioF		
+EKEBIHOE_00925	CDS	mcpU		Methyl-accepting chemotaxis protein McpU
+EKEBIHOE_00925	gene	mcpU		
+EKEBIHOE_00926	CDS			hypothetical protein
+EKEBIHOE_00926	gene			
+EKEBIHOE_00927	CDS			putative ABC transporter ATP-binding protein
+EKEBIHOE_00927	gene			
+EKEBIHOE_00928	CDS			hypothetical protein
+EKEBIHOE_00928	gene			
+EKEBIHOE_00929	CDS	flaA		Flagellin A
+EKEBIHOE_00929	gene	flaA		
+EKEBIHOE_00930	CDS	nth_2	4.2.99.18	Endonuclease III
+EKEBIHOE_00930	gene	nth_2		
+EKEBIHOE_00931	CDS			hypothetical protein
+EKEBIHOE_00931	gene			
+EKEBIHOE_00932	CDS	hemE	4.1.1.37	Uroporphyrinogen decarboxylase
+EKEBIHOE_00932	gene	hemE		
+EKEBIHOE_00933	CDS			hypothetical protein
+EKEBIHOE_00933	gene			
+EKEBIHOE_00934	CDS	czcB		Cobalt-zinc-cadmium resistance protein CzcB
+EKEBIHOE_00934	gene	czcB		
+EKEBIHOE_00935	CDS	mdtC		Multidrug resistance protein MdtC
+EKEBIHOE_00935	gene	mdtC		
+EKEBIHOE_00936	CDS			hypothetical protein
+EKEBIHOE_00936	gene			
+EKEBIHOE_00937	CDS	vacA_4		Vacuolating cytotoxin autotransporter
+EKEBIHOE_00937	gene	vacA_4		
+EKEBIHOE_00938	CDS			hypothetical protein
+EKEBIHOE_00938	gene			
+EKEBIHOE_00939	CDS	yxdL		ABC transporter ATP-binding protein YxdL
+EKEBIHOE_00939	gene	yxdL		
+EKEBIHOE_00940	CDS			hypothetical protein
+EKEBIHOE_00940	gene			
+EKEBIHOE_00941	CDS	ligA	6.5.1.2	DNA ligase
+EKEBIHOE_00941	gene	ligA		
+EKEBIHOE_00942	CDS	cheV_3		Chemotaxis protein CheV
+EKEBIHOE_00942	gene	cheV_3		
+EKEBIHOE_00943	CDS	aspS	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+EKEBIHOE_00943	gene	aspS		
+EKEBIHOE_00944	CDS	adk	2.7.4.3	Adenylate kinase
+EKEBIHOE_00944	gene	adk		
+EKEBIHOE_00945	CDS			hypothetical protein
+EKEBIHOE_00945	gene			
+EKEBIHOE_00946	CDS			hypothetical protein
+EKEBIHOE_00946	gene			
+EKEBIHOE_00947	CDS			hypothetical protein
+EKEBIHOE_00947	gene			
+EKEBIHOE_00948	CDS			hypothetical protein
+EKEBIHOE_00948	gene			
+EKEBIHOE_00949	CDS			hypothetical protein
+EKEBIHOE_00949	gene			
+EKEBIHOE_00950	CDS			hypothetical protein
+EKEBIHOE_00950	gene			
+EKEBIHOE_00951	CDS			hypothetical protein
+EKEBIHOE_00951	gene			
+EKEBIHOE_00952	CDS			hypothetical protein
+EKEBIHOE_00952	gene			
+EKEBIHOE_00953	CDS	tenA	3.5.99.2	Aminopyrimidine aminohydrolase
+EKEBIHOE_00953	gene	tenA		
+EKEBIHOE_00954	CDS	yceI		Protein YceI
+EKEBIHOE_00954	gene	yceI		
+EKEBIHOE_00955	CDS	hel		Lipoprotein E
+EKEBIHOE_00955	gene	hel		
+EKEBIHOE_00956	CDS			hypothetical protein
+EKEBIHOE_00956	gene			
+EKEBIHOE_00957	CDS			hypothetical protein
+EKEBIHOE_00957	gene			
+EKEBIHOE_00958	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+EKEBIHOE_00958	gene	trpE		
+EKEBIHOE_00959	CDS	trpG	4.1.3.27	Anthranilate synthase component 2
+EKEBIHOE_00959	gene	trpG		
+EKEBIHOE_00960	CDS	trpGD		Bifunctional protein TrpGD
+EKEBIHOE_00960	gene	trpGD		
+EKEBIHOE_00961	CDS	trpC		Tryptophan biosynthesis protein TrpCF
+EKEBIHOE_00961	gene	trpC		
+EKEBIHOE_00962	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+EKEBIHOE_00962	gene	trpB		
+EKEBIHOE_00963	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+EKEBIHOE_00963	gene	trpA		
+EKEBIHOE_00964	CDS			hypothetical protein
+EKEBIHOE_00964	gene			
+EKEBIHOE_00965	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+EKEBIHOE_00965	gene	algC		
+EKEBIHOE_00966	CDS			hypothetical protein
+EKEBIHOE_00966	gene			
+EKEBIHOE_00967	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+EKEBIHOE_00967	gene	nuoN		
+EKEBIHOE_00968	CDS	ndhD1	1.6.5.-	NAD(P)H-quinone oxidoreductase chain 4 1
+EKEBIHOE_00968	gene	ndhD1		
+EKEBIHOE_00969	CDS	nuoL	1.6.5.11	NADH-quinone oxidoreductase subunit L
+EKEBIHOE_00969	gene	nuoL		
+EKEBIHOE_00970	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+EKEBIHOE_00970	gene			
+EKEBIHOE_00971	CDS	nuoJ	1.6.5.11	NADH-quinone oxidoreductase subunit J
+EKEBIHOE_00971	gene	nuoJ		
+EKEBIHOE_00972	CDS	nuoI	1.6.5.11	NADH-quinone oxidoreductase subunit I
+EKEBIHOE_00972	gene	nuoI		
+EKEBIHOE_00973	CDS	nqo8	1.6.5.11	NADH-quinone oxidoreductase subunit 8
+EKEBIHOE_00973	gene	nqo8		
+EKEBIHOE_00974	CDS	sfrA	1.-.-.-	NADPH-Fe(3+) oxidoreductase subunit alpha
+EKEBIHOE_00974	gene	sfrA		
+EKEBIHOE_00975	CDS			hypothetical protein
+EKEBIHOE_00975	gene			
+EKEBIHOE_00976	CDS			hypothetical protein
+EKEBIHOE_00976	gene			
+EKEBIHOE_00977	CDS	nuoD	1.6.5.11	NADH-quinone oxidoreductase subunit D
+EKEBIHOE_00977	gene	nuoD		
+EKEBIHOE_00978	CDS	ndhJ	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit J
+EKEBIHOE_00978	gene	ndhJ		
+EKEBIHOE_00979	CDS	nqo6	1.6.5.11	NADH-quinone oxidoreductase subunit 6
+EKEBIHOE_00979	gene	nqo6		
+EKEBIHOE_00980	CDS	nuoA	1.6.5.11	NADH-quinone oxidoreductase subunit A
+EKEBIHOE_00980	gene	nuoA		
+EKEBIHOE_00981	CDS	cobB_1	3.5.1.-	NAD-dependent protein deacylase
+EKEBIHOE_00981	gene	cobB_1		
+EKEBIHOE_00982	CDS	cobB_2	3.5.1.-	NAD-dependent protein deacylase
+EKEBIHOE_00982	gene	cobB_2		
+EKEBIHOE_00983	CDS			hypothetical protein
+EKEBIHOE_00983	gene			
+EKEBIHOE_00984	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+EKEBIHOE_00984	gene	pyrE		
+EKEBIHOE_00985	CDS	frr		Ribosome-recycling factor
+EKEBIHOE_00985	gene	frr		
+EKEBIHOE_00986	CDS	secG		putative protein-export membrane protein SecG
+EKEBIHOE_00986	gene	secG		
+EKEBIHOE_00987	CDS	tam	2.1.1.144	Trans-aconitate 2-methyltransferase
+EKEBIHOE_00987	gene	tam		
+EKEBIHOE_00988	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+EKEBIHOE_00988	gene	trpS		
+EKEBIHOE_00989	CDS	dppE		Dipeptide-binding protein DppE
+EKEBIHOE_00989	gene	dppE		
+EKEBIHOE_00990	CDS	yejB		Inner membrane ABC transporter permease protein YejB
+EKEBIHOE_00990	gene	yejB		
+EKEBIHOE_00991	CDS			hypothetical protein
+EKEBIHOE_00991	gene			
+EKEBIHOE_00992	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+EKEBIHOE_00992	gene	aroE		
+EKEBIHOE_00993	CDS	rnr	3.1.13.1	Ribonuclease R
+EKEBIHOE_00993	gene	rnr		
+EKEBIHOE_00994	CDS			hypothetical protein
+EKEBIHOE_00994	gene			
+EKEBIHOE_00995	CDS	rpsF		30S ribosomal protein S6
+EKEBIHOE_00995	gene	rpsF		
+EKEBIHOE_00996	CDS	ssb		Single-stranded DNA-binding protein
+EKEBIHOE_00996	gene	ssb		
+EKEBIHOE_00997	CDS	rpsR		30S ribosomal protein S18
+EKEBIHOE_00997	gene	rpsR		
+EKEBIHOE_00998	CDS	flgG_1		Flagellar basal-body rod protein FlgG
+EKEBIHOE_00998	gene	flgG_1		
+EKEBIHOE_00999	CDS	kgtP		Alpha-ketoglutarate permease
+EKEBIHOE_00999	gene	kgtP		
+EKEBIHOE_01000	CDS	spoIIIE		DNA translocase SpoIIIE
+EKEBIHOE_01000	gene	spoIIIE		
+EKEBIHOE_01001	CDS			hypothetical protein
+EKEBIHOE_01001	gene			
+EKEBIHOE_01002	CDS	tkt	2.2.1.1	Transketolase
+EKEBIHOE_01002	gene	tkt		
+EKEBIHOE_01003	CDS	ribF		Riboflavin biosynthesis protein RibF
+EKEBIHOE_01003	gene	ribF		
+EKEBIHOE_01004	CDS	tlyA	2.1.1.226	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+EKEBIHOE_01004	gene	tlyA		
+EKEBIHOE_01005	CDS			hypothetical protein
+EKEBIHOE_01005	gene			
+EKEBIHOE_01006	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+EKEBIHOE_01006	gene	pyrB		
+EKEBIHOE_01007	CDS			hypothetical protein
+EKEBIHOE_01007	gene			
+EKEBIHOE_01008	CDS	msbA	3.6.3.-	Lipid A export ATP-binding/permease protein MsbA
+EKEBIHOE_01008	gene	msbA		
+EKEBIHOE_01009	CDS			hypothetical protein
+EKEBIHOE_01009	gene			
+EKEBIHOE_01010	CDS			hypothetical protein
+EKEBIHOE_01010	gene			
+EKEBIHOE_01011	CDS		3.6.1.-	ATP/GTP phosphatase
+EKEBIHOE_01011	gene			
+EKEBIHOE_01012	CDS			hypothetical protein
+EKEBIHOE_01012	gene			
+EKEBIHOE_01013	CDS	nixA		High-affinity nickel-transport protein NixA
+EKEBIHOE_01013	gene	nixA		
+EKEBIHOE_01014	CDS			hypothetical protein
+EKEBIHOE_01014	gene			
+EKEBIHOE_01015	CDS			hypothetical protein
+EKEBIHOE_01015	gene			
+EKEBIHOE_01016	CDS			hypothetical protein
+EKEBIHOE_01016	gene			
+EKEBIHOE_01017	CDS	copP		COP-associated protein
+EKEBIHOE_01017	gene	copP		
+EKEBIHOE_01018	CDS	copA_2	3.6.3.54	Copper-exporting P-type ATPase A
+EKEBIHOE_01018	gene	copA_2		
+EKEBIHOE_01019	CDS	pcs	2.7.8.24	Phosphatidylcholine synthase
+EKEBIHOE_01019	gene	pcs		
+EKEBIHOE_01020	CDS	ftsH_2	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+EKEBIHOE_01020	gene	ftsH_2		
+EKEBIHOE_01021	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+EKEBIHOE_01021	gene	prmA		
+EKEBIHOE_01022	CDS	cheY		Chemotaxis protein CheY 
+EKEBIHOE_01022	gene	cheY		
+EKEBIHOE_01023	CDS			hypothetical protein
+EKEBIHOE_01023	gene			
+EKEBIHOE_01024	tRNA			tRNA-Ser(gga)
+EKEBIHOE_01024	gene			
+EKEBIHOE_01025	CDS			hypothetical protein
+EKEBIHOE_01025	gene			
+EKEBIHOE_01026	CDS			hypothetical protein
+EKEBIHOE_01026	gene			
+EKEBIHOE_01027	CDS	rsmG	2.1.1.170	Ribosomal RNA small subunit methyltransferase G
+EKEBIHOE_01027	gene	rsmG		
+EKEBIHOE_01028	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+EKEBIHOE_01028	gene	queA		
+EKEBIHOE_01029	CDS	tatC		Sec-independent protein translocase protein TatC
+EKEBIHOE_01029	gene	tatC		
+EKEBIHOE_01030	CDS	tatB		Sec-independent protein translocase protein TatB
+EKEBIHOE_01030	gene	tatB		
+EKEBIHOE_01031	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+EKEBIHOE_01031	gene	ruvB		
+EKEBIHOE_01032	CDS	panB	2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase
+EKEBIHOE_01032	gene	panB		
+EKEBIHOE_01033	CDS			hypothetical protein
+EKEBIHOE_01033	gene			
+EKEBIHOE_01034	CDS			hypothetical protein
+EKEBIHOE_01034	gene			
+EKEBIHOE_01035	CDS			hypothetical protein
+EKEBIHOE_01035	gene			
+EKEBIHOE_01036	CDS			hypothetical protein
+EKEBIHOE_01036	gene			
+EKEBIHOE_01037	CDS	minC		putative septum site-determining protein MinC
+EKEBIHOE_01037	gene	minC		
+EKEBIHOE_01038	CDS	lpxC	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+EKEBIHOE_01038	gene	lpxC		
+EKEBIHOE_01039	CDS			hypothetical protein
+EKEBIHOE_01039	gene			
+EKEBIHOE_01040	CDS	thrB	2.7.1.39	Homoserine kinase
+EKEBIHOE_01040	gene	thrB		
+EKEBIHOE_01041	CDS			hypothetical protein
+EKEBIHOE_01041	gene			
+EKEBIHOE_01042	CDS	infB		Translation initiation factor IF-2
+EKEBIHOE_01042	gene	infB		
+EKEBIHOE_01043	CDS	rbfA		Ribosome-binding factor A
+EKEBIHOE_01043	gene	rbfA		
+EKEBIHOE_01044	CDS	rimP		Ribosome maturation factor RimP
+EKEBIHOE_01044	gene	rimP		
+EKEBIHOE_01045	CDS	acsA	6.2.1.1	Acetyl-coenzyme A synthetase
+EKEBIHOE_01045	gene	acsA		
+EKEBIHOE_01046	CDS	cpdA	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+EKEBIHOE_01046	gene	cpdA		
+EKEBIHOE_01047	CDS	cusR		Transcriptional regulatory protein CusR
+EKEBIHOE_01047	gene	cusR		
+EKEBIHOE_01048	CDS		3.1.4.17	3',5'-cyclic-nucleotide phosphodiesterase
+EKEBIHOE_01048	gene			
+EKEBIHOE_01049	CDS	flhA		Flagellar biosynthesis protein FlhA
+EKEBIHOE_01049	gene	flhA		
+EKEBIHOE_01050	CDS	rpsO		30S ribosomal protein S15
+EKEBIHOE_01050	gene	rpsO		
+EKEBIHOE_01051	CDS			hypothetical protein
+EKEBIHOE_01051	gene			
+EKEBIHOE_01052	CDS	aroQ	4.2.1.10	3-dehydroquinate dehydratase
+EKEBIHOE_01052	gene	aroQ		
+EKEBIHOE_01053	CDS		3.4.11.-	Aminopeptidase
+EKEBIHOE_01053	gene			
+EKEBIHOE_01054	CDS	folK	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+EKEBIHOE_01054	gene	folK		
+EKEBIHOE_01055	CDS	flhF		Flagellar biosynthesis protein FlhF
+EKEBIHOE_01055	gene	flhF		
+EKEBIHOE_01056	CDS	ylxH		Flagellum site-determining protein YlxH
+EKEBIHOE_01056	gene	ylxH		
+EKEBIHOE_01057	CDS			hypothetical protein
+EKEBIHOE_01057	gene			
+EKEBIHOE_01058	CDS	fliA		RNA polymerase sigma factor FliA
+EKEBIHOE_01058	gene	fliA		
+EKEBIHOE_01059	CDS	fliM		Flagellar motor switch protein FliM
+EKEBIHOE_01059	gene	fliM		
+EKEBIHOE_01060	CDS	fliN_2		Flagellar motor switch protein FliN
+EKEBIHOE_01060	gene	fliN_2		
+EKEBIHOE_01061	CDS			hypothetical protein
+EKEBIHOE_01061	gene			
+EKEBIHOE_01062	CDS			hypothetical protein
+EKEBIHOE_01062	gene			
+EKEBIHOE_01063	CDS	fur		Ferric uptake regulation protein
+EKEBIHOE_01063	gene	fur		
+EKEBIHOE_01064	CDS			putative AAA domain-containing protein
+EKEBIHOE_01064	gene			
+EKEBIHOE_01065	CDS	hspR		Putative heat shock protein HspR
+EKEBIHOE_01065	gene	hspR		
+EKEBIHOE_01066	CDS	cbpA		Curved DNA-binding protein
+EKEBIHOE_01066	gene	cbpA		
+EKEBIHOE_01067	CDS			hypothetical protein
+EKEBIHOE_01067	gene			
+EKEBIHOE_01068	CDS	xni	3.1.-.-	Flap endonuclease Xni
+EKEBIHOE_01068	gene	xni		
+EKEBIHOE_01069	CDS			hypothetical protein
+EKEBIHOE_01069	gene			
+EKEBIHOE_01070	CDS	ispDF		Bifunctional enzyme IspD/IspF
+EKEBIHOE_01070	gene	ispDF		
+EKEBIHOE_01071	CDS	degP	3.4.21.107	Periplasmic serine endoprotease DegP
+EKEBIHOE_01071	gene	degP		
+EKEBIHOE_01072	CDS	rocE		Amino-acid permease RocE
+EKEBIHOE_01072	gene	rocE		
+EKEBIHOE_01073	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+EKEBIHOE_01073	gene	pgsA		
+EKEBIHOE_01074	CDS			hypothetical protein
+EKEBIHOE_01074	gene			
+EKEBIHOE_01075	CDS	fabL	1.3.1.104	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabL
+EKEBIHOE_01075	gene	fabL		
+EKEBIHOE_01076	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+EKEBIHOE_01076	gene	dapA		
+EKEBIHOE_01077	CDS		3.4.24.-	putative zinc protease
+EKEBIHOE_01077	gene			
+EKEBIHOE_01078	CDS	pyrD_2	1.3.5.2	Dihydroorotate dehydrogenase (quinone)
+EKEBIHOE_01078	gene	pyrD_2		
+EKEBIHOE_01079	CDS	ppk	2.7.4.1	Polyphosphate kinase
+EKEBIHOE_01079	gene	ppk		
+EKEBIHOE_01080	tRNA			tRNA-Pro(ggg)
+EKEBIHOE_01080	gene			
+EKEBIHOE_01081	CDS			hypothetical protein
+EKEBIHOE_01081	gene			
+EKEBIHOE_01082	CDS			hypothetical protein
+EKEBIHOE_01082	gene			
+EKEBIHOE_01083	CDS	petB		Cytochrome b
+EKEBIHOE_01083	gene	petB		
+EKEBIHOE_01084	CDS	petA	1.10.2.2	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+EKEBIHOE_01084	gene	petA		
+EKEBIHOE_01085	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+EKEBIHOE_01085	gene	mfd		
+EKEBIHOE_01086	CDS			hypothetical protein
+EKEBIHOE_01086	gene			
+EKEBIHOE_01087	CDS	mepM_1	3.4.24.-	Murein DD-endopeptidase MepM
+EKEBIHOE_01087	gene	mepM_1		
+EKEBIHOE_01088	CDS	mepM_2	3.4.24.-	Murein DD-endopeptidase MepM
+EKEBIHOE_01088	gene	mepM_2		
+EKEBIHOE_01089	CDS	folC	6.3.2.12	Dihydrofolate synthase/folylpolyglutamate synthase
+EKEBIHOE_01089	gene	folC		
+EKEBIHOE_01090	CDS			hypothetical protein
+EKEBIHOE_01090	gene			
+EKEBIHOE_01091	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+EKEBIHOE_01091	gene	leuS		
+EKEBIHOE_01092	CDS			hypothetical protein
+EKEBIHOE_01092	gene			
+EKEBIHOE_01093	CDS			hypothetical protein
+EKEBIHOE_01093	gene			
+EKEBIHOE_01094	CDS			hypothetical protein
+EKEBIHOE_01094	gene			
+EKEBIHOE_01095	CDS			hypothetical protein
+EKEBIHOE_01095	gene			
+EKEBIHOE_01096	CDS	nhaA		Na(+)/H(+) antiporter NhaA
+EKEBIHOE_01096	gene	nhaA		
+EKEBIHOE_01097	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+EKEBIHOE_01097	gene	addA		
+EKEBIHOE_01098	CDS	rpsB		30S ribosomal protein S2
+EKEBIHOE_01098	gene	rpsB		
+EKEBIHOE_01099	CDS	tsf		Elongation factor Ts
+EKEBIHOE_01099	gene	tsf		
+EKEBIHOE_01100	CDS	ftsI	3.4.16.4	Peptidoglycan D,D-transpeptidase FtsI
+EKEBIHOE_01100	gene	ftsI		
+EKEBIHOE_01101	CDS	fliE		Flagellar hook-basal body complex protein FliE
+EKEBIHOE_01101	gene	fliE		
+EKEBIHOE_01102	CDS	flgC		Flagellar basal-body rod protein FlgC
+EKEBIHOE_01102	gene	flgC		
+EKEBIHOE_01103	CDS	flgB		Flagellar basal body rod protein FlgB
+EKEBIHOE_01103	gene	flgB		
+EKEBIHOE_01104	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+EKEBIHOE_01104	gene	ftsW		
+EKEBIHOE_01105	CDS	cadA	3.6.3.3	Cadmium, zinc and cobalt-transporting ATPase
+EKEBIHOE_01105	gene	cadA		
+EKEBIHOE_01106	CDS	comM		Competence protein ComM
+EKEBIHOE_01106	gene	comM		
+EKEBIHOE_01107	CDS	def	3.5.1.88	Peptide deformylase
+EKEBIHOE_01107	gene	def		
+EKEBIHOE_01108	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+EKEBIHOE_01108	gene	clpP		
+EKEBIHOE_01109	CDS	tig	5.2.1.8	Trigger factor
+EKEBIHOE_01109	gene	tig		
+EKEBIHOE_01110	CDS			hypothetical protein
+EKEBIHOE_01110	gene			
+EKEBIHOE_01111	CDS			hypothetical protein
+EKEBIHOE_01111	gene			
+EKEBIHOE_01112	CDS	moaC	4.6.1.17	Cyclic pyranopterin monophosphate synthase
+EKEBIHOE_01112	gene	moaC		
+EKEBIHOE_01113	CDS	mog	2.7.7.75	Molybdopterin adenylyltransferase
+EKEBIHOE_01113	gene	mog		
+EKEBIHOE_01114	CDS	moaE	2.8.1.12	Molybdopterin synthase catalytic subunit
+EKEBIHOE_01114	gene	moaE		
+EKEBIHOE_01115	CDS			hypothetical protein
+EKEBIHOE_01115	gene			
+EKEBIHOE_01116	CDS	ribA	3.5.4.25	GTP cyclohydrolase-2
+EKEBIHOE_01116	gene	ribA		
+EKEBIHOE_01117	CDS			hypothetical protein
+EKEBIHOE_01117	gene			
+EKEBIHOE_01118	CDS	ribBA		Riboflavin biosynthesis protein RibBA
+EKEBIHOE_01118	gene	ribBA		
+EKEBIHOE_01119	CDS			hypothetical protein
+EKEBIHOE_01119	gene			
+EKEBIHOE_01120	CDS			hypothetical protein
+EKEBIHOE_01120	gene			
+EKEBIHOE_01121	CDS	fecA_1		Fe(3+) dicitrate transport protein FecA
+EKEBIHOE_01121	gene	fecA_1		
+EKEBIHOE_01122	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+EKEBIHOE_01122	gene	acpS		
+EKEBIHOE_01123	CDS			hypothetical protein
+EKEBIHOE_01123	gene			
+EKEBIHOE_01124	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+EKEBIHOE_01124	gene	rsmD		
+EKEBIHOE_01125	CDS			hypothetical protein
+EKEBIHOE_01125	gene			
+EKEBIHOE_01126	CDS			hypothetical protein
+EKEBIHOE_01126	gene			
+EKEBIHOE_01127	CDS			hypothetical protein
+EKEBIHOE_01127	gene			
+EKEBIHOE_01128	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+EKEBIHOE_01128	gene	gloC		
+EKEBIHOE_01129	CDS	moeZ		putative adenylyltransferase/sulfurtransferase MoeZ
+EKEBIHOE_01129	gene	moeZ		
+EKEBIHOE_01130	CDS	pomA		Chemotaxis protein PomA
+EKEBIHOE_01130	gene	pomA		
+EKEBIHOE_01131	CDS	motB		Motility protein B
+EKEBIHOE_01131	gene	motB		
+EKEBIHOE_01132	CDS			hypothetical protein
+EKEBIHOE_01132	gene			
+EKEBIHOE_01133	CDS	opuCC		Glycine betaine/carnitine/choline-binding protein OpuCC
+EKEBIHOE_01133	gene	opuCC		
+EKEBIHOE_01134	CDS	opuBA		Choline transport ATP-binding protein OpuBA
+EKEBIHOE_01134	gene	opuBA		
+EKEBIHOE_01135	CDS			hypothetical protein
+EKEBIHOE_01135	gene			
+EKEBIHOE_01136	CDS	uvrC		UvrABC system protein C
+EKEBIHOE_01136	gene	uvrC		
+EKEBIHOE_01137	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+EKEBIHOE_01137	gene	hom		
+EKEBIHOE_01138	CDS			hypothetical protein
+EKEBIHOE_01138	gene			
+EKEBIHOE_01139	CDS	trxA_2		Thioredoxin
+EKEBIHOE_01139	gene	trxA_2		
+EKEBIHOE_01140	CDS	trxB	1.8.1.9	Thioredoxin reductase
+EKEBIHOE_01140	gene	trxB		
+EKEBIHOE_01141	CDS	lex1	2.-.-.-	Lipooligosaccharide biosynthesis protein lex-1
+EKEBIHOE_01141	gene	lex1		
+EKEBIHOE_01142	CDS			hypothetical protein
+EKEBIHOE_01142	gene			
+EKEBIHOE_01143	CDS	atpB		ATP synthase subunit a
+EKEBIHOE_01143	gene	atpB		
+EKEBIHOE_01144	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+EKEBIHOE_01144	gene	guaB		
+EKEBIHOE_01145	CDS	gatA	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+EKEBIHOE_01145	gene	gatA		
+EKEBIHOE_01146	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+EKEBIHOE_01146	gene	coaE		
+EKEBIHOE_01147	CDS	speE	2.5.1.16	Polyamine aminopropyltransferase
+EKEBIHOE_01147	gene	speE		
+EKEBIHOE_01148	CDS			hypothetical protein
+EKEBIHOE_01148	gene			
+EKEBIHOE_01149	CDS	der_2		GTPase Der
+EKEBIHOE_01149	gene	der_2		
+EKEBIHOE_01150	CDS	hup		DNA-binding protein HU
+EKEBIHOE_01150	gene	hup		
+EKEBIHOE_01151	tRNA			tRNA-Arg(cct)
+EKEBIHOE_01151	gene			
+EKEBIHOE_01152	CDS			hypothetical protein
+EKEBIHOE_01152	gene			
+EKEBIHOE_01153	CDS			hypothetical protein
+EKEBIHOE_01153	gene			
+EKEBIHOE_01154	CDS			hypothetical protein
+EKEBIHOE_01154	gene			
+EKEBIHOE_01155	CDS	pseB	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+EKEBIHOE_01155	gene	pseB		
+EKEBIHOE_01156	CDS	coaBC		Coenzyme A biosynthesis bifunctional protein CoaBC
+EKEBIHOE_01156	gene	coaBC		
+EKEBIHOE_01157	CDS			hypothetical protein
+EKEBIHOE_01157	gene			
+EKEBIHOE_01158	CDS	thiE	2.5.1.3	Thiamine-phosphate synthase
+EKEBIHOE_01158	gene	thiE		
+EKEBIHOE_01159	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+EKEBIHOE_01159	gene	thiD		
+EKEBIHOE_01160	CDS	thiM	2.7.1.50	Hydroxyethylthiazole kinase
+EKEBIHOE_01160	gene	thiM		
+EKEBIHOE_01161	CDS	hsdR_1	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+EKEBIHOE_01161	gene	hsdR_1		
+EKEBIHOE_01162	CDS			hypothetical protein
+EKEBIHOE_01162	gene			
+EKEBIHOE_01163	CDS			hypothetical protein
+EKEBIHOE_01163	gene			
+EKEBIHOE_01164	CDS	topA_1	5.99.1.2	DNA topoisomerase 1
+EKEBIHOE_01164	gene	topA_1		
+EKEBIHOE_01165	CDS	ptlC		Type IV secretion system protein PtlC
+EKEBIHOE_01165	gene	ptlC		
+EKEBIHOE_01166	CDS			hypothetical protein
+EKEBIHOE_01166	gene			
+EKEBIHOE_01167	CDS			hypothetical protein
+EKEBIHOE_01167	gene			
+EKEBIHOE_01168	CDS			hypothetical protein
+EKEBIHOE_01168	gene			
+EKEBIHOE_01169	CDS			hypothetical protein
+EKEBIHOE_01169	gene			
+EKEBIHOE_01170	CDS			hypothetical protein
+EKEBIHOE_01170	gene			
+EKEBIHOE_01171	CDS			hypothetical protein
+EKEBIHOE_01171	gene			
+EKEBIHOE_01172	CDS			hypothetical protein
+EKEBIHOE_01172	gene			
+EKEBIHOE_01173	CDS			hypothetical protein
+EKEBIHOE_01173	gene			
+EKEBIHOE_01174	CDS			hypothetical protein
+EKEBIHOE_01174	gene			
+EKEBIHOE_01175	CDS			hypothetical protein
+EKEBIHOE_01175	gene			
+EKEBIHOE_01176	CDS			hypothetical protein
+EKEBIHOE_01176	gene			
+EKEBIHOE_01177	CDS			hypothetical protein
+EKEBIHOE_01177	gene			
+EKEBIHOE_01178	CDS			hypothetical protein
+EKEBIHOE_01178	gene			
+EKEBIHOE_01179	CDS			hypothetical protein
+EKEBIHOE_01179	gene			
+EKEBIHOE_01180	CDS			hypothetical protein
+EKEBIHOE_01180	gene			
+EKEBIHOE_01181	CDS			hypothetical protein
+EKEBIHOE_01181	gene			
+EKEBIHOE_01182	CDS			hypothetical protein
+EKEBIHOE_01182	gene			
+EKEBIHOE_01183	CDS			hypothetical protein
+EKEBIHOE_01183	gene			
+EKEBIHOE_01184	CDS			hypothetical protein
+EKEBIHOE_01184	gene			
+EKEBIHOE_01185	CDS			hypothetical protein
+EKEBIHOE_01185	gene			
+EKEBIHOE_01186	CDS	virB4_3		Type IV secretion system protein virB4
+EKEBIHOE_01186	gene	virB4_3		
+EKEBIHOE_01187	CDS			hypothetical protein
+EKEBIHOE_01187	gene			
+EKEBIHOE_01188	CDS	speA	4.1.1.19	Biosynthetic arginine decarboxylase
+EKEBIHOE_01188	gene	speA		
+EKEBIHOE_01189	CDS	mgtA	2.4.1.-	GDP-mannose-dependent alpha-mannosyltransferase
+EKEBIHOE_01189	gene	mgtA		
+EKEBIHOE_01190	CDS			hypothetical protein
+EKEBIHOE_01190	gene			
+EKEBIHOE_01191	CDS	cmoB	2.5.1.-	tRNA U34 carboxymethyltransferase
+EKEBIHOE_01191	gene	cmoB		
+EKEBIHOE_01192	CDS			hypothetical protein
+EKEBIHOE_01192	gene			
+EKEBIHOE_01193	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+EKEBIHOE_01193	gene	metG		
+EKEBIHOE_01194	CDS	cfa	2.1.1.79	Cyclopropane-fatty-acyl-phospholipid synthase
+EKEBIHOE_01194	gene	cfa		
+EKEBIHOE_01195	CDS	ynaI		Low conductance mechanosensitive channel YnaI
+EKEBIHOE_01195	gene	ynaI		
+EKEBIHOE_01196	CDS			hypothetical protein
+EKEBIHOE_01196	gene			
+EKEBIHOE_01197	CDS			hypothetical protein
+EKEBIHOE_01197	gene			
+EKEBIHOE_01198	CDS			hypothetical protein
+EKEBIHOE_01198	gene			
+EKEBIHOE_01199	CDS	queF	1.7.1.13	NADPH-dependent 7-cyano-7-deazaguanine reductase
+EKEBIHOE_01199	gene	queF		
+EKEBIHOE_01200	CDS	rsfS		Ribosomal silencing factor RsfS
+EKEBIHOE_01200	gene	rsfS		
+EKEBIHOE_01201	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+EKEBIHOE_01201	gene	miaA		
+EKEBIHOE_01202	CDS			hypothetical protein
+EKEBIHOE_01202	gene			
+EKEBIHOE_01203	CDS			hypothetical protein
+EKEBIHOE_01203	gene			
+EKEBIHOE_01204	CDS	cptA	2.7.-.-	Phosphoethanolamine transferase CptA
+EKEBIHOE_01204	gene	cptA		
+EKEBIHOE_01205	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+EKEBIHOE_01205	gene	murB		
+EKEBIHOE_01206	CDS			hypothetical protein
+EKEBIHOE_01206	gene			
+EKEBIHOE_01207	CDS	fliI	3.6.3.14	Flagellum-specific ATP synthase
+EKEBIHOE_01207	gene	fliI		
+EKEBIHOE_01208	CDS	ptlH		Type IV secretion system protein PtlH
+EKEBIHOE_01208	gene	ptlH		
+EKEBIHOE_01209	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+EKEBIHOE_01209	gene	ileS		
+EKEBIHOE_01210	CDS			hypothetical protein
+EKEBIHOE_01210	gene			
+EKEBIHOE_01211	CDS			hypothetical protein
+EKEBIHOE_01211	gene			
+EKEBIHOE_01212	CDS			hypothetical protein
+EKEBIHOE_01212	gene			
+EKEBIHOE_01213	CDS			hypothetical protein
+EKEBIHOE_01213	gene			
+EKEBIHOE_01214	CDS			hypothetical protein
+EKEBIHOE_01214	gene			
+EKEBIHOE_01215	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+EKEBIHOE_01215	gene	rlmN		
+EKEBIHOE_01216	CDS	kdsD	5.3.1.13	Arabinose 5-phosphate isomerase KdsD
+EKEBIHOE_01216	gene	kdsD		
+EKEBIHOE_01217	CDS	rnj	3.1.-.-	Ribonuclease J
+EKEBIHOE_01217	gene	rnj		
+EKEBIHOE_01218	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+EKEBIHOE_01218	gene	rsmA		
+EKEBIHOE_01219	CDS			hypothetical protein
+EKEBIHOE_01219	gene			
+EKEBIHOE_01220	CDS			hypothetical protein
+EKEBIHOE_01220	gene			
+EKEBIHOE_01221	CDS	purU	3.5.1.10	Formyltetrahydrofolate deformylase
+EKEBIHOE_01221	gene	purU		
+EKEBIHOE_01222	CDS	sppA	3.4.21.-	Putative signal peptide peptidase SppA
+EKEBIHOE_01222	gene	sppA		
+EKEBIHOE_01223	CDS			hypothetical protein
+EKEBIHOE_01223	gene			
+EKEBIHOE_01224	CDS			hypothetical protein
+EKEBIHOE_01224	gene			
+EKEBIHOE_01225	CDS			hypothetical protein
+EKEBIHOE_01225	gene			
+EKEBIHOE_01226	CDS			hypothetical protein
+EKEBIHOE_01226	gene			
+EKEBIHOE_01227	CDS	tsaA	1.11.1.15	putative peroxiredoxin
+EKEBIHOE_01227	gene	tsaA		
+EKEBIHOE_01228	CDS	metQ		D-methionine-binding lipoprotein MetQ
+EKEBIHOE_01228	gene	metQ		
+EKEBIHOE_01229	CDS	mrdA	3.4.16.4	Peptidoglycan D,D-transpeptidase MrdA
+EKEBIHOE_01229	gene	mrdA		
+EKEBIHOE_01230	CDS			hypothetical protein
+EKEBIHOE_01230	gene			
+EKEBIHOE_01231	CDS	engB		putative GTP-binding protein EngB
+EKEBIHOE_01231	gene	engB		
+EKEBIHOE_01232	CDS	lptA		Lipopolysaccharide export system protein LptA
+EKEBIHOE_01232	gene	lptA		
+EKEBIHOE_01233	CDS			hypothetical protein
+EKEBIHOE_01233	gene			
+EKEBIHOE_01234	CDS	kdsC	3.1.3.45	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+EKEBIHOE_01234	gene	kdsC		
+EKEBIHOE_01235	CDS	rlpA	4.2.2.-	Endolytic peptidoglycan transglycosylase RlpA
+EKEBIHOE_01235	gene	rlpA		
+EKEBIHOE_01236	CDS	mltD	4.2.2.-	Membrane-bound lytic murein transglycosylase D
+EKEBIHOE_01236	gene	mltD		
+EKEBIHOE_01237	CDS	ycfH	3.1.-.-	putative metal-dependent hydrolase YcfH
+EKEBIHOE_01237	gene	ycfH		
+EKEBIHOE_01238	CDS	ribE	2.5.1.9	Riboflavin synthase
+EKEBIHOE_01238	gene	ribE		
+EKEBIHOE_01239	CDS	flhB_2		Flagellar biosynthetic protein FlhB
+EKEBIHOE_01239	gene	flhB_2		
+EKEBIHOE_01240	CDS	metN	3.6.3.-	Methionine import ATP-binding protein MetN
+EKEBIHOE_01240	gene	metN		
+EKEBIHOE_01241	CDS	metI		D-methionine transport system permease protein MetI
+EKEBIHOE_01241	gene	metI		
+EKEBIHOE_01242	CDS			hypothetical protein
+EKEBIHOE_01242	gene			
+EKEBIHOE_01243	CDS			hypothetical protein
+EKEBIHOE_01243	gene			
+EKEBIHOE_01244	CDS	lpxE_2	3.1.-.-	Lipid A 1-phosphatase
+EKEBIHOE_01244	gene	lpxE_2		
+EKEBIHOE_01245	CDS	tagO	2.7.8.33	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+EKEBIHOE_01245	gene	tagO		
+EKEBIHOE_01246	CDS	pdxJ	2.6.99.2	Pyridoxine 5'-phosphate synthase
+EKEBIHOE_01246	gene	pdxJ		
+EKEBIHOE_01247	CDS	pdxA	1.1.1.262	4-hydroxythreonine-4-phosphate dehydrogenase
+EKEBIHOE_01247	gene	pdxA		
+EKEBIHOE_01248	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+EKEBIHOE_01248	gene	tsaD		
+EKEBIHOE_01249	CDS	flgG_2		Flagellar basal-body rod protein FlgG
+EKEBIHOE_01249	gene	flgG_2		
+EKEBIHOE_01250	CDS			hypothetical protein
+EKEBIHOE_01250	gene			
+EKEBIHOE_01251	CDS			hypothetical protein
+EKEBIHOE_01251	gene			
+EKEBIHOE_01252	CDS			hypothetical protein
+EKEBIHOE_01252	gene			
+EKEBIHOE_01253	CDS			hypothetical protein
+EKEBIHOE_01253	gene			
+EKEBIHOE_01254	CDS	SERB	3.1.3.3	Phosphoserine phosphatase
+EKEBIHOE_01254	gene	SERB		
+EKEBIHOE_01255	CDS	ftnA	1.16.3.2	Bacterial non-heme ferritin
+EKEBIHOE_01255	gene	ftnA		
+EKEBIHOE_01256	CDS	mqnE	2.5.1.120	Aminodeoxyfutalosine synthase
+EKEBIHOE_01256	gene	mqnE		
+EKEBIHOE_01257	CDS	bamA		Outer membrane protein assembly factor BamA
+EKEBIHOE_01257	gene	bamA		
+EKEBIHOE_01258	CDS	mqnC	1.21.98.1	Cyclic dehypoxanthine futalosine synthase
+EKEBIHOE_01258	gene	mqnC		
+EKEBIHOE_01259	CDS		3.4.24.-	putative zinc protease
+EKEBIHOE_01259	gene			
+EKEBIHOE_01260	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+EKEBIHOE_01260	gene	gatB		
+EKEBIHOE_01261	CDS	surA	5.2.1.8	Chaperone SurA
+EKEBIHOE_01261	gene	surA		
+EKEBIHOE_01262	CDS	lapB		Lipopolysaccharide assembly protein B
+EKEBIHOE_01262	gene	lapB		
+EKEBIHOE_01263	CDS	rnhA	3.1.26.4	Ribonuclease HI
+EKEBIHOE_01263	gene	rnhA		
+EKEBIHOE_01264	CDS	rnc	3.1.26.3	Ribonuclease 3
+EKEBIHOE_01264	gene	rnc		
+EKEBIHOE_01265	CDS	aroC	4.2.3.5	Chorismate synthase
+EKEBIHOE_01265	gene	aroC		
+EKEBIHOE_01266	CDS			hypothetical protein
+EKEBIHOE_01266	gene			
+EKEBIHOE_01267	CDS	hemN_2	1.3.98.3	Oxygen-independent coproporphyrinogen III oxidase
+EKEBIHOE_01267	gene	hemN_2		
+EKEBIHOE_01268	CDS	glpC		Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+EKEBIHOE_01268	gene	glpC		
+EKEBIHOE_01269	CDS			hypothetical protein
+EKEBIHOE_01269	gene			
+EKEBIHOE_01270	CDS			hypothetical protein
+EKEBIHOE_01270	gene			
+EKEBIHOE_01271	CDS			hypothetical protein
+EKEBIHOE_01271	gene			
+EKEBIHOE_01272	CDS			hypothetical protein
+EKEBIHOE_01272	gene			
+EKEBIHOE_01273	CDS			hypothetical protein
+EKEBIHOE_01273	gene			
+EKEBIHOE_01274	CDS		2.6.1.1	Aspartate aminotransferase
+EKEBIHOE_01274	gene			
+EKEBIHOE_01275	CDS			hypothetical protein
+EKEBIHOE_01275	gene			
+EKEBIHOE_01276	CDS			hypothetical protein
+EKEBIHOE_01276	gene			
+EKEBIHOE_01277	CDS	xerH_1		Tyrosine recombinase XerH
+EKEBIHOE_01277	gene	xerH_1		
+EKEBIHOE_01278	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+EKEBIHOE_01278	gene	ogt		
+EKEBIHOE_01279	CDS			hypothetical protein
+EKEBIHOE_01279	gene			
+EKEBIHOE_01280	CDS	wbpB	1.1.1.335	UDP-N-acetyl-2-amino-2-deoxy-D-glucuronate oxidase
+EKEBIHOE_01280	gene	wbpB		
+EKEBIHOE_01281	CDS	nrdA	1.17.4.1	Ribonucleoside-diphosphate reductase 1 subunit alpha
+EKEBIHOE_01281	gene	nrdA		
+EKEBIHOE_01282	CDS			hypothetical protein
+EKEBIHOE_01282	gene			
+EKEBIHOE_01283	CDS			hypothetical protein
+EKEBIHOE_01283	gene			
+EKEBIHOE_01284	CDS	glmU		Bifunctional protein GlmU
+EKEBIHOE_01284	gene	glmU		
+EKEBIHOE_01285	CDS	fliP_1		Flagellar biosynthetic protein FliP
+EKEBIHOE_01285	gene	fliP_1		
+EKEBIHOE_01286	CDS	fliP_2		Flagellar biosynthetic protein FliP
+EKEBIHOE_01286	gene	fliP_2		
+EKEBIHOE_01287	CDS	fecA_2		Fe(3+) dicitrate transport protein FecA
+EKEBIHOE_01287	gene	fecA_2		
+EKEBIHOE_01288	CDS	feoB		Fe(2+) transporter FeoB
+EKEBIHOE_01288	gene	feoB		
+EKEBIHOE_01289	CDS			hypothetical protein
+EKEBIHOE_01289	gene			
+EKEBIHOE_01290	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+EKEBIHOE_01290	gene	thlA		
+EKEBIHOE_01291	CDS	scoA	2.8.3.5	Succinyl-CoA:3-ketoacid coenzyme A transferase subunit A
+EKEBIHOE_01291	gene	scoA		
+EKEBIHOE_01292	CDS	scoB	2.8.3.5	Succinyl-CoA:3-ketoacid coenzyme A transferase subunit B
+EKEBIHOE_01292	gene	scoB		
+EKEBIHOE_01293	CDS	atoE		Putative short-chain fatty acid transporter
+EKEBIHOE_01293	gene	atoE		
+EKEBIHOE_01294	CDS			hypothetical protein
+EKEBIHOE_01294	gene			
+EKEBIHOE_01295	CDS	acxA	6.4.1.6	Acetone carboxylase beta subunit
+EKEBIHOE_01295	gene	acxA		
+EKEBIHOE_01296	CDS	acxB_1	6.4.1.6	Acetone carboxylase alpha subunit
+EKEBIHOE_01296	gene	acxB_1		
+EKEBIHOE_01297	CDS	acxB_2	6.4.1.6	Acetone carboxylase alpha subunit
+EKEBIHOE_01297	gene	acxB_2		
+EKEBIHOE_01298	CDS	acxC	6.4.1.6	Acetone carboxylase gamma subunit
+EKEBIHOE_01298	gene	acxC		
+EKEBIHOE_01299	CDS			hypothetical protein
+EKEBIHOE_01299	gene			
+EKEBIHOE_01300	CDS	dgkA	2.7.1.107	Diacylglycerol kinase
+EKEBIHOE_01300	gene	dgkA		
+EKEBIHOE_01301	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+EKEBIHOE_01301	gene	gyrA		
+EKEBIHOE_01302	CDS			hypothetical protein
+EKEBIHOE_01302	gene			
+EKEBIHOE_01303	CDS	glrR		Transcriptional regulatory protein GlrR
+EKEBIHOE_01303	gene	glrR		
+EKEBIHOE_01304	CDS	uvrA		UvrABC system protein A
+EKEBIHOE_01304	gene	uvrA		
+EKEBIHOE_01305	CDS			hypothetical protein
+EKEBIHOE_01305	gene			
+EKEBIHOE_01306	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+EKEBIHOE_01306	gene	rsmH		
+EKEBIHOE_01307	CDS			hypothetical protein
+EKEBIHOE_01307	gene			
+EKEBIHOE_01308	CDS	salL	2.5.1.94	Adenosyl-chloride synthase
+EKEBIHOE_01308	gene	salL		
+EKEBIHOE_01309	CDS			hypothetical protein
+EKEBIHOE_01309	gene			
+EKEBIHOE_01310	CDS	yfbR	3.1.3.89	5'-deoxynucleotidase YfbR
+EKEBIHOE_01310	gene	yfbR		
+EKEBIHOE_01311	CDS			hypothetical protein
+EKEBIHOE_01311	gene			
+EKEBIHOE_01312	CDS			hypothetical protein
+EKEBIHOE_01312	gene			
+EKEBIHOE_01313	CDS	rpoN		RNA polymerase sigma-54 factor
+EKEBIHOE_01313	gene	rpoN		
+EKEBIHOE_01314	CDS	lptB	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+EKEBIHOE_01314	gene	lptB		
+EKEBIHOE_01315	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+EKEBIHOE_01315	gene	tsaE		
+EKEBIHOE_01316	CDS	dnaX	2.7.7.7	DNA polymerase III subunit tau
+EKEBIHOE_01316	gene	dnaX		
+EKEBIHOE_01317	CDS	argO		Arginine exporter protein ArgO
+EKEBIHOE_01317	gene	argO		
+EKEBIHOE_01318	CDS			hypothetical protein
+EKEBIHOE_01318	gene			
+EKEBIHOE_01319	CDS			hypothetical protein
+EKEBIHOE_01319	gene			
+EKEBIHOE_01320	CDS			hypothetical protein
+EKEBIHOE_01320	gene			
+EKEBIHOE_01321	CDS			hypothetical protein
+EKEBIHOE_01321	gene			
+EKEBIHOE_01322	CDS	srpA	1.11.1.-	Catalase-related peroxidase
+EKEBIHOE_01322	gene	srpA		
+EKEBIHOE_01323	CDS			hypothetical protein
+EKEBIHOE_01323	gene			
+EKEBIHOE_01324	CDS			hypothetical protein
+EKEBIHOE_01324	gene			
+EKEBIHOE_01325	CDS	ydiO	2.1.1.37	putative BsuMI modification methylase subunit YdiO
+EKEBIHOE_01325	gene	ydiO		
+EKEBIHOE_01326	CDS			hypothetical protein
+EKEBIHOE_01326	gene			
+EKEBIHOE_01327	CDS			hypothetical protein
+EKEBIHOE_01327	gene			
+EKEBIHOE_01328	CDS			hypothetical protein
+EKEBIHOE_01328	gene			
+EKEBIHOE_01329	CDS			hypothetical protein
+EKEBIHOE_01329	gene			
+EKEBIHOE_01330	CDS	typA		GTP-binding protein TypA/BipA
+EKEBIHOE_01330	gene	typA		
+EKEBIHOE_01331	CDS			hypothetical protein
+EKEBIHOE_01331	gene			
+EKEBIHOE_01332	CDS	vspIM	2.1.1.72	Modification methylase VspI
+EKEBIHOE_01332	gene	vspIM		
+EKEBIHOE_01333	CDS			hypothetical protein
+EKEBIHOE_01333	gene			
+EKEBIHOE_01334	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+EKEBIHOE_01334	gene	gltX		
+EKEBIHOE_01335	CDS	potA	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+EKEBIHOE_01335	gene	potA		
+EKEBIHOE_01336	CDS	modB		Molybdenum transport system permease protein ModB
+EKEBIHOE_01336	gene	modB		
+EKEBIHOE_01337	CDS	modA		Molybdate-binding periplasmic protein
+EKEBIHOE_01337	gene	modA		
+EKEBIHOE_01338	CDS			hypothetical protein
+EKEBIHOE_01338	gene			
+EKEBIHOE_01339	CDS	kefC		Glutathione-regulated potassium-efflux system protein KefC
+EKEBIHOE_01339	gene	kefC		
+EKEBIHOE_01340	CDS	pepF1	3.4.24.-	Oligoendopeptidase F, plasmid
+EKEBIHOE_01340	gene	pepF1		
+EKEBIHOE_01341	CDS			hypothetical protein
+EKEBIHOE_01341	gene			
+EKEBIHOE_01342	CDS			hypothetical protein
+EKEBIHOE_01342	gene			
+EKEBIHOE_01343	CDS			hypothetical protein
+EKEBIHOE_01343	gene			
+EKEBIHOE_01344	CDS			hypothetical protein
+EKEBIHOE_01344	gene			
+EKEBIHOE_01345	CDS			hypothetical protein
+EKEBIHOE_01345	gene			
+EKEBIHOE_01346	CDS			hypothetical protein
+EKEBIHOE_01346	gene			
+EKEBIHOE_01347	CDS	hsdR_2	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+EKEBIHOE_01347	gene	hsdR_2		
+EKEBIHOE_01348	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+EKEBIHOE_01348	gene			
+EKEBIHOE_01349	CDS			hypothetical protein
+EKEBIHOE_01349	gene			
+EKEBIHOE_01350	CDS	kch		Voltage-gated potassium channel Kch
+EKEBIHOE_01350	gene	kch		
+EKEBIHOE_01351	CDS	rpmB		50S ribosomal protein L28
+EKEBIHOE_01351	gene	rpmB		
+EKEBIHOE_01352	CDS			hypothetical protein
+EKEBIHOE_01352	gene			
+EKEBIHOE_01353	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+EKEBIHOE_01353	gene	mraY		
+EKEBIHOE_01354	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+EKEBIHOE_01354	gene	murD		
+EKEBIHOE_01355	CDS			hypothetical protein
+EKEBIHOE_01355	gene			
+EKEBIHOE_01356	CDS	ybgC	3.1.2.-	Acyl-CoA thioesterase YbgC
+EKEBIHOE_01356	gene	ybgC		
+EKEBIHOE_01357	CDS			hypothetical protein
+EKEBIHOE_01357	gene			
+EKEBIHOE_01358	CDS			hypothetical protein
+EKEBIHOE_01358	gene			
+EKEBIHOE_01359	CDS	pldA	3.1.1.32	Phospholipase A1
+EKEBIHOE_01359	gene	pldA		
+EKEBIHOE_01360	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+EKEBIHOE_01360	gene	dnaN		
+EKEBIHOE_01361	CDS	gyrB	5.99.1.3	Type 2 topoisomerase subunit B
+EKEBIHOE_01361	gene	gyrB		
+EKEBIHOE_01362	CDS			hypothetical protein
+EKEBIHOE_01362	gene			
+EKEBIHOE_01363	CDS			hypothetical protein
+EKEBIHOE_01363	gene			
+EKEBIHOE_01364	CDS			hypothetical protein
+EKEBIHOE_01364	gene			
+EKEBIHOE_01365	CDS			hypothetical protein
+EKEBIHOE_01365	gene			
+EKEBIHOE_01366	CDS	mepM_3	3.4.24.-	Murein DD-endopeptidase MepM
+EKEBIHOE_01366	gene	mepM_3		
+EKEBIHOE_01367	CDS	nudK	3.6.1.-	GDP-mannose pyrophosphatase NudK
+EKEBIHOE_01367	gene	nudK		
+EKEBIHOE_01368	CDS	pgbA		Plasminogen-binding protein PgbA
+EKEBIHOE_01368	gene	pgbA		
+EKEBIHOE_01369	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+EKEBIHOE_01369	gene			
+EKEBIHOE_01370	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+EKEBIHOE_01370	gene	dapB		
+EKEBIHOE_01371	CDS			hypothetical protein
+EKEBIHOE_01371	gene			
+EKEBIHOE_01372	CDS		5.4.4.3	3-hydroxylaminophenol mutase
+EKEBIHOE_01372	gene			
+EKEBIHOE_01373	CDS			hypothetical protein
+EKEBIHOE_01373	gene			
+EKEBIHOE_01374	CDS			hypothetical protein
+EKEBIHOE_01374	gene			
+EKEBIHOE_01375	CDS	rplI		50S ribosomal protein L9
+EKEBIHOE_01375	gene	rplI		
+EKEBIHOE_01376	CDS	hslV	3.4.25.2	ATP-dependent protease subunit HslV
+EKEBIHOE_01376	gene	hslV		
+EKEBIHOE_01377	CDS	clpY		ATP-dependent protease ATPase subunit ClpY
+EKEBIHOE_01377	gene	clpY		
+EKEBIHOE_01378	CDS	era_2		GTPase Era
+EKEBIHOE_01378	gene	era_2		
+EKEBIHOE_01379	CDS			hypothetical protein
+EKEBIHOE_01379	gene			
+EKEBIHOE_01380	CDS	hcpB_2	3.5.2.6	Beta-lactamase HcpB
+EKEBIHOE_01380	gene	hcpB_2		
+EKEBIHOE_01381	CDS			hypothetical protein
+EKEBIHOE_01381	gene			
+EKEBIHOE_01382	CDS			hypothetical protein
+EKEBIHOE_01382	gene			
+EKEBIHOE_01383	CDS			hypothetical protein
+EKEBIHOE_01383	gene			
+EKEBIHOE_01384	CDS	traG		Conjugal transfer protein TraG
+EKEBIHOE_01384	gene	traG		
+EKEBIHOE_01385	CDS			Type IV secretion system protein VirB11
+EKEBIHOE_01385	gene			
+EKEBIHOE_01386	CDS			hypothetical protein
+EKEBIHOE_01386	gene			
+EKEBIHOE_01387	CDS			Type IV secretion system protein virB10
+EKEBIHOE_01387	gene			
+EKEBIHOE_01388	CDS	uvrB		UvrABC system protein B
+EKEBIHOE_01388	gene	uvrB		
+EKEBIHOE_01389	CDS			hypothetical protein
+EKEBIHOE_01389	gene			
+EKEBIHOE_01390	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+EKEBIHOE_01390	gene	purB		
+EKEBIHOE_01391	CDS	porB	1.2.7.1	Pyruvate synthase subunit PorB
+EKEBIHOE_01391	gene	porB		
+EKEBIHOE_01392	CDS	porA	1.2.7.1	Pyruvate synthase subunit PorA
+EKEBIHOE_01392	gene	porA		
+EKEBIHOE_01393	CDS	porD		Pyruvate synthase subunit PorD
+EKEBIHOE_01393	gene	porD		
+EKEBIHOE_01394	CDS	porC	1.2.7.1	Pyruvate synthase subunit PorC
+EKEBIHOE_01394	gene	porC		
+EKEBIHOE_01395	CDS			hypothetical protein
+EKEBIHOE_01395	gene			
+EKEBIHOE_01396	CDS			hypothetical protein
+EKEBIHOE_01396	gene			
+EKEBIHOE_01397	CDS			hypothetical protein
+EKEBIHOE_01397	gene			
+EKEBIHOE_01398	CDS	adhA	1.1.1.-	putative formaldehyde dehydrogenase AdhA
+EKEBIHOE_01398	gene	adhA		
+EKEBIHOE_01399	CDS	glk	2.7.1.2	Glucokinase
+EKEBIHOE_01399	gene	glk		
+EKEBIHOE_01400	CDS	pgl	3.1.1.31	6-phosphogluconolactonase
+EKEBIHOE_01400	gene	pgl		
+EKEBIHOE_01401	CDS	zwf	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase
+EKEBIHOE_01401	gene	zwf		
+EKEBIHOE_01402	CDS	edd	4.2.1.12	Phosphogluconate dehydratase
+EKEBIHOE_01402	gene	edd		
+EKEBIHOE_01403	CDS	eda		KHG/KDPG aldolase
+EKEBIHOE_01403	gene	eda		
+EKEBIHOE_01404	CDS	hcpC_2	3.5.2.6	Putative beta-lactamase HcpC
+EKEBIHOE_01404	gene	hcpC_2		
+EKEBIHOE_01405	CDS			hypothetical protein
+EKEBIHOE_01405	gene			
+EKEBIHOE_01406	CDS			hypothetical protein
+EKEBIHOE_01406	gene			
+EKEBIHOE_01407	CDS			hypothetical protein
+EKEBIHOE_01407	gene			
+EKEBIHOE_01408	CDS			hypothetical protein
+EKEBIHOE_01408	gene			
+EKEBIHOE_01409	CDS	mscS		Small-conductance mechanosensitive channel
+EKEBIHOE_01409	gene	mscS		
+EKEBIHOE_01410	CDS			hypothetical protein
+EKEBIHOE_01410	gene			
+EKEBIHOE_01411	CDS			hypothetical protein
+EKEBIHOE_01411	gene			
+EKEBIHOE_01412	CDS			hypothetical protein
+EKEBIHOE_01412	gene			
+EKEBIHOE_01413	CDS	bioB	2.8.1.6	Biotin synthase
+EKEBIHOE_01413	gene	bioB		
+EKEBIHOE_01414	CDS			hypothetical protein
+EKEBIHOE_01414	gene			
+EKEBIHOE_01415	CDS	hsdM	2.1.1.72	Type I restriction enzyme EcoKI M protein
+EKEBIHOE_01415	gene	hsdM		
+EKEBIHOE_01416	CDS	hsdR_3	3.1.21.3	Type-1 restriction enzyme R protein
+EKEBIHOE_01416	gene	hsdR_3		
+EKEBIHOE_01417	CDS			hypothetical protein
+EKEBIHOE_01417	gene			
+EKEBIHOE_01418	CDS	fecA_3		Fe(3+) dicitrate transport protein FecA
+EKEBIHOE_01418	gene	fecA_3		
+EKEBIHOE_01419	CDS	rocF	3.5.3.1	Arginase
+EKEBIHOE_01419	gene	rocF		
+EKEBIHOE_01420	CDS	ald	1.4.1.1	Alanine dehydrogenase
+EKEBIHOE_01420	gene	ald		
+EKEBIHOE_01421	CDS			hypothetical protein
+EKEBIHOE_01421	gene			
+EKEBIHOE_01422	CDS			hypothetical protein
+EKEBIHOE_01422	gene			
+EKEBIHOE_01423	CDS			hypothetical protein
+EKEBIHOE_01423	gene			
+EKEBIHOE_01424	CDS	nadK	2.7.1.23	NAD kinase
+EKEBIHOE_01424	gene	nadK		
+EKEBIHOE_01425	CDS	recN		DNA repair protein RecN
+EKEBIHOE_01425	gene	recN		
+EKEBIHOE_01426	CDS			hypothetical protein
+EKEBIHOE_01426	gene			
+EKEBIHOE_01427	CDS			hypothetical protein
+EKEBIHOE_01427	gene			
+EKEBIHOE_01428	CDS			hypothetical protein
+EKEBIHOE_01428	gene			
+EKEBIHOE_01429	CDS			hypothetical protein
+EKEBIHOE_01429	gene			
+EKEBIHOE_01430	CDS			hypothetical protein
+EKEBIHOE_01430	gene			
+EKEBIHOE_01431	CDS			hypothetical protein
+EKEBIHOE_01431	gene			
+EKEBIHOE_01432	CDS	polC	2.7.7.7	DNA polymerase III PolC-type
+EKEBIHOE_01432	gene	polC		
+EKEBIHOE_01433	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+EKEBIHOE_01433	gene	rpe		
+EKEBIHOE_01434	CDS	fbp	3.1.3.11	Fructose-1,6-bisphosphatase class 1
+EKEBIHOE_01434	gene	fbp		
+EKEBIHOE_01435	CDS			hypothetical protein
+EKEBIHOE_01435	gene			
+EKEBIHOE_01436	CDS			hypothetical protein
+EKEBIHOE_01436	gene			
+EKEBIHOE_01437	CDS			hypothetical protein
+EKEBIHOE_01437	gene			
+EKEBIHOE_01438	CDS	tyrA_2	1.3.1.12	Prephenate dehydrogenase
+EKEBIHOE_01438	gene	tyrA_2		
+EKEBIHOE_01439	CDS	lon	3.4.21.53	Lon protease
+EKEBIHOE_01439	gene	lon		
+EKEBIHOE_01440	CDS	bamD		Outer membrane protein assembly factor BamD
+EKEBIHOE_01440	gene	bamD		
+EKEBIHOE_01441	CDS	fliW2		Flagellar assembly factor FliW 2
+EKEBIHOE_01441	gene	fliW2		
+EKEBIHOE_01442	CDS	fabZ	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+EKEBIHOE_01442	gene	fabZ		
+EKEBIHOE_01443	CDS	lpxA	2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+EKEBIHOE_01443	gene	lpxA		
+EKEBIHOE_01444	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+EKEBIHOE_01444	gene	clpX		
+EKEBIHOE_01445	CDS	mreB		Rod shape-determining protein MreB
+EKEBIHOE_01445	gene	mreB		
+EKEBIHOE_01446	CDS			hypothetical protein
+EKEBIHOE_01446	gene			
+EKEBIHOE_01447	CDS			hypothetical protein
+EKEBIHOE_01447	gene			
+EKEBIHOE_01448	CDS	dpnA_4	2.1.1.72	Modification methylase DpnIIB
+EKEBIHOE_01448	gene	dpnA_4		
+EKEBIHOE_01449	CDS			hypothetical protein
+EKEBIHOE_01449	gene			
+EKEBIHOE_01450	CDS	rsrIM	2.1.1.72	Modification methylase RsrI
+EKEBIHOE_01450	gene	rsrIM		
+EKEBIHOE_01451	CDS	mboIIM	2.1.1.72	Modification methylase MboII
+EKEBIHOE_01451	gene	mboIIM		
+EKEBIHOE_01452	CDS	mboIIR	3.1.21.4	Type-2 restriction enzyme MboII
+EKEBIHOE_01452	gene	mboIIR		
+EKEBIHOE_01453	CDS	qseB		Transcriptional regulatory protein QseB
+EKEBIHOE_01453	gene	qseB		
+EKEBIHOE_01454	CDS	senX3	2.7.13.3	Signal-transduction histidine kinase senX3
+EKEBIHOE_01454	gene	senX3		
+EKEBIHOE_01455	CDS	nnr		Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+EKEBIHOE_01455	gene	nnr		
+EKEBIHOE_01456	CDS	dnaB	3.6.4.12	Replicative DNA helicase
+EKEBIHOE_01456	gene	dnaB		
+EKEBIHOE_01457	CDS			hypothetical protein
+EKEBIHOE_01457	gene			
+EKEBIHOE_01458	CDS	plqA	2.5.1.-	4-hydroxybenzoate solanesyltransferase
+EKEBIHOE_01458	gene	plqA		
+EKEBIHOE_01459	CDS			hypothetical protein
+EKEBIHOE_01459	gene			
+EKEBIHOE_01460	CDS			hypothetical protein
+EKEBIHOE_01460	gene			
+EKEBIHOE_01461	CDS	psd	4.1.1.65	Phosphatidylserine decarboxylase proenzyme
+EKEBIHOE_01461	gene	psd		
+EKEBIHOE_01462	CDS	nadA	2.5.1.72	Quinolinate synthase A
+EKEBIHOE_01462	gene	nadA		
+EKEBIHOE_01463	CDS	nadC	2.4.2.19	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+EKEBIHOE_01463	gene	nadC		
+EKEBIHOE_01464	CDS			hypothetical protein
+EKEBIHOE_01464	gene			
+EKEBIHOE_01465	CDS			hypothetical protein
+EKEBIHOE_01465	gene			
+EKEBIHOE_01466	CDS	esiB		Secretory immunoglobulin A-binding protein EsiB
+EKEBIHOE_01466	gene	esiB		
+EKEBIHOE_01467	CDS	ggt	2.3.2.2	Gamma-glutamyltranspeptidase
+EKEBIHOE_01467	gene	ggt		
+EKEBIHOE_01468	CDS	flgK		Flagellar hook-associated protein 1
+EKEBIHOE_01468	gene	flgK		
+EKEBIHOE_01469	CDS			hypothetical protein
+EKEBIHOE_01469	gene			
+EKEBIHOE_01470	CDS	hhaIM	2.1.1.37	Modification methylase HhaI
+EKEBIHOE_01470	gene	hhaIM		
+EKEBIHOE_01471	CDS			hypothetical protein
+EKEBIHOE_01471	gene			
+EKEBIHOE_01472	CDS			hypothetical protein
+EKEBIHOE_01472	gene			
+EKEBIHOE_01473	CDS	slyD	5.2.1.8	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+EKEBIHOE_01473	gene	slyD		
+EKEBIHOE_01474	CDS			hypothetical protein
+EKEBIHOE_01474	gene			
+EKEBIHOE_01475	CDS	pal		Outer membrane protein P6
+EKEBIHOE_01475	gene	pal		
+EKEBIHOE_01476	CDS	tolB		Protein TolB
+EKEBIHOE_01476	gene	tolB		
+EKEBIHOE_01477	CDS			hypothetical protein
+EKEBIHOE_01477	gene			
+EKEBIHOE_01478	CDS	exbD_3		Biopolymer transport protein ExbD
+EKEBIHOE_01478	gene	exbD_3		
+EKEBIHOE_01479	CDS	exbB_3		Biopolymer transport protein ExbB
+EKEBIHOE_01479	gene	exbB_3		
+EKEBIHOE_01480	CDS	atpC		ATP synthase epsilon chain
+EKEBIHOE_01480	gene	atpC		
+EKEBIHOE_01481	CDS	atpD_1	3.6.3.14	ATP synthase subunit beta
+EKEBIHOE_01481	gene	atpD_1		
+EKEBIHOE_01482	CDS	atpG		ATP synthase gamma chain
+EKEBIHOE_01482	gene	atpG		
+EKEBIHOE_01483	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+EKEBIHOE_01483	gene	atpA		
+EKEBIHOE_01484	CDS	atpD_2		ATP synthase subunit delta
+EKEBIHOE_01484	gene	atpD_2		
+EKEBIHOE_01485	CDS	atpF_1		ATP synthase subunit b
+EKEBIHOE_01485	gene	atpF_1		
+EKEBIHOE_01486	CDS	atpF_2		ATP synthase subunit b, sodium ion specific
+EKEBIHOE_01486	gene	atpF_2		
+EKEBIHOE_01487	CDS	parB		putative chromosome-partitioning protein ParB
+EKEBIHOE_01487	gene	parB		
+EKEBIHOE_01488	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+EKEBIHOE_01488	gene	soj		
+EKEBIHOE_01489	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+EKEBIHOE_01489	gene	birA		
+EKEBIHOE_01490	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+EKEBIHOE_01490	gene	fmt		
+EKEBIHOE_01491	CDS	smc_2		Chromosome partition protein Smc
+EKEBIHOE_01491	gene	smc_2		
+EKEBIHOE_01492	CDS			hypothetical protein
+EKEBIHOE_01492	gene			
+EKEBIHOE_01493	CDS			hypothetical protein
+EKEBIHOE_01493	gene			
+EKEBIHOE_01494	CDS			hypothetical protein
+EKEBIHOE_01494	gene			
+EKEBIHOE_01495	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+EKEBIHOE_01495	gene	ung		
+EKEBIHOE_01496	CDS	rseP	3.4.24.-	Regulator of sigma-E protease RseP
+EKEBIHOE_01496	gene	rseP		
+EKEBIHOE_01497	CDS	ftsZ		Cell division protein FtsZ
+EKEBIHOE_01497	gene	ftsZ		
+EKEBIHOE_01498	CDS			hypothetical protein
+EKEBIHOE_01498	gene			
+EKEBIHOE_01499	CDS	queE_2	4.3.99.3	7-carboxy-7-deazaguanine synthase
+EKEBIHOE_01499	gene	queE_2		
+EKEBIHOE_01500	CDS	topA_2	5.99.1.2	DNA topoisomerase 1
+EKEBIHOE_01500	gene	topA_2		
+EKEBIHOE_01501	CDS	flaB		Flagellin B
+EKEBIHOE_01501	gene	flaB		
+EKEBIHOE_01502	CDS			hypothetical protein
+EKEBIHOE_01502	gene			
+EKEBIHOE_01503	CDS			hypothetical protein
+EKEBIHOE_01503	gene			
+EKEBIHOE_01504	CDS			hypothetical protein
+EKEBIHOE_01504	gene			
+EKEBIHOE_01505	CDS	hrcA		Heat-inducible transcription repressor HrcA
+EKEBIHOE_01505	gene	hrcA		
+EKEBIHOE_01506	CDS	grpE		Protein GrpE
+EKEBIHOE_01506	gene	grpE		
+EKEBIHOE_01507	CDS	dnaK		Chaperone protein DnaK
+EKEBIHOE_01507	gene	dnaK		
+EKEBIHOE_01508	CDS			hypothetical protein
+EKEBIHOE_01508	gene			
+EKEBIHOE_01509	CDS	cysM	2.5.1.47	Cysteine synthase
+EKEBIHOE_01509	gene	cysM		
+EKEBIHOE_01510	CDS	metB	2.5.1.48	Cystathionine gamma-synthase
+EKEBIHOE_01510	gene	metB		
+EKEBIHOE_01511	CDS	luxS	4.4.1.21	S-ribosylhomocysteine lyase
+EKEBIHOE_01511	gene	luxS		
+EKEBIHOE_01512	CDS	yfkN		Trifunctional nucleotide phosphoesterase protein YfkN
+EKEBIHOE_01512	gene	yfkN		
+EKEBIHOE_01513	CDS	mcp4		Methyl-accepting chemotaxis protein 4
+EKEBIHOE_01513	gene	mcp4		
+EKEBIHOE_01514	CDS		2.4.-.-	putative glycosyltransferase
+EKEBIHOE_01514	gene			
+EKEBIHOE_01515	CDS			hypothetical protein
+EKEBIHOE_01515	gene			
+EKEBIHOE_01516	CDS			hypothetical protein
+EKEBIHOE_01516	gene			
+EKEBIHOE_01517	CDS	pctC		Methyl-accepting chemotaxis protein PctC
+EKEBIHOE_01517	gene	pctC		
+EKEBIHOE_01518	CDS	thrC	4.2.3.1	Threonine synthase
+EKEBIHOE_01518	gene	thrC		
+EKEBIHOE_01519	CDS			hypothetical protein
+EKEBIHOE_01519	gene			
+EKEBIHOE_01520	CDS		1.-.-.-	Putative 2-hydroxyacid dehydrogenase
+EKEBIHOE_01520	gene			
+EKEBIHOE_01521	CDS			hypothetical protein
+EKEBIHOE_01521	gene			
+EKEBIHOE_01522	CDS	rpoA_1	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+EKEBIHOE_01522	gene	rpoA_1		
+EKEBIHOE_01523	CDS	rplQ_1		50S ribosomal protein L17
+EKEBIHOE_01523	gene	rplQ_1		
+EKEBIHOE_01524	CDS			hypothetical protein
+EKEBIHOE_01524	gene			
+EKEBIHOE_01525	CDS			hypothetical protein
+EKEBIHOE_01525	gene			
+EKEBIHOE_01526	CDS			hypothetical protein
+EKEBIHOE_01526	gene			
+EKEBIHOE_01527	CDS	xerH_2		Tyrosine recombinase XerH
+EKEBIHOE_01527	gene	xerH_2		
+EKEBIHOE_01528	CDS	ctkA	2.7.11.1	Serine/threonine-protein kinase CtkA
+EKEBIHOE_01528	gene	ctkA		
+EKEBIHOE_01529	CDS			hypothetical protein
+EKEBIHOE_01529	gene			
+EKEBIHOE_01530	CDS			hypothetical protein
+EKEBIHOE_01530	gene			
+EKEBIHOE_01531	CDS			hypothetical protein
+EKEBIHOE_01531	gene			
+EKEBIHOE_01532	CDS			hypothetical protein
+EKEBIHOE_01532	gene			
+EKEBIHOE_01533	CDS			hypothetical protein
+EKEBIHOE_01533	gene			
+EKEBIHOE_01534	CDS			hypothetical protein
+EKEBIHOE_01534	gene			
+EKEBIHOE_01535	CDS			hypothetical protein
+EKEBIHOE_01535	gene			
+EKEBIHOE_01536	CDS			hypothetical protein
+EKEBIHOE_01536	gene			
+EKEBIHOE_01537	CDS			hypothetical protein
+EKEBIHOE_01537	gene			
+EKEBIHOE_01538	CDS			hypothetical protein
+EKEBIHOE_01538	gene			
+EKEBIHOE_01539	CDS			hypothetical protein
+EKEBIHOE_01539	gene			
+EKEBIHOE_01540	CDS			hypothetical protein
+EKEBIHOE_01540	gene			
+EKEBIHOE_01541	CDS			hypothetical protein
+EKEBIHOE_01541	gene			
+EKEBIHOE_01542	CDS			hypothetical protein
+EKEBIHOE_01542	gene			
+EKEBIHOE_01543	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+EKEBIHOE_01543	gene	recD2		
+EKEBIHOE_01544	CDS			hypothetical protein
+EKEBIHOE_01544	gene			
+EKEBIHOE_01545	CDS			hypothetical protein
+EKEBIHOE_01545	gene			
+EKEBIHOE_01546	CDS			hypothetical protein
+EKEBIHOE_01546	gene			
+EKEBIHOE_01547	CDS			hypothetical protein
+EKEBIHOE_01547	gene			
+EKEBIHOE_01548	CDS			hypothetical protein
+EKEBIHOE_01548	gene			
+EKEBIHOE_01549	CDS			hypothetical protein
+EKEBIHOE_01549	gene			
+EKEBIHOE_01550	CDS			hypothetical protein
+EKEBIHOE_01550	gene			
+EKEBIHOE_01551	CDS			hypothetical protein
+EKEBIHOE_01551	gene			
+EKEBIHOE_01552	CDS	dcuA		Anaerobic C4-dicarboxylate transporter DcuA
+EKEBIHOE_01552	gene	dcuA		
+EKEBIHOE_01553	CDS	ansA	3.5.1.1	putative L-asparaginase
+EKEBIHOE_01553	gene	ansA		
+EKEBIHOE_01554	CDS			hypothetical protein
+EKEBIHOE_01554	gene			
+EKEBIHOE_01555	CDS	corA		Magnesium transport protein CorA
+EKEBIHOE_01555	gene	corA		
+EKEBIHOE_01556	CDS			hypothetical protein
+EKEBIHOE_01556	gene			
+EKEBIHOE_01557	CDS	xerH_3		Tyrosine recombinase XerH
+EKEBIHOE_01557	gene	xerH_3		
+EKEBIHOE_01558	CDS	dpnA_5	2.1.1.72	Modification methylase DpnIIB
+EKEBIHOE_01558	gene	dpnA_5		
+EKEBIHOE_01559	CDS	rplQ_2		50S ribosomal protein L17
+EKEBIHOE_01559	gene	rplQ_2		
+EKEBIHOE_01560	CDS	rpoA_2	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+EKEBIHOE_01560	gene	rpoA_2		
+EKEBIHOE_01561	CDS			hypothetical protein
+EKEBIHOE_01561	gene			

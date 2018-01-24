@@ -1,0 +1,3221 @@
+locus_tag	ftype	gene	EC_number	product
+FHFNEIGL_00001	CDS			hypothetical protein
+FHFNEIGL_00001	gene			
+FHFNEIGL_00002	CDS	dusC	1.3.1.-	tRNA-dihydrouridine(16) synthase
+FHFNEIGL_00002	gene	dusC		
+FHFNEIGL_00003	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+FHFNEIGL_00003	gene	tilS		
+FHFNEIGL_00004	CDS			hypothetical protein
+FHFNEIGL_00004	gene			
+FHFNEIGL_00005	CDS			hypothetical protein
+FHFNEIGL_00005	gene			
+FHFNEIGL_00006	CDS			hypothetical protein
+FHFNEIGL_00006	gene			
+FHFNEIGL_00007	CDS			hypothetical protein
+FHFNEIGL_00007	gene			
+FHFNEIGL_00008	CDS	rimO	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+FHFNEIGL_00008	gene	rimO		
+FHFNEIGL_00009	CDS	gpt	2.4.2.22	Xanthine phosphoribosyltransferase
+FHFNEIGL_00009	gene	gpt		
+FHFNEIGL_00010	CDS		2.6.1.51	Serine-pyruvate aminotransferase
+FHFNEIGL_00010	gene			
+FHFNEIGL_00011	CDS	pgpA	3.1.3.27	Phosphatidylglycerophosphatase A
+FHFNEIGL_00011	gene	pgpA		
+FHFNEIGL_00012	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+FHFNEIGL_00012	gene	ddl		
+FHFNEIGL_00013	CDS	menH	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+FHFNEIGL_00013	gene	menH		
+FHFNEIGL_00014	CDS	murF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+FHFNEIGL_00014	gene	murF		
+FHFNEIGL_00015	CDS		2.7.7.53	AP-4-A phosphorylase
+FHFNEIGL_00015	gene			
+FHFNEIGL_00016	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+FHFNEIGL_00016	gene	prs		
+FHFNEIGL_00017	tRNA			tRNA-Met(cat)
+FHFNEIGL_00017	gene			
+FHFNEIGL_00018	CDS			hypothetical protein
+FHFNEIGL_00018	gene			
+FHFNEIGL_00019	CDS	rsgA_1	3.6.1.-	Putative ribosome biogenesis GTPase RsgA
+FHFNEIGL_00019	gene	rsgA_1		
+FHFNEIGL_00020	CDS		5.4.99.-	putative RNA pseudouridine synthase
+FHFNEIGL_00020	gene			
+FHFNEIGL_00021	CDS			hypothetical protein
+FHFNEIGL_00021	gene			
+FHFNEIGL_00022	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+FHFNEIGL_00022	gene	trmB		
+FHFNEIGL_00023	CDS	ftsE		Cell division ATP-binding protein FtsE
+FHFNEIGL_00023	gene	ftsE		
+FHFNEIGL_00024	CDS			hypothetical protein
+FHFNEIGL_00024	gene			
+FHFNEIGL_00025	CDS			hypothetical protein
+FHFNEIGL_00025	gene			
+FHFNEIGL_00026	CDS			hypothetical protein
+FHFNEIGL_00026	gene			
+FHFNEIGL_00027	CDS			hypothetical protein
+FHFNEIGL_00027	gene			
+FHFNEIGL_00028	CDS	fliD		Flagellar hook-associated protein 2
+FHFNEIGL_00028	gene	fliD		
+FHFNEIGL_00029	CDS	fliS		Flagellar protein FliS
+FHFNEIGL_00029	gene	fliS		
+FHFNEIGL_00030	CDS			hypothetical protein
+FHFNEIGL_00030	gene			
+FHFNEIGL_00031	CDS	tcdA	6.1.-.-	tRNA threonylcarbamoyladenosine dehydratase
+FHFNEIGL_00031	gene	tcdA		
+FHFNEIGL_00032	CDS			hypothetical protein
+FHFNEIGL_00032	gene			
+FHFNEIGL_00033	CDS		3.5.1.77	N-carbamoyl-D-amino acid hydrolase
+FHFNEIGL_00033	gene			
+FHFNEIGL_00034	CDS			hypothetical protein
+FHFNEIGL_00034	gene			
+FHFNEIGL_00035	CDS	yeeO		putative FMN/FAD exporter YeeO
+FHFNEIGL_00035	gene	yeeO		
+FHFNEIGL_00036	CDS	rny	3.1.-.-	Ribonuclease Y
+FHFNEIGL_00036	gene	rny		
+FHFNEIGL_00037	CDS			hypothetical protein
+FHFNEIGL_00037	gene			
+FHFNEIGL_00038	CDS			hypothetical protein
+FHFNEIGL_00038	gene			
+FHFNEIGL_00039	CDS	ftsY		Signal recognition particle receptor FtsY
+FHFNEIGL_00039	gene	ftsY		
+FHFNEIGL_00040	CDS			hypothetical protein
+FHFNEIGL_00040	gene			
+FHFNEIGL_00041	CDS			hypothetical protein
+FHFNEIGL_00041	gene			
+FHFNEIGL_00042	CDS			hypothetical protein
+FHFNEIGL_00042	gene			
+FHFNEIGL_00043	CDS			hypothetical protein
+FHFNEIGL_00043	gene			
+FHFNEIGL_00044	CDS	moaA	4.1.99.22	GTP 3',8-cyclase
+FHFNEIGL_00044	gene	moaA		
+FHFNEIGL_00045	CDS	mobA	2.7.7.77	putative molybdenum cofactor guanylyltransferase
+FHFNEIGL_00045	gene	mobA		
+FHFNEIGL_00046	CDS	flhB_1		Flagellar biosynthetic protein FlhB
+FHFNEIGL_00046	gene	flhB_1		
+FHFNEIGL_00047	CDS			hypothetical protein
+FHFNEIGL_00047	gene			
+FHFNEIGL_00048	CDS	amiC	3.5.1.28	N-acetylmuramoyl-L-alanine amidase AmiC
+FHFNEIGL_00048	gene	amiC		
+FHFNEIGL_00049	CDS	pyrD_1	1.3.-.-	Dihydroorotate dehydrogenase
+FHFNEIGL_00049	gene	pyrD_1		
+FHFNEIGL_00050	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+FHFNEIGL_00050	gene	tyrS		
+FHFNEIGL_00051	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+FHFNEIGL_00051	gene	relA		
+FHFNEIGL_00052	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+FHFNEIGL_00052	gene	rpoZ		
+FHFNEIGL_00053	CDS	pyrH_1	2.7.4.22	Uridylate kinase
+FHFNEIGL_00053	gene	pyrH_1		
+FHFNEIGL_00054	CDS	pyrH_2	2.7.4.22	Uridylate kinase
+FHFNEIGL_00054	gene	pyrH_2		
+FHFNEIGL_00055	CDS	mqnA	4.2.1.151	Chorismate dehydratase
+FHFNEIGL_00055	gene	mqnA		
+FHFNEIGL_00056	CDS	acnB	4.2.1.3	Aconitate hydratase B
+FHFNEIGL_00056	gene	acnB		
+FHFNEIGL_00057	CDS			hypothetical protein
+FHFNEIGL_00057	gene			
+FHFNEIGL_00058	CDS			hypothetical protein
+FHFNEIGL_00058	gene			
+FHFNEIGL_00059	CDS			hypothetical protein
+FHFNEIGL_00059	gene			
+FHFNEIGL_00060	CDS			hypothetical protein
+FHFNEIGL_00060	gene			
+FHFNEIGL_00061	tmRNA	ssrA		transfer-messenger RNA, SsrA
+FHFNEIGL_00061	gene	ssrA		
+FHFNEIGL_00062	CDS	lolA		Outer-membrane lipoprotein carrier protein
+FHFNEIGL_00062	gene	lolA		
+FHFNEIGL_00063	CDS	secA		Protein translocase subunit SecA
+FHFNEIGL_00063	gene	secA		
+FHFNEIGL_00064	CDS	lolC		Lipoprotein-releasing system transmembrane protein LolC
+FHFNEIGL_00064	gene	lolC		
+FHFNEIGL_00065	CDS			hypothetical protein
+FHFNEIGL_00065	gene			
+FHFNEIGL_00066	CDS			hypothetical protein
+FHFNEIGL_00066	gene			
+FHFNEIGL_00067	CDS			hypothetical protein
+FHFNEIGL_00067	gene			
+FHFNEIGL_00068	CDS	cadA	3.6.3.3	Cadmium, zinc and cobalt-transporting ATPase
+FHFNEIGL_00068	gene	cadA		
+FHFNEIGL_00069	CDS	comM		Competence protein ComM
+FHFNEIGL_00069	gene	comM		
+FHFNEIGL_00070	CDS	def	3.5.1.88	Peptide deformylase
+FHFNEIGL_00070	gene	def		
+FHFNEIGL_00071	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+FHFNEIGL_00071	gene	clpP		
+FHFNEIGL_00072	CDS	tig	5.2.1.8	Trigger factor
+FHFNEIGL_00072	gene	tig		
+FHFNEIGL_00073	CDS			hypothetical protein
+FHFNEIGL_00073	gene			
+FHFNEIGL_00074	CDS			hypothetical protein
+FHFNEIGL_00074	gene			
+FHFNEIGL_00075	CDS	moaC	4.6.1.17	Cyclic pyranopterin monophosphate synthase
+FHFNEIGL_00075	gene	moaC		
+FHFNEIGL_00076	CDS	mog	2.7.7.75	Molybdopterin adenylyltransferase
+FHFNEIGL_00076	gene	mog		
+FHFNEIGL_00077	CDS	moaE	2.8.1.12	Molybdopterin synthase catalytic subunit
+FHFNEIGL_00077	gene	moaE		
+FHFNEIGL_00078	CDS			hypothetical protein
+FHFNEIGL_00078	gene			
+FHFNEIGL_00079	CDS	ribA	3.5.4.25	GTP cyclohydrolase-2
+FHFNEIGL_00079	gene	ribA		
+FHFNEIGL_00080	CDS			hypothetical protein
+FHFNEIGL_00080	gene			
+FHFNEIGL_00081	CDS	ribBA		Riboflavin biosynthesis protein RibBA
+FHFNEIGL_00081	gene	ribBA		
+FHFNEIGL_00082	CDS			hypothetical protein
+FHFNEIGL_00082	gene			
+FHFNEIGL_00083	CDS			hypothetical protein
+FHFNEIGL_00083	gene			
+FHFNEIGL_00084	CDS	fecA_1		Fe(3+) dicitrate transport protein FecA
+FHFNEIGL_00084	gene	fecA_1		
+FHFNEIGL_00085	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+FHFNEIGL_00085	gene	acpS		
+FHFNEIGL_00086	CDS			hypothetical protein
+FHFNEIGL_00086	gene			
+FHFNEIGL_00087	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+FHFNEIGL_00087	gene	rsmD		
+FHFNEIGL_00088	CDS			hypothetical protein
+FHFNEIGL_00088	gene			
+FHFNEIGL_00089	CDS			hypothetical protein
+FHFNEIGL_00089	gene			
+FHFNEIGL_00090	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+FHFNEIGL_00090	gene	gloC		
+FHFNEIGL_00091	CDS	moeZ		putative adenylyltransferase/sulfurtransferase MoeZ
+FHFNEIGL_00091	gene	moeZ		
+FHFNEIGL_00092	CDS	pomA		Chemotaxis protein PomA
+FHFNEIGL_00092	gene	pomA		
+FHFNEIGL_00093	CDS	motB		Motility protein B
+FHFNEIGL_00093	gene	motB		
+FHFNEIGL_00094	CDS			hypothetical protein
+FHFNEIGL_00094	gene			
+FHFNEIGL_00095	CDS	opuCC		Glycine betaine/carnitine/choline-binding protein OpuCC
+FHFNEIGL_00095	gene	opuCC		
+FHFNEIGL_00096	CDS	opuBA		Choline transport ATP-binding protein OpuBA
+FHFNEIGL_00096	gene	opuBA		
+FHFNEIGL_00097	CDS			hypothetical protein
+FHFNEIGL_00097	gene			
+FHFNEIGL_00098	CDS	uvrC		UvrABC system protein C
+FHFNEIGL_00098	gene	uvrC		
+FHFNEIGL_00099	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+FHFNEIGL_00099	gene	hom		
+FHFNEIGL_00100	CDS			hypothetical protein
+FHFNEIGL_00100	gene			
+FHFNEIGL_00101	CDS	trxA_1		Thioredoxin
+FHFNEIGL_00101	gene	trxA_1		
+FHFNEIGL_00102	CDS	trxB	1.8.1.9	Thioredoxin reductase
+FHFNEIGL_00102	gene	trxB		
+FHFNEIGL_00103	CDS	lex1	2.-.-.-	Lipooligosaccharide biosynthesis protein lex-1
+FHFNEIGL_00103	gene	lex1		
+FHFNEIGL_00104	CDS			hypothetical protein
+FHFNEIGL_00104	gene			
+FHFNEIGL_00105	CDS	atpB		ATP synthase subunit a
+FHFNEIGL_00105	gene	atpB		
+FHFNEIGL_00106	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+FHFNEIGL_00106	gene	guaB		
+FHFNEIGL_00107	CDS	gatA	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+FHFNEIGL_00107	gene	gatA		
+FHFNEIGL_00108	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+FHFNEIGL_00108	gene	coaE		
+FHFNEIGL_00109	CDS	speE	2.5.1.16	Polyamine aminopropyltransferase
+FHFNEIGL_00109	gene	speE		
+FHFNEIGL_00110	CDS			hypothetical protein
+FHFNEIGL_00110	gene			
+FHFNEIGL_00111	CDS	der_1		GTPase Der
+FHFNEIGL_00111	gene	der_1		
+FHFNEIGL_00112	CDS	hup		DNA-binding protein HU
+FHFNEIGL_00112	gene	hup		
+FHFNEIGL_00113	tRNA			tRNA-Arg(cct)
+FHFNEIGL_00113	gene			
+FHFNEIGL_00114	CDS			hypothetical protein
+FHFNEIGL_00114	gene			
+FHFNEIGL_00115	CDS			hypothetical protein
+FHFNEIGL_00115	gene			
+FHFNEIGL_00116	CDS			hypothetical protein
+FHFNEIGL_00116	gene			
+FHFNEIGL_00117	CDS	pseB	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+FHFNEIGL_00117	gene	pseB		
+FHFNEIGL_00118	CDS	coaBC		Coenzyme A biosynthesis bifunctional protein CoaBC
+FHFNEIGL_00118	gene	coaBC		
+FHFNEIGL_00119	CDS			hypothetical protein
+FHFNEIGL_00119	gene			
+FHFNEIGL_00120	CDS	thiE	2.5.1.3	Thiamine-phosphate synthase
+FHFNEIGL_00120	gene	thiE		
+FHFNEIGL_00121	CDS	thiD_1	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+FHFNEIGL_00121	gene	thiD_1		
+FHFNEIGL_00122	CDS	thiD_2	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+FHFNEIGL_00122	gene	thiD_2		
+FHFNEIGL_00123	CDS	thiM	2.7.1.50	Hydroxyethylthiazole kinase
+FHFNEIGL_00123	gene	thiM		
+FHFNEIGL_00124	CDS	hsdR_1	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+FHFNEIGL_00124	gene	hsdR_1		
+FHFNEIGL_00125	CDS			hypothetical protein
+FHFNEIGL_00125	gene			
+FHFNEIGL_00126	CDS			Putative type-1 restriction enzyme specificity protein MG438
+FHFNEIGL_00126	gene			
+FHFNEIGL_00127	CDS			hypothetical protein
+FHFNEIGL_00127	gene			
+FHFNEIGL_00128	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+FHFNEIGL_00128	gene			
+FHFNEIGL_00129	CDS			hypothetical protein
+FHFNEIGL_00129	gene			
+FHFNEIGL_00130	CDS			hypothetical protein
+FHFNEIGL_00130	gene			
+FHFNEIGL_00131	CDS	ybiT		putative ABC transporter ATP-binding protein YbiT
+FHFNEIGL_00131	gene	ybiT		
+FHFNEIGL_00132	CDS	guaC	1.7.1.7	GMP reductase
+FHFNEIGL_00132	gene	guaC		
+FHFNEIGL_00133	CDS	patA	2.3.1.-	Peptidoglycan O-acetyltransferase
+FHFNEIGL_00133	gene	patA		
+FHFNEIGL_00134	CDS			hypothetical protein
+FHFNEIGL_00134	gene			
+FHFNEIGL_00135	CDS	gmhA1	5.3.1.28	Phosphoheptose isomerase 1
+FHFNEIGL_00135	gene	gmhA1		
+FHFNEIGL_00136	CDS	hldE		Bifunctional protein HldE
+FHFNEIGL_00136	gene	hldE		
+FHFNEIGL_00137	CDS	hldD	5.1.3.20	ADP-L-glycero-D-manno-heptose-6-epimerase
+FHFNEIGL_00137	gene	hldD		
+FHFNEIGL_00138	CDS	gmhB	3.1.3.82	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+FHFNEIGL_00138	gene	gmhB		
+FHFNEIGL_00139	CDS			hypothetical protein
+FHFNEIGL_00139	gene			
+FHFNEIGL_00140	CDS	coaX	2.7.1.33	Type III pantothenate kinase
+FHFNEIGL_00140	gene	coaX		
+FHFNEIGL_00141	CDS	pgbB		Plasminogen-binding protein PgbB
+FHFNEIGL_00141	gene	pgbB		
+FHFNEIGL_00142	CDS			hypothetical protein
+FHFNEIGL_00142	gene			
+FHFNEIGL_00143	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+FHFNEIGL_00143	gene	dut		
+FHFNEIGL_00144	CDS	greA		Transcription elongation factor GreA
+FHFNEIGL_00144	gene	greA		
+FHFNEIGL_00145	CDS	lpxB	2.4.1.182	Lipid-A-disaccharide synthase
+FHFNEIGL_00145	gene	lpxB		
+FHFNEIGL_00146	CDS			hypothetical protein
+FHFNEIGL_00146	gene			
+FHFNEIGL_00147	CDS	hypA		Hydrogenase/urease nickel incorporation protein HypA
+FHFNEIGL_00147	gene	hypA		
+FHFNEIGL_00148	CDS	flgE_1		Flagellar hook protein FlgE
+FHFNEIGL_00148	gene	flgE_1		
+FHFNEIGL_00149	CDS	cdh	3.6.1.26	CDP-diacylglycerol pyrophosphatase
+FHFNEIGL_00149	gene	cdh		
+FHFNEIGL_00150	CDS			hypothetical protein
+FHFNEIGL_00150	gene			
+FHFNEIGL_00151	CDS			hypothetical protein
+FHFNEIGL_00151	gene			
+FHFNEIGL_00152	CDS			hypothetical protein
+FHFNEIGL_00152	gene			
+FHFNEIGL_00153	CDS	katA	1.11.1.6	Catalase
+FHFNEIGL_00153	gene	katA		
+FHFNEIGL_00154	CDS	tdhA		TonB-dependent heme receptor A
+FHFNEIGL_00154	gene	tdhA		
+FHFNEIGL_00155	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+FHFNEIGL_00155	gene	ruvC		
+FHFNEIGL_00156	CDS			hypothetical protein
+FHFNEIGL_00156	gene			
+FHFNEIGL_00157	CDS			hypothetical protein
+FHFNEIGL_00157	gene			
+FHFNEIGL_00158	CDS			hypothetical protein
+FHFNEIGL_00158	gene			
+FHFNEIGL_00159	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+FHFNEIGL_00159	gene	ruvA		
+FHFNEIGL_00160	CDS			hypothetical protein
+FHFNEIGL_00160	gene			
+FHFNEIGL_00161	CDS	murJ		Lipid II flippase MurJ
+FHFNEIGL_00161	gene	murJ		
+FHFNEIGL_00162	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+FHFNEIGL_00162	gene	cysS		
+FHFNEIGL_00163	CDS	vacA_1		Vacuolating cytotoxin autotransporter
+FHFNEIGL_00163	gene	vacA_1		
+FHFNEIGL_00164	CDS			putative ABC transporter ATP-binding protein
+FHFNEIGL_00164	gene			
+FHFNEIGL_00165	CDS	hmuU		Hemin transport system permease protein HmuU
+FHFNEIGL_00165	gene	hmuU		
+FHFNEIGL_00166	CDS	fucT	2.4.1.152	Alpha-(1,3)-fucosyltransferase FucT
+FHFNEIGL_00166	gene	fucT		
+FHFNEIGL_00167	CDS			hypothetical protein
+FHFNEIGL_00167	gene			
+FHFNEIGL_00168	CDS	aspA	4.3.1.1	Aspartate ammonia-lyase
+FHFNEIGL_00168	gene	aspA		
+FHFNEIGL_00169	CDS	murA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+FHFNEIGL_00169	gene	murA		
+FHFNEIGL_00170	CDS	gtaB	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+FHFNEIGL_00170	gene	gtaB		
+FHFNEIGL_00171	CDS	slt	4.2.2.-	Soluble lytic murein transglycosylase
+FHFNEIGL_00171	gene	slt		
+FHFNEIGL_00172	CDS			hypothetical protein
+FHFNEIGL_00172	gene			
+FHFNEIGL_00173	CDS			hypothetical protein
+FHFNEIGL_00173	gene			
+FHFNEIGL_00174	CDS	gltX1	6.1.1.17	Glutamate--tRNA ligase 1
+FHFNEIGL_00174	gene	gltX1		
+FHFNEIGL_00175	CDS	yfkO	1.-.-.-	Putative NAD(P)H nitroreductase YfkO
+FHFNEIGL_00175	gene	yfkO		
+FHFNEIGL_00176	CDS			hypothetical protein
+FHFNEIGL_00176	gene			
+FHFNEIGL_00177	CDS	cca	2.7.7.72	CCA-adding enzyme
+FHFNEIGL_00177	gene	cca		
+FHFNEIGL_00178	CDS	queC	6.3.4.20	7-cyano-7-deazaguanine synthase
+FHFNEIGL_00178	gene	queC		
+FHFNEIGL_00179	CDS			hypothetical protein
+FHFNEIGL_00179	gene			
+FHFNEIGL_00180	CDS			hypothetical protein
+FHFNEIGL_00180	gene			
+FHFNEIGL_00181	CDS			hypothetical protein
+FHFNEIGL_00181	gene			
+FHFNEIGL_00182	CDS			hypothetical protein
+FHFNEIGL_00182	gene			
+FHFNEIGL_00183	CDS	hybD	3.4.23.-	Hydrogenase 2 maturation protease
+FHFNEIGL_00183	gene	hybD		
+FHFNEIGL_00184	CDS	hydC		Quinone-reactive Ni/Fe-hydrogenase B-type cytochrome subunit
+FHFNEIGL_00184	gene	hydC		
+FHFNEIGL_00185	CDS	hydB	1.12.5.1	Quinone-reactive Ni/Fe-hydrogenase large chain
+FHFNEIGL_00185	gene	hydB		
+FHFNEIGL_00186	CDS	hydA_1	1.12.5.1	Quinone-reactive Ni/Fe-hydrogenase small chain
+FHFNEIGL_00186	gene	hydA_1		
+FHFNEIGL_00187	CDS	mdaB		Modulator of drug activity B
+FHFNEIGL_00187	gene	mdaB		
+FHFNEIGL_00188	CDS			hypothetical protein
+FHFNEIGL_00188	gene			
+FHFNEIGL_00189	CDS	hcpD	3.5.2.6	Putative beta-lactamase HcpD
+FHFNEIGL_00189	gene	hcpD		
+FHFNEIGL_00190	CDS	dapD	2.3.1.117	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+FHFNEIGL_00190	gene	dapD		
+FHFNEIGL_00191	CDS	ispG	1.17.7.3	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+FHFNEIGL_00191	gene	ispG		
+FHFNEIGL_00192	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+FHFNEIGL_00192	gene	dapL		
+FHFNEIGL_00193	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+FHFNEIGL_00193	gene	murC		
+FHFNEIGL_00194	CDS			hypothetical protein
+FHFNEIGL_00194	gene			
+FHFNEIGL_00195	CDS	mutS2_1	3.1.-.-	Endonuclease MutS2
+FHFNEIGL_00195	gene	mutS2_1		
+FHFNEIGL_00196	CDS	mutS2_2	3.1.-.-	Endonuclease MutS2
+FHFNEIGL_00196	gene	mutS2_2		
+FHFNEIGL_00197	CDS	mutS2_3	3.1.-.-	Endonuclease MutS2
+FHFNEIGL_00197	gene	mutS2_3		
+FHFNEIGL_00198	CDS	ppa	3.6.1.1	Inorganic pyrophosphatase
+FHFNEIGL_00198	gene	ppa		
+FHFNEIGL_00199	CDS			hypothetical protein
+FHFNEIGL_00199	gene			
+FHFNEIGL_00200	CDS			hypothetical protein
+FHFNEIGL_00200	gene			
+FHFNEIGL_00201	CDS	adk	2.7.4.3	Adenylate kinase
+FHFNEIGL_00201	gene	adk		
+FHFNEIGL_00202	CDS	aspS	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+FHFNEIGL_00202	gene	aspS		
+FHFNEIGL_00203	CDS	cheV_1		Chemotaxis protein CheV
+FHFNEIGL_00203	gene	cheV_1		
+FHFNEIGL_00204	CDS	ligA	6.5.1.2	DNA ligase
+FHFNEIGL_00204	gene	ligA		
+FHFNEIGL_00205	CDS			hypothetical protein
+FHFNEIGL_00205	gene			
+FHFNEIGL_00206	CDS	yxdL		ABC transporter ATP-binding protein YxdL
+FHFNEIGL_00206	gene	yxdL		
+FHFNEIGL_00207	CDS			hypothetical protein
+FHFNEIGL_00207	gene			
+FHFNEIGL_00208	CDS	vacA_2		Vacuolating cytotoxin autotransporter
+FHFNEIGL_00208	gene	vacA_2		
+FHFNEIGL_00209	CDS			hypothetical protein
+FHFNEIGL_00209	gene			
+FHFNEIGL_00210	CDS	mdtC		Multidrug resistance protein MdtC
+FHFNEIGL_00210	gene	mdtC		
+FHFNEIGL_00211	CDS	czcB		Cobalt-zinc-cadmium resistance protein CzcB
+FHFNEIGL_00211	gene	czcB		
+FHFNEIGL_00212	CDS			hypothetical protein
+FHFNEIGL_00212	gene			
+FHFNEIGL_00213	CDS	hemE	4.1.1.37	Uroporphyrinogen decarboxylase
+FHFNEIGL_00213	gene	hemE		
+FHFNEIGL_00214	CDS			hypothetical protein
+FHFNEIGL_00214	gene			
+FHFNEIGL_00215	CDS	nth_1	4.2.99.18	Endonuclease III
+FHFNEIGL_00215	gene	nth_1		
+FHFNEIGL_00216	CDS	flaA		Flagellin A
+FHFNEIGL_00216	gene	flaA		
+FHFNEIGL_00217	CDS			hypothetical protein
+FHFNEIGL_00217	gene			
+FHFNEIGL_00218	CDS			putative ABC transporter ATP-binding protein
+FHFNEIGL_00218	gene			
+FHFNEIGL_00219	CDS	mcpU		Methyl-accepting chemotaxis protein McpU
+FHFNEIGL_00219	gene	mcpU		
+FHFNEIGL_00220	CDS	bioF	2.3.1.47	8-amino-7-oxononanoate synthase 2
+FHFNEIGL_00220	gene	bioF		
+FHFNEIGL_00221	CDS	mrcA		Penicillin-binding protein 1A
+FHFNEIGL_00221	gene	mrcA		
+FHFNEIGL_00222	CDS			hypothetical protein
+FHFNEIGL_00222	gene			
+FHFNEIGL_00223	CDS	dsbB		Disulfide bond formation protein B
+FHFNEIGL_00223	gene	dsbB		
+FHFNEIGL_00224	CDS			hypothetical protein
+FHFNEIGL_00224	gene			
+FHFNEIGL_00225	CDS			hypothetical protein
+FHFNEIGL_00225	gene			
+FHFNEIGL_00226	CDS			hypothetical protein
+FHFNEIGL_00226	gene			
+FHFNEIGL_00227	CDS			hypothetical protein
+FHFNEIGL_00227	gene			
+FHFNEIGL_00228	CDS	korB	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+FHFNEIGL_00228	gene	korB		
+FHFNEIGL_00229	CDS	korA	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+FHFNEIGL_00229	gene	korA		
+FHFNEIGL_00230	CDS	hydA_2	1.12.7.2	Periplasmic [Fe] hydrogenase large subunit
+FHFNEIGL_00230	gene	hydA_2		
+FHFNEIGL_00231	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+FHFNEIGL_00231	gene	mltG		
+FHFNEIGL_00232	CDS			hypothetical protein
+FHFNEIGL_00232	gene			
+FHFNEIGL_00233	CDS	feoA		Putative Fe(2+) transport protein A
+FHFNEIGL_00233	gene	feoA		
+FHFNEIGL_00234	CDS	nth_2	4.2.99.18	Endonuclease III
+FHFNEIGL_00234	gene	nth_2		
+FHFNEIGL_00235	CDS	fliN_1		Flagellar motor switch protein FliN
+FHFNEIGL_00235	gene	fliN_1		
+FHFNEIGL_00236	CDS			hypothetical protein
+FHFNEIGL_00236	gene			
+FHFNEIGL_00237	CDS			hypothetical protein
+FHFNEIGL_00237	gene			
+FHFNEIGL_00238	CDS	pyrC_1	3.5.2.3	Dihydroorotase
+FHFNEIGL_00238	gene	pyrC_1		
+FHFNEIGL_00239	CDS			hypothetical protein
+FHFNEIGL_00239	gene			
+FHFNEIGL_00240	CDS			hypothetical protein
+FHFNEIGL_00240	gene			
+FHFNEIGL_00241	CDS	mdoB	2.7.8.20	Phosphoglycerol transferase I
+FHFNEIGL_00241	gene	mdoB		
+FHFNEIGL_00242	CDS	folD		Bifunctional protein FolD protein
+FHFNEIGL_00242	gene	folD		
+FHFNEIGL_00243	CDS	lepB	3.4.21.89	Signal peptidase I
+FHFNEIGL_00243	gene	lepB		
+FHFNEIGL_00244	CDS			hypothetical protein
+FHFNEIGL_00244	gene			
+FHFNEIGL_00245	CDS	ywlF	5.3.1.-	Putative sugar phosphate isomerase YwlF
+FHFNEIGL_00245	gene	ywlF		
+FHFNEIGL_00246	CDS			hypothetical protein
+FHFNEIGL_00246	gene			
+FHFNEIGL_00247	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+FHFNEIGL_00247	gene	apt		
+FHFNEIGL_00248	CDS	yohD_1		Inner membrane protein YohD
+FHFNEIGL_00248	gene	yohD_1		
+FHFNEIGL_00249	CDS	pepA	3.4.11.1	Cytosol aminopeptidase
+FHFNEIGL_00249	gene	pepA		
+FHFNEIGL_00250	CDS	ychF		Ribosome-binding ATPase YchF
+FHFNEIGL_00250	gene	ychF		
+FHFNEIGL_00251	CDS	pqqE		Coenzyme PQQ synthesis protein E
+FHFNEIGL_00251	gene	pqqE		
+FHFNEIGL_00252	CDS			hypothetical protein
+FHFNEIGL_00252	gene			
+FHFNEIGL_00253	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+FHFNEIGL_00253	gene	dapF		
+FHFNEIGL_00254	CDS	rclC		Inner membrane protein RclC
+FHFNEIGL_00254	gene	rclC		
+FHFNEIGL_00255	CDS			hypothetical protein
+FHFNEIGL_00255	gene			
+FHFNEIGL_00256	CDS			hypothetical protein
+FHFNEIGL_00256	gene			
+FHFNEIGL_00257	CDS	rpsU		30S ribosomal protein S21
+FHFNEIGL_00257	gene	rpsU		
+FHFNEIGL_00258	CDS	fabG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+FHFNEIGL_00258	gene	fabG		
+FHFNEIGL_00259	CDS	acpP_1		Acyl carrier protein
+FHFNEIGL_00259	gene	acpP_1		
+FHFNEIGL_00260	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+FHFNEIGL_00260	gene	fabF		
+FHFNEIGL_00261	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+FHFNEIGL_00261	gene	accA		
+FHFNEIGL_00262	CDS			hypothetical protein
+FHFNEIGL_00262	gene			
+FHFNEIGL_00263	CDS			hypothetical protein
+FHFNEIGL_00263	gene			
+FHFNEIGL_00264	CDS			hypothetical protein
+FHFNEIGL_00264	gene			
+FHFNEIGL_00265	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+FHFNEIGL_00265	gene			
+FHFNEIGL_00266	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+FHFNEIGL_00266	gene	rsmI		
+FHFNEIGL_00267	CDS	rpmE		50S ribosomal protein L31
+FHFNEIGL_00267	gene	rpmE		
+FHFNEIGL_00268	CDS	rho	3.6.4.-	Transcription termination factor Rho
+FHFNEIGL_00268	gene	rho		
+FHFNEIGL_00269	CDS	murI	5.1.1.3	Glutamate racemase
+FHFNEIGL_00269	gene	murI		
+FHFNEIGL_00270	CDS			hypothetical protein
+FHFNEIGL_00270	gene			
+FHFNEIGL_00271	CDS			hypothetical protein
+FHFNEIGL_00271	gene			
+FHFNEIGL_00272	CDS	cagA		Cytotoxicity-associated immunodominant antigen
+FHFNEIGL_00272	gene	cagA		
+FHFNEIGL_00273	CDS			hypothetical protein
+FHFNEIGL_00273	gene			
+FHFNEIGL_00274	CDS			hypothetical protein
+FHFNEIGL_00274	gene			
+FHFNEIGL_00275	CDS			hypothetical protein
+FHFNEIGL_00275	gene			
+FHFNEIGL_00276	CDS	virB4_1		Type IV secretion system protein virB4
+FHFNEIGL_00276	gene	virB4_1		
+FHFNEIGL_00277	CDS			hypothetical protein
+FHFNEIGL_00277	gene			
+FHFNEIGL_00278	CDS			hypothetical protein
+FHFNEIGL_00278	gene			
+FHFNEIGL_00279	CDS			hypothetical protein
+FHFNEIGL_00279	gene			
+FHFNEIGL_00280	CDS			hypothetical protein
+FHFNEIGL_00280	gene			
+FHFNEIGL_00281	CDS			hypothetical protein
+FHFNEIGL_00281	gene			
+FHFNEIGL_00282	CDS			hypothetical protein
+FHFNEIGL_00282	gene			
+FHFNEIGL_00283	CDS			hypothetical protein
+FHFNEIGL_00283	gene			
+FHFNEIGL_00284	CDS			hypothetical protein
+FHFNEIGL_00284	gene			
+FHFNEIGL_00285	CDS			hypothetical protein
+FHFNEIGL_00285	gene			
+FHFNEIGL_00286	CDS			hypothetical protein
+FHFNEIGL_00286	gene			
+FHFNEIGL_00287	CDS	cagS		CAG pathogenicity island protein 13
+FHFNEIGL_00287	gene	cagS		
+FHFNEIGL_00288	CDS			hypothetical protein
+FHFNEIGL_00288	gene			
+FHFNEIGL_00289	CDS	cagT		CAG pathogenicity island protein 12
+FHFNEIGL_00289	gene	cagT		
+FHFNEIGL_00290	CDS			hypothetical protein
+FHFNEIGL_00290	gene			
+FHFNEIGL_00291	CDS			hypothetical protein
+FHFNEIGL_00291	gene			
+FHFNEIGL_00292	CDS			hypothetical protein
+FHFNEIGL_00292	gene			
+FHFNEIGL_00293	CDS			hypothetical protein
+FHFNEIGL_00293	gene			
+FHFNEIGL_00294	CDS			hypothetical protein
+FHFNEIGL_00294	gene			
+FHFNEIGL_00295	CDS			hypothetical protein
+FHFNEIGL_00295	gene			
+FHFNEIGL_00296	CDS	groL		60 kDa chaperonin
+FHFNEIGL_00296	gene	groL		
+FHFNEIGL_00297	CDS	groS		10 kDa chaperonin
+FHFNEIGL_00297	gene	groS		
+FHFNEIGL_00298	CDS	dnaG	2.7.7.-	DNA primase
+FHFNEIGL_00298	gene	dnaG		
+FHFNEIGL_00299	CDS	mnmA_1	2.8.1.-	tRNA-specific 2-thiouridylase MnmA
+FHFNEIGL_00299	gene	mnmA_1		
+FHFNEIGL_00300	CDS			hypothetical protein
+FHFNEIGL_00300	gene			
+FHFNEIGL_00301	CDS			hypothetical protein
+FHFNEIGL_00301	gene			
+FHFNEIGL_00302	CDS			hypothetical protein
+FHFNEIGL_00302	gene			
+FHFNEIGL_00303	CDS	virB4_2		Type IV secretion system protein virB4
+FHFNEIGL_00303	gene	virB4_2		
+FHFNEIGL_00304	CDS			hypothetical protein
+FHFNEIGL_00304	gene			
+FHFNEIGL_00305	CDS	cheV_2		Chemotaxis protein CheV
+FHFNEIGL_00305	gene	cheV_2		
+FHFNEIGL_00306	CDS	nspC	4.1.1.96	Carboxynorspermidine/carboxyspermidine decarboxylase
+FHFNEIGL_00306	gene	nspC		
+FHFNEIGL_00307	CDS	lpxE_1	3.1.-.-	Lipid A 1-phosphatase
+FHFNEIGL_00307	gene	lpxE_1		
+FHFNEIGL_00308	CDS	eptA	2.7.-.-	Phosphoethanolamine transferase EptA
+FHFNEIGL_00308	gene	eptA		
+FHFNEIGL_00309	CDS			hypothetical protein
+FHFNEIGL_00309	gene			
+FHFNEIGL_00310	CDS	aarA	2.3.3.16	Citrate synthase
+FHFNEIGL_00310	gene	aarA		
+FHFNEIGL_00311	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+FHFNEIGL_00311	gene	icd		
+FHFNEIGL_00312	CDS			hypothetical protein
+FHFNEIGL_00312	gene			
+FHFNEIGL_00313	CDS	bioD	6.3.3.3	ATP-dependent dethiobiotin synthetase BioD
+FHFNEIGL_00313	gene	bioD		
+FHFNEIGL_00314	CDS			hypothetical protein
+FHFNEIGL_00314	gene			
+FHFNEIGL_00315	CDS			hypothetical protein
+FHFNEIGL_00315	gene			
+FHFNEIGL_00316	CDS	clpS		ATP-dependent Clp protease adapter protein ClpS
+FHFNEIGL_00316	gene	clpS		
+FHFNEIGL_00317	CDS	clpA		ATP-dependent Clp protease ATP-binding subunit ClpA
+FHFNEIGL_00317	gene	clpA		
+FHFNEIGL_00318	CDS	panD	4.1.1.11	Aspartate 1-decarboxylase
+FHFNEIGL_00318	gene	panD		
+FHFNEIGL_00319	CDS			Nucleoid-associated protein
+FHFNEIGL_00319	gene			
+FHFNEIGL_00320	CDS			hypothetical protein
+FHFNEIGL_00320	gene			
+FHFNEIGL_00321	CDS			hypothetical protein
+FHFNEIGL_00321	gene			
+FHFNEIGL_00322	CDS			hypothetical protein
+FHFNEIGL_00322	gene			
+FHFNEIGL_00323	CDS			hypothetical protein
+FHFNEIGL_00323	gene			
+FHFNEIGL_00324	CDS			hypothetical protein
+FHFNEIGL_00324	gene			
+FHFNEIGL_00325	CDS	ptlG		Type IV secretion system protein PtlG
+FHFNEIGL_00325	gene	ptlG		
+FHFNEIGL_00326	CDS	algA		Alginate biosynthesis protein AlgA
+FHFNEIGL_00326	gene	algA		
+FHFNEIGL_00327	CDS	gmd	4.2.1.47	GDP-mannose 4,6-dehydratase
+FHFNEIGL_00327	gene	gmd		
+FHFNEIGL_00328	CDS	colC	1.1.1.356	GDP-L-colitose synthase
+FHFNEIGL_00328	gene	colC		
+FHFNEIGL_00329	CDS	hypE		Hydrogenase isoenzymes formation protein HypE
+FHFNEIGL_00329	gene	hypE		
+FHFNEIGL_00330	CDS	hypF	2.1.3.-	Carbamoyltransferase HypF
+FHFNEIGL_00330	gene	hypF		
+FHFNEIGL_00331	CDS	aguA	3.5.3.12	Agmatine deiminase
+FHFNEIGL_00331	gene	aguA		
+FHFNEIGL_00332	CDS	dpnA_1	2.1.1.72	Modification methylase DpnIIB
+FHFNEIGL_00332	gene	dpnA_1		
+FHFNEIGL_00333	CDS	bspRIM	2.1.1.37	Modification methylase BspRI
+FHFNEIGL_00333	gene	bspRIM		
+FHFNEIGL_00334	CDS			hypothetical protein
+FHFNEIGL_00334	gene			
+FHFNEIGL_00335	CDS			hypothetical protein
+FHFNEIGL_00335	gene			
+FHFNEIGL_00336	CDS			hypothetical protein
+FHFNEIGL_00336	gene			
+FHFNEIGL_00337	CDS	hpaIIM	2.1.1.37	Modification methylase HpaII
+FHFNEIGL_00337	gene	hpaIIM		
+FHFNEIGL_00338	CDS			hypothetical protein
+FHFNEIGL_00338	gene			
+FHFNEIGL_00339	CDS	putP		High-affinity proline transporter PutP
+FHFNEIGL_00339	gene	putP		
+FHFNEIGL_00340	CDS	rocA1	1.2.1.88	1-pyrroline-5-carboxylate dehydrogenase 1
+FHFNEIGL_00340	gene	rocA1		
+FHFNEIGL_00341	CDS			hypothetical protein
+FHFNEIGL_00341	gene			
+FHFNEIGL_00342	CDS			hypothetical protein
+FHFNEIGL_00342	gene			
+FHFNEIGL_00343	CDS			hypothetical protein
+FHFNEIGL_00343	gene			
+FHFNEIGL_00344	CDS	smc		Chromosome partition protein Smc
+FHFNEIGL_00344	gene	smc		
+FHFNEIGL_00345	CDS			hypothetical protein
+FHFNEIGL_00345	gene			
+FHFNEIGL_00346	CDS			hypothetical protein
+FHFNEIGL_00346	gene			
+FHFNEIGL_00347	CDS			hypothetical protein
+FHFNEIGL_00347	gene			
+FHFNEIGL_00348	CDS			hypothetical protein
+FHFNEIGL_00348	gene			
+FHFNEIGL_00349	CDS			hypothetical protein
+FHFNEIGL_00349	gene			
+FHFNEIGL_00350	CDS			hypothetical protein
+FHFNEIGL_00350	gene			
+FHFNEIGL_00351	CDS	ftsK		DNA translocase FtsK
+FHFNEIGL_00351	gene	ftsK		
+FHFNEIGL_00352	CDS	ureH		Urease accessory protein UreH
+FHFNEIGL_00352	gene	ureH		
+FHFNEIGL_00353	CDS	ureG		Urease accessory protein UreG
+FHFNEIGL_00353	gene	ureG		
+FHFNEIGL_00354	CDS	ureF		Urease accessory protein UreF
+FHFNEIGL_00354	gene	ureF		
+FHFNEIGL_00355	CDS	ureE		Urease accessory protein UreE
+FHFNEIGL_00355	gene	ureE		
+FHFNEIGL_00356	CDS	ureI		Acid-activated urea channel
+FHFNEIGL_00356	gene	ureI		
+FHFNEIGL_00357	CDS	ureB	3.5.1.5	Urease subunit beta
+FHFNEIGL_00357	gene	ureB		
+FHFNEIGL_00358	CDS	ureA	3.5.1.5	Urease subunit alpha
+FHFNEIGL_00358	gene	ureA		
+FHFNEIGL_00359	tRNA			tRNA-Val(gac)
+FHFNEIGL_00359	gene			
+FHFNEIGL_00360	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+FHFNEIGL_00360	gene	lspA		
+FHFNEIGL_00361	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+FHFNEIGL_00361	gene	glmM		
+FHFNEIGL_00362	CDS	rpsT		30S ribosomal protein S20
+FHFNEIGL_00362	gene	rpsT		
+FHFNEIGL_00363	CDS	prfA		Peptide chain release factor RF1
+FHFNEIGL_00363	gene	prfA		
+FHFNEIGL_00364	CDS			hypothetical protein
+FHFNEIGL_00364	gene			
+FHFNEIGL_00365	CDS			hypothetical protein
+FHFNEIGL_00365	gene			
+FHFNEIGL_00366	CDS			hypothetical protein
+FHFNEIGL_00366	gene			
+FHFNEIGL_00367	CDS	pctB		Methyl-accepting chemotaxis protein PctB
+FHFNEIGL_00367	gene	pctB		
+FHFNEIGL_00368	CDS	rpsI		30S ribosomal protein S9
+FHFNEIGL_00368	gene	rpsI		
+FHFNEIGL_00369	CDS	rplM		50S ribosomal protein L13
+FHFNEIGL_00369	gene	rplM		
+FHFNEIGL_00370	CDS			hypothetical protein
+FHFNEIGL_00370	gene			
+FHFNEIGL_00371	CDS	mqo	1.1.5.4	Malate:quinone oxidoreductase
+FHFNEIGL_00371	gene	mqo		
+FHFNEIGL_00372	CDS			hypothetical protein
+FHFNEIGL_00372	gene			
+FHFNEIGL_00373	CDS	rpoD		RNA polymerase sigma factor RpoD
+FHFNEIGL_00373	gene	rpoD		
+FHFNEIGL_00374	CDS	mtnN	3.2.2.30	Aminodeoxyfutalosine nucleosidase
+FHFNEIGL_00374	gene	mtnN		
+FHFNEIGL_00375	CDS	fenF	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+FHFNEIGL_00375	gene	fenF		
+FHFNEIGL_00376	tRNA			tRNA-Ser(gct)
+FHFNEIGL_00376	gene			
+FHFNEIGL_00377	CDS	mboIR	3.1.21.4	Type-2 restriction enzyme MboI
+FHFNEIGL_00377	gene	mboIR		
+FHFNEIGL_00378	CDS	dpnA_2	2.1.1.72	Modification methylase DpnIIB
+FHFNEIGL_00378	gene	dpnA_2		
+FHFNEIGL_00379	CDS	wbnK	2.4.1.308	O-antigen biosynthesis glycosyltransferase WbnK
+FHFNEIGL_00379	gene	wbnK		
+FHFNEIGL_00380	CDS			hypothetical protein
+FHFNEIGL_00380	gene			
+FHFNEIGL_00381	CDS			hypothetical protein
+FHFNEIGL_00381	gene			
+FHFNEIGL_00382	CDS		1.-.-.-	Putative 2-hydroxyacid dehydrogenase
+FHFNEIGL_00382	gene			
+FHFNEIGL_00383	CDS			hypothetical protein
+FHFNEIGL_00383	gene			
+FHFNEIGL_00384	CDS	thrC	4.2.3.1	Threonine synthase
+FHFNEIGL_00384	gene	thrC		
+FHFNEIGL_00385	CDS	pctC		Methyl-accepting chemotaxis protein PctC
+FHFNEIGL_00385	gene	pctC		
+FHFNEIGL_00386	CDS			hypothetical protein
+FHFNEIGL_00386	gene			
+FHFNEIGL_00387	CDS			hypothetical protein
+FHFNEIGL_00387	gene			
+FHFNEIGL_00388	CDS		2.4.-.-	putative glycosyltransferase
+FHFNEIGL_00388	gene			
+FHFNEIGL_00389	CDS	mcp4		Methyl-accepting chemotaxis protein 4
+FHFNEIGL_00389	gene	mcp4		
+FHFNEIGL_00390	CDS	yfkN		Trifunctional nucleotide phosphoesterase protein YfkN
+FHFNEIGL_00390	gene	yfkN		
+FHFNEIGL_00391	CDS	luxS	4.4.1.21	S-ribosylhomocysteine lyase
+FHFNEIGL_00391	gene	luxS		
+FHFNEIGL_00392	CDS	metB	2.5.1.48	Cystathionine gamma-synthase
+FHFNEIGL_00392	gene	metB		
+FHFNEIGL_00393	CDS	cysM	2.5.1.47	Cysteine synthase
+FHFNEIGL_00393	gene	cysM		
+FHFNEIGL_00394	CDS			hypothetical protein
+FHFNEIGL_00394	gene			
+FHFNEIGL_00395	CDS	dnaK		Chaperone protein DnaK
+FHFNEIGL_00395	gene	dnaK		
+FHFNEIGL_00396	CDS	grpE		Protein GrpE
+FHFNEIGL_00396	gene	grpE		
+FHFNEIGL_00397	CDS	hrcA		Heat-inducible transcription repressor HrcA
+FHFNEIGL_00397	gene	hrcA		
+FHFNEIGL_00398	CDS			hypothetical protein
+FHFNEIGL_00398	gene			
+FHFNEIGL_00399	CDS			hypothetical protein
+FHFNEIGL_00399	gene			
+FHFNEIGL_00400	CDS			hypothetical protein
+FHFNEIGL_00400	gene			
+FHFNEIGL_00401	CDS	flaB		Flagellin B
+FHFNEIGL_00401	gene	flaB		
+FHFNEIGL_00402	CDS	topA_1	5.99.1.2	DNA topoisomerase 1
+FHFNEIGL_00402	gene	topA_1		
+FHFNEIGL_00403	CDS	queE_1	4.3.99.3	7-carboxy-7-deazaguanine synthase
+FHFNEIGL_00403	gene	queE_1		
+FHFNEIGL_00404	CDS			hypothetical protein
+FHFNEIGL_00404	gene			
+FHFNEIGL_00405	CDS			hypothetical protein
+FHFNEIGL_00405	gene			
+FHFNEIGL_00406	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+FHFNEIGL_00406	gene	alaS		
+FHFNEIGL_00407	CDS	maf		Septum formation protein Maf
+FHFNEIGL_00407	gene	maf		
+FHFNEIGL_00408	CDS	amiF	3.5.1.49	Formamidase
+FHFNEIGL_00408	gene	amiF		
+FHFNEIGL_00409	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+FHFNEIGL_00409	gene	carA		
+FHFNEIGL_00410	CDS			hypothetical protein
+FHFNEIGL_00410	gene			
+FHFNEIGL_00411	CDS			hypothetical protein
+FHFNEIGL_00411	gene			
+FHFNEIGL_00412	CDS			hypothetical protein
+FHFNEIGL_00412	gene			
+FHFNEIGL_00413	CDS			hypothetical protein
+FHFNEIGL_00413	gene			
+FHFNEIGL_00414	CDS	folP		Bifunctional dihydropteroate synthase/dihydropteroate reductase
+FHFNEIGL_00414	gene	folP		
+FHFNEIGL_00415	CDS			hypothetical protein
+FHFNEIGL_00415	gene			
+FHFNEIGL_00416	CDS			hypothetical protein
+FHFNEIGL_00416	gene			
+FHFNEIGL_00417	CDS	lysC	2.7.2.4	Aspartate kinase Ask_LysC
+FHFNEIGL_00417	gene	lysC		
+FHFNEIGL_00418	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+FHFNEIGL_00418	gene	rppH		
+FHFNEIGL_00419	CDS			Cytochrome c-553
+FHFNEIGL_00419	gene			
+FHFNEIGL_00420	CDS	hemN_1	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+FHFNEIGL_00420	gene	hemN_1		
+FHFNEIGL_00421	CDS	crcB		Putative fluoride ion transporter CrcB
+FHFNEIGL_00421	gene	crcB		
+FHFNEIGL_00422	CDS			hypothetical protein
+FHFNEIGL_00422	gene			
+FHFNEIGL_00423	CDS	glpE	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+FHFNEIGL_00423	gene	glpE		
+FHFNEIGL_00424	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+FHFNEIGL_00424	gene			
+FHFNEIGL_00425	CDS	uppS	2.5.1.-	Isoprenyl transferase
+FHFNEIGL_00425	gene	uppS		
+FHFNEIGL_00426	CDS	ytrB		ABC transporter ATP-binding protein YtrB
+FHFNEIGL_00426	gene	ytrB		
+FHFNEIGL_00427	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+FHFNEIGL_00427	gene	purD		
+FHFNEIGL_00428	CDS			hypothetical protein
+FHFNEIGL_00428	gene			
+FHFNEIGL_00429	CDS	lptD		LPS-assembly protein LptD
+FHFNEIGL_00429	gene	lptD		
+FHFNEIGL_00430	CDS			hypothetical protein
+FHFNEIGL_00430	gene			
+FHFNEIGL_00431	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+FHFNEIGL_00431	gene	pnp		
+FHFNEIGL_00432	CDS	atpE		ATP synthase subunit c
+FHFNEIGL_00432	gene	atpE		
+FHFNEIGL_00433	tRNA			tRNA-Leu(gag)
+FHFNEIGL_00433	gene			
+FHFNEIGL_00434	tRNA			tRNA-Leu(caa)
+FHFNEIGL_00434	gene			
+FHFNEIGL_00435	CDS	cysE	2.3.1.30	Serine acetyltransferase
+FHFNEIGL_00435	gene	cysE		
+FHFNEIGL_00436	CDS			hypothetical protein
+FHFNEIGL_00436	gene			
+FHFNEIGL_00437	CDS	fokIM	2.1.1.72	Modification methylase FokI
+FHFNEIGL_00437	gene	fokIM		
+FHFNEIGL_00438	CDS			hypothetical protein
+FHFNEIGL_00438	gene			
+FHFNEIGL_00439	CDS	hepA		Heterocyst differentiation ATP-binding protein HepA
+FHFNEIGL_00439	gene	hepA		
+FHFNEIGL_00440	tRNA			tRNA-Thr(tgt)
+FHFNEIGL_00440	gene			
+FHFNEIGL_00441	tRNA			tRNA-Tyr(gta)
+FHFNEIGL_00441	gene			
+FHFNEIGL_00442	tRNA			tRNA-Gly(tcc)
+FHFNEIGL_00442	gene			
+FHFNEIGL_00443	tRNA			tRNA-Thr(ggt)
+FHFNEIGL_00443	gene			
+FHFNEIGL_00444	CDS	tufA		Elongation factor Tu
+FHFNEIGL_00444	gene	tufA		
+FHFNEIGL_00445	CDS	rpmG2		50S ribosomal protein L33 2
+FHFNEIGL_00445	gene	rpmG2		
+FHFNEIGL_00446	tRNA			tRNA-Trp(cca)
+FHFNEIGL_00446	gene			
+FHFNEIGL_00447	CDS			hypothetical protein
+FHFNEIGL_00447	gene			
+FHFNEIGL_00448	CDS	nusG		Transcription termination/antitermination protein NusG
+FHFNEIGL_00448	gene	nusG		
+FHFNEIGL_00449	CDS	rplK		50S ribosomal protein L11
+FHFNEIGL_00449	gene	rplK		
+FHFNEIGL_00450	CDS	rplA		50S ribosomal protein L1
+FHFNEIGL_00450	gene	rplA		
+FHFNEIGL_00451	CDS	rplJ		50S ribosomal protein L10
+FHFNEIGL_00451	gene	rplJ		
+FHFNEIGL_00452	CDS	rplL		50S ribosomal protein L7/L12
+FHFNEIGL_00452	gene	rplL		
+FHFNEIGL_00453	CDS	rpoBC	2.7.7.6	Bifunctional DNA-directed RNA polymerase subunit beta-beta'
+FHFNEIGL_00453	gene	rpoBC		
+FHFNEIGL_00454	CDS	rpsL		30S ribosomal protein S12
+FHFNEIGL_00454	gene	rpsL		
+FHFNEIGL_00455	CDS	rpsG		30S ribosomal protein S7
+FHFNEIGL_00455	gene	rpsG		
+FHFNEIGL_00456	CDS	fusA		Elongation factor G
+FHFNEIGL_00456	gene	fusA		
+FHFNEIGL_00457	CDS	yhdN	1.1.1.-	General stress protein 69
+FHFNEIGL_00457	gene	yhdN		
+FHFNEIGL_00458	CDS			hypothetical protein
+FHFNEIGL_00458	gene			
+FHFNEIGL_00459	CDS	rfaF	2.-.-.-	ADP-heptose--LPS heptosyltransferase 2
+FHFNEIGL_00459	gene	rfaF		
+FHFNEIGL_00460	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+FHFNEIGL_00460	gene	hisS		
+FHFNEIGL_00461	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+FHFNEIGL_00461	gene	asd		
+FHFNEIGL_00462	CDS			hypothetical protein
+FHFNEIGL_00462	gene			
+FHFNEIGL_00463	CDS			hypothetical protein
+FHFNEIGL_00463	gene			
+FHFNEIGL_00464	CDS	cah	4.2.1.1	Carbonic anhydrase
+FHFNEIGL_00464	gene	cah		
+FHFNEIGL_00465	CDS	sotB		Sugar efflux transporter B
+FHFNEIGL_00465	gene	sotB		
+FHFNEIGL_00466	CDS	mepA		Multidrug export protein MepA
+FHFNEIGL_00466	gene	mepA		
+FHFNEIGL_00467	CDS			hypothetical protein
+FHFNEIGL_00467	gene			
+FHFNEIGL_00468	CDS	ttcA		tRNA 2-thiocytidine biosynthesis protein TtcA
+FHFNEIGL_00468	gene	ttcA		
+FHFNEIGL_00469	CDS	yajR		Inner membrane transport protein YajR
+FHFNEIGL_00469	gene	yajR		
+FHFNEIGL_00470	tRNA			tRNA-Met(cat)
+FHFNEIGL_00470	gene			
+FHFNEIGL_00471	CDS	nupX		Putative nucleoside permease NupX
+FHFNEIGL_00471	gene	nupX		
+FHFNEIGL_00472	CDS	deoB	5.4.2.7	Phosphopentomutase
+FHFNEIGL_00472	gene	deoB		
+FHFNEIGL_00473	CDS	deoD	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+FHFNEIGL_00473	gene	deoD		
+FHFNEIGL_00474	CDS			hypothetical protein
+FHFNEIGL_00474	gene			
+FHFNEIGL_00475	CDS	adeP		Adenine permease AdeP
+FHFNEIGL_00475	gene	adeP		
+FHFNEIGL_00476	CDS	adeQ_1		Adenine permease AdeQ
+FHFNEIGL_00476	gene	adeQ_1		
+FHFNEIGL_00477	CDS	adeQ_2		Adenine permease AdeQ
+FHFNEIGL_00477	gene	adeQ_2		
+FHFNEIGL_00478	CDS	fucP		L-fucose-proton symporter
+FHFNEIGL_00478	gene	fucP		
+FHFNEIGL_00479	CDS			hypothetical protein
+FHFNEIGL_00479	gene			
+FHFNEIGL_00480	CDS	glnH		ABC transporter glutamine-binding protein GlnH
+FHFNEIGL_00480	gene	glnH		
+FHFNEIGL_00481	CDS	artM		Arginine transport ATP-binding protein ArtM
+FHFNEIGL_00481	gene	artM		
+FHFNEIGL_00482	CDS	glnP_1		Glutamine transport system permease protein GlnP
+FHFNEIGL_00482	gene	glnP_1		
+FHFNEIGL_00483	CDS	glnP_2		Glutamine transport system permease protein GlnP
+FHFNEIGL_00483	gene	glnP_2		
+FHFNEIGL_00484	CDS	cstA		Carbon starvation protein A
+FHFNEIGL_00484	gene	cstA		
+FHFNEIGL_00485	CDS			hypothetical protein
+FHFNEIGL_00485	gene			
+FHFNEIGL_00486	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+FHFNEIGL_00486	gene	pgi		
+FHFNEIGL_00487	CDS			hypothetical protein
+FHFNEIGL_00487	gene			
+FHFNEIGL_00488	CDS		1.18.1.2	Ferredoxin--NADP reductase
+FHFNEIGL_00488	gene			
+FHFNEIGL_00489	CDS			hypothetical protein
+FHFNEIGL_00489	gene			
+FHFNEIGL_00490	CDS	yohD_2		Inner membrane protein YohD
+FHFNEIGL_00490	gene	yohD_2		
+FHFNEIGL_00491	CDS	fldA		Flavodoxin
+FHFNEIGL_00491	gene	fldA		
+FHFNEIGL_00492	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+FHFNEIGL_00492	gene	ybeY		
+FHFNEIGL_00493	CDS		2.7.7.-	Adenosine monophosphate-protein transferase NmFic
+FHFNEIGL_00493	gene			
+FHFNEIGL_00494	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+FHFNEIGL_00494	gene	proC		
+FHFNEIGL_00495	CDS			hypothetical protein
+FHFNEIGL_00495	gene			
+FHFNEIGL_00496	CDS			hypothetical protein
+FHFNEIGL_00496	gene			
+FHFNEIGL_00497	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+FHFNEIGL_00497	gene	murG		
+FHFNEIGL_00498	CDS	fliW1		Flagellar assembly factor FliW 1
+FHFNEIGL_00498	gene	fliW1		
+FHFNEIGL_00499	CDS	valS	6.1.1.9	Valine--tRNA ligase
+FHFNEIGL_00499	gene	valS		
+FHFNEIGL_00500	CDS	ffh		Signal recognition particle protein
+FHFNEIGL_00500	gene	ffh		
+FHFNEIGL_00501	CDS	rpsP		30S ribosomal protein S16
+FHFNEIGL_00501	gene	rpsP		
+FHFNEIGL_00502	CDS			hypothetical protein
+FHFNEIGL_00502	gene			
+FHFNEIGL_00503	CDS	rimM		Ribosome maturation factor RimM
+FHFNEIGL_00503	gene	rimM		
+FHFNEIGL_00504	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+FHFNEIGL_00504	gene	trmD		
+FHFNEIGL_00505	CDS	rplS		50S ribosomal protein L19
+FHFNEIGL_00505	gene	rplS		
+FHFNEIGL_00506	CDS			hypothetical protein
+FHFNEIGL_00506	gene			
+FHFNEIGL_00507	CDS			hypothetical protein
+FHFNEIGL_00507	gene			
+FHFNEIGL_00508	CDS	flgG_1		Flagellar basal-body rod protein FlgG
+FHFNEIGL_00508	gene	flgG_1		
+FHFNEIGL_00509	CDS	kgtP		Alpha-ketoglutarate permease
+FHFNEIGL_00509	gene	kgtP		
+FHFNEIGL_00510	CDS	spoIIIE		DNA translocase SpoIIIE
+FHFNEIGL_00510	gene	spoIIIE		
+FHFNEIGL_00511	CDS			hypothetical protein
+FHFNEIGL_00511	gene			
+FHFNEIGL_00512	CDS	tkt	2.2.1.1	Transketolase
+FHFNEIGL_00512	gene	tkt		
+FHFNEIGL_00513	CDS	ribF		Riboflavin biosynthesis protein RibF
+FHFNEIGL_00513	gene	ribF		
+FHFNEIGL_00514	CDS	tlyA	2.1.1.226	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+FHFNEIGL_00514	gene	tlyA		
+FHFNEIGL_00515	CDS			hypothetical protein
+FHFNEIGL_00515	gene			
+FHFNEIGL_00516	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+FHFNEIGL_00516	gene	pyrB		
+FHFNEIGL_00517	CDS			hypothetical protein
+FHFNEIGL_00517	gene			
+FHFNEIGL_00518	CDS	msbA	3.6.3.-	Lipid A export ATP-binding/permease protein MsbA
+FHFNEIGL_00518	gene	msbA		
+FHFNEIGL_00519	CDS			hypothetical protein
+FHFNEIGL_00519	gene			
+FHFNEIGL_00520	CDS			hypothetical protein
+FHFNEIGL_00520	gene			
+FHFNEIGL_00521	CDS		3.6.1.-	ATP/GTP phosphatase
+FHFNEIGL_00521	gene			
+FHFNEIGL_00522	CDS			hypothetical protein
+FHFNEIGL_00522	gene			
+FHFNEIGL_00523	CDS	nixA		High-affinity nickel-transport protein NixA
+FHFNEIGL_00523	gene	nixA		
+FHFNEIGL_00524	CDS			hypothetical protein
+FHFNEIGL_00524	gene			
+FHFNEIGL_00525	CDS			hypothetical protein
+FHFNEIGL_00525	gene			
+FHFNEIGL_00526	CDS			hypothetical protein
+FHFNEIGL_00526	gene			
+FHFNEIGL_00527	CDS	copP		COP-associated protein
+FHFNEIGL_00527	gene	copP		
+FHFNEIGL_00528	CDS	copA_1	3.6.3.54	Copper-exporting P-type ATPase A
+FHFNEIGL_00528	gene	copA_1		
+FHFNEIGL_00529	CDS	copA_2	3.6.3.54	Copper-exporting P-type ATPase A
+FHFNEIGL_00529	gene	copA_2		
+FHFNEIGL_00530	CDS	pcs	2.7.8.24	Phosphatidylcholine synthase
+FHFNEIGL_00530	gene	pcs		
+FHFNEIGL_00531	CDS	ftsH_1	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+FHFNEIGL_00531	gene	ftsH_1		
+FHFNEIGL_00532	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+FHFNEIGL_00532	gene	prmA		
+FHFNEIGL_00533	CDS	cheY		Chemotaxis protein CheY 
+FHFNEIGL_00533	gene	cheY		
+FHFNEIGL_00534	CDS			hypothetical protein
+FHFNEIGL_00534	gene			
+FHFNEIGL_00535	tRNA			tRNA-Ser(gga)
+FHFNEIGL_00535	gene			
+FHFNEIGL_00536	CDS			hypothetical protein
+FHFNEIGL_00536	gene			
+FHFNEIGL_00537	CDS			hypothetical protein
+FHFNEIGL_00537	gene			
+FHFNEIGL_00538	CDS	rsmG	2.1.1.170	Ribosomal RNA small subunit methyltransferase G
+FHFNEIGL_00538	gene	rsmG		
+FHFNEIGL_00539	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+FHFNEIGL_00539	gene	queA		
+FHFNEIGL_00540	CDS	tatC		Sec-independent protein translocase protein TatC
+FHFNEIGL_00540	gene	tatC		
+FHFNEIGL_00541	CDS	tatB		Sec-independent protein translocase protein TatB
+FHFNEIGL_00541	gene	tatB		
+FHFNEIGL_00542	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+FHFNEIGL_00542	gene	ruvB		
+FHFNEIGL_00543	CDS	panB	2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase
+FHFNEIGL_00543	gene	panB		
+FHFNEIGL_00544	CDS			hypothetical protein
+FHFNEIGL_00544	gene			
+FHFNEIGL_00545	CDS			hypothetical protein
+FHFNEIGL_00545	gene			
+FHFNEIGL_00546	CDS			hypothetical protein
+FHFNEIGL_00546	gene			
+FHFNEIGL_00547	CDS			hypothetical protein
+FHFNEIGL_00547	gene			
+FHFNEIGL_00548	CDS	minC		putative septum site-determining protein MinC
+FHFNEIGL_00548	gene	minC		
+FHFNEIGL_00549	CDS	lpxC	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+FHFNEIGL_00549	gene	lpxC		
+FHFNEIGL_00550	CDS			hypothetical protein
+FHFNEIGL_00550	gene			
+FHFNEIGL_00551	CDS	thrB	2.7.1.39	Homoserine kinase
+FHFNEIGL_00551	gene	thrB		
+FHFNEIGL_00552	CDS			hypothetical protein
+FHFNEIGL_00552	gene			
+FHFNEIGL_00553	CDS			hypothetical protein
+FHFNEIGL_00553	gene			
+FHFNEIGL_00554	CDS	infB		Translation initiation factor IF-2
+FHFNEIGL_00554	gene	infB		
+FHFNEIGL_00555	CDS	rbfA		Ribosome-binding factor A
+FHFNEIGL_00555	gene	rbfA		
+FHFNEIGL_00556	CDS	rimP		Ribosome maturation factor RimP
+FHFNEIGL_00556	gene	rimP		
+FHFNEIGL_00557	CDS	acsA	6.2.1.1	Acetyl-coenzyme A synthetase
+FHFNEIGL_00557	gene	acsA		
+FHFNEIGL_00558	CDS	cpdA	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+FHFNEIGL_00558	gene	cpdA		
+FHFNEIGL_00559	CDS			hypothetical protein
+FHFNEIGL_00559	gene			
+FHFNEIGL_00560	CDS	cusR		Transcriptional regulatory protein CusR
+FHFNEIGL_00560	gene	cusR		
+FHFNEIGL_00561	CDS		3.1.4.17	3',5'-cyclic-nucleotide phosphodiesterase
+FHFNEIGL_00561	gene			
+FHFNEIGL_00562	CDS	flhA		Flagellar biosynthesis protein FlhA
+FHFNEIGL_00562	gene	flhA		
+FHFNEIGL_00563	CDS	rpsO		30S ribosomal protein S15
+FHFNEIGL_00563	gene	rpsO		
+FHFNEIGL_00564	CDS			hypothetical protein
+FHFNEIGL_00564	gene			
+FHFNEIGL_00565	CDS	aroQ	4.2.1.10	3-dehydroquinate dehydratase
+FHFNEIGL_00565	gene	aroQ		
+FHFNEIGL_00566	CDS		3.4.11.-	Aminopeptidase
+FHFNEIGL_00566	gene			
+FHFNEIGL_00567	CDS	folK	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+FHFNEIGL_00567	gene	folK		
+FHFNEIGL_00568	CDS	flhF		Flagellar biosynthesis protein FlhF
+FHFNEIGL_00568	gene	flhF		
+FHFNEIGL_00569	CDS	ylxH		Flagellum site-determining protein YlxH
+FHFNEIGL_00569	gene	ylxH		
+FHFNEIGL_00570	CDS			hypothetical protein
+FHFNEIGL_00570	gene			
+FHFNEIGL_00571	CDS	fliA		RNA polymerase sigma factor FliA
+FHFNEIGL_00571	gene	fliA		
+FHFNEIGL_00572	CDS	fliM		Flagellar motor switch protein FliM
+FHFNEIGL_00572	gene	fliM		
+FHFNEIGL_00573	CDS	fliN_2		Flagellar motor switch protein FliN
+FHFNEIGL_00573	gene	fliN_2		
+FHFNEIGL_00574	CDS			hypothetical protein
+FHFNEIGL_00574	gene			
+FHFNEIGL_00575	CDS			hypothetical protein
+FHFNEIGL_00575	gene			
+FHFNEIGL_00576	CDS	fur		Ferric uptake regulation protein
+FHFNEIGL_00576	gene	fur		
+FHFNEIGL_00577	CDS			putative AAA domain-containing protein
+FHFNEIGL_00577	gene			
+FHFNEIGL_00578	CDS	hspR		Putative heat shock protein HspR
+FHFNEIGL_00578	gene	hspR		
+FHFNEIGL_00579	CDS	cbpA		Curved DNA-binding protein
+FHFNEIGL_00579	gene	cbpA		
+FHFNEIGL_00580	CDS			hypothetical protein
+FHFNEIGL_00580	gene			
+FHFNEIGL_00581	CDS	xni	3.1.-.-	Flap endonuclease Xni
+FHFNEIGL_00581	gene	xni		
+FHFNEIGL_00582	CDS			hypothetical protein
+FHFNEIGL_00582	gene			
+FHFNEIGL_00583	CDS	ispDF		Bifunctional enzyme IspD/IspF
+FHFNEIGL_00583	gene	ispDF		
+FHFNEIGL_00584	CDS	degP	3.4.21.107	Periplasmic serine endoprotease DegP
+FHFNEIGL_00584	gene	degP		
+FHFNEIGL_00585	CDS	rocE		Amino-acid permease RocE
+FHFNEIGL_00585	gene	rocE		
+FHFNEIGL_00586	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+FHFNEIGL_00586	gene	pgsA		
+FHFNEIGL_00587	CDS			hypothetical protein
+FHFNEIGL_00587	gene			
+FHFNEIGL_00588	CDS	fabL	1.3.1.104	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabL
+FHFNEIGL_00588	gene	fabL		
+FHFNEIGL_00589	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+FHFNEIGL_00589	gene	dapA		
+FHFNEIGL_00590	CDS		3.4.24.-	putative zinc protease
+FHFNEIGL_00590	gene			
+FHFNEIGL_00591	CDS	pyrD_2	1.3.5.2	Dihydroorotate dehydrogenase (quinone)
+FHFNEIGL_00591	gene	pyrD_2		
+FHFNEIGL_00592	CDS	ppk	2.7.4.1	Polyphosphate kinase
+FHFNEIGL_00592	gene	ppk		
+FHFNEIGL_00593	tRNA			tRNA-Pro(ggg)
+FHFNEIGL_00593	gene			
+FHFNEIGL_00594	CDS	ppiB	5.2.1.8	Peptidyl-prolyl cis-trans isomerase B
+FHFNEIGL_00594	gene	ppiB		
+FHFNEIGL_00595	CDS	csrA		Carbon storage regulator 
+FHFNEIGL_00595	gene	csrA		
+FHFNEIGL_00596	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+FHFNEIGL_00596	gene	ispE		
+FHFNEIGL_00597	CDS	smpB		SsrA-binding protein
+FHFNEIGL_00597	gene	smpB		
+FHFNEIGL_00598	CDS	exbB_1		Biopolymer transport protein ExbB
+FHFNEIGL_00598	gene	exbB_1		
+FHFNEIGL_00599	CDS	exbD_1		Biopolymer transport protein ExbD
+FHFNEIGL_00599	gene	exbD_1		
+FHFNEIGL_00600	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+FHFNEIGL_00600	gene	rnpA		
+FHFNEIGL_00601	CDS	yidC		Membrane protein insertase YidC
+FHFNEIGL_00601	gene	yidC		
+FHFNEIGL_00602	CDS			hypothetical protein
+FHFNEIGL_00602	gene			
+FHFNEIGL_00603	CDS	mnmE	3.6.5.-	tRNA modification GTPase MnmE
+FHFNEIGL_00603	gene	mnmE		
+FHFNEIGL_00604	CDS			hypothetical protein
+FHFNEIGL_00604	gene			
+FHFNEIGL_00605	CDS			hypothetical protein
+FHFNEIGL_00605	gene			
+FHFNEIGL_00606	CDS			hypothetical protein
+FHFNEIGL_00606	gene			
+FHFNEIGL_00607	CDS			LPP20 lipoprotein
+FHFNEIGL_00607	gene			
+FHFNEIGL_00608	CDS			hypothetical protein
+FHFNEIGL_00608	gene			
+FHFNEIGL_00609	CDS	trxA_2		Thioredoxin
+FHFNEIGL_00609	gene	trxA_2		
+FHFNEIGL_00610	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+FHFNEIGL_00610	gene	rluB		
+FHFNEIGL_00611	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+FHFNEIGL_00611	gene	dnaE		
+FHFNEIGL_00612	CDS	ccpA	1.11.1.5	Cytochrome c551 peroxidase
+FHFNEIGL_00612	gene	ccpA		
+FHFNEIGL_00613	CDS			hypothetical protein
+FHFNEIGL_00613	gene			
+FHFNEIGL_00614	CDS			hypothetical protein
+FHFNEIGL_00614	gene			
+FHFNEIGL_00615	CDS			hypothetical protein
+FHFNEIGL_00615	gene			
+FHFNEIGL_00616	CDS	metN2	3.6.3.-	Methionine import ATP-binding protein MetN 2
+FHFNEIGL_00616	gene	metN2		
+FHFNEIGL_00617	CDS	mlaE		putative phospholipid ABC transporter permease protein MlaE
+FHFNEIGL_00617	gene	mlaE		
+FHFNEIGL_00618	CDS			hypothetical protein
+FHFNEIGL_00618	gene			
+FHFNEIGL_00619	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid transaminase 1
+FHFNEIGL_00619	gene	ilvE		
+FHFNEIGL_00620	CDS			hypothetical protein
+FHFNEIGL_00620	gene			
+FHFNEIGL_00621	CDS	polA	2.7.7.7	DNA polymerase I, thermostable
+FHFNEIGL_00621	gene	polA		
+FHFNEIGL_00622	CDS	bcgIB	3.1.21.-	Restriction enzyme BgcI subunit beta
+FHFNEIGL_00622	gene	bcgIB		
+FHFNEIGL_00623	CDS	bcgIA	3.1.21.-	Restriction enzyme BgcI subunit alpha
+FHFNEIGL_00623	gene	bcgIA		
+FHFNEIGL_00624	CDS			hypothetical protein
+FHFNEIGL_00624	gene			
+FHFNEIGL_00625	CDS	tmk	2.7.4.9	Thymidylate kinase
+FHFNEIGL_00625	gene	tmk		
+FHFNEIGL_00626	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+FHFNEIGL_00626	gene	coaD		
+FHFNEIGL_00627	CDS	ubiX	2.5.1.129	Flavin prenyltransferase UbiX
+FHFNEIGL_00627	gene	ubiX		
+FHFNEIGL_00628	CDS			hypothetical protein
+FHFNEIGL_00628	gene			
+FHFNEIGL_00629	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+FHFNEIGL_00629	gene	pcrA		
+FHFNEIGL_00630	CDS			hypothetical protein
+FHFNEIGL_00630	gene			
+FHFNEIGL_00631	CDS	serS	6.1.1.11	Serine--tRNA ligase
+FHFNEIGL_00631	gene	serS		
+FHFNEIGL_00632	CDS			hypothetical protein
+FHFNEIGL_00632	gene			
+FHFNEIGL_00633	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+FHFNEIGL_00633	gene	xseB		
+FHFNEIGL_00634	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+FHFNEIGL_00634	gene	menG		
+FHFNEIGL_00635	CDS			hypothetical protein
+FHFNEIGL_00635	gene			
+FHFNEIGL_00636	CDS	yigZ		IMPACT family member YigZ
+FHFNEIGL_00636	gene	yigZ		
+FHFNEIGL_00637	CDS	ybhS		Inner membrane transport permease YbhS
+FHFNEIGL_00637	gene	ybhS		
+FHFNEIGL_00638	CDS			hypothetical protein
+FHFNEIGL_00638	gene			
+FHFNEIGL_00639	CDS	mdtN		Multidrug resistance protein MdtN
+FHFNEIGL_00639	gene	mdtN		
+FHFNEIGL_00640	CDS			hypothetical protein
+FHFNEIGL_00640	gene			
+FHFNEIGL_00641	CDS	corC		Magnesium and cobalt efflux protein CorC
+FHFNEIGL_00641	gene	corC		
+FHFNEIGL_00642	CDS	cysP		Sulfate permease CysP
+FHFNEIGL_00642	gene	cysP		
+FHFNEIGL_00643	CDS	nfuA		Fe/S biogenesis protein NfuA
+FHFNEIGL_00643	gene	nfuA		
+FHFNEIGL_00644	CDS			hypothetical protein
+FHFNEIGL_00644	gene			
+FHFNEIGL_00645	CDS	murE	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+FHFNEIGL_00645	gene	murE		
+FHFNEIGL_00646	CDS	tal	2.2.1.2	Transaldolase
+FHFNEIGL_00646	gene	tal		
+FHFNEIGL_00647	CDS	rplY		50S ribosomal protein L25
+FHFNEIGL_00647	gene	rplY		
+FHFNEIGL_00648	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+FHFNEIGL_00648	gene	pth		
+FHFNEIGL_00649	CDS			hypothetical protein
+FHFNEIGL_00649	gene			
+FHFNEIGL_00650	CDS			hypothetical protein
+FHFNEIGL_00650	gene			
+FHFNEIGL_00651	CDS			hypothetical protein
+FHFNEIGL_00651	gene			
+FHFNEIGL_00652	CDS			hypothetical protein
+FHFNEIGL_00652	gene			
+FHFNEIGL_00653	CDS	copA_3	3.6.3.54	Copper-exporting P-type ATPase A
+FHFNEIGL_00653	gene	copA_3		
+FHFNEIGL_00654	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+FHFNEIGL_00654	gene	yfiC		
+FHFNEIGL_00655	CDS	ribD		Riboflavin biosynthesis protein RibD
+FHFNEIGL_00655	gene	ribD		
+FHFNEIGL_00656	CDS	gltS		Sodium/glutamate symporter
+FHFNEIGL_00656	gene	gltS		
+FHFNEIGL_00657	CDS		1.5.1.43	Carboxynorspermidine synthase
+FHFNEIGL_00657	gene			
+FHFNEIGL_00658	CDS	yccM		Putative electron transport protein YccM
+FHFNEIGL_00658	gene	yccM		
+FHFNEIGL_00659	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+FHFNEIGL_00659	gene	plsY		
+FHFNEIGL_00660	CDS			hypothetical protein
+FHFNEIGL_00660	gene			
+FHFNEIGL_00661	CDS			hypothetical protein
+FHFNEIGL_00661	gene			
+FHFNEIGL_00662	CDS	bhuA_1		Heme transporter BhuA
+FHFNEIGL_00662	gene	bhuA_1		
+FHFNEIGL_00663	CDS	selA	2.9.1.1	L-seryl-tRNA(Sec) selenium transferase
+FHFNEIGL_00663	gene	selA		
+FHFNEIGL_00664	CDS	nusA		Transcription termination/antitermination protein NusA
+FHFNEIGL_00664	gene	nusA		
+FHFNEIGL_00665	CDS			hypothetical protein
+FHFNEIGL_00665	gene			
+FHFNEIGL_00666	CDS	paeR7IM	2.1.1.72	Modification methylase PaeR7I
+FHFNEIGL_00666	gene	paeR7IM		
+FHFNEIGL_00667	CDS			hypothetical protein
+FHFNEIGL_00667	gene			
+FHFNEIGL_00668	CDS			hypothetical protein
+FHFNEIGL_00668	gene			
+FHFNEIGL_00669	CDS	argO		Arginine exporter protein ArgO
+FHFNEIGL_00669	gene	argO		
+FHFNEIGL_00670	CDS			hypothetical protein
+FHFNEIGL_00670	gene			
+FHFNEIGL_00671	CDS	dnaX	2.7.7.7	DNA polymerase III subunit tau
+FHFNEIGL_00671	gene	dnaX		
+FHFNEIGL_00672	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+FHFNEIGL_00672	gene	tsaE		
+FHFNEIGL_00673	CDS	lptB	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+FHFNEIGL_00673	gene	lptB		
+FHFNEIGL_00674	CDS	rpoN		RNA polymerase sigma-54 factor
+FHFNEIGL_00674	gene	rpoN		
+FHFNEIGL_00675	CDS			hypothetical protein
+FHFNEIGL_00675	gene			
+FHFNEIGL_00676	CDS			hypothetical protein
+FHFNEIGL_00676	gene			
+FHFNEIGL_00677	CDS	yfbR	3.1.3.89	5'-deoxynucleotidase YfbR
+FHFNEIGL_00677	gene	yfbR		
+FHFNEIGL_00678	CDS			hypothetical protein
+FHFNEIGL_00678	gene			
+FHFNEIGL_00679	CDS	salL	2.5.1.94	Adenosyl-chloride synthase
+FHFNEIGL_00679	gene	salL		
+FHFNEIGL_00680	CDS			hypothetical protein
+FHFNEIGL_00680	gene			
+FHFNEIGL_00681	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+FHFNEIGL_00681	gene	rsmH		
+FHFNEIGL_00682	CDS			hypothetical protein
+FHFNEIGL_00682	gene			
+FHFNEIGL_00683	CDS	uvrA		UvrABC system protein A
+FHFNEIGL_00683	gene	uvrA		
+FHFNEIGL_00684	CDS	glrR		Transcriptional regulatory protein GlrR
+FHFNEIGL_00684	gene	glrR		
+FHFNEIGL_00685	CDS			hypothetical protein
+FHFNEIGL_00685	gene			
+FHFNEIGL_00686	CDS	gyrA_1	5.99.1.3	DNA gyrase subunit A
+FHFNEIGL_00686	gene	gyrA_1		
+FHFNEIGL_00687	CDS	gyrA_2	5.99.1.3	Type 2 topoisomerase subunit A
+FHFNEIGL_00687	gene	gyrA_2		
+FHFNEIGL_00688	CDS	dgkA	2.7.1.107	Diacylglycerol kinase
+FHFNEIGL_00688	gene	dgkA		
+FHFNEIGL_00689	CDS			hypothetical protein
+FHFNEIGL_00689	gene			
+FHFNEIGL_00690	CDS	acxC	6.4.1.6	Acetone carboxylase gamma subunit
+FHFNEIGL_00690	gene	acxC		
+FHFNEIGL_00691	CDS	acxB	6.4.1.6	Acetone carboxylase alpha subunit
+FHFNEIGL_00691	gene	acxB		
+FHFNEIGL_00692	CDS	acxA	6.4.1.6	Acetone carboxylase beta subunit
+FHFNEIGL_00692	gene	acxA		
+FHFNEIGL_00693	CDS			hypothetical protein
+FHFNEIGL_00693	gene			
+FHFNEIGL_00694	CDS	atoE		Putative short-chain fatty acid transporter
+FHFNEIGL_00694	gene	atoE		
+FHFNEIGL_00695	CDS	scoB	2.8.3.5	Succinyl-CoA:3-ketoacid coenzyme A transferase subunit B
+FHFNEIGL_00695	gene	scoB		
+FHFNEIGL_00696	CDS	scoA	2.8.3.5	Succinyl-CoA:3-ketoacid coenzyme A transferase subunit A
+FHFNEIGL_00696	gene	scoA		
+FHFNEIGL_00697	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+FHFNEIGL_00697	gene	thlA		
+FHFNEIGL_00698	CDS			hypothetical protein
+FHFNEIGL_00698	gene			
+FHFNEIGL_00699	CDS	feoB		Fe(2+) transporter FeoB
+FHFNEIGL_00699	gene	feoB		
+FHFNEIGL_00700	CDS	fecA_2		Fe(3+) dicitrate transport protein FecA
+FHFNEIGL_00700	gene	fecA_2		
+FHFNEIGL_00701	CDS	fliP_1		Flagellar biosynthetic protein FliP
+FHFNEIGL_00701	gene	fliP_1		
+FHFNEIGL_00702	CDS	fliP_2		Flagellar biosynthetic protein FliP
+FHFNEIGL_00702	gene	fliP_2		
+FHFNEIGL_00703	CDS	glmU		Bifunctional protein GlmU
+FHFNEIGL_00703	gene	glmU		
+FHFNEIGL_00704	CDS			hypothetical protein
+FHFNEIGL_00704	gene			
+FHFNEIGL_00705	CDS			hypothetical protein
+FHFNEIGL_00705	gene			
+FHFNEIGL_00706	CDS	nrdA	1.17.4.1	Ribonucleoside-diphosphate reductase 1 subunit alpha
+FHFNEIGL_00706	gene	nrdA		
+FHFNEIGL_00707	CDS	wbpB	1.1.1.335	UDP-N-acetyl-2-amino-2-deoxy-D-glucuronate oxidase
+FHFNEIGL_00707	gene	wbpB		
+FHFNEIGL_00708	CDS			hypothetical protein
+FHFNEIGL_00708	gene			
+FHFNEIGL_00709	CDS			hypothetical protein
+FHFNEIGL_00709	gene			
+FHFNEIGL_00710	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+FHFNEIGL_00710	gene	ogt		
+FHFNEIGL_00711	CDS	xerH_1		Tyrosine recombinase XerH
+FHFNEIGL_00711	gene	xerH_1		
+FHFNEIGL_00712	CDS			hypothetical protein
+FHFNEIGL_00712	gene			
+FHFNEIGL_00713	CDS			hypothetical protein
+FHFNEIGL_00713	gene			
+FHFNEIGL_00714	CDS		2.6.1.1	Aspartate aminotransferase
+FHFNEIGL_00714	gene			
+FHFNEIGL_00715	CDS			hypothetical protein
+FHFNEIGL_00715	gene			
+FHFNEIGL_00716	CDS			hypothetical protein
+FHFNEIGL_00716	gene			
+FHFNEIGL_00717	CDS			hypothetical protein
+FHFNEIGL_00717	gene			
+FHFNEIGL_00718	CDS			hypothetical protein
+FHFNEIGL_00718	gene			
+FHFNEIGL_00719	CDS			hypothetical protein
+FHFNEIGL_00719	gene			
+FHFNEIGL_00720	CDS	glpC		Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+FHFNEIGL_00720	gene	glpC		
+FHFNEIGL_00721	CDS	hemN_2	1.3.98.3	Oxygen-independent coproporphyrinogen III oxidase
+FHFNEIGL_00721	gene	hemN_2		
+FHFNEIGL_00722	CDS			hypothetical protein
+FHFNEIGL_00722	gene			
+FHFNEIGL_00723	CDS	aroC	4.2.3.5	Chorismate synthase
+FHFNEIGL_00723	gene	aroC		
+FHFNEIGL_00724	CDS	rnc	3.1.26.3	Ribonuclease 3
+FHFNEIGL_00724	gene	rnc		
+FHFNEIGL_00725	CDS	rnhA	3.1.26.4	Ribonuclease HI
+FHFNEIGL_00725	gene	rnhA		
+FHFNEIGL_00726	CDS	lapB		Lipopolysaccharide assembly protein B
+FHFNEIGL_00726	gene	lapB		
+FHFNEIGL_00727	CDS	surA	5.2.1.8	Chaperone SurA
+FHFNEIGL_00727	gene	surA		
+FHFNEIGL_00728	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+FHFNEIGL_00728	gene	gatB		
+FHFNEIGL_00729	CDS		3.4.24.-	putative zinc protease
+FHFNEIGL_00729	gene			
+FHFNEIGL_00730	CDS	mqnC	1.21.98.1	Cyclic dehypoxanthine futalosine synthase
+FHFNEIGL_00730	gene	mqnC		
+FHFNEIGL_00731	CDS	bamA		Outer membrane protein assembly factor BamA
+FHFNEIGL_00731	gene	bamA		
+FHFNEIGL_00732	CDS	mqnE	2.5.1.120	Aminodeoxyfutalosine synthase
+FHFNEIGL_00732	gene	mqnE		
+FHFNEIGL_00733	CDS	ftnA	1.16.3.2	Bacterial non-heme ferritin
+FHFNEIGL_00733	gene	ftnA		
+FHFNEIGL_00734	CDS	SERB	3.1.3.3	Phosphoserine phosphatase
+FHFNEIGL_00734	gene	SERB		
+FHFNEIGL_00735	CDS			hypothetical protein
+FHFNEIGL_00735	gene			
+FHFNEIGL_00736	CDS			hypothetical protein
+FHFNEIGL_00736	gene			
+FHFNEIGL_00737	CDS			hypothetical protein
+FHFNEIGL_00737	gene			
+FHFNEIGL_00738	CDS			hypothetical protein
+FHFNEIGL_00738	gene			
+FHFNEIGL_00739	CDS			hypothetical protein
+FHFNEIGL_00739	gene			
+FHFNEIGL_00740	CDS			hypothetical protein
+FHFNEIGL_00740	gene			
+FHFNEIGL_00741	CDS			hypothetical protein
+FHFNEIGL_00741	gene			
+FHFNEIGL_00742	CDS			hypothetical protein
+FHFNEIGL_00742	gene			
+FHFNEIGL_00743	CDS			hypothetical protein
+FHFNEIGL_00743	gene			
+FHFNEIGL_00744	CDS			putative transcriptional regulatory protein
+FHFNEIGL_00744	gene			
+FHFNEIGL_00745	CDS	hemB	4.2.1.24	Delta-aminolevulinic acid dehydratase
+FHFNEIGL_00745	gene	hemB		
+FHFNEIGL_00746	CDS	hssS	2.7.13.3	Heme sensor protein HssS
+FHFNEIGL_00746	gene	hssS		
+FHFNEIGL_00747	CDS	arlR		Response regulator ArlR
+FHFNEIGL_00747	gene	arlR		
+FHFNEIGL_00748	CDS			hypothetical protein
+FHFNEIGL_00748	gene			
+FHFNEIGL_00749	CDS			hypothetical protein
+FHFNEIGL_00749	gene			
+FHFNEIGL_00750	CDS	ydcP	3.4.-.-	putative protease YdcP
+FHFNEIGL_00750	gene	ydcP		
+FHFNEIGL_00751	CDS			hypothetical protein
+FHFNEIGL_00751	gene			
+FHFNEIGL_00752	CDS	prfB		Peptide chain release factor RF2
+FHFNEIGL_00752	gene	prfB		
+FHFNEIGL_00753	CDS	moeA	2.10.1.1	Molybdopterin molybdenumtransferase
+FHFNEIGL_00753	gene	moeA		
+FHFNEIGL_00754	CDS			hypothetical protein
+FHFNEIGL_00754	gene			
+FHFNEIGL_00755	CDS			hypothetical protein
+FHFNEIGL_00755	gene			
+FHFNEIGL_00756	CDS		5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+FHFNEIGL_00756	gene			
+FHFNEIGL_00757	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+FHFNEIGL_00757	gene	fba		
+FHFNEIGL_00758	CDS	efp		Elongation factor P
+FHFNEIGL_00758	gene	efp		
+FHFNEIGL_00759	CDS	pseI	2.5.1.97	Pseudaminic acid synthase
+FHFNEIGL_00759	gene	pseI		
+FHFNEIGL_00760	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+FHFNEIGL_00760	gene	lolD		
+FHFNEIGL_00761	CDS	lnt	2.3.1.-	Apolipoprotein N-acyltransferase
+FHFNEIGL_00761	gene	lnt		
+FHFNEIGL_00762	CDS			hypothetical protein
+FHFNEIGL_00762	gene			
+FHFNEIGL_00763	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+FHFNEIGL_00763	gene	lysS		
+FHFNEIGL_00764	CDS	glyA_1	2.1.2.1	Serine hydroxymethyltransferase
+FHFNEIGL_00764	gene	glyA_1		
+FHFNEIGL_00765	CDS	glyA_2	2.1.2.1	Serine hydroxymethyltransferase
+FHFNEIGL_00765	gene	glyA_2		
+FHFNEIGL_00766	CDS			hypothetical protein
+FHFNEIGL_00766	gene			
+FHFNEIGL_00767	CDS	zipA		Cell division protein ZipA
+FHFNEIGL_00767	gene	zipA		
+FHFNEIGL_00768	CDS			hypothetical protein
+FHFNEIGL_00768	gene			
+FHFNEIGL_00769	CDS			hypothetical protein
+FHFNEIGL_00769	gene			
+FHFNEIGL_00770	CDS			hypothetical protein
+FHFNEIGL_00770	gene			
+FHFNEIGL_00771	CDS			hypothetical protein
+FHFNEIGL_00771	gene			
+FHFNEIGL_00772	CDS	clsC	2.7.8.-	Cardiolipin synthase C
+FHFNEIGL_00772	gene	clsC		
+FHFNEIGL_00773	CDS	frdB	1.3.5.1	Fumarate reductase iron-sulfur subunit
+FHFNEIGL_00773	gene	frdB		
+FHFNEIGL_00774	CDS	frdA	1.3.5.4	Fumarate reductase flavoprotein subunit
+FHFNEIGL_00774	gene	frdA		
+FHFNEIGL_00775	CDS	frdC		Fumarate reductase cytochrome b subunit
+FHFNEIGL_00775	gene	frdC		
+FHFNEIGL_00776	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+FHFNEIGL_00776	gene	tpiA		
+FHFNEIGL_00777	CDS	fabI	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+FHFNEIGL_00777	gene	fabI		
+FHFNEIGL_00778	CDS	lpxD_1	2.3.1.-	UDP-3-O-acylglucosamine N-acyltransferase
+FHFNEIGL_00778	gene	lpxD_1		
+FHFNEIGL_00779	CDS	lpxD_2	2.3.1.-	UDP-3-O-acylglucosamine N-acyltransferase
+FHFNEIGL_00779	gene	lpxD_2		
+FHFNEIGL_00780	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+FHFNEIGL_00780	gene	metK		
+FHFNEIGL_00781	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+FHFNEIGL_00781	gene	ndk		
+FHFNEIGL_00782	CDS			hypothetical protein
+FHFNEIGL_00782	gene			
+FHFNEIGL_00783	CDS	rpmF		50S ribosomal protein L32
+FHFNEIGL_00783	gene	rpmF		
+FHFNEIGL_00784	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+FHFNEIGL_00784	gene	plsX		
+FHFNEIGL_00785	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+FHFNEIGL_00785	gene	fabH		
+FHFNEIGL_00786	CDS			hypothetical protein
+FHFNEIGL_00786	gene			
+FHFNEIGL_00787	CDS			hypothetical protein
+FHFNEIGL_00787	gene			
+FHFNEIGL_00788	CDS			hypothetical protein
+FHFNEIGL_00788	gene			
+FHFNEIGL_00789	CDS			hypothetical protein
+FHFNEIGL_00789	gene			
+FHFNEIGL_00790	CDS			hypothetical protein
+FHFNEIGL_00790	gene			
+FHFNEIGL_00791	CDS	apbC		Iron-sulfur cluster carrier protein
+FHFNEIGL_00791	gene	apbC		
+FHFNEIGL_00792	CDS	gspA		General stress protein A
+FHFNEIGL_00792	gene	gspA		
+FHFNEIGL_00793	CDS			hypothetical protein
+FHFNEIGL_00793	gene			
+FHFNEIGL_00794	CDS			hypothetical protein
+FHFNEIGL_00794	gene			
+FHFNEIGL_00795	CDS	htpG		Chaperone protein HtpG
+FHFNEIGL_00795	gene	htpG		
+FHFNEIGL_00796	CDS	hcpA	3.5.2.6	Beta-lactamase HcpA
+FHFNEIGL_00796	gene	hcpA		
+FHFNEIGL_00797	CDS	dapE	3.5.1.18	Succinyl-diaminopimelate desuccinylase
+FHFNEIGL_00797	gene	dapE		
+FHFNEIGL_00798	CDS	mnmG		tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+FHFNEIGL_00798	gene	mnmG		
+FHFNEIGL_00799	CDS	sdcS		Sodium-dependent dicarboxylate transporter SdcS
+FHFNEIGL_00799	gene	sdcS		
+FHFNEIGL_00800	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+FHFNEIGL_00800	gene	cdsA		
+FHFNEIGL_00801	CDS	dxr	1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+FHFNEIGL_00801	gene	dxr		
+FHFNEIGL_00802	CDS			hypothetical protein
+FHFNEIGL_00802	gene			
+FHFNEIGL_00803	CDS			hypothetical protein
+FHFNEIGL_00803	gene			
+FHFNEIGL_00804	CDS			hypothetical protein
+FHFNEIGL_00804	gene			
+FHFNEIGL_00805	CDS	iscS	2.8.1.7	Cysteine desulfurase IscS
+FHFNEIGL_00805	gene	iscS		
+FHFNEIGL_00806	CDS	iscU		Iron-sulfur cluster assembly scaffold protein IscU
+FHFNEIGL_00806	gene	iscU		
+FHFNEIGL_00807	CDS			hypothetical protein
+FHFNEIGL_00807	gene			
+FHFNEIGL_00808	CDS	radA	3.6.4.-	DNA repair protein RadA
+FHFNEIGL_00808	gene	radA		
+FHFNEIGL_00809	CDS	msrAB		Peptide methionine sulfoxide reductase msrA/msrB
+FHFNEIGL_00809	gene	msrAB		
+FHFNEIGL_00810	CDS			hypothetical protein
+FHFNEIGL_00810	gene			
+FHFNEIGL_00811	CDS			hypothetical protein
+FHFNEIGL_00811	gene			
+FHFNEIGL_00812	CDS	bioB	2.8.1.6	Biotin synthase
+FHFNEIGL_00812	gene	bioB		
+FHFNEIGL_00813	CDS			hypothetical protein
+FHFNEIGL_00813	gene			
+FHFNEIGL_00814	CDS	hsdM	2.1.1.72	Type I restriction enzyme EcoKI M protein
+FHFNEIGL_00814	gene	hsdM		
+FHFNEIGL_00815	CDS	hsdR_2	3.1.21.3	Type-1 restriction enzyme R protein
+FHFNEIGL_00815	gene	hsdR_2		
+FHFNEIGL_00816	CDS			hypothetical protein
+FHFNEIGL_00816	gene			
+FHFNEIGL_00817	CDS	fecA_3		Fe(3+) dicitrate transport protein FecA
+FHFNEIGL_00817	gene	fecA_3		
+FHFNEIGL_00818	CDS	rocF	3.5.3.1	Arginase
+FHFNEIGL_00818	gene	rocF		
+FHFNEIGL_00819	CDS	ald	1.4.1.1	Alanine dehydrogenase
+FHFNEIGL_00819	gene	ald		
+FHFNEIGL_00820	CDS			hypothetical protein
+FHFNEIGL_00820	gene			
+FHFNEIGL_00821	CDS			hypothetical protein
+FHFNEIGL_00821	gene			
+FHFNEIGL_00822	CDS			hypothetical protein
+FHFNEIGL_00822	gene			
+FHFNEIGL_00823	CDS	nadK_1	2.7.1.23	NAD kinase
+FHFNEIGL_00823	gene	nadK_1		
+FHFNEIGL_00824	CDS	nadK_2	2.7.1.23	NAD kinase
+FHFNEIGL_00824	gene	nadK_2		
+FHFNEIGL_00825	CDS	recN		DNA repair protein RecN
+FHFNEIGL_00825	gene	recN		
+FHFNEIGL_00826	CDS			hypothetical protein
+FHFNEIGL_00826	gene			
+FHFNEIGL_00827	CDS			hypothetical protein
+FHFNEIGL_00827	gene			
+FHFNEIGL_00828	CDS			hypothetical protein
+FHFNEIGL_00828	gene			
+FHFNEIGL_00829	CDS			hypothetical protein
+FHFNEIGL_00829	gene			
+FHFNEIGL_00830	CDS			hypothetical protein
+FHFNEIGL_00830	gene			
+FHFNEIGL_00831	CDS			hypothetical protein
+FHFNEIGL_00831	gene			
+FHFNEIGL_00832	CDS	polC	2.7.7.7	DNA polymerase III PolC-type
+FHFNEIGL_00832	gene	polC		
+FHFNEIGL_00833	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+FHFNEIGL_00833	gene	rpe		
+FHFNEIGL_00834	CDS	fbp	3.1.3.11	Fructose-1,6-bisphosphatase class 1
+FHFNEIGL_00834	gene	fbp		
+FHFNEIGL_00835	CDS			hypothetical protein
+FHFNEIGL_00835	gene			
+FHFNEIGL_00836	CDS			hypothetical protein
+FHFNEIGL_00836	gene			
+FHFNEIGL_00837	CDS			hypothetical protein
+FHFNEIGL_00837	gene			
+FHFNEIGL_00838	CDS	tyrA_1	1.3.1.12	Prephenate dehydrogenase
+FHFNEIGL_00838	gene	tyrA_1		
+FHFNEIGL_00839	CDS	lon	3.4.21.53	Lon protease
+FHFNEIGL_00839	gene	lon		
+FHFNEIGL_00840	CDS	bamD		Outer membrane protein assembly factor BamD
+FHFNEIGL_00840	gene	bamD		
+FHFNEIGL_00841	CDS	fliW2		Flagellar assembly factor FliW 2
+FHFNEIGL_00841	gene	fliW2		
+FHFNEIGL_00842	CDS	fabZ	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+FHFNEIGL_00842	gene	fabZ		
+FHFNEIGL_00843	CDS	lpxA	2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+FHFNEIGL_00843	gene	lpxA		
+FHFNEIGL_00844	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+FHFNEIGL_00844	gene	clpX		
+FHFNEIGL_00845	CDS	mreB		Rod shape-determining protein MreB
+FHFNEIGL_00845	gene	mreB		
+FHFNEIGL_00846	CDS			hypothetical protein
+FHFNEIGL_00846	gene			
+FHFNEIGL_00847	CDS			hypothetical protein
+FHFNEIGL_00847	gene			
+FHFNEIGL_00848	CDS	dpnA_3	2.1.1.72	Modification methylase DpnIIB
+FHFNEIGL_00848	gene	dpnA_3		
+FHFNEIGL_00849	CDS			hypothetical protein
+FHFNEIGL_00849	gene			
+FHFNEIGL_00850	CDS	rsrIM	2.1.1.72	Modification methylase RsrI
+FHFNEIGL_00850	gene	rsrIM		
+FHFNEIGL_00851	CDS	mboIIM	2.1.1.72	Modification methylase MboII
+FHFNEIGL_00851	gene	mboIIM		
+FHFNEIGL_00852	CDS	mboIIR	3.1.21.4	Type-2 restriction enzyme MboII
+FHFNEIGL_00852	gene	mboIIR		
+FHFNEIGL_00853	CDS	qseB		Transcriptional regulatory protein QseB
+FHFNEIGL_00853	gene	qseB		
+FHFNEIGL_00854	CDS	senX3	2.7.13.3	Signal-transduction histidine kinase senX3
+FHFNEIGL_00854	gene	senX3		
+FHFNEIGL_00855	CDS	nnr		Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+FHFNEIGL_00855	gene	nnr		
+FHFNEIGL_00856	CDS	dnaB	3.6.4.12	Replicative DNA helicase
+FHFNEIGL_00856	gene	dnaB		
+FHFNEIGL_00857	CDS			hypothetical protein
+FHFNEIGL_00857	gene			
+FHFNEIGL_00858	CDS	plqA	2.5.1.-	4-hydroxybenzoate solanesyltransferase
+FHFNEIGL_00858	gene	plqA		
+FHFNEIGL_00859	CDS			hypothetical protein
+FHFNEIGL_00859	gene			
+FHFNEIGL_00860	CDS			hypothetical protein
+FHFNEIGL_00860	gene			
+FHFNEIGL_00861	CDS	psd	4.1.1.65	Phosphatidylserine decarboxylase proenzyme
+FHFNEIGL_00861	gene	psd		
+FHFNEIGL_00862	CDS	nadA	2.5.1.72	Quinolinate synthase A
+FHFNEIGL_00862	gene	nadA		
+FHFNEIGL_00863	CDS	nadC	2.4.2.19	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+FHFNEIGL_00863	gene	nadC		
+FHFNEIGL_00864	CDS			hypothetical protein
+FHFNEIGL_00864	gene			
+FHFNEIGL_00865	CDS			hypothetical protein
+FHFNEIGL_00865	gene			
+FHFNEIGL_00866	CDS	dpnA_4	2.1.1.72	Modification methylase DpnIIB
+FHFNEIGL_00866	gene	dpnA_4		
+FHFNEIGL_00867	CDS			hypothetical protein
+FHFNEIGL_00867	gene			
+FHFNEIGL_00868	CDS	ctpB	3.4.21.102	Carboxy-terminal processing protease CtpB
+FHFNEIGL_00868	gene	ctpB		
+FHFNEIGL_00869	CDS			hypothetical protein
+FHFNEIGL_00869	gene			
+FHFNEIGL_00870	CDS			hypothetical protein
+FHFNEIGL_00870	gene			
+FHFNEIGL_00871	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+FHFNEIGL_00871	gene	ung		
+FHFNEIGL_00872	CDS	gapB	1.2.1.59	Glyceraldehyde-3-phosphate dehydrogenase 2
+FHFNEIGL_00872	gene	gapB		
+FHFNEIGL_00873	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+FHFNEIGL_00873	gene	pgk		
+FHFNEIGL_00874	CDS	corA		Magnesium transport protein CorA
+FHFNEIGL_00874	gene	corA		
+FHFNEIGL_00875	CDS			hypothetical protein
+FHFNEIGL_00875	gene			
+FHFNEIGL_00876	CDS		5.3.2.-	putative tautomerase
+FHFNEIGL_00876	gene			
+FHFNEIGL_00877	CDS	recR		Recombination protein RecR
+FHFNEIGL_00877	gene	recR		
+FHFNEIGL_00878	CDS	truD	5.4.99.27	tRNA pseudouridine synthase D
+FHFNEIGL_00878	gene	truD		
+FHFNEIGL_00879	CDS	htpX_1	3.4.24.-	Protease HtpX 
+FHFNEIGL_00879	gene	htpX_1		
+FHFNEIGL_00880	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+FHFNEIGL_00880	gene	folE		
+FHFNEIGL_00881	CDS		2.5.1.10	Farnesyl diphosphate synthase
+FHFNEIGL_00881	gene			
+FHFNEIGL_00882	CDS	surE	3.1.3.5	5'-nucleotidase SurE
+FHFNEIGL_00882	gene	surE		
+FHFNEIGL_00883	CDS			hypothetical protein
+FHFNEIGL_00883	gene			
+FHFNEIGL_00884	CDS			hypothetical protein
+FHFNEIGL_00884	gene			
+FHFNEIGL_00885	CDS	queE_2	4.3.99.3	7-carboxy-7-deazaguanine synthase
+FHFNEIGL_00885	gene	queE_2		
+FHFNEIGL_00886	CDS			hypothetical protein
+FHFNEIGL_00886	gene			
+FHFNEIGL_00887	CDS	proP		Proline/betaine transporter
+FHFNEIGL_00887	gene	proP		
+FHFNEIGL_00888	CDS			hypothetical protein
+FHFNEIGL_00888	gene			
+FHFNEIGL_00889	CDS			hypothetical protein
+FHFNEIGL_00889	gene			
+FHFNEIGL_00890	CDS			hypothetical protein
+FHFNEIGL_00890	gene			
+FHFNEIGL_00891	CDS	tcyB		L-cystine transport system permease protein TcyB
+FHFNEIGL_00891	gene	tcyB		
+FHFNEIGL_00892	CDS			putative amino-acid ABC transporter-binding protein
+FHFNEIGL_00892	gene			
+FHFNEIGL_00893	CDS	alr1	5.1.1.1	Alanine racemase 1
+FHFNEIGL_00893	gene	alr1		
+FHFNEIGL_00894	CDS	alsT		Amino-acid carrier protein AlsT
+FHFNEIGL_00894	gene	alsT		
+FHFNEIGL_00895	CDS	dadA	1.4.5.1	D-amino acid dehydrogenase
+FHFNEIGL_00895	gene	dadA		
+FHFNEIGL_00896	CDS			RutC family protein
+FHFNEIGL_00896	gene			
+FHFNEIGL_00897	tRNA			tRNA-Gly(gcc)
+FHFNEIGL_00897	gene			
+FHFNEIGL_00898	CDS			hypothetical protein
+FHFNEIGL_00898	gene			
+FHFNEIGL_00899	tRNA			tRNA-Leu(taa)
+FHFNEIGL_00899	gene			
+FHFNEIGL_00900	tRNA			tRNA-Cys(gca)
+FHFNEIGL_00900	gene			
+FHFNEIGL_00901	tRNA			tRNA-Ser(tga)
+FHFNEIGL_00901	gene			
+FHFNEIGL_00902	CDS	mleN		Malate-2H(+)/Na(+)-lactate antiporter
+FHFNEIGL_00902	gene	mleN		
+FHFNEIGL_00903	CDS			hypothetical protein
+FHFNEIGL_00903	gene			
+FHFNEIGL_00904	CDS			hypothetical protein
+FHFNEIGL_00904	gene			
+FHFNEIGL_00905	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+FHFNEIGL_00905	gene	rlmH		
+FHFNEIGL_00906	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+FHFNEIGL_00906	gene	accD		
+FHFNEIGL_00907	CDS			hypothetical protein
+FHFNEIGL_00907	gene			
+FHFNEIGL_00908	CDS	pncC	3.5.1.42	Nicotinamide-nucleotide amidohydrolase PncC
+FHFNEIGL_00908	gene	pncC		
+FHFNEIGL_00909	CDS			hypothetical protein
+FHFNEIGL_00909	gene			
+FHFNEIGL_00910	CDS	rdxA	1.-.-.-	Oxygen-insensitive NADPH nitroreductase
+FHFNEIGL_00910	gene	rdxA		
+FHFNEIGL_00911	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+FHFNEIGL_00911	gene	lgt		
+FHFNEIGL_00912	CDS		5.4.99.-	putative RNA pseudouridine synthase
+FHFNEIGL_00912	gene			
+FHFNEIGL_00913	CDS	waaA	2.4.99.12	3-deoxy-D-manno-octulosonic acid transferase
+FHFNEIGL_00913	gene	waaA		
+FHFNEIGL_00914	CDS			hypothetical protein
+FHFNEIGL_00914	gene			
+FHFNEIGL_00915	CDS		3.5.4.16	GTP cyclohydrolase 1 type 2
+FHFNEIGL_00915	gene			
+FHFNEIGL_00916	CDS	glyQ	6.1.1.14	Glycine--tRNA ligase alpha subunit
+FHFNEIGL_00916	gene	glyQ		
+FHFNEIGL_00917	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+FHFNEIGL_00917	gene	gpsA		
+FHFNEIGL_00918	CDS	acpP_2		Acyl carrier protein
+FHFNEIGL_00918	gene	acpP_2		
+FHFNEIGL_00919	CDS	era_1		GTPase Era
+FHFNEIGL_00919	gene	era_1		
+FHFNEIGL_00920	CDS			hypothetical protein
+FHFNEIGL_00920	gene			
+FHFNEIGL_00921	CDS	der_2		GTPase Der
+FHFNEIGL_00921	gene	der_2		
+FHFNEIGL_00922	CDS			hypothetical protein
+FHFNEIGL_00922	gene			
+FHFNEIGL_00923	CDS	vapD_1	3.1.-.-	Endoribonuclease VapD
+FHFNEIGL_00923	gene	vapD_1		
+FHFNEIGL_00924	CDS			hypothetical protein
+FHFNEIGL_00924	gene			
+FHFNEIGL_00925	CDS	czcA		Cobalt-zinc-cadmium resistance protein CzcA
+FHFNEIGL_00925	gene	czcA		
+FHFNEIGL_00926	CDS			hypothetical protein
+FHFNEIGL_00926	gene			
+FHFNEIGL_00927	CDS			hypothetical protein
+FHFNEIGL_00927	gene			
+FHFNEIGL_00928	CDS	glyS	6.1.1.14	Glycine--tRNA ligase beta subunit
+FHFNEIGL_00928	gene	glyS		
+FHFNEIGL_00929	CDS			hypothetical protein
+FHFNEIGL_00929	gene			
+FHFNEIGL_00930	CDS	gpmI	5.4.2.12	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+FHFNEIGL_00930	gene	gpmI		
+FHFNEIGL_00931	CDS	gatC	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+FHFNEIGL_00931	gene	gatC		
+FHFNEIGL_00932	CDS	bioA	2.6.1.62	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+FHFNEIGL_00932	gene	bioA		
+FHFNEIGL_00933	CDS	ppiD	5.2.1.8	Peptidyl-prolyl cis-trans isomerase D
+FHFNEIGL_00933	gene	ppiD		
+FHFNEIGL_00934	CDS	ftsA		Cell division protein FtsA
+FHFNEIGL_00934	gene	ftsA		
+FHFNEIGL_00935	CDS	ftsZ		Cell division protein FtsZ
+FHFNEIGL_00935	gene	ftsZ		
+FHFNEIGL_00936	CDS	rseP	3.4.24.-	Regulator of sigma-E protease RseP
+FHFNEIGL_00936	gene	rseP		
+FHFNEIGL_00937	CDS	xseA_1	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+FHFNEIGL_00937	gene	xseA_1		
+FHFNEIGL_00938	CDS			hypothetical protein
+FHFNEIGL_00938	gene			
+FHFNEIGL_00939	CDS			hypothetical protein
+FHFNEIGL_00939	gene			
+FHFNEIGL_00940	CDS			hypothetical protein
+FHFNEIGL_00940	gene			
+FHFNEIGL_00941	CDS			hypothetical protein
+FHFNEIGL_00941	gene			
+FHFNEIGL_00942	CDS	mscS		Small-conductance mechanosensitive channel
+FHFNEIGL_00942	gene	mscS		
+FHFNEIGL_00943	CDS			hypothetical protein
+FHFNEIGL_00943	gene			
+FHFNEIGL_00944	CDS			hypothetical protein
+FHFNEIGL_00944	gene			
+FHFNEIGL_00945	CDS			hypothetical protein
+FHFNEIGL_00945	gene			
+FHFNEIGL_00946	CDS			hypothetical protein
+FHFNEIGL_00946	gene			
+FHFNEIGL_00947	CDS	petB		Cytochrome b
+FHFNEIGL_00947	gene	petB		
+FHFNEIGL_00948	CDS	petA	1.10.2.2	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+FHFNEIGL_00948	gene	petA		
+FHFNEIGL_00949	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+FHFNEIGL_00949	gene	mfd		
+FHFNEIGL_00950	CDS			hypothetical protein
+FHFNEIGL_00950	gene			
+FHFNEIGL_00951	CDS	mepM_1	3.4.24.-	Murein DD-endopeptidase MepM
+FHFNEIGL_00951	gene	mepM_1		
+FHFNEIGL_00952	CDS			hypothetical protein
+FHFNEIGL_00952	gene			
+FHFNEIGL_00953	CDS	mepM_2	3.4.24.-	Murein DD-endopeptidase MepM
+FHFNEIGL_00953	gene	mepM_2		
+FHFNEIGL_00954	CDS	folC	6.3.2.12	Dihydrofolate synthase/folylpolyglutamate synthase
+FHFNEIGL_00954	gene	folC		
+FHFNEIGL_00955	CDS			hypothetical protein
+FHFNEIGL_00955	gene			
+FHFNEIGL_00956	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+FHFNEIGL_00956	gene	leuS		
+FHFNEIGL_00957	CDS			hypothetical protein
+FHFNEIGL_00957	gene			
+FHFNEIGL_00958	CDS			hypothetical protein
+FHFNEIGL_00958	gene			
+FHFNEIGL_00959	CDS			hypothetical protein
+FHFNEIGL_00959	gene			
+FHFNEIGL_00960	CDS			hypothetical protein
+FHFNEIGL_00960	gene			
+FHFNEIGL_00961	CDS	nhaA		Na(+)/H(+) antiporter NhaA
+FHFNEIGL_00961	gene	nhaA		
+FHFNEIGL_00962	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+FHFNEIGL_00962	gene	addA		
+FHFNEIGL_00963	CDS	rpsB		30S ribosomal protein S2
+FHFNEIGL_00963	gene	rpsB		
+FHFNEIGL_00964	CDS	tsf		Elongation factor Ts
+FHFNEIGL_00964	gene	tsf		
+FHFNEIGL_00965	CDS	ftsI	3.4.16.4	Peptidoglycan D,D-transpeptidase FtsI
+FHFNEIGL_00965	gene	ftsI		
+FHFNEIGL_00966	CDS	fliE		Flagellar hook-basal body complex protein FliE
+FHFNEIGL_00966	gene	fliE		
+FHFNEIGL_00967	CDS	flgC		Flagellar basal-body rod protein FlgC
+FHFNEIGL_00967	gene	flgC		
+FHFNEIGL_00968	CDS	flgB		Flagellar basal body rod protein FlgB
+FHFNEIGL_00968	gene	flgB		
+FHFNEIGL_00969	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+FHFNEIGL_00969	gene	ftsW		
+FHFNEIGL_00970	CDS	btuF_1		Vitamin B12-binding protein
+FHFNEIGL_00970	gene	btuF_1		
+FHFNEIGL_00971	CDS	btuF_2		Vitamin B12-binding protein
+FHFNEIGL_00971	gene	btuF_2		
+FHFNEIGL_00972	CDS	tsaA	1.11.1.15	putative peroxiredoxin
+FHFNEIGL_00972	gene	tsaA		
+FHFNEIGL_00973	CDS	metQ		D-methionine-binding lipoprotein MetQ
+FHFNEIGL_00973	gene	metQ		
+FHFNEIGL_00974	CDS	mrdA	3.4.16.4	Peptidoglycan D,D-transpeptidase MrdA
+FHFNEIGL_00974	gene	mrdA		
+FHFNEIGL_00975	CDS			hypothetical protein
+FHFNEIGL_00975	gene			
+FHFNEIGL_00976	CDS	engB		putative GTP-binding protein EngB
+FHFNEIGL_00976	gene	engB		
+FHFNEIGL_00977	CDS	lptA		Lipopolysaccharide export system protein LptA
+FHFNEIGL_00977	gene	lptA		
+FHFNEIGL_00978	CDS			hypothetical protein
+FHFNEIGL_00978	gene			
+FHFNEIGL_00979	CDS	kdsC	3.1.3.45	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+FHFNEIGL_00979	gene	kdsC		
+FHFNEIGL_00980	CDS	rlpA	4.2.2.-	Endolytic peptidoglycan transglycosylase RlpA
+FHFNEIGL_00980	gene	rlpA		
+FHFNEIGL_00981	CDS	mltD	4.2.2.-	Membrane-bound lytic murein transglycosylase D
+FHFNEIGL_00981	gene	mltD		
+FHFNEIGL_00982	CDS			hypothetical protein
+FHFNEIGL_00982	gene			
+FHFNEIGL_00983	CDS	ycfH	3.1.-.-	putative metal-dependent hydrolase YcfH
+FHFNEIGL_00983	gene	ycfH		
+FHFNEIGL_00984	CDS	ribE	2.5.1.9	Riboflavin synthase
+FHFNEIGL_00984	gene	ribE		
+FHFNEIGL_00985	CDS	flhB_2		Flagellar biosynthetic protein FlhB
+FHFNEIGL_00985	gene	flhB_2		
+FHFNEIGL_00986	CDS	metN	3.6.3.-	Methionine import ATP-binding protein MetN
+FHFNEIGL_00986	gene	metN		
+FHFNEIGL_00987	CDS	metI		D-methionine transport system permease protein MetI
+FHFNEIGL_00987	gene	metI		
+FHFNEIGL_00988	CDS			hypothetical protein
+FHFNEIGL_00988	gene			
+FHFNEIGL_00989	CDS			hypothetical protein
+FHFNEIGL_00989	gene			
+FHFNEIGL_00990	CDS	lpxE_2	3.1.-.-	Lipid A 1-phosphatase
+FHFNEIGL_00990	gene	lpxE_2		
+FHFNEIGL_00991	CDS	tagO	2.7.8.33	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+FHFNEIGL_00991	gene	tagO		
+FHFNEIGL_00992	CDS	pdxJ	2.6.99.2	Pyridoxine 5'-phosphate synthase
+FHFNEIGL_00992	gene	pdxJ		
+FHFNEIGL_00993	CDS	pdxA	1.1.1.262	4-hydroxythreonine-4-phosphate dehydrogenase
+FHFNEIGL_00993	gene	pdxA		
+FHFNEIGL_00994	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+FHFNEIGL_00994	gene	tsaD		
+FHFNEIGL_00995	CDS	flgG_2		Flagellar basal-body rod protein FlgG
+FHFNEIGL_00995	gene	flgG_2		
+FHFNEIGL_00996	CDS			hypothetical protein
+FHFNEIGL_00996	gene			
+FHFNEIGL_00997	CDS			hypothetical protein
+FHFNEIGL_00997	gene			
+FHFNEIGL_00998	CDS			hypothetical protein
+FHFNEIGL_00998	gene			
+FHFNEIGL_00999	CDS			hypothetical protein
+FHFNEIGL_00999	gene			
+FHFNEIGL_01000	CDS			hypothetical protein
+FHFNEIGL_01000	gene			
+FHFNEIGL_01001	CDS	nusB		N utilization substance protein B 
+FHFNEIGL_01001	gene	nusB		
+FHFNEIGL_01002	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+FHFNEIGL_01002	gene	ribH		
+FHFNEIGL_01003	CDS	kdsA	2.5.1.55	2-dehydro-3-deoxyphosphooctonate aldolase
+FHFNEIGL_01003	gene	kdsA		
+FHFNEIGL_01004	CDS	cynT	4.2.1.1	Carbonic anhydrase 1
+FHFNEIGL_01004	gene	cynT		
+FHFNEIGL_01005	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+FHFNEIGL_01005	gene	pyrF		
+FHFNEIGL_01006	CDS	panC	6.3.2.1	Pantothenate synthetase
+FHFNEIGL_01006	gene	panC		
+FHFNEIGL_01007	tRNA			tRNA-Glu(ttc)
+FHFNEIGL_01007	gene			
+FHFNEIGL_01008	tRNA			tRNA-Asp(gtc)
+FHFNEIGL_01008	gene			
+FHFNEIGL_01009	tRNA			tRNA-Val(tac)
+FHFNEIGL_01009	gene			
+FHFNEIGL_01010	tRNA			tRNA-Glu(ttc)
+FHFNEIGL_01010	gene			
+FHFNEIGL_01011	tRNA			tRNA-Lys(ttt)
+FHFNEIGL_01011	gene			
+FHFNEIGL_01012	CDS			hypothetical protein
+FHFNEIGL_01012	gene			
+FHFNEIGL_01013	CDS			hypothetical protein
+FHFNEIGL_01013	gene			
+FHFNEIGL_01014	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+FHFNEIGL_01014	gene	argS		
+FHFNEIGL_01015	CDS	tatA		Sec-independent protein translocase protein TatA
+FHFNEIGL_01015	gene	tatA		
+FHFNEIGL_01016	CDS	gmk	2.7.4.8	Guanylate kinase
+FHFNEIGL_01016	gene	gmk		
+FHFNEIGL_01017	CDS			hypothetical protein
+FHFNEIGL_01017	gene			
+FHFNEIGL_01018	CDS	ywiE	2.7.8.-	putative cardiolipin synthase YwiE
+FHFNEIGL_01018	gene	ywiE		
+FHFNEIGL_01019	CDS			hypothetical protein
+FHFNEIGL_01019	gene			
+FHFNEIGL_01020	CDS	flgH		Flagellar L-ring protein
+FHFNEIGL_01020	gene	flgH		
+FHFNEIGL_01021	CDS	neuA	2.7.7.43	N-acylneuraminate cytidylyltransferase
+FHFNEIGL_01021	gene	neuA		
+FHFNEIGL_01022	CDS			hypothetical protein
+FHFNEIGL_01022	gene			
+FHFNEIGL_01023	CDS	pseH	2.3.1.202	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine N-acetyltransferase
+FHFNEIGL_01023	gene	pseH		
+FHFNEIGL_01024	CDS	lpxK	2.7.1.130	Tetraacyldisaccharide 4'-kinase
+FHFNEIGL_01024	gene	lpxK		
+FHFNEIGL_01025	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+FHFNEIGL_01025	gene	nadE		
+FHFNEIGL_01026	tRNA			tRNA-Arg(gcg)
+FHFNEIGL_01026	gene			
+FHFNEIGL_01027	CDS	ilvC	1.1.1.86	Ketol-acid reductoisomerase (NADP(+))
+FHFNEIGL_01027	gene	ilvC		
+FHFNEIGL_01028	CDS	minD		Septum site-determining protein MinD
+FHFNEIGL_01028	gene	minD		
+FHFNEIGL_01029	CDS	minE		Cell division topological specificity factor
+FHFNEIGL_01029	gene	minE		
+FHFNEIGL_01030	CDS	dprA		DNA processing protein DprA
+FHFNEIGL_01030	gene	dprA		
+FHFNEIGL_01031	CDS	yqgF	3.1.-.-	Putative pre-16S rRNA nuclease
+FHFNEIGL_01031	gene	yqgF		
+FHFNEIGL_01032	CDS			hypothetical protein
+FHFNEIGL_01032	gene			
+FHFNEIGL_01033	CDS	hcpB_1	3.5.2.6	Beta-lactamase HcpB
+FHFNEIGL_01033	gene	hcpB_1		
+FHFNEIGL_01034	CDS			hypothetical protein
+FHFNEIGL_01034	gene			
+FHFNEIGL_01035	CDS			hypothetical protein
+FHFNEIGL_01035	gene			
+FHFNEIGL_01036	CDS			hypothetical protein
+FHFNEIGL_01036	gene			
+FHFNEIGL_01037	CDS			hypothetical protein
+FHFNEIGL_01037	gene			
+FHFNEIGL_01038	CDS			hypothetical protein
+FHFNEIGL_01038	gene			
+FHFNEIGL_01039	CDS			hypothetical protein
+FHFNEIGL_01039	gene			
+FHFNEIGL_01040	CDS			hypothetical protein
+FHFNEIGL_01040	gene			
+FHFNEIGL_01041	CDS	divIB		Cell division protein DivIB
+FHFNEIGL_01041	gene	divIB		
+FHFNEIGL_01042	CDS			hypothetical protein
+FHFNEIGL_01042	gene			
+FHFNEIGL_01043	CDS		5.4.99.-	putative RNA pseudouridine synthase
+FHFNEIGL_01043	gene			
+FHFNEIGL_01044	CDS		5.4.99.-	putative RNA pseudouridine synthase
+FHFNEIGL_01044	gene			
+FHFNEIGL_01045	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+FHFNEIGL_01045	gene	recJ		
+FHFNEIGL_01046	CDS	pyrG	6.3.4.2	CTP synthase
+FHFNEIGL_01046	gene	pyrG		
+FHFNEIGL_01047	CDS			hypothetical protein
+FHFNEIGL_01047	gene			
+FHFNEIGL_01048	CDS	fliF		Flagellar M-ring protein
+FHFNEIGL_01048	gene	fliF		
+FHFNEIGL_01049	CDS	fliG		Flagellar motor switch protein FliG
+FHFNEIGL_01049	gene	fliG		
+FHFNEIGL_01050	CDS			hypothetical protein
+FHFNEIGL_01050	gene			
+FHFNEIGL_01051	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+FHFNEIGL_01051	gene	dxs		
+FHFNEIGL_01052	CDS	lepA	3.6.5.-	Elongation factor 4
+FHFNEIGL_01052	gene	lepA		
+FHFNEIGL_01053	CDS			hypothetical protein
+FHFNEIGL_01053	gene			
+FHFNEIGL_01054	CDS	ydfG	1.1.1.381	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+FHFNEIGL_01054	gene	ydfG		
+FHFNEIGL_01055	CDS			hypothetical protein
+FHFNEIGL_01055	gene			
+FHFNEIGL_01056	tRNA			tRNA-Ala(tgc)
+FHFNEIGL_01056	gene			
+FHFNEIGL_01057	tRNA			tRNA-Ile(gat)
+FHFNEIGL_01057	gene			
+FHFNEIGL_01058	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+FHFNEIGL_01058	gene	galE		
+FHFNEIGL_01059	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+FHFNEIGL_01059	gene	truA		
+FHFNEIGL_01060	CDS			hypothetical protein
+FHFNEIGL_01060	gene			
+FHFNEIGL_01061	CDS	pcm	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+FHFNEIGL_01061	gene	pcm		
+FHFNEIGL_01062	CDS	nrdB	1.17.4.1	Ribonucleoside-diphosphate reductase subunit beta
+FHFNEIGL_01062	gene	nrdB		
+FHFNEIGL_01063	tRNA			tRNA-Leu(tag)
+FHFNEIGL_01063	gene			
+FHFNEIGL_01064	CDS	pseC	2.6.1.92	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase
+FHFNEIGL_01064	gene	pseC		
+FHFNEIGL_01065	CDS			hypothetical protein
+FHFNEIGL_01065	gene			
+FHFNEIGL_01066	CDS			hypothetical protein
+FHFNEIGL_01066	gene			
+FHFNEIGL_01067	CDS			hypothetical protein
+FHFNEIGL_01067	gene			
+FHFNEIGL_01068	CDS			hypothetical protein
+FHFNEIGL_01068	gene			
+FHFNEIGL_01069	CDS	accC	6.3.4.14	Biotin carboxylase
+FHFNEIGL_01069	gene	accC		
+FHFNEIGL_01070	CDS	accB		Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+FHFNEIGL_01070	gene	accB		
+FHFNEIGL_01071	CDS	dcd	3.5.4.13	dCTP deaminase
+FHFNEIGL_01071	gene	dcd		
+FHFNEIGL_01072	CDS			hypothetical protein
+FHFNEIGL_01072	gene			
+FHFNEIGL_01073	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+FHFNEIGL_01073	gene	rsmE		
+FHFNEIGL_01074	CDS			hypothetical protein
+FHFNEIGL_01074	gene			
+FHFNEIGL_01075	CDS	hemH	4.99.1.1	Ferrochelatase
+FHFNEIGL_01075	gene	hemH		
+FHFNEIGL_01076	CDS			hypothetical protein
+FHFNEIGL_01076	gene			
+FHFNEIGL_01077	CDS			hypothetical protein
+FHFNEIGL_01077	gene			
+FHFNEIGL_01078	CDS			hypothetical protein
+FHFNEIGL_01078	gene			
+FHFNEIGL_01079	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+FHFNEIGL_01079	gene	hemL		
+FHFNEIGL_01080	CDS			hypothetical protein
+FHFNEIGL_01080	gene			
+FHFNEIGL_01081	CDS			hypothetical protein
+FHFNEIGL_01081	gene			
+FHFNEIGL_01082	CDS	obg	3.6.5.-	GTPase Obg
+FHFNEIGL_01082	gene	obg		
+FHFNEIGL_01083	CDS	oppF		Oligopeptide transport ATP-binding protein OppF
+FHFNEIGL_01083	gene	oppF		
+FHFNEIGL_01084	CDS	oppD		Oligopeptide transport ATP-binding protein OppD
+FHFNEIGL_01084	gene	oppD		
+FHFNEIGL_01085	CDS	dppC		Dipeptide transport system permease protein DppC
+FHFNEIGL_01085	gene	dppC		
+FHFNEIGL_01086	CDS	dppB		Dipeptide transport system permease protein DppB
+FHFNEIGL_01086	gene	dppB		
+FHFNEIGL_01087	CDS	hbpA		Heme-binding protein A
+FHFNEIGL_01087	gene	hbpA		
+FHFNEIGL_01088	CDS	rpmA		50S ribosomal protein L27
+FHFNEIGL_01088	gene	rpmA		
+FHFNEIGL_01089	CDS	rplU		50S ribosomal protein L21
+FHFNEIGL_01089	gene	rplU		
+FHFNEIGL_01090	CDS	flgL		Flagellar hook-associated protein 3
+FHFNEIGL_01090	gene	flgL		
+FHFNEIGL_01091	CDS	amiE	3.5.1.4	Aliphatic amidase
+FHFNEIGL_01091	gene	amiE		
+FHFNEIGL_01092	CDS	pabB	2.6.1.85	Aminodeoxychorismate synthase component 1
+FHFNEIGL_01092	gene	pabB		
+FHFNEIGL_01093	CDS			hypothetical protein
+FHFNEIGL_01093	gene			
+FHFNEIGL_01094	CDS	tyrA_2		T-protein
+FHFNEIGL_01094	gene	tyrA_2		
+FHFNEIGL_01095	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+FHFNEIGL_01095	gene	lysA		
+FHFNEIGL_01096	CDS	vacA_3		Vacuolating cytotoxin autotransporter
+FHFNEIGL_01096	gene	vacA_3		
+FHFNEIGL_01097	CDS			hypothetical protein
+FHFNEIGL_01097	gene			
+FHFNEIGL_01098	CDS			hypothetical protein
+FHFNEIGL_01098	gene			
+FHFNEIGL_01099	CDS	ftsH_2	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+FHFNEIGL_01099	gene	ftsH_2		
+FHFNEIGL_01100	CDS	mtaB	2.8.4.5	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+FHFNEIGL_01100	gene	mtaB		
+FHFNEIGL_01101	CDS			hypothetical protein
+FHFNEIGL_01101	gene			
+FHFNEIGL_01102	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+FHFNEIGL_01102	gene	aroB		
+FHFNEIGL_01103	CDS			hypothetical protein
+FHFNEIGL_01103	gene			
+FHFNEIGL_01104	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+FHFNEIGL_01104	gene	tgt		
+FHFNEIGL_01105	CDS	lpxP	2.3.1.242	Lipid A biosynthesis palmitoleoyltransferase
+FHFNEIGL_01105	gene	lpxP		
+FHFNEIGL_01106	CDS	rfaC	2.-.-.-	Lipopolysaccharide heptosyltransferase 1
+FHFNEIGL_01106	gene	rfaC		
+FHFNEIGL_01107	CDS	gppA	3.6.1.40	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+FHFNEIGL_01107	gene	gppA		
+FHFNEIGL_01108	CDS	fdx		Ferredoxin
+FHFNEIGL_01108	gene	fdx		
+FHFNEIGL_01109	CDS			hypothetical protein
+FHFNEIGL_01109	gene			
+FHFNEIGL_01110	CDS			hypothetical protein
+FHFNEIGL_01110	gene			
+FHFNEIGL_01111	CDS			hypothetical protein
+FHFNEIGL_01111	gene			
+FHFNEIGL_01112	CDS			hypothetical protein
+FHFNEIGL_01112	gene			
+FHFNEIGL_01113	CDS			hypothetical protein
+FHFNEIGL_01113	gene			
+FHFNEIGL_01114	CDS			hypothetical protein
+FHFNEIGL_01114	gene			
+FHFNEIGL_01115	CDS			hypothetical protein
+FHFNEIGL_01115	gene			
+FHFNEIGL_01116	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+FHFNEIGL_01116	gene	miaB		
+FHFNEIGL_01117	CDS			hypothetical protein
+FHFNEIGL_01117	gene			
+FHFNEIGL_01118	CDS		3.5.4.4	Adenosine deaminase
+FHFNEIGL_01118	gene			
+FHFNEIGL_01119	CDS	pyrC_2	3.5.2.3	Dihydroorotase
+FHFNEIGL_01119	gene	pyrC_2		
+FHFNEIGL_01120	CDS	dsbD	1.8.1.8	Thiol:disulfide interchange protein DsbD
+FHFNEIGL_01120	gene	dsbD		
+FHFNEIGL_01121	CDS	clpB1		Chaperone protein ClpB 1
+FHFNEIGL_01121	gene	clpB1		
+FHFNEIGL_01122	CDS			hypothetical protein
+FHFNEIGL_01122	gene			
+FHFNEIGL_01123	CDS	rpsR		30S ribosomal protein S18
+FHFNEIGL_01123	gene	rpsR		
+FHFNEIGL_01124	CDS	ssb		Single-stranded DNA-binding protein
+FHFNEIGL_01124	gene	ssb		
+FHFNEIGL_01125	CDS	rpsF		30S ribosomal protein S6
+FHFNEIGL_01125	gene	rpsF		
+FHFNEIGL_01126	CDS			hypothetical protein
+FHFNEIGL_01126	gene			
+FHFNEIGL_01127	CDS	rnr	3.1.13.1	Ribonuclease R
+FHFNEIGL_01127	gene	rnr		
+FHFNEIGL_01128	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+FHFNEIGL_01128	gene	aroE		
+FHFNEIGL_01129	CDS			hypothetical protein
+FHFNEIGL_01129	gene			
+FHFNEIGL_01130	CDS	yejB		Inner membrane ABC transporter permease protein YejB
+FHFNEIGL_01130	gene	yejB		
+FHFNEIGL_01131	CDS	dppE		Dipeptide-binding protein DppE
+FHFNEIGL_01131	gene	dppE		
+FHFNEIGL_01132	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+FHFNEIGL_01132	gene	trpS		
+FHFNEIGL_01133	CDS	tam	2.1.1.144	Trans-aconitate 2-methyltransferase
+FHFNEIGL_01133	gene	tam		
+FHFNEIGL_01134	CDS	secG		putative protein-export membrane protein SecG
+FHFNEIGL_01134	gene	secG		
+FHFNEIGL_01135	CDS	frr		Ribosome-recycling factor
+FHFNEIGL_01135	gene	frr		
+FHFNEIGL_01136	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+FHFNEIGL_01136	gene	pyrE		
+FHFNEIGL_01137	CDS			hypothetical protein
+FHFNEIGL_01137	gene			
+FHFNEIGL_01138	CDS	cobB_1	3.5.1.-	NAD-dependent protein deacylase
+FHFNEIGL_01138	gene	cobB_1		
+FHFNEIGL_01139	CDS	cobB_2	3.5.1.-	NAD-dependent protein deacylase
+FHFNEIGL_01139	gene	cobB_2		
+FHFNEIGL_01140	CDS	nuoA	1.6.5.11	NADH-quinone oxidoreductase subunit A
+FHFNEIGL_01140	gene	nuoA		
+FHFNEIGL_01141	CDS	nqo6	1.6.5.11	NADH-quinone oxidoreductase subunit 6
+FHFNEIGL_01141	gene	nqo6		
+FHFNEIGL_01142	CDS	ndhJ	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit J
+FHFNEIGL_01142	gene	ndhJ		
+FHFNEIGL_01143	CDS	nuoD	1.6.5.11	NADH-quinone oxidoreductase subunit D
+FHFNEIGL_01143	gene	nuoD		
+FHFNEIGL_01144	CDS			hypothetical protein
+FHFNEIGL_01144	gene			
+FHFNEIGL_01145	CDS			hypothetical protein
+FHFNEIGL_01145	gene			
+FHFNEIGL_01146	CDS	sfrA	1.-.-.-	NADPH-Fe(3+) oxidoreductase subunit alpha
+FHFNEIGL_01146	gene	sfrA		
+FHFNEIGL_01147	CDS	nqo8	1.6.5.11	NADH-quinone oxidoreductase subunit 8
+FHFNEIGL_01147	gene	nqo8		
+FHFNEIGL_01148	CDS	nuoI	1.6.5.11	NADH-quinone oxidoreductase subunit I
+FHFNEIGL_01148	gene	nuoI		
+FHFNEIGL_01149	CDS	nuoJ	1.6.5.11	NADH-quinone oxidoreductase subunit J
+FHFNEIGL_01149	gene	nuoJ		
+FHFNEIGL_01150	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+FHFNEIGL_01150	gene			
+FHFNEIGL_01151	CDS	nuoL	1.6.5.11	NADH-quinone oxidoreductase subunit L
+FHFNEIGL_01151	gene	nuoL		
+FHFNEIGL_01152	CDS	ndhD1	1.6.5.-	NAD(P)H-quinone oxidoreductase chain 4 1
+FHFNEIGL_01152	gene	ndhD1		
+FHFNEIGL_01153	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+FHFNEIGL_01153	gene	nuoN		
+FHFNEIGL_01154	CDS			hypothetical protein
+FHFNEIGL_01154	gene			
+FHFNEIGL_01155	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+FHFNEIGL_01155	gene	algC		
+FHFNEIGL_01156	CDS			hypothetical protein
+FHFNEIGL_01156	gene			
+FHFNEIGL_01157	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+FHFNEIGL_01157	gene	trpA		
+FHFNEIGL_01158	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+FHFNEIGL_01158	gene	trpB		
+FHFNEIGL_01159	CDS	trpC		Tryptophan biosynthesis protein TrpCF
+FHFNEIGL_01159	gene	trpC		
+FHFNEIGL_01160	CDS	trpGD		Bifunctional protein TrpGD
+FHFNEIGL_01160	gene	trpGD		
+FHFNEIGL_01161	CDS	trpG	4.1.3.27	Anthranilate synthase component 2
+FHFNEIGL_01161	gene	trpG		
+FHFNEIGL_01162	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+FHFNEIGL_01162	gene	trpE		
+FHFNEIGL_01163	CDS			hypothetical protein
+FHFNEIGL_01163	gene			
+FHFNEIGL_01164	CDS			hypothetical protein
+FHFNEIGL_01164	gene			
+FHFNEIGL_01165	CDS	hel		Lipoprotein E
+FHFNEIGL_01165	gene	hel		
+FHFNEIGL_01166	CDS	yceI		Protein YceI
+FHFNEIGL_01166	gene	yceI		
+FHFNEIGL_01167	CDS	tenA	3.5.99.2	Aminopyrimidine aminohydrolase
+FHFNEIGL_01167	gene	tenA		
+FHFNEIGL_01168	CDS			hypothetical protein
+FHFNEIGL_01168	gene			
+FHFNEIGL_01169	CDS			hypothetical protein
+FHFNEIGL_01169	gene			
+FHFNEIGL_01170	CDS	pnuC		Nicotinamide riboside transporter PnuC
+FHFNEIGL_01170	gene	pnuC		
+FHFNEIGL_01171	CDS			hypothetical protein
+FHFNEIGL_01171	gene			
+FHFNEIGL_01172	CDS	rplQ		50S ribosomal protein L17
+FHFNEIGL_01172	gene	rplQ		
+FHFNEIGL_01173	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+FHFNEIGL_01173	gene	rpoA		
+FHFNEIGL_01174	CDS	rpsD		30S ribosomal protein S4
+FHFNEIGL_01174	gene	rpsD		
+FHFNEIGL_01175	CDS	rpsK		30S ribosomal protein S11
+FHFNEIGL_01175	gene	rpsK		
+FHFNEIGL_01176	CDS	rpsM		30S ribosomal protein S13
+FHFNEIGL_01176	gene	rpsM		
+FHFNEIGL_01177	CDS	rpmJ		50S ribosomal protein L36
+FHFNEIGL_01177	gene	rpmJ		
+FHFNEIGL_01178	CDS	infA		Translation initiation factor IF-1
+FHFNEIGL_01178	gene	infA		
+FHFNEIGL_01179	CDS	topA_2	5.99.1.2	DNA topoisomerase 1
+FHFNEIGL_01179	gene	topA_2		
+FHFNEIGL_01180	CDS	ptlC		Type IV secretion system protein PtlC
+FHFNEIGL_01180	gene	ptlC		
+FHFNEIGL_01181	CDS			hypothetical protein
+FHFNEIGL_01181	gene			
+FHFNEIGL_01182	CDS			hypothetical protein
+FHFNEIGL_01182	gene			
+FHFNEIGL_01183	CDS			hypothetical protein
+FHFNEIGL_01183	gene			
+FHFNEIGL_01184	CDS			hypothetical protein
+FHFNEIGL_01184	gene			
+FHFNEIGL_01185	CDS			hypothetical protein
+FHFNEIGL_01185	gene			
+FHFNEIGL_01186	CDS			hypothetical protein
+FHFNEIGL_01186	gene			
+FHFNEIGL_01187	CDS			hypothetical protein
+FHFNEIGL_01187	gene			
+FHFNEIGL_01188	CDS			hypothetical protein
+FHFNEIGL_01188	gene			
+FHFNEIGL_01189	CDS			hypothetical protein
+FHFNEIGL_01189	gene			
+FHFNEIGL_01190	CDS			hypothetical protein
+FHFNEIGL_01190	gene			
+FHFNEIGL_01191	CDS			hypothetical protein
+FHFNEIGL_01191	gene			
+FHFNEIGL_01192	CDS			hypothetical protein
+FHFNEIGL_01192	gene			
+FHFNEIGL_01193	CDS			hypothetical protein
+FHFNEIGL_01193	gene			
+FHFNEIGL_01194	CDS			hypothetical protein
+FHFNEIGL_01194	gene			
+FHFNEIGL_01195	CDS			hypothetical protein
+FHFNEIGL_01195	gene			
+FHFNEIGL_01196	CDS			hypothetical protein
+FHFNEIGL_01196	gene			
+FHFNEIGL_01197	CDS			hypothetical protein
+FHFNEIGL_01197	gene			
+FHFNEIGL_01198	CDS			hypothetical protein
+FHFNEIGL_01198	gene			
+FHFNEIGL_01199	CDS			hypothetical protein
+FHFNEIGL_01199	gene			
+FHFNEIGL_01200	CDS			hypothetical protein
+FHFNEIGL_01200	gene			
+FHFNEIGL_01201	CDS			hypothetical protein
+FHFNEIGL_01201	gene			
+FHFNEIGL_01202	CDS	virB4_3		Type IV secretion system protein virB4
+FHFNEIGL_01202	gene	virB4_3		
+FHFNEIGL_01203	CDS			hypothetical protein
+FHFNEIGL_01203	gene			
+FHFNEIGL_01204	CDS			hypothetical protein
+FHFNEIGL_01204	gene			
+FHFNEIGL_01205	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+FHFNEIGL_01205	gene			
+FHFNEIGL_01206	CDS	hsdR_3	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+FHFNEIGL_01206	gene	hsdR_3		
+FHFNEIGL_01207	CDS			hypothetical protein
+FHFNEIGL_01207	gene			
+FHFNEIGL_01208	CDS			hypothetical protein
+FHFNEIGL_01208	gene			
+FHFNEIGL_01209	CDS			hypothetical protein
+FHFNEIGL_01209	gene			
+FHFNEIGL_01210	CDS			hypothetical protein
+FHFNEIGL_01210	gene			
+FHFNEIGL_01211	CDS			hypothetical protein
+FHFNEIGL_01211	gene			
+FHFNEIGL_01212	CDS			hypothetical protein
+FHFNEIGL_01212	gene			
+FHFNEIGL_01213	CDS	pepF1	3.4.24.-	Oligoendopeptidase F, plasmid
+FHFNEIGL_01213	gene	pepF1		
+FHFNEIGL_01214	CDS	kefC		Glutathione-regulated potassium-efflux system protein KefC
+FHFNEIGL_01214	gene	kefC		
+FHFNEIGL_01215	CDS			hypothetical protein
+FHFNEIGL_01215	gene			
+FHFNEIGL_01216	CDS	modA		Molybdate-binding periplasmic protein
+FHFNEIGL_01216	gene	modA		
+FHFNEIGL_01217	CDS	modB		Molybdenum transport system permease protein ModB
+FHFNEIGL_01217	gene	modB		
+FHFNEIGL_01218	CDS	ssuB	3.6.3.-	Aliphatic sulfonates import ATP-binding protein SsuB
+FHFNEIGL_01218	gene	ssuB		
+FHFNEIGL_01219	CDS	potA	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+FHFNEIGL_01219	gene	potA		
+FHFNEIGL_01220	CDS	gltX_1	6.1.1.17	Glutamate--tRNA ligase
+FHFNEIGL_01220	gene	gltX_1		
+FHFNEIGL_01221	CDS	gltX_2	6.1.1.17	Glutamate--tRNA ligase
+FHFNEIGL_01221	gene	gltX_2		
+FHFNEIGL_01222	CDS	kch		Voltage-gated potassium channel Kch
+FHFNEIGL_01222	gene	kch		
+FHFNEIGL_01223	CDS	rpmB		50S ribosomal protein L28
+FHFNEIGL_01223	gene	rpmB		
+FHFNEIGL_01224	CDS			hypothetical protein
+FHFNEIGL_01224	gene			
+FHFNEIGL_01225	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+FHFNEIGL_01225	gene	mraY		
+FHFNEIGL_01226	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+FHFNEIGL_01226	gene	murD		
+FHFNEIGL_01227	CDS			hypothetical protein
+FHFNEIGL_01227	gene			
+FHFNEIGL_01228	CDS	ybgC	3.1.2.-	Acyl-CoA thioesterase YbgC
+FHFNEIGL_01228	gene	ybgC		
+FHFNEIGL_01229	CDS			hypothetical protein
+FHFNEIGL_01229	gene			
+FHFNEIGL_01230	CDS			hypothetical protein
+FHFNEIGL_01230	gene			
+FHFNEIGL_01231	CDS	pldA	3.1.1.32	Phospholipase A1
+FHFNEIGL_01231	gene	pldA		
+FHFNEIGL_01232	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+FHFNEIGL_01232	gene	dnaN		
+FHFNEIGL_01233	CDS	gyrB	5.99.1.3	Type 2 topoisomerase subunit B
+FHFNEIGL_01233	gene	gyrB		
+FHFNEIGL_01234	CDS			hypothetical protein
+FHFNEIGL_01234	gene			
+FHFNEIGL_01235	CDS			hypothetical protein
+FHFNEIGL_01235	gene			
+FHFNEIGL_01236	CDS			hypothetical protein
+FHFNEIGL_01236	gene			
+FHFNEIGL_01237	CDS			hypothetical protein
+FHFNEIGL_01237	gene			
+FHFNEIGL_01238	CDS	mepM_3	3.4.24.-	Murein DD-endopeptidase MepM
+FHFNEIGL_01238	gene	mepM_3		
+FHFNEIGL_01239	CDS	nudK	3.6.1.-	GDP-mannose pyrophosphatase NudK
+FHFNEIGL_01239	gene	nudK		
+FHFNEIGL_01240	CDS	pgbA		Plasminogen-binding protein PgbA
+FHFNEIGL_01240	gene	pgbA		
+FHFNEIGL_01241	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+FHFNEIGL_01241	gene			
+FHFNEIGL_01242	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+FHFNEIGL_01242	gene	dapB		
+FHFNEIGL_01243	CDS			hypothetical protein
+FHFNEIGL_01243	gene			
+FHFNEIGL_01244	CDS		5.4.4.3	3-hydroxylaminophenol mutase
+FHFNEIGL_01244	gene			
+FHFNEIGL_01245	CDS			hypothetical protein
+FHFNEIGL_01245	gene			
+FHFNEIGL_01246	CDS			hypothetical protein
+FHFNEIGL_01246	gene			
+FHFNEIGL_01247	CDS			hypothetical protein
+FHFNEIGL_01247	gene			
+FHFNEIGL_01248	CDS	rplI		50S ribosomal protein L9
+FHFNEIGL_01248	gene	rplI		
+FHFNEIGL_01249	CDS	hslV	3.4.25.2	ATP-dependent protease subunit HslV
+FHFNEIGL_01249	gene	hslV		
+FHFNEIGL_01250	CDS	clpY		ATP-dependent protease ATPase subunit ClpY
+FHFNEIGL_01250	gene	clpY		
+FHFNEIGL_01251	CDS	era_2		GTPase Era
+FHFNEIGL_01251	gene	era_2		
+FHFNEIGL_01252	CDS			hypothetical protein
+FHFNEIGL_01252	gene			
+FHFNEIGL_01253	CDS	hcpB_2	3.5.2.6	Beta-lactamase HcpB
+FHFNEIGL_01253	gene	hcpB_2		
+FHFNEIGL_01254	CDS			hypothetical protein
+FHFNEIGL_01254	gene			
+FHFNEIGL_01255	CDS			hypothetical protein
+FHFNEIGL_01255	gene			
+FHFNEIGL_01256	CDS			hypothetical protein
+FHFNEIGL_01256	gene			
+FHFNEIGL_01257	CDS	traG		Conjugal transfer protein TraG
+FHFNEIGL_01257	gene	traG		
+FHFNEIGL_01258	CDS			Type IV secretion system protein VirB11
+FHFNEIGL_01258	gene			
+FHFNEIGL_01259	CDS			hypothetical protein
+FHFNEIGL_01259	gene			
+FHFNEIGL_01260	CDS			Type IV secretion system protein virB10
+FHFNEIGL_01260	gene			
+FHFNEIGL_01261	CDS	ppsA	2.7.9.2	Phosphoenolpyruvate synthase
+FHFNEIGL_01261	gene	ppsA		
+FHFNEIGL_01262	CDS	thrZ	6.1.1.3	Threonine--tRNA ligase 2
+FHFNEIGL_01262	gene	thrZ		
+FHFNEIGL_01263	CDS	infC		Translation initiation factor IF-3
+FHFNEIGL_01263	gene	infC		
+FHFNEIGL_01264	CDS	rpmI		50S ribosomal protein L35
+FHFNEIGL_01264	gene	rpmI		
+FHFNEIGL_01265	CDS	rplT		50S ribosomal protein L20
+FHFNEIGL_01265	gene	rplT		
+FHFNEIGL_01266	CDS			hypothetical protein
+FHFNEIGL_01266	gene			
+FHFNEIGL_01267	CDS			hypothetical protein
+FHFNEIGL_01267	gene			
+FHFNEIGL_01268	CDS			hypothetical protein
+FHFNEIGL_01268	gene			
+FHFNEIGL_01269	CDS	sdaA	4.3.1.17	L-serine dehydratase 1
+FHFNEIGL_01269	gene	sdaA		
+FHFNEIGL_01270	CDS	sdaC		Serine transporter
+FHFNEIGL_01270	gene	sdaC		
+FHFNEIGL_01271	CDS	aroH	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+FHFNEIGL_01271	gene	aroH		
+FHFNEIGL_01272	CDS			hypothetical protein
+FHFNEIGL_01272	gene			
+FHFNEIGL_01273	CDS	bcp	1.11.1.15	Putative peroxiredoxin bcp
+FHFNEIGL_01273	gene	bcp		
+FHFNEIGL_01274	CDS	lutC		Lactate utilization protein C
+FHFNEIGL_01274	gene	lutC		
+FHFNEIGL_01275	CDS	lutB		Lactate utilization protein B
+FHFNEIGL_01275	gene	lutB		
+FHFNEIGL_01276	CDS	lutA		Lactate utilization protein A
+FHFNEIGL_01276	gene	lutA		
+FHFNEIGL_01277	CDS	lldP_1		L-lactate permease
+FHFNEIGL_01277	gene	lldP_1		
+FHFNEIGL_01278	CDS	lldP_2		L-lactate permease
+FHFNEIGL_01278	gene	lldP_2		
+FHFNEIGL_01279	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+FHFNEIGL_01279	gene	mutY		
+FHFNEIGL_01280	CDS	citT_1		Citrate carrier
+FHFNEIGL_01280	gene	citT_1		
+FHFNEIGL_01281	CDS	citT_2		Citrate carrier
+FHFNEIGL_01281	gene	citT_2		
+FHFNEIGL_01282	CDS	ccoN1	1.9.3.1	Cbb3-type cytochrome c oxidase subunit CcoN1
+FHFNEIGL_01282	gene	ccoN1		
+FHFNEIGL_01283	CDS			hypothetical protein
+FHFNEIGL_01283	gene			
+FHFNEIGL_01284	CDS			hypothetical protein
+FHFNEIGL_01284	gene			
+FHFNEIGL_01285	CDS	ccoP		Cbb3-type cytochrome c oxidase subunit CcoP
+FHFNEIGL_01285	gene	ccoP		
+FHFNEIGL_01286	CDS			hypothetical protein
+FHFNEIGL_01286	gene			
+FHFNEIGL_01287	CDS			hypothetical protein
+FHFNEIGL_01287	gene			
+FHFNEIGL_01288	CDS			hypothetical protein
+FHFNEIGL_01288	gene			
+FHFNEIGL_01289	CDS			hypothetical protein
+FHFNEIGL_01289	gene			
+FHFNEIGL_01290	CDS			hypothetical protein
+FHFNEIGL_01290	gene			
+FHFNEIGL_01291	CDS	mqnD	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+FHFNEIGL_01291	gene	mqnD		
+FHFNEIGL_01292	CDS	recA		Protein RecA
+FHFNEIGL_01292	gene	recA		
+FHFNEIGL_01293	CDS	eno	4.2.1.11	Enolase
+FHFNEIGL_01293	gene	eno		
+FHFNEIGL_01294	CDS			hypothetical protein
+FHFNEIGL_01294	gene			
+FHFNEIGL_01295	CDS			hypothetical protein
+FHFNEIGL_01295	gene			
+FHFNEIGL_01296	CDS	aroK	2.7.1.71	Shikimate kinase
+FHFNEIGL_01296	gene	aroK		
+FHFNEIGL_01297	CDS			hypothetical protein
+FHFNEIGL_01297	gene			
+FHFNEIGL_01298	CDS			hypothetical protein
+FHFNEIGL_01298	gene			
+FHFNEIGL_01299	CDS	gdhA	1.4.1.2	NAD(P)-specific glutamate dehydrogenase
+FHFNEIGL_01299	gene	gdhA		
+FHFNEIGL_01300	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+FHFNEIGL_01300	gene	prmC		
+FHFNEIGL_01301	CDS	htpX_2	3.4.24.-	Protease HtpX
+FHFNEIGL_01301	gene	htpX_2		
+FHFNEIGL_01302	CDS			hypothetical protein
+FHFNEIGL_01302	gene			
+FHFNEIGL_01303	CDS			hypothetical protein
+FHFNEIGL_01303	gene			
+FHFNEIGL_01304	CDS			hypothetical protein
+FHFNEIGL_01304	gene			
+FHFNEIGL_01305	CDS			hypothetical protein
+FHFNEIGL_01305	gene			
+FHFNEIGL_01306	CDS	priA	3.6.4.-	Primosomal protein N'
+FHFNEIGL_01306	gene	priA		
+FHFNEIGL_01307	CDS	cmoA	2.1.3.-	Carboxy-S-adenosyl-L-methionine synthase
+FHFNEIGL_01307	gene	cmoA		
+FHFNEIGL_01308	CDS	sodB	1.15.1.1	Superoxide dismutase [Fe]
+FHFNEIGL_01308	gene	sodB		
+FHFNEIGL_01309	CDS	tpx	1.11.1.-	putative thiol peroxidase
+FHFNEIGL_01309	gene	tpx		
+FHFNEIGL_01310	CDS	cheW		Chemotaxis protein CheW
+FHFNEIGL_01310	gene	cheW		
+FHFNEIGL_01311	CDS	cheA	2.7.13.3	Chemotaxis protein CheA
+FHFNEIGL_01311	gene	cheA		
+FHFNEIGL_01312	CDS	cheV_3		Chemotaxis protein CheV
+FHFNEIGL_01312	gene	cheV_3		
+FHFNEIGL_01313	CDS			hypothetical protein
+FHFNEIGL_01313	gene			
+FHFNEIGL_01314	CDS	lpxH	3.6.1.54	UDP-2,3-diacylglucosamine hydrolase
+FHFNEIGL_01314	gene	lpxH		
+FHFNEIGL_01315	CDS			hypothetical protein
+FHFNEIGL_01315	gene			
+FHFNEIGL_01316	CDS	ubiD	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+FHFNEIGL_01316	gene	ubiD		
+FHFNEIGL_01317	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+FHFNEIGL_01317	gene	serA		
+FHFNEIGL_01318	CDS			hypothetical protein
+FHFNEIGL_01318	gene			
+FHFNEIGL_01319	CDS	rpsA		30S ribosomal protein S1
+FHFNEIGL_01319	gene	rpsA		
+FHFNEIGL_01320	CDS	ispH	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+FHFNEIGL_01320	gene	ispH		
+FHFNEIGL_01321	CDS	aroA1	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase 1
+FHFNEIGL_01321	gene	aroA1		
+FHFNEIGL_01322	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+FHFNEIGL_01322	gene	pheT		
+FHFNEIGL_01323	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+FHFNEIGL_01323	gene	pheS		
+FHFNEIGL_01324	CDS			putative HIT-like protein
+FHFNEIGL_01324	gene			
+FHFNEIGL_01325	CDS	csd	2.8.1.7	putative cysteine desulfurase
+FHFNEIGL_01325	gene	csd		
+FHFNEIGL_01326	CDS			hypothetical protein
+FHFNEIGL_01326	gene			
+FHFNEIGL_01327	CDS	dorA	1.7.2.3	Dimethyl sulfoxide/trimethylamine N-oxide reductase
+FHFNEIGL_01327	gene	dorA		
+FHFNEIGL_01328	CDS			hypothetical protein
+FHFNEIGL_01328	gene			
+FHFNEIGL_01329	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+FHFNEIGL_01329	gene	guaA		
+FHFNEIGL_01330	CDS			hypothetical protein
+FHFNEIGL_01330	gene			
+FHFNEIGL_01331	CDS			hypothetical protein
+FHFNEIGL_01331	gene			
+FHFNEIGL_01332	tRNA			tRNA-Pro(tgg)
+FHFNEIGL_01332	gene			
+FHFNEIGL_01333	tRNA			tRNA-His(gtg)
+FHFNEIGL_01333	gene			
+FHFNEIGL_01334	tRNA			tRNA-Arg(tcg)
+FHFNEIGL_01334	gene			
+FHFNEIGL_01335	tRNA			tRNA-Arg(tct)
+FHFNEIGL_01335	gene			
+FHFNEIGL_01336	CDS	vacA_4		Vacuolating cytotoxin autotransporter
+FHFNEIGL_01336	gene	vacA_4		
+FHFNEIGL_01337	CDS	gap1	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase 1
+FHFNEIGL_01337	gene	gap1		
+FHFNEIGL_01338	CDS	yccA		Modulator of FtsH protease YccA
+FHFNEIGL_01338	gene	yccA		
+FHFNEIGL_01339	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+FHFNEIGL_01339	gene	carB		
+FHFNEIGL_01340	CDS			hypothetical protein
+FHFNEIGL_01340	gene			
+FHFNEIGL_01341	CDS	bhuA_2		Heme transporter BhuA
+FHFNEIGL_01341	gene	bhuA_2		
+FHFNEIGL_01342	CDS	hemR		Hemin receptor
+FHFNEIGL_01342	gene	hemR		
+FHFNEIGL_01343	CDS			hypothetical protein
+FHFNEIGL_01343	gene			
+FHFNEIGL_01344	CDS			hypothetical protein
+FHFNEIGL_01344	gene			
+FHFNEIGL_01345	CDS			hypothetical protein
+FHFNEIGL_01345	gene			
+FHFNEIGL_01346	CDS	uvrD	3.6.4.12	DNA helicase II
+FHFNEIGL_01346	gene	uvrD		
+FHFNEIGL_01347	CDS	taqIM	2.1.1.72	Modification methylase TaqI
+FHFNEIGL_01347	gene	taqIM		
+FHFNEIGL_01348	CDS			hypothetical protein
+FHFNEIGL_01348	gene			
+FHFNEIGL_01349	CDS	flgE_2		Flagellar hook protein FlgE
+FHFNEIGL_01349	gene	flgE_2		
+FHFNEIGL_01350	CDS	flgD		Basal-body rod modification protein FlgD
+FHFNEIGL_01350	gene	flgD		
+FHFNEIGL_01351	CDS			hypothetical protein
+FHFNEIGL_01351	gene			
+FHFNEIGL_01352	CDS			hypothetical protein
+FHFNEIGL_01352	gene			
+FHFNEIGL_01353	CDS	pta_1	2.3.1.8	Phosphate acetyltransferase
+FHFNEIGL_01353	gene	pta_1		
+FHFNEIGL_01354	CDS	pta_2	2.3.1.8	Phosphate acetyltransferase
+FHFNEIGL_01354	gene	pta_2		
+FHFNEIGL_01355	CDS	pta_3	2.3.1.8	Phosphate acetyltransferase
+FHFNEIGL_01355	gene	pta_3		
+FHFNEIGL_01356	CDS			hypothetical protein
+FHFNEIGL_01356	gene			
+FHFNEIGL_01357	CDS			hypothetical protein
+FHFNEIGL_01357	gene			
+FHFNEIGL_01358	CDS			hypothetical protein
+FHFNEIGL_01358	gene			
+FHFNEIGL_01359	CDS			hypothetical protein
+FHFNEIGL_01359	gene			
+FHFNEIGL_01360	CDS	sppA	3.4.21.-	Putative signal peptide peptidase SppA
+FHFNEIGL_01360	gene	sppA		
+FHFNEIGL_01361	CDS	purU	3.5.1.10	Formyltetrahydrofolate deformylase
+FHFNEIGL_01361	gene	purU		
+FHFNEIGL_01362	CDS			hypothetical protein
+FHFNEIGL_01362	gene			
+FHFNEIGL_01363	CDS			hypothetical protein
+FHFNEIGL_01363	gene			
+FHFNEIGL_01364	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+FHFNEIGL_01364	gene	rsmA		
+FHFNEIGL_01365	CDS	rnj	3.1.-.-	Ribonuclease J
+FHFNEIGL_01365	gene	rnj		
+FHFNEIGL_01366	CDS	kdsD	5.3.1.13	Arabinose 5-phosphate isomerase KdsD
+FHFNEIGL_01366	gene	kdsD		
+FHFNEIGL_01367	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+FHFNEIGL_01367	gene	rlmN		
+FHFNEIGL_01368	CDS			hypothetical protein
+FHFNEIGL_01368	gene			
+FHFNEIGL_01369	CDS			hypothetical protein
+FHFNEIGL_01369	gene			
+FHFNEIGL_01370	CDS			hypothetical protein
+FHFNEIGL_01370	gene			
+FHFNEIGL_01371	CDS			hypothetical protein
+FHFNEIGL_01371	gene			
+FHFNEIGL_01372	CDS			hypothetical protein
+FHFNEIGL_01372	gene			
+FHFNEIGL_01373	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+FHFNEIGL_01373	gene	ileS		
+FHFNEIGL_01374	CDS	ptlH		Type IV secretion system protein PtlH
+FHFNEIGL_01374	gene	ptlH		
+FHFNEIGL_01375	CDS	fliI	3.6.3.14	Flagellum-specific ATP synthase
+FHFNEIGL_01375	gene	fliI		
+FHFNEIGL_01376	CDS			hypothetical protein
+FHFNEIGL_01376	gene			
+FHFNEIGL_01377	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+FHFNEIGL_01377	gene	murB		
+FHFNEIGL_01378	CDS	cptA	2.7.-.-	Phosphoethanolamine transferase CptA
+FHFNEIGL_01378	gene	cptA		
+FHFNEIGL_01379	CDS			hypothetical protein
+FHFNEIGL_01379	gene			
+FHFNEIGL_01380	CDS			hypothetical protein
+FHFNEIGL_01380	gene			
+FHFNEIGL_01381	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+FHFNEIGL_01381	gene	miaA		
+FHFNEIGL_01382	CDS	rsfS		Ribosomal silencing factor RsfS
+FHFNEIGL_01382	gene	rsfS		
+FHFNEIGL_01383	CDS	queF	1.7.1.13	NADPH-dependent 7-cyano-7-deazaguanine reductase
+FHFNEIGL_01383	gene	queF		
+FHFNEIGL_01384	CDS	esiB		Secretory immunoglobulin A-binding protein EsiB
+FHFNEIGL_01384	gene	esiB		
+FHFNEIGL_01385	CDS	ggt	2.3.2.2	Gamma-glutamyltranspeptidase
+FHFNEIGL_01385	gene	ggt		
+FHFNEIGL_01386	CDS	flgK		Flagellar hook-associated protein 1
+FHFNEIGL_01386	gene	flgK		
+FHFNEIGL_01387	CDS			hypothetical protein
+FHFNEIGL_01387	gene			
+FHFNEIGL_01388	CDS	hhaIM	2.1.1.37	Modification methylase HhaI
+FHFNEIGL_01388	gene	hhaIM		
+FHFNEIGL_01389	CDS			hypothetical protein
+FHFNEIGL_01389	gene			
+FHFNEIGL_01390	CDS			hypothetical protein
+FHFNEIGL_01390	gene			
+FHFNEIGL_01391	CDS	slyD	5.2.1.8	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+FHFNEIGL_01391	gene	slyD		
+FHFNEIGL_01392	CDS			hypothetical protein
+FHFNEIGL_01392	gene			
+FHFNEIGL_01393	CDS	pal		Outer membrane protein P6
+FHFNEIGL_01393	gene	pal		
+FHFNEIGL_01394	CDS	tolB		Protein TolB
+FHFNEIGL_01394	gene	tolB		
+FHFNEIGL_01395	CDS			hypothetical protein
+FHFNEIGL_01395	gene			
+FHFNEIGL_01396	CDS	exbD_2		Biopolymer transport protein ExbD
+FHFNEIGL_01396	gene	exbD_2		
+FHFNEIGL_01397	CDS	exbB_2		Biopolymer transport protein ExbB
+FHFNEIGL_01397	gene	exbB_2		
+FHFNEIGL_01398	CDS	atpC		ATP synthase epsilon chain
+FHFNEIGL_01398	gene	atpC		
+FHFNEIGL_01399	CDS	atpD_1	3.6.3.14	ATP synthase subunit beta
+FHFNEIGL_01399	gene	atpD_1		
+FHFNEIGL_01400	CDS	atpG		ATP synthase gamma chain
+FHFNEIGL_01400	gene	atpG		
+FHFNEIGL_01401	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+FHFNEIGL_01401	gene	atpA		
+FHFNEIGL_01402	CDS	atpD_2		ATP synthase subunit delta
+FHFNEIGL_01402	gene	atpD_2		
+FHFNEIGL_01403	CDS	atpF_1		ATP synthase subunit b
+FHFNEIGL_01403	gene	atpF_1		
+FHFNEIGL_01404	CDS	atpF_2		ATP synthase subunit b, sodium ion specific
+FHFNEIGL_01404	gene	atpF_2		
+FHFNEIGL_01405	CDS	parB		putative chromosome-partitioning protein ParB
+FHFNEIGL_01405	gene	parB		
+FHFNEIGL_01406	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+FHFNEIGL_01406	gene	soj		
+FHFNEIGL_01407	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+FHFNEIGL_01407	gene	birA		
+FHFNEIGL_01408	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+FHFNEIGL_01408	gene	fmt		
+FHFNEIGL_01409	CDS			hypothetical protein
+FHFNEIGL_01409	gene			
+FHFNEIGL_01410	CDS			hypothetical protein
+FHFNEIGL_01410	gene			
+FHFNEIGL_01411	CDS			hypothetical protein
+FHFNEIGL_01411	gene			
+FHFNEIGL_01412	CDS	bicA		Bicarbonate transporter BicA
+FHFNEIGL_01412	gene	bicA		
+FHFNEIGL_01413	tRNA			tRNA-Asn(gtt)
+FHFNEIGL_01413	gene			
+FHFNEIGL_01414	CDS			hypothetical protein
+FHFNEIGL_01414	gene			
+FHFNEIGL_01415	CDS	kdsB	2.7.7.38	3-deoxy-manno-octulosonate cytidylyltransferase
+FHFNEIGL_01415	gene	kdsB		
+FHFNEIGL_01416	CDS			hypothetical protein
+FHFNEIGL_01416	gene			
+FHFNEIGL_01417	CDS			hypothetical protein
+FHFNEIGL_01417	gene			
+FHFNEIGL_01418	CDS	ygiC	6.3.1.-	Putative acid--amine ligase YgiC
+FHFNEIGL_01418	gene	ygiC		
+FHFNEIGL_01419	CDS			hypothetical protein
+FHFNEIGL_01419	gene			
+FHFNEIGL_01420	CDS	hcpC_1	3.5.2.6	Putative beta-lactamase HcpC
+FHFNEIGL_01420	gene	hcpC_1		
+FHFNEIGL_01421	CDS			hypothetical protein
+FHFNEIGL_01421	gene			
+FHFNEIGL_01422	CDS	hemC	2.5.1.61	Porphobilinogen deaminase
+FHFNEIGL_01422	gene	hemC		
+FHFNEIGL_01423	CDS	proS	6.1.1.15	Proline--tRNA ligase
+FHFNEIGL_01423	gene	proS		
+FHFNEIGL_01424	CDS	hemA	1.2.1.70	Glutamyl-tRNA reductase
+FHFNEIGL_01424	gene	hemA		
+FHFNEIGL_01425	CDS	ispB	2.5.1.90	Octaprenyl diphosphate synthase
+FHFNEIGL_01425	gene	ispB		
+FHFNEIGL_01426	CDS			hypothetical protein
+FHFNEIGL_01426	gene			
+FHFNEIGL_01427	CDS			hypothetical protein
+FHFNEIGL_01427	gene			
+FHFNEIGL_01428	CDS	dps	1.16.-.-	DNA protection during starvation protein
+FHFNEIGL_01428	gene	dps		
+FHFNEIGL_01429	CDS	zraS	2.7.13.3	Sensor protein ZraS
+FHFNEIGL_01429	gene	zraS		
+FHFNEIGL_01430	CDS			hypothetical protein
+FHFNEIGL_01430	gene			
+FHFNEIGL_01431	CDS	flgI		Flagellar P-ring protein
+FHFNEIGL_01431	gene	flgI		
+FHFNEIGL_01432	CDS	rhpA	3.6.4.13	DEAD-box ATP-dependent RNA helicase RhpA
+FHFNEIGL_01432	gene	rhpA		
+FHFNEIGL_01433	CDS	hflC		Modulator of FtsH protease HflC
+FHFNEIGL_01433	gene	hflC		
+FHFNEIGL_01434	CDS			hypothetical protein
+FHFNEIGL_01434	gene			
+FHFNEIGL_01435	CDS	gsiA	3.6.3.-	Glutathione import ATP-binding protein GsiA
+FHFNEIGL_01435	gene	gsiA		
+FHFNEIGL_01436	CDS	yejE		Inner membrane ABC transporter permease protein YejE
+FHFNEIGL_01436	gene	yejE		
+FHFNEIGL_01437	CDS	uvrB		UvrABC system protein B
+FHFNEIGL_01437	gene	uvrB		
+FHFNEIGL_01438	CDS			hypothetical protein
+FHFNEIGL_01438	gene			
+FHFNEIGL_01439	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+FHFNEIGL_01439	gene	purB		
+FHFNEIGL_01440	CDS	porB	1.2.7.1	Pyruvate synthase subunit PorB
+FHFNEIGL_01440	gene	porB		
+FHFNEIGL_01441	CDS	porA	1.2.7.1	Pyruvate synthase subunit PorA
+FHFNEIGL_01441	gene	porA		
+FHFNEIGL_01442	CDS	porD		Pyruvate synthase subunit PorD
+FHFNEIGL_01442	gene	porD		
+FHFNEIGL_01443	CDS	porC	1.2.7.1	Pyruvate synthase subunit PorC
+FHFNEIGL_01443	gene	porC		
+FHFNEIGL_01444	CDS			hypothetical protein
+FHFNEIGL_01444	gene			
+FHFNEIGL_01445	CDS			hypothetical protein
+FHFNEIGL_01445	gene			
+FHFNEIGL_01446	CDS			hypothetical protein
+FHFNEIGL_01446	gene			
+FHFNEIGL_01447	CDS	adhA	1.1.1.-	putative formaldehyde dehydrogenase AdhA
+FHFNEIGL_01447	gene	adhA		
+FHFNEIGL_01448	CDS	glk	2.7.1.2	Glucokinase
+FHFNEIGL_01448	gene	glk		
+FHFNEIGL_01449	CDS	pgl	3.1.1.31	6-phosphogluconolactonase
+FHFNEIGL_01449	gene	pgl		
+FHFNEIGL_01450	CDS	zwf	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase
+FHFNEIGL_01450	gene	zwf		
+FHFNEIGL_01451	CDS	edd	4.2.1.12	Phosphogluconate dehydratase
+FHFNEIGL_01451	gene	edd		
+FHFNEIGL_01452	CDS	eda		KHG/KDPG aldolase
+FHFNEIGL_01452	gene	eda		
+FHFNEIGL_01453	CDS	hcpC_2	3.5.2.6	Putative beta-lactamase HcpC
+FHFNEIGL_01453	gene	hcpC_2		
+FHFNEIGL_01454	CDS			hypothetical protein
+FHFNEIGL_01454	gene			
+FHFNEIGL_01455	CDS			hypothetical protein
+FHFNEIGL_01455	gene			
+FHFNEIGL_01456	CDS			hypothetical protein
+FHFNEIGL_01456	gene			
+FHFNEIGL_01457	CDS			hypothetical protein
+FHFNEIGL_01457	gene			
+FHFNEIGL_01458	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+FHFNEIGL_01458	gene	recG		
+FHFNEIGL_01459	CDS			hypothetical protein
+FHFNEIGL_01459	gene			
+FHFNEIGL_01460	CDS			hypothetical protein
+FHFNEIGL_01460	gene			
+FHFNEIGL_01461	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+FHFNEIGL_01461	gene	exoA		
+FHFNEIGL_01462	tRNA			tRNA-Phe(gaa)
+FHFNEIGL_01462	gene			
+FHFNEIGL_01463	CDS			hypothetical protein
+FHFNEIGL_01463	gene			
+FHFNEIGL_01464	CDS	dnaA		Chromosomal replication initiator protein DnaA
+FHFNEIGL_01464	gene	dnaA		
+FHFNEIGL_01465	CDS	mqnB	3.2.2.26	Futalosine hydrolase
+FHFNEIGL_01465	gene	mqnB		
+FHFNEIGL_01466	CDS			hypothetical protein
+FHFNEIGL_01466	gene			
+FHFNEIGL_01467	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+FHFNEIGL_01467	gene	glmS		
+FHFNEIGL_01468	CDS	thyX	2.1.1.148	Flavin-dependent thymidylate synthase
+FHFNEIGL_01468	gene	thyX		
+FHFNEIGL_01469	CDS			hypothetical protein
+FHFNEIGL_01469	gene			
+FHFNEIGL_01470	CDS			hypothetical protein
+FHFNEIGL_01470	gene			
+FHFNEIGL_01471	CDS	srpA	1.11.1.-	Catalase-related peroxidase
+FHFNEIGL_01471	gene	srpA		
+FHFNEIGL_01472	CDS			hypothetical protein
+FHFNEIGL_01472	gene			
+FHFNEIGL_01473	CDS			hypothetical protein
+FHFNEIGL_01473	gene			
+FHFNEIGL_01474	CDS	ydiO	2.1.1.37	putative BsuMI modification methylase subunit YdiO
+FHFNEIGL_01474	gene	ydiO		
+FHFNEIGL_01475	CDS			hypothetical protein
+FHFNEIGL_01475	gene			
+FHFNEIGL_01476	CDS			hypothetical protein
+FHFNEIGL_01476	gene			
+FHFNEIGL_01477	CDS			hypothetical protein
+FHFNEIGL_01477	gene			
+FHFNEIGL_01478	CDS			hypothetical protein
+FHFNEIGL_01478	gene			
+FHFNEIGL_01479	CDS	typA		GTP-binding protein TypA/BipA
+FHFNEIGL_01479	gene	typA		
+FHFNEIGL_01480	CDS			hypothetical protein
+FHFNEIGL_01480	gene			
+FHFNEIGL_01481	CDS	vspIM	2.1.1.72	Modification methylase VspI
+FHFNEIGL_01481	gene	vspIM		
+FHFNEIGL_01482	CDS			hypothetical protein
+FHFNEIGL_01482	gene			
+FHFNEIGL_01483	CDS			hypothetical protein
+FHFNEIGL_01483	gene			
+FHFNEIGL_01484	CDS			hypothetical protein
+FHFNEIGL_01484	gene			
+FHFNEIGL_01485	CDS	xseA_2	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+FHFNEIGL_01485	gene	xseA_2		
+FHFNEIGL_01486	CDS	mmpA	3.4.24.-	Metalloprotease MmpA
+FHFNEIGL_01486	gene	mmpA		
+FHFNEIGL_01487	CDS			hypothetical protein
+FHFNEIGL_01487	gene			
+FHFNEIGL_01488	CDS			hypothetical protein
+FHFNEIGL_01488	gene			
+FHFNEIGL_01489	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+FHFNEIGL_01489	gene	purA		
+FHFNEIGL_01490	CDS			hypothetical protein
+FHFNEIGL_01490	gene			
+FHFNEIGL_01491	CDS			hypothetical protein
+FHFNEIGL_01491	gene			
+FHFNEIGL_01492	tRNA			tRNA-Ala(ggc)
+FHFNEIGL_01492	gene			
+FHFNEIGL_01493	CDS	ynaI		Low conductance mechanosensitive channel YnaI
+FHFNEIGL_01493	gene	ynaI		
+FHFNEIGL_01494	CDS	cfa	2.1.1.79	Cyclopropane-fatty-acyl-phospholipid synthase
+FHFNEIGL_01494	gene	cfa		
+FHFNEIGL_01495	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+FHFNEIGL_01495	gene	metG		
+FHFNEIGL_01496	CDS			hypothetical protein
+FHFNEIGL_01496	gene			
+FHFNEIGL_01497	CDS	cmoB	2.5.1.-	tRNA U34 carboxymethyltransferase
+FHFNEIGL_01497	gene	cmoB		
+FHFNEIGL_01498	CDS			hypothetical protein
+FHFNEIGL_01498	gene			
+FHFNEIGL_01499	CDS	mgtA	2.4.1.-	GDP-mannose-dependent alpha-mannosyltransferase
+FHFNEIGL_01499	gene	mgtA		
+FHFNEIGL_01500	CDS	speA	4.1.1.19	Biosynthetic arginine decarboxylase
+FHFNEIGL_01500	gene	speA		
+FHFNEIGL_01501	CDS			hypothetical protein
+FHFNEIGL_01501	gene			
+FHFNEIGL_01502	CDS	exbD_3		Biopolymer transport protein ExbD
+FHFNEIGL_01502	gene	exbD_3		
+FHFNEIGL_01503	CDS	exbB_3		Biopolymer transport protein ExbB
+FHFNEIGL_01503	gene	exbB_3		
+FHFNEIGL_01504	CDS			Putative nickel-responsive regulator
+FHFNEIGL_01504	gene			
+FHFNEIGL_01505	CDS	nadD	2.7.7.18	putative nicotinate-nucleotide adenylyltransferase
+FHFNEIGL_01505	gene	nadD		
+FHFNEIGL_01506	CDS			hypothetical protein
+FHFNEIGL_01506	gene			
+FHFNEIGL_01507	CDS	mnmA_2	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+FHFNEIGL_01507	gene	mnmA_2		
+FHFNEIGL_01508	CDS			hypothetical protein
+FHFNEIGL_01508	gene			
+FHFNEIGL_01509	CDS			hypothetical protein
+FHFNEIGL_01509	gene			
+FHFNEIGL_01510	CDS	dnaJ		Chaperone protein DnaJ
+FHFNEIGL_01510	gene	dnaJ		
+FHFNEIGL_01511	CDS			hypothetical protein
+FHFNEIGL_01511	gene			
+FHFNEIGL_01512	CDS			hypothetical protein
+FHFNEIGL_01512	gene			
+FHFNEIGL_01513	CDS			hypothetical protein
+FHFNEIGL_01513	gene			
+FHFNEIGL_01514	CDS			hypothetical protein
+FHFNEIGL_01514	gene			
+FHFNEIGL_01515	CDS	ctkA	2.7.11.1	Serine/threonine-protein kinase CtkA
+FHFNEIGL_01515	gene	ctkA		
+FHFNEIGL_01516	CDS	xerH_2		Tyrosine recombinase XerH
+FHFNEIGL_01516	gene	xerH_2		
+FHFNEIGL_01517	CDS			hypothetical protein
+FHFNEIGL_01517	gene			
+FHFNEIGL_01518	CDS			hypothetical protein
+FHFNEIGL_01518	gene			
+FHFNEIGL_01519	CDS			hypothetical protein
+FHFNEIGL_01519	gene			
+FHFNEIGL_01520	CDS			hypothetical protein
+FHFNEIGL_01520	gene			
+FHFNEIGL_01521	CDS			hypothetical protein
+FHFNEIGL_01521	gene			
+FHFNEIGL_01522	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+FHFNEIGL_01522	gene	recD2		
+FHFNEIGL_01523	CDS			hypothetical protein
+FHFNEIGL_01523	gene			
+FHFNEIGL_01524	CDS			hypothetical protein
+FHFNEIGL_01524	gene			
+FHFNEIGL_01525	CDS			hypothetical protein
+FHFNEIGL_01525	gene			
+FHFNEIGL_01526	CDS			hypothetical protein
+FHFNEIGL_01526	gene			
+FHFNEIGL_01527	CDS			hypothetical protein
+FHFNEIGL_01527	gene			
+FHFNEIGL_01528	CDS			hypothetical protein
+FHFNEIGL_01528	gene			
+FHFNEIGL_01529	CDS			hypothetical protein
+FHFNEIGL_01529	gene			
+FHFNEIGL_01530	CDS			hypothetical protein
+FHFNEIGL_01530	gene			
+FHFNEIGL_01531	CDS			hypothetical protein
+FHFNEIGL_01531	gene			
+FHFNEIGL_01532	CDS	rplO		50S ribosomal protein L15
+FHFNEIGL_01532	gene	rplO		
+FHFNEIGL_01533	CDS	rpsE		30S ribosomal protein S5
+FHFNEIGL_01533	gene	rpsE		
+FHFNEIGL_01534	CDS	rplR		50S ribosomal protein L18
+FHFNEIGL_01534	gene	rplR		
+FHFNEIGL_01535	CDS	rplF		50S ribosomal protein L6
+FHFNEIGL_01535	gene	rplF		
+FHFNEIGL_01536	CDS	rpsH		30S ribosomal protein S8
+FHFNEIGL_01536	gene	rpsH		
+FHFNEIGL_01537	CDS	rplE		50S ribosomal protein L5
+FHFNEIGL_01537	gene	rplE		
+FHFNEIGL_01538	CDS	rplX		50S ribosomal protein L24
+FHFNEIGL_01538	gene	rplX		
+FHFNEIGL_01539	CDS	rplN		50S ribosomal protein L14
+FHFNEIGL_01539	gene	rplN		
+FHFNEIGL_01540	CDS	rpsQ		30S ribosomal protein S17
+FHFNEIGL_01540	gene	rpsQ		
+FHFNEIGL_01541	CDS	rpmC		50S ribosomal protein L29
+FHFNEIGL_01541	gene	rpmC		
+FHFNEIGL_01542	CDS	rplP		50S ribosomal protein L16
+FHFNEIGL_01542	gene	rplP		
+FHFNEIGL_01543	CDS	rpsC		30S ribosomal protein S3
+FHFNEIGL_01543	gene	rpsC		
+FHFNEIGL_01544	CDS	rplV		50S ribosomal protein L22
+FHFNEIGL_01544	gene	rplV		
+FHFNEIGL_01545	CDS			hypothetical protein
+FHFNEIGL_01545	gene			
+FHFNEIGL_01546	CDS	rnhB	3.1.26.4	Ribonuclease HII
+FHFNEIGL_01546	gene	rnhB		
+FHFNEIGL_01547	CDS			hypothetical protein
+FHFNEIGL_01547	gene			
+FHFNEIGL_01548	CDS	fumC	4.2.1.2	Fumarate hydratase class II
+FHFNEIGL_01548	gene	fumC		
+FHFNEIGL_01549	CDS			hypothetical protein
+FHFNEIGL_01549	gene			
+FHFNEIGL_01550	CDS			hypothetical protein
+FHFNEIGL_01550	gene			
+FHFNEIGL_01551	tRNA			tRNA-Met(cat)
+FHFNEIGL_01551	gene			
+FHFNEIGL_01552	tRNA			tRNA-Gln(ttg)
+FHFNEIGL_01552	gene			
+FHFNEIGL_01553	CDS	hypD		Hydrogenase isoenzymes formation protein HypD
+FHFNEIGL_01553	gene	hypD		
+FHFNEIGL_01554	CDS	hypC		Hydrogenase isoenzymes formation protein HypC
+FHFNEIGL_01554	gene	hypC		
+FHFNEIGL_01555	CDS	hypB		Hydrogenase/urease nickel incorporation protein HypB
+FHFNEIGL_01555	gene	hypB		
+FHFNEIGL_01556	CDS			hypothetical protein
+FHFNEIGL_01556	gene			
+FHFNEIGL_01557	CDS			hypothetical protein
+FHFNEIGL_01557	gene			
+FHFNEIGL_01558	CDS	ackA_1	2.7.2.1	Acetate kinase
+FHFNEIGL_01558	gene	ackA_1		
+FHFNEIGL_01559	CDS	ackA_2	2.7.2.1	Acetate kinase
+FHFNEIGL_01559	gene	ackA_2		
+FHFNEIGL_01560	CDS			hypothetical protein
+FHFNEIGL_01560	gene			
+FHFNEIGL_01561	CDS	yafQ_1	3.1.-.-	mRNA interferase YafQ
+FHFNEIGL_01561	gene	yafQ_1		
+FHFNEIGL_01562	CDS			hypothetical protein
+FHFNEIGL_01562	gene			
+FHFNEIGL_01563	CDS	yafQ_2	3.1.-.-	mRNA interferase YafQ
+FHFNEIGL_01563	gene	yafQ_2		
+FHFNEIGL_01564	CDS			hypothetical protein
+FHFNEIGL_01564	gene			
+FHFNEIGL_01565	CDS		1.-.-.-	putative oxidoreductase
+FHFNEIGL_01565	gene			
+FHFNEIGL_01566	CDS	vapD_2	3.1.-.-	Endoribonuclease VapD
+FHFNEIGL_01566	gene	vapD_2		
+FHFNEIGL_01567	CDS			hypothetical protein
+FHFNEIGL_01567	gene			
+FHFNEIGL_01568	CDS	yjiA		putative GTP-binding protein YjiA
+FHFNEIGL_01568	gene	yjiA		
+FHFNEIGL_01569	CDS	dcuA		Anaerobic C4-dicarboxylate transporter DcuA
+FHFNEIGL_01569	gene	dcuA		
+FHFNEIGL_01570	CDS	ansA	3.5.1.1	putative L-asparaginase
+FHFNEIGL_01570	gene	ansA		
+FHFNEIGL_01571	CDS			hypothetical protein
+FHFNEIGL_01571	gene			
+FHFNEIGL_01572	CDS	cusB_1		Cation efflux system protein CusB
+FHFNEIGL_01572	gene	cusB_1		
+FHFNEIGL_01573	CDS	cusB_2		Cation efflux system protein CusB
+FHFNEIGL_01573	gene	cusB_2		
+FHFNEIGL_01574	CDS			hypothetical protein
+FHFNEIGL_01574	gene			
+FHFNEIGL_01575	CDS			hypothetical protein
+FHFNEIGL_01575	gene			
+FHFNEIGL_01576	CDS			hypothetical protein
+FHFNEIGL_01576	gene			
+FHFNEIGL_01577	CDS		3.5.1.111	2-oxoglutaramate amidase
+FHFNEIGL_01577	gene			
+FHFNEIGL_01578	CDS	pgdA_1	3.5.1.-	Peptidoglycan deacetylase
+FHFNEIGL_01578	gene	pgdA_1		
+FHFNEIGL_01579	CDS	pgdA_2	3.5.1.-	Peptidoglycan deacetylase
+FHFNEIGL_01579	gene	pgdA_2		
+FHFNEIGL_01580	CDS		3.5.1.111	2-oxoglutaramate amidase
+FHFNEIGL_01580	gene			
+FHFNEIGL_01581	CDS	rpsJ_1		30S ribosomal protein S10
+FHFNEIGL_01581	gene	rpsJ_1		
+FHFNEIGL_01582	CDS			hypothetical protein
+FHFNEIGL_01582	gene			
+FHFNEIGL_01583	CDS	rpsJ_2		30S ribosomal protein S10
+FHFNEIGL_01583	gene	rpsJ_2		
+FHFNEIGL_01584	CDS			hypothetical protein
+FHFNEIGL_01584	gene			
+FHFNEIGL_01585	CDS			hypothetical protein
+FHFNEIGL_01585	gene			
+FHFNEIGL_01586	CDS	rplW		50S ribosomal protein L23
+FHFNEIGL_01586	gene	rplW		
+FHFNEIGL_01587	CDS	rplD		50S ribosomal protein L4
+FHFNEIGL_01587	gene	rplD		
+FHFNEIGL_01588	CDS			hypothetical protein
+FHFNEIGL_01588	gene			
+FHFNEIGL_01589	CDS	secY_1		Protein translocase subunit SecY
+FHFNEIGL_01589	gene	secY_1		
+FHFNEIGL_01590	CDS	secY_2		Protein translocase subunit SecY
+FHFNEIGL_01590	gene	secY_2		
+FHFNEIGL_01591	CDS	clpB		Chaperone protein ClpB
+FHFNEIGL_01591	gene	clpB		
+FHFNEIGL_01592	CDS	dpnA_5	2.1.1.72	Modification methylase DpnIIB
+FHFNEIGL_01592	gene	dpnA_5		
+FHFNEIGL_01593	CDS			hypothetical protein
+FHFNEIGL_01593	gene			
+FHFNEIGL_01594	CDS	dpnA_6	2.1.1.72	Modification methylase DpnIIB
+FHFNEIGL_01594	gene	dpnA_6		
+FHFNEIGL_01595	CDS	cusA_1		Cation efflux system protein CusA
+FHFNEIGL_01595	gene	cusA_1		
+FHFNEIGL_01596	CDS			hypothetical protein
+FHFNEIGL_01596	gene			
+FHFNEIGL_01597	CDS			hypothetical protein
+FHFNEIGL_01597	gene			
+FHFNEIGL_01598	CDS	cusA_2		Cation efflux system protein CusA
+FHFNEIGL_01598	gene	cusA_2		
+FHFNEIGL_01599	CDS			hypothetical protein
+FHFNEIGL_01599	gene			
+FHFNEIGL_01600	CDS			hypothetical protein
+FHFNEIGL_01600	gene			
+FHFNEIGL_01601	CDS			hypothetical protein
+FHFNEIGL_01601	gene			
+FHFNEIGL_01602	CDS			hypothetical protein
+FHFNEIGL_01602	gene			
+FHFNEIGL_01603	CDS			hypothetical protein
+FHFNEIGL_01603	gene			
+FHFNEIGL_01604	CDS			hypothetical protein
+FHFNEIGL_01604	gene			
+FHFNEIGL_01605	CDS	rsgA_2	3.6.1.-	Putative ribosome biogenesis GTPase RsgA
+FHFNEIGL_01605	gene	rsgA_2		
+FHFNEIGL_01606	CDS			hypothetical protein
+FHFNEIGL_01606	gene			
+FHFNEIGL_01607	CDS	rplB_1		50S ribosomal protein L2
+FHFNEIGL_01607	gene	rplB_1		
+FHFNEIGL_01608	CDS	rplB_2		50S ribosomal protein L2
+FHFNEIGL_01608	gene	rplB_2		
+FHFNEIGL_01609	CDS			putative ABC transporter permease protein
+FHFNEIGL_01609	gene			
+FHFNEIGL_01610	CDS			hypothetical protein
+FHFNEIGL_01610	gene			

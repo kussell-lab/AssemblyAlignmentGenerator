@@ -1,0 +1,3133 @@
+locus_tag	ftype	gene	EC_number	product
+KADELANJ_00001	CDS			hypothetical protein
+KADELANJ_00001	gene			
+KADELANJ_00002	CDS	msrAB		Peptide methionine sulfoxide reductase msrA/msrB
+KADELANJ_00002	gene	msrAB		
+KADELANJ_00003	CDS	radA	3.6.4.-	DNA repair protein RadA
+KADELANJ_00003	gene	radA		
+KADELANJ_00004	CDS			hypothetical protein
+KADELANJ_00004	gene			
+KADELANJ_00005	CDS	iscU		Iron-sulfur cluster assembly scaffold protein IscU
+KADELANJ_00005	gene	iscU		
+KADELANJ_00006	CDS	iscS	2.8.1.7	Cysteine desulfurase IscS
+KADELANJ_00006	gene	iscS		
+KADELANJ_00007	CDS			hypothetical protein
+KADELANJ_00007	gene			
+KADELANJ_00008	CDS			hypothetical protein
+KADELANJ_00008	gene			
+KADELANJ_00009	CDS			hypothetical protein
+KADELANJ_00009	gene			
+KADELANJ_00010	CDS	dxr	1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+KADELANJ_00010	gene	dxr		
+KADELANJ_00011	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+KADELANJ_00011	gene	cdsA		
+KADELANJ_00012	CDS	sdcS		Sodium-dependent dicarboxylate transporter SdcS
+KADELANJ_00012	gene	sdcS		
+KADELANJ_00013	CDS	mnmG		tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+KADELANJ_00013	gene	mnmG		
+KADELANJ_00014	CDS	dapE	3.5.1.18	Succinyl-diaminopimelate desuccinylase
+KADELANJ_00014	gene	dapE		
+KADELANJ_00015	CDS	hcpA	3.5.2.6	Beta-lactamase HcpA
+KADELANJ_00015	gene	hcpA		
+KADELANJ_00016	CDS	htpG		Chaperone protein HtpG
+KADELANJ_00016	gene	htpG		
+KADELANJ_00017	CDS			hypothetical protein
+KADELANJ_00017	gene			
+KADELANJ_00018	CDS			hypothetical protein
+KADELANJ_00018	gene			
+KADELANJ_00019	CDS	gspA		General stress protein A
+KADELANJ_00019	gene	gspA		
+KADELANJ_00020	CDS	apbC		Iron-sulfur cluster carrier protein
+KADELANJ_00020	gene	apbC		
+KADELANJ_00021	CDS			hypothetical protein
+KADELANJ_00021	gene			
+KADELANJ_00022	CDS			hypothetical protein
+KADELANJ_00022	gene			
+KADELANJ_00023	CDS			hypothetical protein
+KADELANJ_00023	gene			
+KADELANJ_00024	CDS			hypothetical protein
+KADELANJ_00024	gene			
+KADELANJ_00025	CDS			hypothetical protein
+KADELANJ_00025	gene			
+KADELANJ_00026	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+KADELANJ_00026	gene	fabH		
+KADELANJ_00027	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+KADELANJ_00027	gene	plsX		
+KADELANJ_00028	CDS	rpmF		50S ribosomal protein L32
+KADELANJ_00028	gene	rpmF		
+KADELANJ_00029	CDS			hypothetical protein
+KADELANJ_00029	gene			
+KADELANJ_00030	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+KADELANJ_00030	gene	ndk		
+KADELANJ_00031	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+KADELANJ_00031	gene	metK		
+KADELANJ_00032	CDS	lpxD	2.3.1.-	UDP-3-O-acylglucosamine N-acyltransferase
+KADELANJ_00032	gene	lpxD		
+KADELANJ_00033	CDS	fabI	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+KADELANJ_00033	gene	fabI		
+KADELANJ_00034	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+KADELANJ_00034	gene	tpiA		
+KADELANJ_00035	CDS	frdC		Fumarate reductase cytochrome b subunit
+KADELANJ_00035	gene	frdC		
+KADELANJ_00036	CDS	frdA	1.3.5.4	Fumarate reductase flavoprotein subunit
+KADELANJ_00036	gene	frdA		
+KADELANJ_00037	CDS	frdB	1.3.5.1	Fumarate reductase iron-sulfur subunit
+KADELANJ_00037	gene	frdB		
+KADELANJ_00038	CDS	clsC	2.7.8.-	Cardiolipin synthase C
+KADELANJ_00038	gene	clsC		
+KADELANJ_00039	CDS			hypothetical protein
+KADELANJ_00039	gene			
+KADELANJ_00040	CDS			hypothetical protein
+KADELANJ_00040	gene			
+KADELANJ_00041	CDS			hypothetical protein
+KADELANJ_00041	gene			
+KADELANJ_00042	CDS			hypothetical protein
+KADELANJ_00042	gene			
+KADELANJ_00043	CDS	zipA		Cell division protein ZipA
+KADELANJ_00043	gene	zipA		
+KADELANJ_00044	CDS			hypothetical protein
+KADELANJ_00044	gene			
+KADELANJ_00045	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+KADELANJ_00045	gene	glyA		
+KADELANJ_00046	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+KADELANJ_00046	gene	lysS		
+KADELANJ_00047	CDS			hypothetical protein
+KADELANJ_00047	gene			
+KADELANJ_00048	CDS	lnt	2.3.1.-	Apolipoprotein N-acyltransferase
+KADELANJ_00048	gene	lnt		
+KADELANJ_00049	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+KADELANJ_00049	gene	lolD		
+KADELANJ_00050	CDS	pseI	2.5.1.97	Pseudaminic acid synthase
+KADELANJ_00050	gene	pseI		
+KADELANJ_00051	CDS	efp		Elongation factor P
+KADELANJ_00051	gene	efp		
+KADELANJ_00052	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+KADELANJ_00052	gene	fba		
+KADELANJ_00053	CDS		5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+KADELANJ_00053	gene			
+KADELANJ_00054	CDS			hypothetical protein
+KADELANJ_00054	gene			
+KADELANJ_00055	CDS			hypothetical protein
+KADELANJ_00055	gene			
+KADELANJ_00056	CDS	moeA	2.10.1.1	Molybdopterin molybdenumtransferase
+KADELANJ_00056	gene	moeA		
+KADELANJ_00057	CDS	prfB		Peptide chain release factor RF2
+KADELANJ_00057	gene	prfB		
+KADELANJ_00058	CDS			hypothetical protein
+KADELANJ_00058	gene			
+KADELANJ_00059	CDS	ydcP	3.4.-.-	putative protease YdcP
+KADELANJ_00059	gene	ydcP		
+KADELANJ_00060	CDS			hypothetical protein
+KADELANJ_00060	gene			
+KADELANJ_00061	CDS			hypothetical protein
+KADELANJ_00061	gene			
+KADELANJ_00062	CDS	arlR		Response regulator ArlR
+KADELANJ_00062	gene	arlR		
+KADELANJ_00063	CDS	kch		Voltage-gated potassium channel Kch
+KADELANJ_00063	gene	kch		
+KADELANJ_00064	CDS	rpmB		50S ribosomal protein L28
+KADELANJ_00064	gene	rpmB		
+KADELANJ_00065	CDS			hypothetical protein
+KADELANJ_00065	gene			
+KADELANJ_00066	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+KADELANJ_00066	gene	mraY		
+KADELANJ_00067	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+KADELANJ_00067	gene	murD		
+KADELANJ_00068	CDS			hypothetical protein
+KADELANJ_00068	gene			
+KADELANJ_00069	CDS	ybgC	3.1.2.-	Acyl-CoA thioesterase YbgC
+KADELANJ_00069	gene	ybgC		
+KADELANJ_00070	CDS			hypothetical protein
+KADELANJ_00070	gene			
+KADELANJ_00071	CDS			hypothetical protein
+KADELANJ_00071	gene			
+KADELANJ_00072	CDS	pldA	3.1.1.32	Phospholipase A1
+KADELANJ_00072	gene	pldA		
+KADELANJ_00073	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+KADELANJ_00073	gene	dnaN		
+KADELANJ_00074	CDS	gyrB	5.99.1.3	Type 2 topoisomerase subunit B
+KADELANJ_00074	gene	gyrB		
+KADELANJ_00075	CDS			hypothetical protein
+KADELANJ_00075	gene			
+KADELANJ_00076	CDS			hypothetical protein
+KADELANJ_00076	gene			
+KADELANJ_00077	CDS			hypothetical protein
+KADELANJ_00077	gene			
+KADELANJ_00078	CDS			hypothetical protein
+KADELANJ_00078	gene			
+KADELANJ_00079	CDS	mepM_1	3.4.24.-	Murein DD-endopeptidase MepM
+KADELANJ_00079	gene	mepM_1		
+KADELANJ_00080	CDS	nudK	3.6.1.-	GDP-mannose pyrophosphatase NudK
+KADELANJ_00080	gene	nudK		
+KADELANJ_00081	CDS	pgbA		Plasminogen-binding protein PgbA
+KADELANJ_00081	gene	pgbA		
+KADELANJ_00082	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+KADELANJ_00082	gene			
+KADELANJ_00083	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+KADELANJ_00083	gene	dapB		
+KADELANJ_00084	CDS			hypothetical protein
+KADELANJ_00084	gene			
+KADELANJ_00085	CDS		5.4.4.3	3-hydroxylaminophenol mutase
+KADELANJ_00085	gene			
+KADELANJ_00086	CDS			hypothetical protein
+KADELANJ_00086	gene			
+KADELANJ_00087	CDS			hypothetical protein
+KADELANJ_00087	gene			
+KADELANJ_00088	CDS	rplI		50S ribosomal protein L9
+KADELANJ_00088	gene	rplI		
+KADELANJ_00089	CDS	hslV	3.4.25.2	ATP-dependent protease subunit HslV
+KADELANJ_00089	gene	hslV		
+KADELANJ_00090	CDS	clpY		ATP-dependent protease ATPase subunit ClpY
+KADELANJ_00090	gene	clpY		
+KADELANJ_00091	CDS	era_1		GTPase Era
+KADELANJ_00091	gene	era_1		
+KADELANJ_00092	CDS			hypothetical protein
+KADELANJ_00092	gene			
+KADELANJ_00093	CDS	hcpB_1	3.5.2.6	Beta-lactamase HcpB
+KADELANJ_00093	gene	hcpB_1		
+KADELANJ_00094	CDS			hypothetical protein
+KADELANJ_00094	gene			
+KADELANJ_00095	CDS			hypothetical protein
+KADELANJ_00095	gene			
+KADELANJ_00096	CDS			hypothetical protein
+KADELANJ_00096	gene			
+KADELANJ_00097	CDS	traG		Conjugal transfer protein TraG
+KADELANJ_00097	gene	traG		
+KADELANJ_00098	CDS			Type IV secretion system protein VirB11
+KADELANJ_00098	gene			
+KADELANJ_00099	CDS			hypothetical protein
+KADELANJ_00099	gene			
+KADELANJ_00100	CDS			Type IV secretion system protein virB10
+KADELANJ_00100	gene			
+KADELANJ_00101	CDS			hypothetical protein
+KADELANJ_00101	gene			
+KADELANJ_00102	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+KADELANJ_00102	gene	argS		
+KADELANJ_00103	CDS	tatA		Sec-independent protein translocase protein TatA
+KADELANJ_00103	gene	tatA		
+KADELANJ_00104	CDS	gmk	2.7.4.8	Guanylate kinase
+KADELANJ_00104	gene	gmk		
+KADELANJ_00105	CDS			hypothetical protein
+KADELANJ_00105	gene			
+KADELANJ_00106	CDS	ywiE	2.7.8.-	putative cardiolipin synthase YwiE
+KADELANJ_00106	gene	ywiE		
+KADELANJ_00107	CDS			hypothetical protein
+KADELANJ_00107	gene			
+KADELANJ_00108	CDS	flgH		Flagellar L-ring protein
+KADELANJ_00108	gene	flgH		
+KADELANJ_00109	CDS	neuA	2.7.7.43	N-acylneuraminate cytidylyltransferase
+KADELANJ_00109	gene	neuA		
+KADELANJ_00110	CDS			hypothetical protein
+KADELANJ_00110	gene			
+KADELANJ_00111	CDS	pseH	2.3.1.202	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine N-acetyltransferase
+KADELANJ_00111	gene	pseH		
+KADELANJ_00112	CDS	lpxK	2.7.1.130	Tetraacyldisaccharide 4'-kinase
+KADELANJ_00112	gene	lpxK		
+KADELANJ_00113	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+KADELANJ_00113	gene	nadE		
+KADELANJ_00114	tRNA			tRNA-Arg(gcg)
+KADELANJ_00114	gene			
+KADELANJ_00115	CDS	ilvC	1.1.1.86	Ketol-acid reductoisomerase (NADP(+))
+KADELANJ_00115	gene	ilvC		
+KADELANJ_00116	CDS	minD		Septum site-determining protein MinD
+KADELANJ_00116	gene	minD		
+KADELANJ_00117	CDS	minE		Cell division topological specificity factor
+KADELANJ_00117	gene	minE		
+KADELANJ_00118	CDS	dprA		DNA processing protein DprA
+KADELANJ_00118	gene	dprA		
+KADELANJ_00119	CDS	yqgF	3.1.-.-	Putative pre-16S rRNA nuclease
+KADELANJ_00119	gene	yqgF		
+KADELANJ_00120	CDS			hypothetical protein
+KADELANJ_00120	gene			
+KADELANJ_00121	CDS	hcpB_2	3.5.2.6	Beta-lactamase HcpB
+KADELANJ_00121	gene	hcpB_2		
+KADELANJ_00122	CDS			hypothetical protein
+KADELANJ_00122	gene			
+KADELANJ_00123	CDS			hypothetical protein
+KADELANJ_00123	gene			
+KADELANJ_00124	CDS			hypothetical protein
+KADELANJ_00124	gene			
+KADELANJ_00125	CDS			hypothetical protein
+KADELANJ_00125	gene			
+KADELANJ_00126	CDS			hypothetical protein
+KADELANJ_00126	gene			
+KADELANJ_00127	CDS			hypothetical protein
+KADELANJ_00127	gene			
+KADELANJ_00128	CDS			hypothetical protein
+KADELANJ_00128	gene			
+KADELANJ_00129	CDS	divIB		Cell division protein DivIB
+KADELANJ_00129	gene	divIB		
+KADELANJ_00130	CDS			hypothetical protein
+KADELANJ_00130	gene			
+KADELANJ_00131	CDS		5.4.99.-	putative RNA pseudouridine synthase
+KADELANJ_00131	gene			
+KADELANJ_00132	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+KADELANJ_00132	gene	recJ		
+KADELANJ_00133	CDS	pyrG	6.3.4.2	CTP synthase
+KADELANJ_00133	gene	pyrG		
+KADELANJ_00134	CDS			hypothetical protein
+KADELANJ_00134	gene			
+KADELANJ_00135	CDS	fliF		Flagellar M-ring protein
+KADELANJ_00135	gene	fliF		
+KADELANJ_00136	CDS	fliG		Flagellar motor switch protein FliG
+KADELANJ_00136	gene	fliG		
+KADELANJ_00137	CDS			hypothetical protein
+KADELANJ_00137	gene			
+KADELANJ_00138	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+KADELANJ_00138	gene	dxs		
+KADELANJ_00139	CDS	lepA	3.6.5.-	Elongation factor 4
+KADELANJ_00139	gene	lepA		
+KADELANJ_00140	CDS			hypothetical protein
+KADELANJ_00140	gene			
+KADELANJ_00141	CDS	ydfG	1.1.1.381	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+KADELANJ_00141	gene	ydfG		
+KADELANJ_00142	CDS			hypothetical protein
+KADELANJ_00142	gene			
+KADELANJ_00143	tRNA			tRNA-Ala(tgc)
+KADELANJ_00143	gene			
+KADELANJ_00144	tRNA			tRNA-Ile(gat)
+KADELANJ_00144	gene			
+KADELANJ_00145	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+KADELANJ_00145	gene	galE		
+KADELANJ_00146	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+KADELANJ_00146	gene	truA		
+KADELANJ_00147	CDS			hypothetical protein
+KADELANJ_00147	gene			
+KADELANJ_00148	CDS	pcm	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+KADELANJ_00148	gene	pcm		
+KADELANJ_00149	CDS	nrdB	1.17.4.1	Ribonucleoside-diphosphate reductase subunit beta
+KADELANJ_00149	gene	nrdB		
+KADELANJ_00150	tRNA			tRNA-Leu(tag)
+KADELANJ_00150	gene			
+KADELANJ_00151	CDS	pseC	2.6.1.92	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase
+KADELANJ_00151	gene	pseC		
+KADELANJ_00152	CDS			hypothetical protein
+KADELANJ_00152	gene			
+KADELANJ_00153	CDS			hypothetical protein
+KADELANJ_00153	gene			
+KADELANJ_00154	CDS			hypothetical protein
+KADELANJ_00154	gene			
+KADELANJ_00155	CDS			hypothetical protein
+KADELANJ_00155	gene			
+KADELANJ_00156	CDS	accC	6.3.4.14	Biotin carboxylase
+KADELANJ_00156	gene	accC		
+KADELANJ_00157	CDS	accB		Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+KADELANJ_00157	gene	accB		
+KADELANJ_00158	CDS	dcd	3.5.4.13	dCTP deaminase
+KADELANJ_00158	gene	dcd		
+KADELANJ_00159	CDS			hypothetical protein
+KADELANJ_00159	gene			
+KADELANJ_00160	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+KADELANJ_00160	gene	rsmE		
+KADELANJ_00161	CDS			hypothetical protein
+KADELANJ_00161	gene			
+KADELANJ_00162	CDS	hemH	4.99.1.1	Ferrochelatase
+KADELANJ_00162	gene	hemH		
+KADELANJ_00163	CDS			hypothetical protein
+KADELANJ_00163	gene			
+KADELANJ_00164	CDS	ccsA		Cytochrome c biogenesis protein CcsA
+KADELANJ_00164	gene	ccsA		
+KADELANJ_00165	CDS			hypothetical protein
+KADELANJ_00165	gene			
+KADELANJ_00166	CDS	bioB	2.8.1.6	Biotin synthase
+KADELANJ_00166	gene	bioB		
+KADELANJ_00167	CDS			hypothetical protein
+KADELANJ_00167	gene			
+KADELANJ_00168	CDS	hsdM	2.1.1.72	Type I restriction enzyme EcoKI M protein
+KADELANJ_00168	gene	hsdM		
+KADELANJ_00169	CDS	hsdR_1	3.1.21.3	Type-1 restriction enzyme R protein
+KADELANJ_00169	gene	hsdR_1		
+KADELANJ_00170	CDS			hypothetical protein
+KADELANJ_00170	gene			
+KADELANJ_00171	CDS	fecA_1		Fe(3+) dicitrate transport protein FecA
+KADELANJ_00171	gene	fecA_1		
+KADELANJ_00172	CDS	rocF	3.5.3.1	Arginase
+KADELANJ_00172	gene	rocF		
+KADELANJ_00173	CDS	ald	1.4.1.1	Alanine dehydrogenase
+KADELANJ_00173	gene	ald		
+KADELANJ_00174	CDS			hypothetical protein
+KADELANJ_00174	gene			
+KADELANJ_00175	CDS			hypothetical protein
+KADELANJ_00175	gene			
+KADELANJ_00176	CDS			hypothetical protein
+KADELANJ_00176	gene			
+KADELANJ_00177	CDS	nadK	2.7.1.23	NAD kinase
+KADELANJ_00177	gene	nadK		
+KADELANJ_00178	CDS	recN		DNA repair protein RecN
+KADELANJ_00178	gene	recN		
+KADELANJ_00179	CDS			hypothetical protein
+KADELANJ_00179	gene			
+KADELANJ_00180	CDS			hypothetical protein
+KADELANJ_00180	gene			
+KADELANJ_00181	CDS			hypothetical protein
+KADELANJ_00181	gene			
+KADELANJ_00182	CDS			hypothetical protein
+KADELANJ_00182	gene			
+KADELANJ_00183	CDS			hypothetical protein
+KADELANJ_00183	gene			
+KADELANJ_00184	CDS			hypothetical protein
+KADELANJ_00184	gene			
+KADELANJ_00185	CDS	polC	2.7.7.7	DNA polymerase III PolC-type
+KADELANJ_00185	gene	polC		
+KADELANJ_00186	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+KADELANJ_00186	gene	rpe		
+KADELANJ_00187	CDS	fbp	3.1.3.11	Fructose-1,6-bisphosphatase class 1
+KADELANJ_00187	gene	fbp		
+KADELANJ_00188	CDS			hypothetical protein
+KADELANJ_00188	gene			
+KADELANJ_00189	CDS			hypothetical protein
+KADELANJ_00189	gene			
+KADELANJ_00190	CDS			hypothetical protein
+KADELANJ_00190	gene			
+KADELANJ_00191	CDS	tyrA_1	1.3.1.12	Prephenate dehydrogenase
+KADELANJ_00191	gene	tyrA_1		
+KADELANJ_00192	CDS	lon	3.4.21.53	Lon protease
+KADELANJ_00192	gene	lon		
+KADELANJ_00193	CDS	bamD		Outer membrane protein assembly factor BamD
+KADELANJ_00193	gene	bamD		
+KADELANJ_00194	CDS	fliW2		Flagellar assembly factor FliW 2
+KADELANJ_00194	gene	fliW2		
+KADELANJ_00195	CDS	fabZ	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+KADELANJ_00195	gene	fabZ		
+KADELANJ_00196	CDS	lpxA	2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+KADELANJ_00196	gene	lpxA		
+KADELANJ_00197	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+KADELANJ_00197	gene	clpX		
+KADELANJ_00198	CDS	mreB		Rod shape-determining protein MreB
+KADELANJ_00198	gene	mreB		
+KADELANJ_00199	CDS			hypothetical protein
+KADELANJ_00199	gene			
+KADELANJ_00200	CDS			hypothetical protein
+KADELANJ_00200	gene			
+KADELANJ_00201	CDS	dpnA_1	2.1.1.72	Modification methylase DpnIIB
+KADELANJ_00201	gene	dpnA_1		
+KADELANJ_00202	CDS			hypothetical protein
+KADELANJ_00202	gene			
+KADELANJ_00203	CDS	rsrIM	2.1.1.72	Modification methylase RsrI
+KADELANJ_00203	gene	rsrIM		
+KADELANJ_00204	CDS	mboIIM	2.1.1.72	Modification methylase MboII
+KADELANJ_00204	gene	mboIIM		
+KADELANJ_00205	CDS	mboIIR	3.1.21.4	Type-2 restriction enzyme MboII
+KADELANJ_00205	gene	mboIIR		
+KADELANJ_00206	CDS	qseB		Transcriptional regulatory protein QseB
+KADELANJ_00206	gene	qseB		
+KADELANJ_00207	CDS	senX3	2.7.13.3	Signal-transduction histidine kinase senX3
+KADELANJ_00207	gene	senX3		
+KADELANJ_00208	CDS	nnr		Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+KADELANJ_00208	gene	nnr		
+KADELANJ_00209	CDS	dnaB	3.6.4.12	Replicative DNA helicase
+KADELANJ_00209	gene	dnaB		
+KADELANJ_00210	CDS			hypothetical protein
+KADELANJ_00210	gene			
+KADELANJ_00211	CDS	plqA	2.5.1.-	4-hydroxybenzoate solanesyltransferase
+KADELANJ_00211	gene	plqA		
+KADELANJ_00212	CDS			hypothetical protein
+KADELANJ_00212	gene			
+KADELANJ_00213	CDS			hypothetical protein
+KADELANJ_00213	gene			
+KADELANJ_00214	CDS	psd	4.1.1.65	Phosphatidylserine decarboxylase proenzyme
+KADELANJ_00214	gene	psd		
+KADELANJ_00215	CDS	nadA	2.5.1.72	Quinolinate synthase A
+KADELANJ_00215	gene	nadA		
+KADELANJ_00216	CDS	nadC	2.4.2.19	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+KADELANJ_00216	gene	nadC		
+KADELANJ_00217	CDS			hypothetical protein
+KADELANJ_00217	gene			
+KADELANJ_00218	CDS			hypothetical protein
+KADELANJ_00218	gene			
+KADELANJ_00219	CDS	dpnA_2	2.1.1.72	Modification methylase DpnIIB
+KADELANJ_00219	gene	dpnA_2		
+KADELANJ_00220	CDS			hypothetical protein
+KADELANJ_00220	gene			
+KADELANJ_00221	CDS	ctpB	3.4.21.102	Carboxy-terminal processing protease CtpB
+KADELANJ_00221	gene	ctpB		
+KADELANJ_00222	CDS			hypothetical protein
+KADELANJ_00222	gene			
+KADELANJ_00223	CDS			hypothetical protein
+KADELANJ_00223	gene			
+KADELANJ_00224	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+KADELANJ_00224	gene	ung		
+KADELANJ_00225	CDS	gapB	1.2.1.59	Glyceraldehyde-3-phosphate dehydrogenase 2
+KADELANJ_00225	gene	gapB		
+KADELANJ_00226	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+KADELANJ_00226	gene	pgk		
+KADELANJ_00227	CDS	corA		Magnesium transport protein CorA
+KADELANJ_00227	gene	corA		
+KADELANJ_00228	CDS			hypothetical protein
+KADELANJ_00228	gene			
+KADELANJ_00229	CDS			hypothetical protein
+KADELANJ_00229	gene			
+KADELANJ_00230	CDS	vapD_1	3.1.-.-	Endoribonuclease VapD
+KADELANJ_00230	gene	vapD_1		
+KADELANJ_00231	CDS			hypothetical protein
+KADELANJ_00231	gene			
+KADELANJ_00232	CDS	yjiA		putative GTP-binding protein YjiA
+KADELANJ_00232	gene	yjiA		
+KADELANJ_00233	CDS			hypothetical protein
+KADELANJ_00233	gene			
+KADELANJ_00234	CDS	pgdA	3.5.1.-	Peptidoglycan deacetylase
+KADELANJ_00234	gene	pgdA		
+KADELANJ_00235	CDS		3.5.1.111	2-oxoglutaramate amidase
+KADELANJ_00235	gene			
+KADELANJ_00236	CDS			hypothetical protein
+KADELANJ_00236	gene			
+KADELANJ_00237	CDS			hypothetical protein
+KADELANJ_00237	gene			
+KADELANJ_00238	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+KADELANJ_00238	gene	hemL		
+KADELANJ_00239	CDS			hypothetical protein
+KADELANJ_00239	gene			
+KADELANJ_00240	CDS			hypothetical protein
+KADELANJ_00240	gene			
+KADELANJ_00241	CDS	obg	3.6.5.-	GTPase Obg
+KADELANJ_00241	gene	obg		
+KADELANJ_00242	CDS	oppF		Oligopeptide transport ATP-binding protein OppF
+KADELANJ_00242	gene	oppF		
+KADELANJ_00243	CDS	oppD		Oligopeptide transport ATP-binding protein OppD
+KADELANJ_00243	gene	oppD		
+KADELANJ_00244	CDS	dppC		Dipeptide transport system permease protein DppC
+KADELANJ_00244	gene	dppC		
+KADELANJ_00245	CDS	dppB		Dipeptide transport system permease protein DppB
+KADELANJ_00245	gene	dppB		
+KADELANJ_00246	CDS	hbpA		Heme-binding protein A
+KADELANJ_00246	gene	hbpA		
+KADELANJ_00247	CDS	rpmA		50S ribosomal protein L27
+KADELANJ_00247	gene	rpmA		
+KADELANJ_00248	CDS	rplU		50S ribosomal protein L21
+KADELANJ_00248	gene	rplU		
+KADELANJ_00249	CDS	flgL		Flagellar hook-associated protein 3
+KADELANJ_00249	gene	flgL		
+KADELANJ_00250	CDS	amiE	3.5.1.4	Aliphatic amidase
+KADELANJ_00250	gene	amiE		
+KADELANJ_00251	CDS	pabB	2.6.1.85	Aminodeoxychorismate synthase component 1
+KADELANJ_00251	gene	pabB		
+KADELANJ_00252	CDS			hypothetical protein
+KADELANJ_00252	gene			
+KADELANJ_00253	CDS	tyrA_2		T-protein
+KADELANJ_00253	gene	tyrA_2		
+KADELANJ_00254	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+KADELANJ_00254	gene	lysA		
+KADELANJ_00255	CDS	vacA_1		Vacuolating cytotoxin autotransporter
+KADELANJ_00255	gene	vacA_1		
+KADELANJ_00256	CDS			hypothetical protein
+KADELANJ_00256	gene			
+KADELANJ_00257	CDS			hypothetical protein
+KADELANJ_00257	gene			
+KADELANJ_00258	CDS	ftsH_1	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+KADELANJ_00258	gene	ftsH_1		
+KADELANJ_00259	CDS	mtaB	2.8.4.5	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+KADELANJ_00259	gene	mtaB		
+KADELANJ_00260	CDS			hypothetical protein
+KADELANJ_00260	gene			
+KADELANJ_00261	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+KADELANJ_00261	gene	aroB		
+KADELANJ_00262	CDS			hypothetical protein
+KADELANJ_00262	gene			
+KADELANJ_00263	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+KADELANJ_00263	gene	tgt		
+KADELANJ_00264	CDS	lpxP	2.3.1.242	Lipid A biosynthesis palmitoleoyltransferase
+KADELANJ_00264	gene	lpxP		
+KADELANJ_00265	CDS	rfaC	2.-.-.-	Lipopolysaccharide heptosyltransferase 1
+KADELANJ_00265	gene	rfaC		
+KADELANJ_00266	CDS	gppA	3.6.1.40	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+KADELANJ_00266	gene	gppA		
+KADELANJ_00267	CDS	fdx		Ferredoxin
+KADELANJ_00267	gene	fdx		
+KADELANJ_00268	CDS			hypothetical protein
+KADELANJ_00268	gene			
+KADELANJ_00269	CDS			hypothetical protein
+KADELANJ_00269	gene			
+KADELANJ_00270	CDS			hypothetical protein
+KADELANJ_00270	gene			
+KADELANJ_00271	CDS			hypothetical protein
+KADELANJ_00271	gene			
+KADELANJ_00272	CDS			hypothetical protein
+KADELANJ_00272	gene			
+KADELANJ_00273	CDS			hypothetical protein
+KADELANJ_00273	gene			
+KADELANJ_00274	CDS			hypothetical protein
+KADELANJ_00274	gene			
+KADELANJ_00275	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+KADELANJ_00275	gene	miaB		
+KADELANJ_00276	CDS			hypothetical protein
+KADELANJ_00276	gene			
+KADELANJ_00277	CDS		3.5.4.4	Adenosine deaminase
+KADELANJ_00277	gene			
+KADELANJ_00278	CDS	pyrC_1	3.5.2.3	Dihydroorotase
+KADELANJ_00278	gene	pyrC_1		
+KADELANJ_00279	CDS	dsbD	1.8.1.8	Thiol:disulfide interchange protein DsbD
+KADELANJ_00279	gene	dsbD		
+KADELANJ_00280	CDS	clpB		Chaperone protein ClpB
+KADELANJ_00280	gene	clpB		
+KADELANJ_00281	CDS	dpnA_3	2.1.1.72	Modification methylase DpnIIB
+KADELANJ_00281	gene	dpnA_3		
+KADELANJ_00282	CDS			hypothetical protein
+KADELANJ_00282	gene			
+KADELANJ_00283	CDS			hypothetical protein
+KADELANJ_00283	gene			
+KADELANJ_00284	CDS			hypothetical protein
+KADELANJ_00284	gene			
+KADELANJ_00285	CDS	xseA_1	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+KADELANJ_00285	gene	xseA_1		
+KADELANJ_00286	CDS	mmpA	3.4.24.-	Metalloprotease MmpA
+KADELANJ_00286	gene	mmpA		
+KADELANJ_00287	CDS			hypothetical protein
+KADELANJ_00287	gene			
+KADELANJ_00288	CDS			hypothetical protein
+KADELANJ_00288	gene			
+KADELANJ_00289	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+KADELANJ_00289	gene	purA		
+KADELANJ_00290	CDS			hypothetical protein
+KADELANJ_00290	gene			
+KADELANJ_00291	CDS			hypothetical protein
+KADELANJ_00291	gene			
+KADELANJ_00292	tRNA			tRNA-Ala(ggc)
+KADELANJ_00292	gene			
+KADELANJ_00293	CDS	yejE		Inner membrane ABC transporter permease protein YejE
+KADELANJ_00293	gene	yejE		
+KADELANJ_00294	CDS	gsiA	3.6.3.-	Glutathione import ATP-binding protein GsiA
+KADELANJ_00294	gene	gsiA		
+KADELANJ_00295	CDS			hypothetical protein
+KADELANJ_00295	gene			
+KADELANJ_00296	CDS	hflC		Modulator of FtsH protease HflC
+KADELANJ_00296	gene	hflC		
+KADELANJ_00297	CDS	rhpA	3.6.4.13	DEAD-box ATP-dependent RNA helicase RhpA
+KADELANJ_00297	gene	rhpA		
+KADELANJ_00298	CDS	flgI		Flagellar P-ring protein
+KADELANJ_00298	gene	flgI		
+KADELANJ_00299	CDS			hypothetical protein
+KADELANJ_00299	gene			
+KADELANJ_00300	CDS	zraS	2.7.13.3	Sensor protein ZraS
+KADELANJ_00300	gene	zraS		
+KADELANJ_00301	CDS	dps	1.16.-.-	DNA protection during starvation protein
+KADELANJ_00301	gene	dps		
+KADELANJ_00302	CDS			hypothetical protein
+KADELANJ_00302	gene			
+KADELANJ_00303	CDS			hypothetical protein
+KADELANJ_00303	gene			
+KADELANJ_00304	CDS	ispB	2.5.1.90	Octaprenyl diphosphate synthase
+KADELANJ_00304	gene	ispB		
+KADELANJ_00305	CDS	hemA	1.2.1.70	Glutamyl-tRNA reductase
+KADELANJ_00305	gene	hemA		
+KADELANJ_00306	CDS	proS	6.1.1.15	Proline--tRNA ligase
+KADELANJ_00306	gene	proS		
+KADELANJ_00307	CDS	hemC	2.5.1.61	Porphobilinogen deaminase
+KADELANJ_00307	gene	hemC		
+KADELANJ_00308	CDS			hypothetical protein
+KADELANJ_00308	gene			
+KADELANJ_00309	CDS	hcpC_1	3.5.2.6	Putative beta-lactamase HcpC
+KADELANJ_00309	gene	hcpC_1		
+KADELANJ_00310	CDS			hypothetical protein
+KADELANJ_00310	gene			
+KADELANJ_00311	CDS	ygiC	6.3.1.-	Putative acid--amine ligase YgiC
+KADELANJ_00311	gene	ygiC		
+KADELANJ_00312	CDS			hypothetical protein
+KADELANJ_00312	gene			
+KADELANJ_00313	CDS			hypothetical protein
+KADELANJ_00313	gene			
+KADELANJ_00314	CDS	kdsB	2.7.7.38	3-deoxy-manno-octulosonate cytidylyltransferase
+KADELANJ_00314	gene	kdsB		
+KADELANJ_00315	CDS			hypothetical protein
+KADELANJ_00315	gene			
+KADELANJ_00316	tRNA			tRNA-Asn(gtt)
+KADELANJ_00316	gene			
+KADELANJ_00317	CDS	bicA		Bicarbonate transporter BicA
+KADELANJ_00317	gene	bicA		
+KADELANJ_00318	tRNA			tRNA-Arg(tct)
+KADELANJ_00318	gene			
+KADELANJ_00319	tRNA			tRNA-Arg(tcg)
+KADELANJ_00319	gene			
+KADELANJ_00320	tRNA			tRNA-His(gtg)
+KADELANJ_00320	gene			
+KADELANJ_00321	tRNA			tRNA-Pro(tgg)
+KADELANJ_00321	gene			
+KADELANJ_00322	CDS			hypothetical protein
+KADELANJ_00322	gene			
+KADELANJ_00323	CDS			hypothetical protein
+KADELANJ_00323	gene			
+KADELANJ_00324	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+KADELANJ_00324	gene	guaA		
+KADELANJ_00325	CDS			hypothetical protein
+KADELANJ_00325	gene			
+KADELANJ_00326	CDS	dorA	1.7.2.3	Dimethyl sulfoxide/trimethylamine N-oxide reductase
+KADELANJ_00326	gene	dorA		
+KADELANJ_00327	CDS			hypothetical protein
+KADELANJ_00327	gene			
+KADELANJ_00328	CDS	csd	2.8.1.7	putative cysteine desulfurase
+KADELANJ_00328	gene	csd		
+KADELANJ_00329	CDS			putative HIT-like protein
+KADELANJ_00329	gene			
+KADELANJ_00330	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+KADELANJ_00330	gene	pheS		
+KADELANJ_00331	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+KADELANJ_00331	gene	pheT		
+KADELANJ_00332	CDS	aroA1	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase 1
+KADELANJ_00332	gene	aroA1		
+KADELANJ_00333	CDS	ispH	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+KADELANJ_00333	gene	ispH		
+KADELANJ_00334	CDS	rpsA		30S ribosomal protein S1
+KADELANJ_00334	gene	rpsA		
+KADELANJ_00335	CDS			hypothetical protein
+KADELANJ_00335	gene			
+KADELANJ_00336	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+KADELANJ_00336	gene	serA		
+KADELANJ_00337	CDS	ubiD	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+KADELANJ_00337	gene	ubiD		
+KADELANJ_00338	CDS			hypothetical protein
+KADELANJ_00338	gene			
+KADELANJ_00339	CDS	lpxH	3.6.1.54	UDP-2,3-diacylglucosamine hydrolase
+KADELANJ_00339	gene	lpxH		
+KADELANJ_00340	CDS	cheV_1		Chemotaxis protein CheV
+KADELANJ_00340	gene	cheV_1		
+KADELANJ_00341	CDS	cheA	2.7.13.3	Chemotaxis protein CheA
+KADELANJ_00341	gene	cheA		
+KADELANJ_00342	CDS	cheW		Chemotaxis protein CheW
+KADELANJ_00342	gene	cheW		
+KADELANJ_00343	CDS	tpx	1.11.1.-	putative thiol peroxidase
+KADELANJ_00343	gene	tpx		
+KADELANJ_00344	CDS	sodB	1.15.1.1	Superoxide dismutase [Fe]
+KADELANJ_00344	gene	sodB		
+KADELANJ_00345	CDS	cmoA	2.1.3.-	Carboxy-S-adenosyl-L-methionine synthase
+KADELANJ_00345	gene	cmoA		
+KADELANJ_00346	CDS	priA	3.6.4.-	Primosomal protein N'
+KADELANJ_00346	gene	priA		
+KADELANJ_00347	CDS			hypothetical protein
+KADELANJ_00347	gene			
+KADELANJ_00348	CDS			hypothetical protein
+KADELANJ_00348	gene			
+KADELANJ_00349	CDS			hypothetical protein
+KADELANJ_00349	gene			
+KADELANJ_00350	CDS			hypothetical protein
+KADELANJ_00350	gene			
+KADELANJ_00351	CDS	htpX_1	3.4.24.-	Protease HtpX
+KADELANJ_00351	gene	htpX_1		
+KADELANJ_00352	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+KADELANJ_00352	gene	prmC		
+KADELANJ_00353	CDS	gdhA	1.4.1.2	NAD(P)-specific glutamate dehydrogenase
+KADELANJ_00353	gene	gdhA		
+KADELANJ_00354	CDS	fucT	2.4.1.152	Alpha-(1,3)-fucosyltransferase FucT
+KADELANJ_00354	gene	fucT		
+KADELANJ_00355	CDS			hypothetical protein
+KADELANJ_00355	gene			
+KADELANJ_00356	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+KADELANJ_00356	gene			
+KADELANJ_00357	CDS	hsdR_2	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+KADELANJ_00357	gene	hsdR_2		
+KADELANJ_00358	CDS			hypothetical protein
+KADELANJ_00358	gene			
+KADELANJ_00359	CDS	ppiB	5.2.1.8	Peptidyl-prolyl cis-trans isomerase B
+KADELANJ_00359	gene	ppiB		
+KADELANJ_00360	CDS	csrA		Carbon storage regulator 
+KADELANJ_00360	gene	csrA		
+KADELANJ_00361	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+KADELANJ_00361	gene	ispE		
+KADELANJ_00362	CDS	smpB		SsrA-binding protein
+KADELANJ_00362	gene	smpB		
+KADELANJ_00363	CDS	exbB_1		Biopolymer transport protein ExbB
+KADELANJ_00363	gene	exbB_1		
+KADELANJ_00364	CDS	exbD_1		Biopolymer transport protein ExbD
+KADELANJ_00364	gene	exbD_1		
+KADELANJ_00365	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+KADELANJ_00365	gene	rnpA		
+KADELANJ_00366	CDS	yidC		Membrane protein insertase YidC
+KADELANJ_00366	gene	yidC		
+KADELANJ_00367	CDS			hypothetical protein
+KADELANJ_00367	gene			
+KADELANJ_00368	CDS	mnmE	3.6.5.-	tRNA modification GTPase MnmE
+KADELANJ_00368	gene	mnmE		
+KADELANJ_00369	CDS			hypothetical protein
+KADELANJ_00369	gene			
+KADELANJ_00370	CDS			hypothetical protein
+KADELANJ_00370	gene			
+KADELANJ_00371	CDS			hypothetical protein
+KADELANJ_00371	gene			
+KADELANJ_00372	CDS			LPP20 lipoprotein
+KADELANJ_00372	gene			
+KADELANJ_00373	CDS			hypothetical protein
+KADELANJ_00373	gene			
+KADELANJ_00374	CDS	trxA_1		Thioredoxin
+KADELANJ_00374	gene	trxA_1		
+KADELANJ_00375	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+KADELANJ_00375	gene	rluB		
+KADELANJ_00376	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+KADELANJ_00376	gene	dnaE		
+KADELANJ_00377	CDS	ccpA	1.11.1.5	Cytochrome c551 peroxidase
+KADELANJ_00377	gene	ccpA		
+KADELANJ_00378	CDS			hypothetical protein
+KADELANJ_00378	gene			
+KADELANJ_00379	CDS			hypothetical protein
+KADELANJ_00379	gene			
+KADELANJ_00380	CDS			hypothetical protein
+KADELANJ_00380	gene			
+KADELANJ_00381	CDS	metN2	3.6.3.-	Methionine import ATP-binding protein MetN 2
+KADELANJ_00381	gene	metN2		
+KADELANJ_00382	CDS	mlaE		putative phospholipid ABC transporter permease protein MlaE
+KADELANJ_00382	gene	mlaE		
+KADELANJ_00383	CDS			hypothetical protein
+KADELANJ_00383	gene			
+KADELANJ_00384	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid transaminase 1
+KADELANJ_00384	gene	ilvE		
+KADELANJ_00385	CDS			hypothetical protein
+KADELANJ_00385	gene			
+KADELANJ_00386	CDS	polA	2.7.7.7	DNA polymerase I, thermostable
+KADELANJ_00386	gene	polA		
+KADELANJ_00387	CDS			hypothetical protein
+KADELANJ_00387	gene			
+KADELANJ_00388	CDS	bcgIB	3.1.21.-	Restriction enzyme BgcI subunit beta
+KADELANJ_00388	gene	bcgIB		
+KADELANJ_00389	CDS	bcgIA	3.1.21.-	Restriction enzyme BgcI subunit alpha
+KADELANJ_00389	gene	bcgIA		
+KADELANJ_00390	CDS			hypothetical protein
+KADELANJ_00390	gene			
+KADELANJ_00391	CDS	tmk	2.7.4.9	Thymidylate kinase
+KADELANJ_00391	gene	tmk		
+KADELANJ_00392	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+KADELANJ_00392	gene	coaD		
+KADELANJ_00393	CDS	ubiX	2.5.1.129	Flavin prenyltransferase UbiX
+KADELANJ_00393	gene	ubiX		
+KADELANJ_00394	CDS			hypothetical protein
+KADELANJ_00394	gene			
+KADELANJ_00395	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+KADELANJ_00395	gene	pcrA		
+KADELANJ_00396	CDS			hypothetical protein
+KADELANJ_00396	gene			
+KADELANJ_00397	CDS	serS	6.1.1.11	Serine--tRNA ligase
+KADELANJ_00397	gene	serS		
+KADELANJ_00398	CDS			hypothetical protein
+KADELANJ_00398	gene			
+KADELANJ_00399	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+KADELANJ_00399	gene	xseB		
+KADELANJ_00400	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+KADELANJ_00400	gene	menG		
+KADELANJ_00401	CDS			hypothetical protein
+KADELANJ_00401	gene			
+KADELANJ_00402	CDS	yigZ		IMPACT family member YigZ
+KADELANJ_00402	gene	yigZ		
+KADELANJ_00403	CDS	ybhS		Inner membrane transport permease YbhS
+KADELANJ_00403	gene	ybhS		
+KADELANJ_00404	CDS			hypothetical protein
+KADELANJ_00404	gene			
+KADELANJ_00405	CDS	mdtN		Multidrug resistance protein MdtN
+KADELANJ_00405	gene	mdtN		
+KADELANJ_00406	CDS			hypothetical protein
+KADELANJ_00406	gene			
+KADELANJ_00407	CDS	corC		Magnesium and cobalt efflux protein CorC
+KADELANJ_00407	gene	corC		
+KADELANJ_00408	CDS	cysP		Sulfate permease CysP
+KADELANJ_00408	gene	cysP		
+KADELANJ_00409	CDS	nfuA		Fe/S biogenesis protein NfuA
+KADELANJ_00409	gene	nfuA		
+KADELANJ_00410	CDS			hypothetical protein
+KADELANJ_00410	gene			
+KADELANJ_00411	CDS	murE	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+KADELANJ_00411	gene	murE		
+KADELANJ_00412	CDS	tal	2.2.1.2	Transaldolase
+KADELANJ_00412	gene	tal		
+KADELANJ_00413	CDS	rplY		50S ribosomal protein L25
+KADELANJ_00413	gene	rplY		
+KADELANJ_00414	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+KADELANJ_00414	gene	pth		
+KADELANJ_00415	CDS			hypothetical protein
+KADELANJ_00415	gene			
+KADELANJ_00416	CDS			hypothetical protein
+KADELANJ_00416	gene			
+KADELANJ_00417	CDS			hypothetical protein
+KADELANJ_00417	gene			
+KADELANJ_00418	CDS			hypothetical protein
+KADELANJ_00418	gene			
+KADELANJ_00419	CDS	copA_1	3.6.3.54	Copper-exporting P-type ATPase A
+KADELANJ_00419	gene	copA_1		
+KADELANJ_00420	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+KADELANJ_00420	gene	yfiC		
+KADELANJ_00421	CDS	ribD		Riboflavin biosynthesis protein RibD
+KADELANJ_00421	gene	ribD		
+KADELANJ_00422	CDS	gltS		Sodium/glutamate symporter
+KADELANJ_00422	gene	gltS		
+KADELANJ_00423	CDS		1.5.1.43	Carboxynorspermidine synthase
+KADELANJ_00423	gene			
+KADELANJ_00424	CDS	yccM		Putative electron transport protein YccM
+KADELANJ_00424	gene	yccM		
+KADELANJ_00425	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+KADELANJ_00425	gene	plsY		
+KADELANJ_00426	CDS			hypothetical protein
+KADELANJ_00426	gene			
+KADELANJ_00427	CDS			hypothetical protein
+KADELANJ_00427	gene			
+KADELANJ_00428	CDS	bhuA_1		Heme transporter BhuA
+KADELANJ_00428	gene	bhuA_1		
+KADELANJ_00429	CDS	selA	2.9.1.1	L-seryl-tRNA(Sec) selenium transferase
+KADELANJ_00429	gene	selA		
+KADELANJ_00430	CDS	nusA		Transcription termination/antitermination protein NusA
+KADELANJ_00430	gene	nusA		
+KADELANJ_00431	CDS			hypothetical protein
+KADELANJ_00431	gene			
+KADELANJ_00432	CDS	paeR7IM	2.1.1.72	Modification methylase PaeR7I
+KADELANJ_00432	gene	paeR7IM		
+KADELANJ_00433	CDS			hypothetical protein
+KADELANJ_00433	gene			
+KADELANJ_00434	CDS			hypothetical protein
+KADELANJ_00434	gene			
+KADELANJ_00435	CDS			hypothetical protein
+KADELANJ_00435	gene			
+KADELANJ_00436	CDS			hypothetical protein
+KADELANJ_00436	gene			
+KADELANJ_00437	CDS			hypothetical protein
+KADELANJ_00437	gene			
+KADELANJ_00438	CDS			hypothetical protein
+KADELANJ_00438	gene			
+KADELANJ_00439	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+KADELANJ_00439	gene	recG		
+KADELANJ_00440	CDS			hypothetical protein
+KADELANJ_00440	gene			
+KADELANJ_00441	CDS			hypothetical protein
+KADELANJ_00441	gene			
+KADELANJ_00442	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+KADELANJ_00442	gene	exoA		
+KADELANJ_00443	tRNA			tRNA-Phe(gaa)
+KADELANJ_00443	gene			
+KADELANJ_00444	CDS			hypothetical protein
+KADELANJ_00444	gene			
+KADELANJ_00445	CDS	dnaA		Chromosomal replication initiator protein DnaA
+KADELANJ_00445	gene	dnaA		
+KADELANJ_00446	CDS	mqnB	3.2.2.26	Futalosine hydrolase
+KADELANJ_00446	gene	mqnB		
+KADELANJ_00447	CDS			hypothetical protein
+KADELANJ_00447	gene			
+KADELANJ_00448	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+KADELANJ_00448	gene	glmS		
+KADELANJ_00449	CDS	thyX	2.1.1.148	Flavin-dependent thymidylate synthase
+KADELANJ_00449	gene	thyX		
+KADELANJ_00450	CDS	xseA_2	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+KADELANJ_00450	gene	xseA_2		
+KADELANJ_00451	CDS	rseP	3.4.24.-	Regulator of sigma-E protease RseP
+KADELANJ_00451	gene	rseP		
+KADELANJ_00452	CDS	ftsZ		Cell division protein FtsZ
+KADELANJ_00452	gene	ftsZ		
+KADELANJ_00453	CDS	ftsA		Cell division protein FtsA
+KADELANJ_00453	gene	ftsA		
+KADELANJ_00454	CDS	ppiD	5.2.1.8	Peptidyl-prolyl cis-trans isomerase D
+KADELANJ_00454	gene	ppiD		
+KADELANJ_00455	CDS	bioA	2.6.1.62	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+KADELANJ_00455	gene	bioA		
+KADELANJ_00456	CDS	gatC	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+KADELANJ_00456	gene	gatC		
+KADELANJ_00457	CDS	gpmI	5.4.2.12	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+KADELANJ_00457	gene	gpmI		
+KADELANJ_00458	CDS			hypothetical protein
+KADELANJ_00458	gene			
+KADELANJ_00459	CDS	glyS	6.1.1.14	Glycine--tRNA ligase beta subunit
+KADELANJ_00459	gene	glyS		
+KADELANJ_00460	CDS			hypothetical protein
+KADELANJ_00460	gene			
+KADELANJ_00461	CDS			hypothetical protein
+KADELANJ_00461	gene			
+KADELANJ_00462	CDS	czcA		Cobalt-zinc-cadmium resistance protein CzcA
+KADELANJ_00462	gene	czcA		
+KADELANJ_00463	CDS			hypothetical protein
+KADELANJ_00463	gene			
+KADELANJ_00464	CDS	vapD_2	3.1.-.-	Endoribonuclease VapD
+KADELANJ_00464	gene	vapD_2		
+KADELANJ_00465	CDS			hypothetical protein
+KADELANJ_00465	gene			
+KADELANJ_00466	CDS	der_1		GTPase Der
+KADELANJ_00466	gene	der_1		
+KADELANJ_00467	CDS			hypothetical protein
+KADELANJ_00467	gene			
+KADELANJ_00468	CDS	era_2		GTPase Era
+KADELANJ_00468	gene	era_2		
+KADELANJ_00469	CDS	acpP_1		Acyl carrier protein
+KADELANJ_00469	gene	acpP_1		
+KADELANJ_00470	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+KADELANJ_00470	gene	gpsA		
+KADELANJ_00471	CDS	glyQ	6.1.1.14	Glycine--tRNA ligase alpha subunit
+KADELANJ_00471	gene	glyQ		
+KADELANJ_00472	CDS		3.5.4.16	GTP cyclohydrolase 1 type 2
+KADELANJ_00472	gene			
+KADELANJ_00473	CDS			hypothetical protein
+KADELANJ_00473	gene			
+KADELANJ_00474	CDS	waaA	2.4.99.12	3-deoxy-D-manno-octulosonic acid transferase
+KADELANJ_00474	gene	waaA		
+KADELANJ_00475	CDS		5.4.99.-	putative RNA pseudouridine synthase
+KADELANJ_00475	gene			
+KADELANJ_00476	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+KADELANJ_00476	gene	lgt		
+KADELANJ_00477	CDS	rdxA	1.-.-.-	Oxygen-insensitive NADPH nitroreductase
+KADELANJ_00477	gene	rdxA		
+KADELANJ_00478	CDS			hypothetical protein
+KADELANJ_00478	gene			
+KADELANJ_00479	CDS	pncC	3.5.1.42	Nicotinamide-nucleotide amidohydrolase PncC
+KADELANJ_00479	gene	pncC		
+KADELANJ_00480	CDS			hypothetical protein
+KADELANJ_00480	gene			
+KADELANJ_00481	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+KADELANJ_00481	gene	accD		
+KADELANJ_00482	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+KADELANJ_00482	gene	rlmH		
+KADELANJ_00483	CDS			hypothetical protein
+KADELANJ_00483	gene			
+KADELANJ_00484	CDS			hypothetical protein
+KADELANJ_00484	gene			
+KADELANJ_00485	CDS	mleN		Malate-2H(+)/Na(+)-lactate antiporter
+KADELANJ_00485	gene	mleN		
+KADELANJ_00486	tRNA			tRNA-Ser(tga)
+KADELANJ_00486	gene			
+KADELANJ_00487	tRNA			tRNA-Cys(gca)
+KADELANJ_00487	gene			
+KADELANJ_00488	tRNA			tRNA-Leu(taa)
+KADELANJ_00488	gene			
+KADELANJ_00489	CDS			hypothetical protein
+KADELANJ_00489	gene			
+KADELANJ_00490	tRNA			tRNA-Gly(gcc)
+KADELANJ_00490	gene			
+KADELANJ_00491	CDS			RutC family protein
+KADELANJ_00491	gene			
+KADELANJ_00492	CDS	dadA	1.4.5.1	D-amino acid dehydrogenase
+KADELANJ_00492	gene	dadA		
+KADELANJ_00493	CDS	alsT		Amino-acid carrier protein AlsT
+KADELANJ_00493	gene	alsT		
+KADELANJ_00494	CDS	alr1	5.1.1.1	Alanine racemase 1
+KADELANJ_00494	gene	alr1		
+KADELANJ_00495	CDS			putative amino-acid ABC transporter-binding protein
+KADELANJ_00495	gene			
+KADELANJ_00496	CDS	tcyB		L-cystine transport system permease protein TcyB
+KADELANJ_00496	gene	tcyB		
+KADELANJ_00497	CDS			hypothetical protein
+KADELANJ_00497	gene			
+KADELANJ_00498	CDS			hypothetical protein
+KADELANJ_00498	gene			
+KADELANJ_00499	CDS	proP		Proline/betaine transporter
+KADELANJ_00499	gene	proP		
+KADELANJ_00500	CDS			hypothetical protein
+KADELANJ_00500	gene			
+KADELANJ_00501	CDS	queE_1	4.3.99.3	7-carboxy-7-deazaguanine synthase
+KADELANJ_00501	gene	queE_1		
+KADELANJ_00502	CDS			hypothetical protein
+KADELANJ_00502	gene			
+KADELANJ_00503	CDS			hypothetical protein
+KADELANJ_00503	gene			
+KADELANJ_00504	CDS	surE	3.1.3.5	5'-nucleotidase SurE
+KADELANJ_00504	gene	surE		
+KADELANJ_00505	CDS		2.5.1.10	Farnesyl diphosphate synthase
+KADELANJ_00505	gene			
+KADELANJ_00506	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+KADELANJ_00506	gene	folE		
+KADELANJ_00507	CDS	htpX_2	3.4.24.-	Protease HtpX 
+KADELANJ_00507	gene	htpX_2		
+KADELANJ_00508	CDS	truD	5.4.99.27	tRNA pseudouridine synthase D
+KADELANJ_00508	gene	truD		
+KADELANJ_00509	CDS	recR		Recombination protein RecR
+KADELANJ_00509	gene	recR		
+KADELANJ_00510	CDS		5.3.2.-	putative tautomerase
+KADELANJ_00510	gene			
+KADELANJ_00511	CDS			hypothetical protein
+KADELANJ_00511	gene			
+KADELANJ_00512	CDS			hypothetical protein
+KADELANJ_00512	gene			
+KADELANJ_00513	CDS			hypothetical protein
+KADELANJ_00513	gene			
+KADELANJ_00514	CDS	lolC		Lipoprotein-releasing system transmembrane protein LolC
+KADELANJ_00514	gene	lolC		
+KADELANJ_00515	CDS	secA		Protein translocase subunit SecA
+KADELANJ_00515	gene	secA		
+KADELANJ_00516	CDS	lolA		Outer-membrane lipoprotein carrier protein
+KADELANJ_00516	gene	lolA		
+KADELANJ_00517	tmRNA	ssrA		transfer-messenger RNA, SsrA
+KADELANJ_00517	gene	ssrA		
+KADELANJ_00518	CDS			hypothetical protein
+KADELANJ_00518	gene			
+KADELANJ_00519	CDS			hypothetical protein
+KADELANJ_00519	gene			
+KADELANJ_00520	CDS			hypothetical protein
+KADELANJ_00520	gene			
+KADELANJ_00521	CDS			hypothetical protein
+KADELANJ_00521	gene			
+KADELANJ_00522	CDS	acnB	4.2.1.3	Aconitate hydratase B
+KADELANJ_00522	gene	acnB		
+KADELANJ_00523	CDS	mqnA	4.2.1.151	Chorismate dehydratase
+KADELANJ_00523	gene	mqnA		
+KADELANJ_00524	CDS	pyrH	2.7.4.22	Uridylate kinase
+KADELANJ_00524	gene	pyrH		
+KADELANJ_00525	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+KADELANJ_00525	gene	rpoZ		
+KADELANJ_00526	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+KADELANJ_00526	gene	relA		
+KADELANJ_00527	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+KADELANJ_00527	gene	tyrS		
+KADELANJ_00528	CDS	pyrD_1	1.3.-.-	Dihydroorotate dehydrogenase
+KADELANJ_00528	gene	pyrD_1		
+KADELANJ_00529	CDS	amiC	3.5.1.28	N-acetylmuramoyl-L-alanine amidase AmiC
+KADELANJ_00529	gene	amiC		
+KADELANJ_00530	CDS			hypothetical protein
+KADELANJ_00530	gene			
+KADELANJ_00531	CDS	flhB_1		Flagellar biosynthetic protein FlhB
+KADELANJ_00531	gene	flhB_1		
+KADELANJ_00532	CDS	mobA	2.7.7.77	putative molybdenum cofactor guanylyltransferase
+KADELANJ_00532	gene	mobA		
+KADELANJ_00533	CDS	moaA	4.1.99.22	GTP 3',8-cyclase
+KADELANJ_00533	gene	moaA		
+KADELANJ_00534	CDS			hypothetical protein
+KADELANJ_00534	gene			
+KADELANJ_00535	CDS			hypothetical protein
+KADELANJ_00535	gene			
+KADELANJ_00536	CDS			hypothetical protein
+KADELANJ_00536	gene			
+KADELANJ_00537	CDS	ftsY		Signal recognition particle receptor FtsY
+KADELANJ_00537	gene	ftsY		
+KADELANJ_00538	CDS			hypothetical protein
+KADELANJ_00538	gene			
+KADELANJ_00539	CDS			hypothetical protein
+KADELANJ_00539	gene			
+KADELANJ_00540	CDS	rny	3.1.-.-	Ribonuclease Y
+KADELANJ_00540	gene	rny		
+KADELANJ_00541	CDS	yeeO		putative FMN/FAD exporter YeeO
+KADELANJ_00541	gene	yeeO		
+KADELANJ_00542	CDS			hypothetical protein
+KADELANJ_00542	gene			
+KADELANJ_00543	CDS		3.5.1.77	N-carbamoyl-D-amino acid hydrolase
+KADELANJ_00543	gene			
+KADELANJ_00544	CDS			hypothetical protein
+KADELANJ_00544	gene			
+KADELANJ_00545	CDS	tcdA	6.1.-.-	tRNA threonylcarbamoyladenosine dehydratase
+KADELANJ_00545	gene	tcdA		
+KADELANJ_00546	CDS			hypothetical protein
+KADELANJ_00546	gene			
+KADELANJ_00547	CDS	fliS		Flagellar protein FliS
+KADELANJ_00547	gene	fliS		
+KADELANJ_00548	CDS	fliD		Flagellar hook-associated protein 2
+KADELANJ_00548	gene	fliD		
+KADELANJ_00549	CDS			hypothetical protein
+KADELANJ_00549	gene			
+KADELANJ_00550	CDS			hypothetical protein
+KADELANJ_00550	gene			
+KADELANJ_00551	CDS			hypothetical protein
+KADELANJ_00551	gene			
+KADELANJ_00552	CDS	ftsE		Cell division ATP-binding protein FtsE
+KADELANJ_00552	gene	ftsE		
+KADELANJ_00553	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+KADELANJ_00553	gene	trmB		
+KADELANJ_00554	CDS			hypothetical protein
+KADELANJ_00554	gene			
+KADELANJ_00555	CDS	rluD	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+KADELANJ_00555	gene	rluD		
+KADELANJ_00556	CDS	rsgA	3.6.1.-	Putative ribosome biogenesis GTPase RsgA
+KADELANJ_00556	gene	rsgA		
+KADELANJ_00557	CDS			hypothetical protein
+KADELANJ_00557	gene			
+KADELANJ_00558	tRNA			tRNA-Met(cat)
+KADELANJ_00558	gene			
+KADELANJ_00559	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+KADELANJ_00559	gene	prs		
+KADELANJ_00560	CDS		2.7.7.53	AP-4-A phosphorylase
+KADELANJ_00560	gene			
+KADELANJ_00561	CDS	murF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KADELANJ_00561	gene	murF		
+KADELANJ_00562	CDS	menH	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+KADELANJ_00562	gene	menH		
+KADELANJ_00563	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+KADELANJ_00563	gene	ddl		
+KADELANJ_00564	CDS	pgpA	3.1.3.27	Phosphatidylglycerophosphatase A
+KADELANJ_00564	gene	pgpA		
+KADELANJ_00565	CDS		2.6.1.51	Serine-pyruvate aminotransferase
+KADELANJ_00565	gene			
+KADELANJ_00566	CDS	gpt	2.4.2.22	Xanthine phosphoribosyltransferase
+KADELANJ_00566	gene	gpt		
+KADELANJ_00567	CDS	rimO	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+KADELANJ_00567	gene	rimO		
+KADELANJ_00568	CDS			hypothetical protein
+KADELANJ_00568	gene			
+KADELANJ_00569	CDS			hypothetical protein
+KADELANJ_00569	gene			
+KADELANJ_00570	CDS			hypothetical protein
+KADELANJ_00570	gene			
+KADELANJ_00571	CDS			hypothetical protein
+KADELANJ_00571	gene			
+KADELANJ_00572	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+KADELANJ_00572	gene	tilS		
+KADELANJ_00573	CDS	dusC	1.3.1.-	tRNA-dihydrouridine(16) synthase
+KADELANJ_00573	gene	dusC		
+KADELANJ_00574	CDS			hypothetical protein
+KADELANJ_00574	gene			
+KADELANJ_00575	CDS			hypothetical protein
+KADELANJ_00575	gene			
+KADELANJ_00576	CDS			hypothetical protein
+KADELANJ_00576	gene			
+KADELANJ_00577	CDS			hypothetical protein
+KADELANJ_00577	gene			
+KADELANJ_00578	CDS			hypothetical protein
+KADELANJ_00578	gene			
+KADELANJ_00579	CDS	cagT		CAG pathogenicity island protein 12
+KADELANJ_00579	gene	cagT		
+KADELANJ_00580	CDS			hypothetical protein
+KADELANJ_00580	gene			
+KADELANJ_00581	CDS	cagS		CAG pathogenicity island protein 13
+KADELANJ_00581	gene	cagS		
+KADELANJ_00582	CDS			hypothetical protein
+KADELANJ_00582	gene			
+KADELANJ_00583	CDS			hypothetical protein
+KADELANJ_00583	gene			
+KADELANJ_00584	CDS			hypothetical protein
+KADELANJ_00584	gene			
+KADELANJ_00585	CDS			hypothetical protein
+KADELANJ_00585	gene			
+KADELANJ_00586	CDS			hypothetical protein
+KADELANJ_00586	gene			
+KADELANJ_00587	CDS			hypothetical protein
+KADELANJ_00587	gene			
+KADELANJ_00588	CDS			hypothetical protein
+KADELANJ_00588	gene			
+KADELANJ_00589	CDS			hypothetical protein
+KADELANJ_00589	gene			
+KADELANJ_00590	CDS	virB4_1		Type IV secretion system protein virB4
+KADELANJ_00590	gene	virB4_1		
+KADELANJ_00591	CDS			hypothetical protein
+KADELANJ_00591	gene			
+KADELANJ_00592	CDS			hypothetical protein
+KADELANJ_00592	gene			
+KADELANJ_00593	CDS			hypothetical protein
+KADELANJ_00593	gene			
+KADELANJ_00594	CDS	cagA		Cytotoxicity-associated immunodominant antigen
+KADELANJ_00594	gene	cagA		
+KADELANJ_00595	CDS			hypothetical protein
+KADELANJ_00595	gene			
+KADELANJ_00596	CDS			hypothetical protein
+KADELANJ_00596	gene			
+KADELANJ_00597	CDS	murI	5.1.1.3	Glutamate racemase
+KADELANJ_00597	gene	murI		
+KADELANJ_00598	CDS	rho	3.6.4.-	Transcription termination factor Rho
+KADELANJ_00598	gene	rho		
+KADELANJ_00599	CDS	rpmE		50S ribosomal protein L31
+KADELANJ_00599	gene	rpmE		
+KADELANJ_00600	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+KADELANJ_00600	gene	rsmI		
+KADELANJ_00601	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+KADELANJ_00601	gene			
+KADELANJ_00602	CDS			hypothetical protein
+KADELANJ_00602	gene			
+KADELANJ_00603	CDS			hypothetical protein
+KADELANJ_00603	gene			
+KADELANJ_00604	CDS			hypothetical protein
+KADELANJ_00604	gene			
+KADELANJ_00605	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+KADELANJ_00605	gene	accA		
+KADELANJ_00606	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+KADELANJ_00606	gene	fabF		
+KADELANJ_00607	CDS	acpP_2		Acyl carrier protein
+KADELANJ_00607	gene	acpP_2		
+KADELANJ_00608	CDS	fabG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+KADELANJ_00608	gene	fabG		
+KADELANJ_00609	CDS	rpsU		30S ribosomal protein S21
+KADELANJ_00609	gene	rpsU		
+KADELANJ_00610	CDS			hypothetical protein
+KADELANJ_00610	gene			
+KADELANJ_00611	CDS			hypothetical protein
+KADELANJ_00611	gene			
+KADELANJ_00612	CDS	rclC		Inner membrane protein RclC
+KADELANJ_00612	gene	rclC		
+KADELANJ_00613	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+KADELANJ_00613	gene	dapF		
+KADELANJ_00614	CDS			hypothetical protein
+KADELANJ_00614	gene			
+KADELANJ_00615	CDS			hypothetical protein
+KADELANJ_00615	gene			
+KADELANJ_00616	CDS			hypothetical protein
+KADELANJ_00616	gene			
+KADELANJ_00617	CDS	pqqE		Coenzyme PQQ synthesis protein E
+KADELANJ_00617	gene	pqqE		
+KADELANJ_00618	CDS	ychF		Ribosome-binding ATPase YchF
+KADELANJ_00618	gene	ychF		
+KADELANJ_00619	CDS	pepA	3.4.11.1	Cytosol aminopeptidase
+KADELANJ_00619	gene	pepA		
+KADELANJ_00620	CDS	yohD_1		Inner membrane protein YohD
+KADELANJ_00620	gene	yohD_1		
+KADELANJ_00621	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+KADELANJ_00621	gene	apt		
+KADELANJ_00622	CDS			hypothetical protein
+KADELANJ_00622	gene			
+KADELANJ_00623	CDS	ywlF	5.3.1.-	Putative sugar phosphate isomerase YwlF
+KADELANJ_00623	gene	ywlF		
+KADELANJ_00624	CDS			hypothetical protein
+KADELANJ_00624	gene			
+KADELANJ_00625	CDS	lepB	3.4.21.89	Signal peptidase I
+KADELANJ_00625	gene	lepB		
+KADELANJ_00626	CDS	folD		Bifunctional protein FolD protein
+KADELANJ_00626	gene	folD		
+KADELANJ_00627	CDS	mdoB	2.7.8.20	Phosphoglycerol transferase I
+KADELANJ_00627	gene	mdoB		
+KADELANJ_00628	CDS			hypothetical protein
+KADELANJ_00628	gene			
+KADELANJ_00629	CDS			hypothetical protein
+KADELANJ_00629	gene			
+KADELANJ_00630	CDS	pyrC_2	3.5.2.3	Dihydroorotase
+KADELANJ_00630	gene	pyrC_2		
+KADELANJ_00631	CDS			hypothetical protein
+KADELANJ_00631	gene			
+KADELANJ_00632	CDS			hypothetical protein
+KADELANJ_00632	gene			
+KADELANJ_00633	CDS	fliN_1		Flagellar motor switch protein FliN
+KADELANJ_00633	gene	fliN_1		
+KADELANJ_00634	CDS	nth_1	4.2.99.18	Endonuclease III
+KADELANJ_00634	gene	nth_1		
+KADELANJ_00635	CDS	feoA		Putative Fe(2+) transport protein A
+KADELANJ_00635	gene	feoA		
+KADELANJ_00636	CDS			hypothetical protein
+KADELANJ_00636	gene			
+KADELANJ_00637	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+KADELANJ_00637	gene	mltG		
+KADELANJ_00638	CDS	hydA_1	1.12.7.2	Periplasmic [Fe] hydrogenase large subunit
+KADELANJ_00638	gene	hydA_1		
+KADELANJ_00639	CDS	korA	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+KADELANJ_00639	gene	korA		
+KADELANJ_00640	CDS	korB	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+KADELANJ_00640	gene	korB		
+KADELANJ_00641	CDS			hypothetical protein
+KADELANJ_00641	gene			
+KADELANJ_00642	CDS			hypothetical protein
+KADELANJ_00642	gene			
+KADELANJ_00643	CDS			hypothetical protein
+KADELANJ_00643	gene			
+KADELANJ_00644	CDS			hypothetical protein
+KADELANJ_00644	gene			
+KADELANJ_00645	CDS	dsbB		Disulfide bond formation protein B
+KADELANJ_00645	gene	dsbB		
+KADELANJ_00646	CDS			hypothetical protein
+KADELANJ_00646	gene			
+KADELANJ_00647	CDS	mrcA		Penicillin-binding protein 1A
+KADELANJ_00647	gene	mrcA		
+KADELANJ_00648	CDS	bioF	2.3.1.47	8-amino-7-oxononanoate synthase 2
+KADELANJ_00648	gene	bioF		
+KADELANJ_00649	CDS	mcpU		Methyl-accepting chemotaxis protein McpU
+KADELANJ_00649	gene	mcpU		
+KADELANJ_00650	CDS			putative ABC transporter ATP-binding protein
+KADELANJ_00650	gene			
+KADELANJ_00651	CDS			hypothetical protein
+KADELANJ_00651	gene			
+KADELANJ_00652	CDS	flaA		Flagellin A
+KADELANJ_00652	gene	flaA		
+KADELANJ_00653	CDS	nth_2	4.2.99.18	Endonuclease III
+KADELANJ_00653	gene	nth_2		
+KADELANJ_00654	CDS			hypothetical protein
+KADELANJ_00654	gene			
+KADELANJ_00655	CDS	hemE	4.1.1.37	Uroporphyrinogen decarboxylase
+KADELANJ_00655	gene	hemE		
+KADELANJ_00656	CDS			hypothetical protein
+KADELANJ_00656	gene			
+KADELANJ_00657	CDS	czcB		Cobalt-zinc-cadmium resistance protein CzcB
+KADELANJ_00657	gene	czcB		
+KADELANJ_00658	CDS	mdtC		Multidrug resistance protein MdtC
+KADELANJ_00658	gene	mdtC		
+KADELANJ_00659	CDS			hypothetical protein
+KADELANJ_00659	gene			
+KADELANJ_00660	CDS	vacA_2		Vacuolating cytotoxin autotransporter
+KADELANJ_00660	gene	vacA_2		
+KADELANJ_00661	CDS			hypothetical protein
+KADELANJ_00661	gene			
+KADELANJ_00662	CDS	yxdL		ABC transporter ATP-binding protein YxdL
+KADELANJ_00662	gene	yxdL		
+KADELANJ_00663	CDS			hypothetical protein
+KADELANJ_00663	gene			
+KADELANJ_00664	CDS	ligA	6.5.1.2	DNA ligase
+KADELANJ_00664	gene	ligA		
+KADELANJ_00665	CDS	cheV_2		Chemotaxis protein CheV
+KADELANJ_00665	gene	cheV_2		
+KADELANJ_00666	CDS	aspS	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+KADELANJ_00666	gene	aspS		
+KADELANJ_00667	CDS	adk	2.7.4.3	Adenylate kinase
+KADELANJ_00667	gene	adk		
+KADELANJ_00668	CDS			hypothetical protein
+KADELANJ_00668	gene			
+KADELANJ_00669	CDS			hypothetical protein
+KADELANJ_00669	gene			
+KADELANJ_00670	CDS	ppa	3.6.1.1	Inorganic pyrophosphatase
+KADELANJ_00670	gene	ppa		
+KADELANJ_00671	CDS	mutS2	3.1.-.-	Endonuclease MutS2
+KADELANJ_00671	gene	mutS2		
+KADELANJ_00672	CDS			hypothetical protein
+KADELANJ_00672	gene			
+KADELANJ_00673	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+KADELANJ_00673	gene	murC		
+KADELANJ_00674	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+KADELANJ_00674	gene	dapL		
+KADELANJ_00675	CDS	ispG	1.17.7.3	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+KADELANJ_00675	gene	ispG		
+KADELANJ_00676	CDS	dapD	2.3.1.117	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+KADELANJ_00676	gene	dapD		
+KADELANJ_00677	CDS	hcpD_1	3.5.2.6	Putative beta-lactamase HcpD
+KADELANJ_00677	gene	hcpD_1		
+KADELANJ_00678	CDS			hypothetical protein
+KADELANJ_00678	gene			
+KADELANJ_00679	CDS	mdaB		Modulator of drug activity B
+KADELANJ_00679	gene	mdaB		
+KADELANJ_00680	CDS	hydA_2	1.12.5.1	Quinone-reactive Ni/Fe-hydrogenase small chain
+KADELANJ_00680	gene	hydA_2		
+KADELANJ_00681	CDS	hydB	1.12.5.1	Quinone-reactive Ni/Fe-hydrogenase large chain
+KADELANJ_00681	gene	hydB		
+KADELANJ_00682	CDS	hydC		Quinone-reactive Ni/Fe-hydrogenase B-type cytochrome subunit
+KADELANJ_00682	gene	hydC		
+KADELANJ_00683	CDS	hybD	3.4.23.-	Hydrogenase 2 maturation protease
+KADELANJ_00683	gene	hybD		
+KADELANJ_00684	CDS			hypothetical protein
+KADELANJ_00684	gene			
+KADELANJ_00685	CDS			hypothetical protein
+KADELANJ_00685	gene			
+KADELANJ_00686	CDS			hypothetical protein
+KADELANJ_00686	gene			
+KADELANJ_00687	CDS			hypothetical protein
+KADELANJ_00687	gene			
+KADELANJ_00688	CDS	queC	6.3.4.20	7-cyano-7-deazaguanine synthase
+KADELANJ_00688	gene	queC		
+KADELANJ_00689	CDS	cca	2.7.7.72	CCA-adding enzyme
+KADELANJ_00689	gene	cca		
+KADELANJ_00690	CDS			hypothetical protein
+KADELANJ_00690	gene			
+KADELANJ_00691	CDS	yfkO	1.-.-.-	Putative NAD(P)H nitroreductase YfkO
+KADELANJ_00691	gene	yfkO		
+KADELANJ_00692	CDS	gltX1	6.1.1.17	Glutamate--tRNA ligase 1
+KADELANJ_00692	gene	gltX1		
+KADELANJ_00693	CDS			hypothetical protein
+KADELANJ_00693	gene			
+KADELANJ_00694	CDS	slt	4.2.2.-	Soluble lytic murein transglycosylase
+KADELANJ_00694	gene	slt		
+KADELANJ_00695	CDS	gtaB	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+KADELANJ_00695	gene	gtaB		
+KADELANJ_00696	CDS			hypothetical protein
+KADELANJ_00696	gene			
+KADELANJ_00697	CDS	murA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+KADELANJ_00697	gene	murA		
+KADELANJ_00698	CDS	aspA	4.3.1.1	Aspartate ammonia-lyase
+KADELANJ_00698	gene	aspA		
+KADELANJ_00699	CDS			hypothetical protein
+KADELANJ_00699	gene			
+KADELANJ_00700	CDS			hypothetical protein
+KADELANJ_00700	gene			
+KADELANJ_00701	CDS			hypothetical protein
+KADELANJ_00701	gene			
+KADELANJ_00702	CDS			hypothetical protein
+KADELANJ_00702	gene			
+KADELANJ_00703	CDS			hypothetical protein
+KADELANJ_00703	gene			
+KADELANJ_00704	CDS			hypothetical protein
+KADELANJ_00704	gene			
+KADELANJ_00705	CDS	pepF1	3.4.24.-	Oligoendopeptidase F, plasmid
+KADELANJ_00705	gene	pepF1		
+KADELANJ_00706	CDS	kefC		Glutathione-regulated potassium-efflux system protein KefC
+KADELANJ_00706	gene	kefC		
+KADELANJ_00707	CDS			hypothetical protein
+KADELANJ_00707	gene			
+KADELANJ_00708	CDS	modA		Molybdate-binding periplasmic protein
+KADELANJ_00708	gene	modA		
+KADELANJ_00709	CDS	modB		Molybdenum transport system permease protein ModB
+KADELANJ_00709	gene	modB		
+KADELANJ_00710	CDS	potA	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+KADELANJ_00710	gene	potA		
+KADELANJ_00711	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+KADELANJ_00711	gene	gltX		
+KADELANJ_00712	CDS			hypothetical protein
+KADELANJ_00712	gene			
+KADELANJ_00713	CDS	yafQ_1	3.1.-.-	mRNA interferase YafQ
+KADELANJ_00713	gene	yafQ_1		
+KADELANJ_00714	CDS			hypothetical protein
+KADELANJ_00714	gene			
+KADELANJ_00715	CDS	yafQ_2	3.1.-.-	mRNA interferase YafQ
+KADELANJ_00715	gene	yafQ_2		
+KADELANJ_00716	CDS			hypothetical protein
+KADELANJ_00716	gene			
+KADELANJ_00717	CDS		1.-.-.-	putative oxidoreductase
+KADELANJ_00717	gene			
+KADELANJ_00718	CDS	hmuU		Hemin transport system permease protein HmuU
+KADELANJ_00718	gene	hmuU		
+KADELANJ_00719	CDS			putative ABC transporter ATP-binding protein
+KADELANJ_00719	gene			
+KADELANJ_00720	CDS	vacA_3		Vacuolating cytotoxin autotransporter
+KADELANJ_00720	gene	vacA_3		
+KADELANJ_00721	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+KADELANJ_00721	gene	cysS		
+KADELANJ_00722	CDS	murJ		Lipid II flippase MurJ
+KADELANJ_00722	gene	murJ		
+KADELANJ_00723	CDS			hypothetical protein
+KADELANJ_00723	gene			
+KADELANJ_00724	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+KADELANJ_00724	gene	ruvA		
+KADELANJ_00725	CDS			hypothetical protein
+KADELANJ_00725	gene			
+KADELANJ_00726	CDS			hypothetical protein
+KADELANJ_00726	gene			
+KADELANJ_00727	CDS			hypothetical protein
+KADELANJ_00727	gene			
+KADELANJ_00728	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+KADELANJ_00728	gene	ruvC		
+KADELANJ_00729	CDS	tdhA		TonB-dependent heme receptor A
+KADELANJ_00729	gene	tdhA		
+KADELANJ_00730	CDS	katA	1.11.1.6	Catalase
+KADELANJ_00730	gene	katA		
+KADELANJ_00731	CDS			hypothetical protein
+KADELANJ_00731	gene			
+KADELANJ_00732	CDS			hypothetical protein
+KADELANJ_00732	gene			
+KADELANJ_00733	CDS			hypothetical protein
+KADELANJ_00733	gene			
+KADELANJ_00734	CDS	cdh	3.6.1.26	CDP-diacylglycerol pyrophosphatase
+KADELANJ_00734	gene	cdh		
+KADELANJ_00735	CDS	flgE_1		Flagellar hook protein FlgE
+KADELANJ_00735	gene	flgE_1		
+KADELANJ_00736	CDS	hypA		Hydrogenase/urease nickel incorporation protein HypA
+KADELANJ_00736	gene	hypA		
+KADELANJ_00737	CDS			hypothetical protein
+KADELANJ_00737	gene			
+KADELANJ_00738	CDS	lpxB	2.4.1.182	Lipid-A-disaccharide synthase
+KADELANJ_00738	gene	lpxB		
+KADELANJ_00739	CDS	greA		Transcription elongation factor GreA
+KADELANJ_00739	gene	greA		
+KADELANJ_00740	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+KADELANJ_00740	gene	dut		
+KADELANJ_00741	CDS			hypothetical protein
+KADELANJ_00741	gene			
+KADELANJ_00742	CDS	pgbB		Plasminogen-binding protein PgbB
+KADELANJ_00742	gene	pgbB		
+KADELANJ_00743	CDS	coaX	2.7.1.33	Type III pantothenate kinase
+KADELANJ_00743	gene	coaX		
+KADELANJ_00744	CDS			hypothetical protein
+KADELANJ_00744	gene			
+KADELANJ_00745	CDS	gmhB	3.1.3.82	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+KADELANJ_00745	gene	gmhB		
+KADELANJ_00746	CDS	hldD	5.1.3.20	ADP-L-glycero-D-manno-heptose-6-epimerase
+KADELANJ_00746	gene	hldD		
+KADELANJ_00747	CDS	hldE		Bifunctional protein HldE
+KADELANJ_00747	gene	hldE		
+KADELANJ_00748	CDS	gmhA1	5.3.1.28	Phosphoheptose isomerase 1
+KADELANJ_00748	gene	gmhA1		
+KADELANJ_00749	CDS			hypothetical protein
+KADELANJ_00749	gene			
+KADELANJ_00750	CDS	patA	2.3.1.-	Peptidoglycan O-acetyltransferase
+KADELANJ_00750	gene	patA		
+KADELANJ_00751	CDS	guaC	1.7.1.7	GMP reductase
+KADELANJ_00751	gene	guaC		
+KADELANJ_00752	CDS	ybiT		putative ABC transporter ATP-binding protein YbiT
+KADELANJ_00752	gene	ybiT		
+KADELANJ_00753	CDS			hypothetical protein
+KADELANJ_00753	gene			
+KADELANJ_00754	CDS			hypothetical protein
+KADELANJ_00754	gene			
+KADELANJ_00755	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+KADELANJ_00755	gene			
+KADELANJ_00756	CDS			hypothetical protein
+KADELANJ_00756	gene			
+KADELANJ_00757	CDS			hypothetical protein
+KADELANJ_00757	gene			
+KADELANJ_00758	CDS			hypothetical protein
+KADELANJ_00758	gene			
+KADELANJ_00759	CDS	rplS		50S ribosomal protein L19
+KADELANJ_00759	gene	rplS		
+KADELANJ_00760	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+KADELANJ_00760	gene	trmD		
+KADELANJ_00761	CDS	rimM		Ribosome maturation factor RimM
+KADELANJ_00761	gene	rimM		
+KADELANJ_00762	CDS			hypothetical protein
+KADELANJ_00762	gene			
+KADELANJ_00763	CDS	rpsP		30S ribosomal protein S16
+KADELANJ_00763	gene	rpsP		
+KADELANJ_00764	CDS	ffh		Signal recognition particle protein
+KADELANJ_00764	gene	ffh		
+KADELANJ_00765	CDS	valS	6.1.1.9	Valine--tRNA ligase
+KADELANJ_00765	gene	valS		
+KADELANJ_00766	CDS	fliW1		Flagellar assembly factor FliW 1
+KADELANJ_00766	gene	fliW1		
+KADELANJ_00767	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+KADELANJ_00767	gene	murG		
+KADELANJ_00768	CDS			hypothetical protein
+KADELANJ_00768	gene			
+KADELANJ_00769	CDS			hypothetical protein
+KADELANJ_00769	gene			
+KADELANJ_00770	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+KADELANJ_00770	gene	proC		
+KADELANJ_00771	CDS		2.7.7.-	Adenosine monophosphate-protein transferase NmFic
+KADELANJ_00771	gene			
+KADELANJ_00772	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+KADELANJ_00772	gene	ybeY		
+KADELANJ_00773	CDS	fldA		Flavodoxin
+KADELANJ_00773	gene	fldA		
+KADELANJ_00774	CDS	yohD_2		Inner membrane protein YohD
+KADELANJ_00774	gene	yohD_2		
+KADELANJ_00775	CDS			hypothetical protein
+KADELANJ_00775	gene			
+KADELANJ_00776	CDS		1.18.1.2	Ferredoxin--NADP reductase
+KADELANJ_00776	gene			
+KADELANJ_00777	CDS			hypothetical protein
+KADELANJ_00777	gene			
+KADELANJ_00778	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+KADELANJ_00778	gene	pgi		
+KADELANJ_00779	CDS			hypothetical protein
+KADELANJ_00779	gene			
+KADELANJ_00780	CDS	cstA		Carbon starvation protein A
+KADELANJ_00780	gene	cstA		
+KADELANJ_00781	CDS	glnP_1		Glutamine transport system permease protein GlnP
+KADELANJ_00781	gene	glnP_1		
+KADELANJ_00782	CDS	glnP_2		Glutamine transport system permease protein GlnP
+KADELANJ_00782	gene	glnP_2		
+KADELANJ_00783	CDS	artM		Arginine transport ATP-binding protein ArtM
+KADELANJ_00783	gene	artM		
+KADELANJ_00784	CDS	glnH		ABC transporter glutamine-binding protein GlnH
+KADELANJ_00784	gene	glnH		
+KADELANJ_00785	CDS			hypothetical protein
+KADELANJ_00785	gene			
+KADELANJ_00786	CDS	fucP		L-fucose-proton symporter
+KADELANJ_00786	gene	fucP		
+KADELANJ_00787	CDS	adeQ		Adenine permease AdeQ
+KADELANJ_00787	gene	adeQ		
+KADELANJ_00788	CDS			hypothetical protein
+KADELANJ_00788	gene			
+KADELANJ_00789	CDS	deoD	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+KADELANJ_00789	gene	deoD		
+KADELANJ_00790	CDS	deoB	5.4.2.7	Phosphopentomutase
+KADELANJ_00790	gene	deoB		
+KADELANJ_00791	CDS	nupX		Putative nucleoside permease NupX
+KADELANJ_00791	gene	nupX		
+KADELANJ_00792	tRNA			tRNA-Met(cat)
+KADELANJ_00792	gene			
+KADELANJ_00793	CDS	yajR		Inner membrane transport protein YajR
+KADELANJ_00793	gene	yajR		
+KADELANJ_00794	CDS	ttcA		tRNA 2-thiocytidine biosynthesis protein TtcA
+KADELANJ_00794	gene	ttcA		
+KADELANJ_00795	CDS			hypothetical protein
+KADELANJ_00795	gene			
+KADELANJ_00796	CDS	mepA		Multidrug export protein MepA
+KADELANJ_00796	gene	mepA		
+KADELANJ_00797	CDS	sotB		Sugar efflux transporter B
+KADELANJ_00797	gene	sotB		
+KADELANJ_00798	CDS	cah	4.2.1.1	Carbonic anhydrase
+KADELANJ_00798	gene	cah		
+KADELANJ_00799	CDS			hypothetical protein
+KADELANJ_00799	gene			
+KADELANJ_00800	CDS	hemB	4.2.1.24	Delta-aminolevulinic acid dehydratase
+KADELANJ_00800	gene	hemB		
+KADELANJ_00801	CDS			putative transcriptional regulatory protein
+KADELANJ_00801	gene			
+KADELANJ_00802	CDS	hcpD_2	3.5.2.6	Putative beta-lactamase HcpD
+KADELANJ_00802	gene	hcpD_2		
+KADELANJ_00803	CDS			hypothetical protein
+KADELANJ_00803	gene			
+KADELANJ_00804	CDS			hypothetical protein
+KADELANJ_00804	gene			
+KADELANJ_00805	CDS	aroK	2.7.1.71	Shikimate kinase
+KADELANJ_00805	gene	aroK		
+KADELANJ_00806	CDS			hypothetical protein
+KADELANJ_00806	gene			
+KADELANJ_00807	CDS			hypothetical protein
+KADELANJ_00807	gene			
+KADELANJ_00808	CDS	eno	4.2.1.11	Enolase
+KADELANJ_00808	gene	eno		
+KADELANJ_00809	CDS	recA		Protein RecA
+KADELANJ_00809	gene	recA		
+KADELANJ_00810	CDS	mqnD	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+KADELANJ_00810	gene	mqnD		
+KADELANJ_00811	CDS			hypothetical protein
+KADELANJ_00811	gene			
+KADELANJ_00812	CDS			hypothetical protein
+KADELANJ_00812	gene			
+KADELANJ_00813	CDS			hypothetical protein
+KADELANJ_00813	gene			
+KADELANJ_00814	CDS			hypothetical protein
+KADELANJ_00814	gene			
+KADELANJ_00815	CDS			hypothetical protein
+KADELANJ_00815	gene			
+KADELANJ_00816	CDS	ccoP		Cbb3-type cytochrome c oxidase subunit CcoP
+KADELANJ_00816	gene	ccoP		
+KADELANJ_00817	CDS			hypothetical protein
+KADELANJ_00817	gene			
+KADELANJ_00818	CDS			hypothetical protein
+KADELANJ_00818	gene			
+KADELANJ_00819	CDS	ccoN1	1.9.3.1	Cbb3-type cytochrome c oxidase subunit CcoN1
+KADELANJ_00819	gene	ccoN1		
+KADELANJ_00820	CDS	citT_1		Citrate carrier
+KADELANJ_00820	gene	citT_1		
+KADELANJ_00821	CDS	citT_2		Citrate carrier
+KADELANJ_00821	gene	citT_2		
+KADELANJ_00822	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+KADELANJ_00822	gene	mutY		
+KADELANJ_00823	CDS	lldP_1		L-lactate permease
+KADELANJ_00823	gene	lldP_1		
+KADELANJ_00824	CDS	lldP_2		L-lactate permease
+KADELANJ_00824	gene	lldP_2		
+KADELANJ_00825	CDS	lutA		Lactate utilization protein A
+KADELANJ_00825	gene	lutA		
+KADELANJ_00826	CDS	lutB		Lactate utilization protein B
+KADELANJ_00826	gene	lutB		
+KADELANJ_00827	CDS	lutC		Lactate utilization protein C
+KADELANJ_00827	gene	lutC		
+KADELANJ_00828	CDS	bcp	1.11.1.15	Putative peroxiredoxin bcp
+KADELANJ_00828	gene	bcp		
+KADELANJ_00829	CDS			hypothetical protein
+KADELANJ_00829	gene			
+KADELANJ_00830	CDS	aroH	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+KADELANJ_00830	gene	aroH		
+KADELANJ_00831	CDS	sdaC		Serine transporter
+KADELANJ_00831	gene	sdaC		
+KADELANJ_00832	CDS	sdaA	4.3.1.17	L-serine dehydratase 1
+KADELANJ_00832	gene	sdaA		
+KADELANJ_00833	CDS			hypothetical protein
+KADELANJ_00833	gene			
+KADELANJ_00834	CDS			hypothetical protein
+KADELANJ_00834	gene			
+KADELANJ_00835	CDS			hypothetical protein
+KADELANJ_00835	gene			
+KADELANJ_00836	CDS	rplT		50S ribosomal protein L20
+KADELANJ_00836	gene	rplT		
+KADELANJ_00837	CDS	rpmI		50S ribosomal protein L35
+KADELANJ_00837	gene	rpmI		
+KADELANJ_00838	CDS	infC		Translation initiation factor IF-3
+KADELANJ_00838	gene	infC		
+KADELANJ_00839	CDS	thrZ	6.1.1.3	Threonine--tRNA ligase 2
+KADELANJ_00839	gene	thrZ		
+KADELANJ_00840	CDS	ppsA	2.7.9.2	Phosphoenolpyruvate synthase
+KADELANJ_00840	gene	ppsA		
+KADELANJ_00841	CDS			hypothetical protein
+KADELANJ_00841	gene			
+KADELANJ_00842	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+KADELANJ_00842	gene	asd		
+KADELANJ_00843	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+KADELANJ_00843	gene	hisS		
+KADELANJ_00844	CDS	rfaF	2.-.-.-	ADP-heptose--LPS heptosyltransferase 2
+KADELANJ_00844	gene	rfaF		
+KADELANJ_00845	CDS			hypothetical protein
+KADELANJ_00845	gene			
+KADELANJ_00846	CDS	yhdN	1.1.1.-	General stress protein 69
+KADELANJ_00846	gene	yhdN		
+KADELANJ_00847	CDS	fusA		Elongation factor G
+KADELANJ_00847	gene	fusA		
+KADELANJ_00848	CDS	rpsG		30S ribosomal protein S7
+KADELANJ_00848	gene	rpsG		
+KADELANJ_00849	CDS	rpsL		30S ribosomal protein S12
+KADELANJ_00849	gene	rpsL		
+KADELANJ_00850	CDS	rpoBC	2.7.7.6	Bifunctional DNA-directed RNA polymerase subunit beta-beta'
+KADELANJ_00850	gene	rpoBC		
+KADELANJ_00851	CDS	rplL		50S ribosomal protein L7/L12
+KADELANJ_00851	gene	rplL		
+KADELANJ_00852	CDS	rplJ		50S ribosomal protein L10
+KADELANJ_00852	gene	rplJ		
+KADELANJ_00853	CDS	rplA		50S ribosomal protein L1
+KADELANJ_00853	gene	rplA		
+KADELANJ_00854	CDS	rplK		50S ribosomal protein L11
+KADELANJ_00854	gene	rplK		
+KADELANJ_00855	CDS	nusG		Transcription termination/antitermination protein NusG
+KADELANJ_00855	gene	nusG		
+KADELANJ_00856	CDS			hypothetical protein
+KADELANJ_00856	gene			
+KADELANJ_00857	tRNA			tRNA-Trp(cca)
+KADELANJ_00857	gene			
+KADELANJ_00858	CDS	rpmG2		50S ribosomal protein L33 2
+KADELANJ_00858	gene	rpmG2		
+KADELANJ_00859	CDS	tufA		Elongation factor Tu
+KADELANJ_00859	gene	tufA		
+KADELANJ_00860	tRNA			tRNA-Thr(ggt)
+KADELANJ_00860	gene			
+KADELANJ_00861	tRNA			tRNA-Gly(tcc)
+KADELANJ_00861	gene			
+KADELANJ_00862	tRNA			tRNA-Tyr(gta)
+KADELANJ_00862	gene			
+KADELANJ_00863	tRNA			tRNA-Thr(tgt)
+KADELANJ_00863	gene			
+KADELANJ_00864	CDS	hepA		Heterocyst differentiation ATP-binding protein HepA
+KADELANJ_00864	gene	hepA		
+KADELANJ_00865	CDS			hypothetical protein
+KADELANJ_00865	gene			
+KADELANJ_00866	CDS	fokIM	2.1.1.72	Modification methylase FokI
+KADELANJ_00866	gene	fokIM		
+KADELANJ_00867	CDS			hypothetical protein
+KADELANJ_00867	gene			
+KADELANJ_00868	CDS	cysE	2.3.1.30	Serine acetyltransferase
+KADELANJ_00868	gene	cysE		
+KADELANJ_00869	tRNA			tRNA-Leu(caa)
+KADELANJ_00869	gene			
+KADELANJ_00870	tRNA			tRNA-Leu(gag)
+KADELANJ_00870	gene			
+KADELANJ_00871	CDS	atpE		ATP synthase subunit c
+KADELANJ_00871	gene	atpE		
+KADELANJ_00872	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+KADELANJ_00872	gene	pnp		
+KADELANJ_00873	CDS			hypothetical protein
+KADELANJ_00873	gene			
+KADELANJ_00874	CDS	lptD		LPS-assembly protein LptD
+KADELANJ_00874	gene	lptD		
+KADELANJ_00875	CDS			hypothetical protein
+KADELANJ_00875	gene			
+KADELANJ_00876	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+KADELANJ_00876	gene	purD		
+KADELANJ_00877	CDS	ytrB		ABC transporter ATP-binding protein YtrB
+KADELANJ_00877	gene	ytrB		
+KADELANJ_00878	CDS	uppS	2.5.1.-	Isoprenyl transferase
+KADELANJ_00878	gene	uppS		
+KADELANJ_00879	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+KADELANJ_00879	gene			
+KADELANJ_00880	CDS	glpE	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+KADELANJ_00880	gene	glpE		
+KADELANJ_00881	CDS			hypothetical protein
+KADELANJ_00881	gene			
+KADELANJ_00882	CDS	crcB		Putative fluoride ion transporter CrcB
+KADELANJ_00882	gene	crcB		
+KADELANJ_00883	CDS	hemN_1	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+KADELANJ_00883	gene	hemN_1		
+KADELANJ_00884	CDS			Cytochrome c-553
+KADELANJ_00884	gene			
+KADELANJ_00885	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+KADELANJ_00885	gene	rppH		
+KADELANJ_00886	CDS	lysC	2.7.2.4	Aspartate kinase Ask_LysC
+KADELANJ_00886	gene	lysC		
+KADELANJ_00887	CDS			hypothetical protein
+KADELANJ_00887	gene			
+KADELANJ_00888	CDS			hypothetical protein
+KADELANJ_00888	gene			
+KADELANJ_00889	CDS	folP		Bifunctional dihydropteroate synthase/dihydropteroate reductase
+KADELANJ_00889	gene	folP		
+KADELANJ_00890	CDS			hypothetical protein
+KADELANJ_00890	gene			
+KADELANJ_00891	CDS			hypothetical protein
+KADELANJ_00891	gene			
+KADELANJ_00892	CDS			hypothetical protein
+KADELANJ_00892	gene			
+KADELANJ_00893	CDS			hypothetical protein
+KADELANJ_00893	gene			
+KADELANJ_00894	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+KADELANJ_00894	gene	carA		
+KADELANJ_00895	CDS	amiF	3.5.1.49	Formamidase
+KADELANJ_00895	gene	amiF		
+KADELANJ_00896	CDS	maf		Septum formation protein Maf
+KADELANJ_00896	gene	maf		
+KADELANJ_00897	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+KADELANJ_00897	gene	alaS		
+KADELANJ_00898	CDS			hypothetical protein
+KADELANJ_00898	gene			
+KADELANJ_00899	tRNA			tRNA-Pro(ggg)
+KADELANJ_00899	gene			
+KADELANJ_00900	CDS	ppk	2.7.4.1	Polyphosphate kinase
+KADELANJ_00900	gene	ppk		
+KADELANJ_00901	CDS	pyrD_2	1.3.5.2	Dihydroorotate dehydrogenase (quinone)
+KADELANJ_00901	gene	pyrD_2		
+KADELANJ_00902	CDS		3.4.24.-	putative zinc protease
+KADELANJ_00902	gene			
+KADELANJ_00903	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+KADELANJ_00903	gene	dapA		
+KADELANJ_00904	CDS	fabL	1.3.1.104	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabL
+KADELANJ_00904	gene	fabL		
+KADELANJ_00905	CDS			hypothetical protein
+KADELANJ_00905	gene			
+KADELANJ_00906	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+KADELANJ_00906	gene	pgsA		
+KADELANJ_00907	CDS	rocE		Amino-acid permease RocE
+KADELANJ_00907	gene	rocE		
+KADELANJ_00908	CDS	degP	3.4.21.107	Periplasmic serine endoprotease DegP
+KADELANJ_00908	gene	degP		
+KADELANJ_00909	CDS	ispDF		Bifunctional enzyme IspD/IspF
+KADELANJ_00909	gene	ispDF		
+KADELANJ_00910	CDS			hypothetical protein
+KADELANJ_00910	gene			
+KADELANJ_00911	CDS	xni	3.1.-.-	Flap endonuclease Xni
+KADELANJ_00911	gene	xni		
+KADELANJ_00912	CDS			hypothetical protein
+KADELANJ_00912	gene			
+KADELANJ_00913	CDS	cbpA		Curved DNA-binding protein
+KADELANJ_00913	gene	cbpA		
+KADELANJ_00914	CDS	hspR		Putative heat shock protein HspR
+KADELANJ_00914	gene	hspR		
+KADELANJ_00915	CDS			putative AAA domain-containing protein
+KADELANJ_00915	gene			
+KADELANJ_00916	CDS	fur		Ferric uptake regulation protein
+KADELANJ_00916	gene	fur		
+KADELANJ_00917	CDS			hypothetical protein
+KADELANJ_00917	gene			
+KADELANJ_00918	CDS			hypothetical protein
+KADELANJ_00918	gene			
+KADELANJ_00919	CDS	fliN_2		Flagellar motor switch protein FliN
+KADELANJ_00919	gene	fliN_2		
+KADELANJ_00920	CDS	fliM		Flagellar motor switch protein FliM
+KADELANJ_00920	gene	fliM		
+KADELANJ_00921	CDS	fliA		RNA polymerase sigma factor FliA
+KADELANJ_00921	gene	fliA		
+KADELANJ_00922	CDS			hypothetical protein
+KADELANJ_00922	gene			
+KADELANJ_00923	CDS	ylxH		Flagellum site-determining protein YlxH
+KADELANJ_00923	gene	ylxH		
+KADELANJ_00924	CDS	flhF		Flagellar biosynthesis protein FlhF
+KADELANJ_00924	gene	flhF		
+KADELANJ_00925	CDS	folK	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+KADELANJ_00925	gene	folK		
+KADELANJ_00926	CDS		3.4.11.-	Aminopeptidase
+KADELANJ_00926	gene			
+KADELANJ_00927	CDS	aroQ	4.2.1.10	3-dehydroquinate dehydratase
+KADELANJ_00927	gene	aroQ		
+KADELANJ_00928	CDS			hypothetical protein
+KADELANJ_00928	gene			
+KADELANJ_00929	CDS	rpsO		30S ribosomal protein S15
+KADELANJ_00929	gene	rpsO		
+KADELANJ_00930	CDS	flhA		Flagellar biosynthesis protein FlhA
+KADELANJ_00930	gene	flhA		
+KADELANJ_00931	CDS		3.1.4.17	3',5'-cyclic-nucleotide phosphodiesterase
+KADELANJ_00931	gene			
+KADELANJ_00932	CDS	cusR		Transcriptional regulatory protein CusR
+KADELANJ_00932	gene	cusR		
+KADELANJ_00933	CDS	cpdA	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+KADELANJ_00933	gene	cpdA		
+KADELANJ_00934	CDS	acsA	6.2.1.1	Acetyl-coenzyme A synthetase
+KADELANJ_00934	gene	acsA		
+KADELANJ_00935	CDS	rimP		Ribosome maturation factor RimP
+KADELANJ_00935	gene	rimP		
+KADELANJ_00936	CDS	rbfA		Ribosome-binding factor A
+KADELANJ_00936	gene	rbfA		
+KADELANJ_00937	CDS	infB		Translation initiation factor IF-2
+KADELANJ_00937	gene	infB		
+KADELANJ_00938	CDS			hypothetical protein
+KADELANJ_00938	gene			
+KADELANJ_00939	CDS	thrB	2.7.1.39	Homoserine kinase
+KADELANJ_00939	gene	thrB		
+KADELANJ_00940	CDS			hypothetical protein
+KADELANJ_00940	gene			
+KADELANJ_00941	CDS	lpxC	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+KADELANJ_00941	gene	lpxC		
+KADELANJ_00942	CDS	minC		putative septum site-determining protein MinC
+KADELANJ_00942	gene	minC		
+KADELANJ_00943	CDS			hypothetical protein
+KADELANJ_00943	gene			
+KADELANJ_00944	CDS			hypothetical protein
+KADELANJ_00944	gene			
+KADELANJ_00945	CDS			hypothetical protein
+KADELANJ_00945	gene			
+KADELANJ_00946	CDS			hypothetical protein
+KADELANJ_00946	gene			
+KADELANJ_00947	CDS	panB	2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase
+KADELANJ_00947	gene	panB		
+KADELANJ_00948	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+KADELANJ_00948	gene	ruvB		
+KADELANJ_00949	CDS	tatB		Sec-independent protein translocase protein TatB
+KADELANJ_00949	gene	tatB		
+KADELANJ_00950	CDS	tatC		Sec-independent protein translocase protein TatC
+KADELANJ_00950	gene	tatC		
+KADELANJ_00951	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+KADELANJ_00951	gene	queA		
+KADELANJ_00952	CDS	rsmG	2.1.1.170	Ribosomal RNA small subunit methyltransferase G
+KADELANJ_00952	gene	rsmG		
+KADELANJ_00953	CDS			hypothetical protein
+KADELANJ_00953	gene			
+KADELANJ_00954	CDS			hypothetical protein
+KADELANJ_00954	gene			
+KADELANJ_00955	tRNA			tRNA-Ser(gga)
+KADELANJ_00955	gene			
+KADELANJ_00956	CDS			hypothetical protein
+KADELANJ_00956	gene			
+KADELANJ_00957	CDS	cheY		Chemotaxis protein CheY 
+KADELANJ_00957	gene	cheY		
+KADELANJ_00958	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+KADELANJ_00958	gene	prmA		
+KADELANJ_00959	CDS	ftsH_2	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+KADELANJ_00959	gene	ftsH_2		
+KADELANJ_00960	CDS	pcs	2.7.8.24	Phosphatidylcholine synthase
+KADELANJ_00960	gene	pcs		
+KADELANJ_00961	CDS	copA_2	3.6.3.54	Copper-exporting P-type ATPase A
+KADELANJ_00961	gene	copA_2		
+KADELANJ_00962	CDS	copP		COP-associated protein
+KADELANJ_00962	gene	copP		
+KADELANJ_00963	CDS			hypothetical protein
+KADELANJ_00963	gene			
+KADELANJ_00964	CDS			hypothetical protein
+KADELANJ_00964	gene			
+KADELANJ_00965	CDS			hypothetical protein
+KADELANJ_00965	gene			
+KADELANJ_00966	CDS	nixA		High-affinity nickel-transport protein NixA
+KADELANJ_00966	gene	nixA		
+KADELANJ_00967	CDS			hypothetical protein
+KADELANJ_00967	gene			
+KADELANJ_00968	CDS		3.6.1.-	ATP/GTP phosphatase
+KADELANJ_00968	gene			
+KADELANJ_00969	CDS			hypothetical protein
+KADELANJ_00969	gene			
+KADELANJ_00970	CDS			hypothetical protein
+KADELANJ_00970	gene			
+KADELANJ_00971	CDS	msbA	3.6.3.-	Lipid A export ATP-binding/permease protein MsbA
+KADELANJ_00971	gene	msbA		
+KADELANJ_00972	CDS			hypothetical protein
+KADELANJ_00972	gene			
+KADELANJ_00973	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+KADELANJ_00973	gene	pyrB		
+KADELANJ_00974	CDS			hypothetical protein
+KADELANJ_00974	gene			
+KADELANJ_00975	CDS	tlyA	2.1.1.226	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+KADELANJ_00975	gene	tlyA		
+KADELANJ_00976	CDS	ribF		Riboflavin biosynthesis protein RibF
+KADELANJ_00976	gene	ribF		
+KADELANJ_00977	CDS	tkt	2.2.1.1	Transketolase
+KADELANJ_00977	gene	tkt		
+KADELANJ_00978	CDS			hypothetical protein
+KADELANJ_00978	gene			
+KADELANJ_00979	CDS	spoIIIE		DNA translocase SpoIIIE
+KADELANJ_00979	gene	spoIIIE		
+KADELANJ_00980	CDS	kgtP		Alpha-ketoglutarate permease
+KADELANJ_00980	gene	kgtP		
+KADELANJ_00981	CDS	flgG_1		Flagellar basal-body rod protein FlgG
+KADELANJ_00981	gene	flgG_1		
+KADELANJ_00982	CDS			hypothetical protein
+KADELANJ_00982	gene			
+KADELANJ_00983	CDS			hypothetical protein
+KADELANJ_00983	gene			
+KADELANJ_00984	CDS	smc_1		Chromosome partition protein Smc
+KADELANJ_00984	gene	smc_1		
+KADELANJ_00985	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+KADELANJ_00985	gene	fmt		
+KADELANJ_00986	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+KADELANJ_00986	gene	birA		
+KADELANJ_00987	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+KADELANJ_00987	gene	soj		
+KADELANJ_00988	CDS	parB		putative chromosome-partitioning protein ParB
+KADELANJ_00988	gene	parB		
+KADELANJ_00989	CDS	atpF_1		ATP synthase subunit b, sodium ion specific
+KADELANJ_00989	gene	atpF_1		
+KADELANJ_00990	CDS	atpF_2		ATP synthase subunit b
+KADELANJ_00990	gene	atpF_2		
+KADELANJ_00991	CDS	atpD_1		ATP synthase subunit delta
+KADELANJ_00991	gene	atpD_1		
+KADELANJ_00992	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+KADELANJ_00992	gene	atpA		
+KADELANJ_00993	CDS	atpG		ATP synthase gamma chain
+KADELANJ_00993	gene	atpG		
+KADELANJ_00994	CDS	atpD_2	3.6.3.14	ATP synthase subunit beta
+KADELANJ_00994	gene	atpD_2		
+KADELANJ_00995	CDS	atpC		ATP synthase epsilon chain
+KADELANJ_00995	gene	atpC		
+KADELANJ_00996	CDS	exbB_2		Biopolymer transport protein ExbB
+KADELANJ_00996	gene	exbB_2		
+KADELANJ_00997	CDS	exbD_2		Biopolymer transport protein ExbD
+KADELANJ_00997	gene	exbD_2		
+KADELANJ_00998	CDS			hypothetical protein
+KADELANJ_00998	gene			
+KADELANJ_00999	CDS	tolB		Protein TolB
+KADELANJ_00999	gene	tolB		
+KADELANJ_01000	CDS	pal		Outer membrane protein P6
+KADELANJ_01000	gene	pal		
+KADELANJ_01001	CDS			hypothetical protein
+KADELANJ_01001	gene			
+KADELANJ_01002	CDS	slyD	5.2.1.8	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+KADELANJ_01002	gene	slyD		
+KADELANJ_01003	CDS			hypothetical protein
+KADELANJ_01003	gene			
+KADELANJ_01004	CDS			hypothetical protein
+KADELANJ_01004	gene			
+KADELANJ_01005	CDS	hhaIM	2.1.1.37	Modification methylase HhaI
+KADELANJ_01005	gene	hhaIM		
+KADELANJ_01006	CDS			hypothetical protein
+KADELANJ_01006	gene			
+KADELANJ_01007	CDS	flgK		Flagellar hook-associated protein 1
+KADELANJ_01007	gene	flgK		
+KADELANJ_01008	CDS	ggt	2.3.2.2	Gamma-glutamyltranspeptidase
+KADELANJ_01008	gene	ggt		
+KADELANJ_01009	CDS	esiB		Secretory immunoglobulin A-binding protein EsiB
+KADELANJ_01009	gene	esiB		
+KADELANJ_01010	CDS			hypothetical protein
+KADELANJ_01010	gene			
+KADELANJ_01011	CDS	topA_1	5.99.1.2	DNA topoisomerase 1
+KADELANJ_01011	gene	topA_1		
+KADELANJ_01012	CDS	ptlC		Type IV secretion system protein PtlC
+KADELANJ_01012	gene	ptlC		
+KADELANJ_01013	CDS			hypothetical protein
+KADELANJ_01013	gene			
+KADELANJ_01014	CDS			hypothetical protein
+KADELANJ_01014	gene			
+KADELANJ_01015	CDS			hypothetical protein
+KADELANJ_01015	gene			
+KADELANJ_01016	CDS			hypothetical protein
+KADELANJ_01016	gene			
+KADELANJ_01017	CDS			hypothetical protein
+KADELANJ_01017	gene			
+KADELANJ_01018	CDS			hypothetical protein
+KADELANJ_01018	gene			
+KADELANJ_01019	CDS			hypothetical protein
+KADELANJ_01019	gene			
+KADELANJ_01020	CDS			hypothetical protein
+KADELANJ_01020	gene			
+KADELANJ_01021	CDS			hypothetical protein
+KADELANJ_01021	gene			
+KADELANJ_01022	CDS			hypothetical protein
+KADELANJ_01022	gene			
+KADELANJ_01023	CDS			hypothetical protein
+KADELANJ_01023	gene			
+KADELANJ_01024	CDS			hypothetical protein
+KADELANJ_01024	gene			
+KADELANJ_01025	CDS			hypothetical protein
+KADELANJ_01025	gene			
+KADELANJ_01026	CDS			hypothetical protein
+KADELANJ_01026	gene			
+KADELANJ_01027	CDS			hypothetical protein
+KADELANJ_01027	gene			
+KADELANJ_01028	CDS			hypothetical protein
+KADELANJ_01028	gene			
+KADELANJ_01029	CDS			hypothetical protein
+KADELANJ_01029	gene			
+KADELANJ_01030	CDS			hypothetical protein
+KADELANJ_01030	gene			
+KADELANJ_01031	CDS			hypothetical protein
+KADELANJ_01031	gene			
+KADELANJ_01032	CDS			hypothetical protein
+KADELANJ_01032	gene			
+KADELANJ_01033	CDS	virB4_2		Type IV secretion system protein virB4
+KADELANJ_01033	gene	virB4_2		
+KADELANJ_01034	CDS			hypothetical protein
+KADELANJ_01034	gene			
+KADELANJ_01035	CDS			hypothetical protein
+KADELANJ_01035	gene			
+KADELANJ_01036	CDS	exbD_3		Biopolymer transport protein ExbD
+KADELANJ_01036	gene	exbD_3		
+KADELANJ_01037	CDS	exbB_3		Biopolymer transport protein ExbB
+KADELANJ_01037	gene	exbB_3		
+KADELANJ_01038	CDS			Putative nickel-responsive regulator
+KADELANJ_01038	gene			
+KADELANJ_01039	CDS	nadD	2.7.7.18	putative nicotinate-nucleotide adenylyltransferase
+KADELANJ_01039	gene	nadD		
+KADELANJ_01040	CDS			hypothetical protein
+KADELANJ_01040	gene			
+KADELANJ_01041	CDS	mnmA_1	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+KADELANJ_01041	gene	mnmA_1		
+KADELANJ_01042	CDS			hypothetical protein
+KADELANJ_01042	gene			
+KADELANJ_01043	CDS			hypothetical protein
+KADELANJ_01043	gene			
+KADELANJ_01044	CDS	dnaJ		Chaperone protein DnaJ
+KADELANJ_01044	gene	dnaJ		
+KADELANJ_01045	CDS	ygaZ		Inner membrane protein YgaZ
+KADELANJ_01045	gene	ygaZ		
+KADELANJ_01046	CDS			hypothetical protein
+KADELANJ_01046	gene			
+KADELANJ_01047	CDS	cusA		Cation efflux system protein CusA
+KADELANJ_01047	gene	cusA		
+KADELANJ_01048	CDS	cusB		Cation efflux system protein CusB
+KADELANJ_01048	gene	cusB		
+KADELANJ_01049	CDS			hypothetical protein
+KADELANJ_01049	gene			
+KADELANJ_01050	CDS			hypothetical protein
+KADELANJ_01050	gene			
+KADELANJ_01051	CDS	fumC	4.2.1.2	Fumarate hydratase class II
+KADELANJ_01051	gene	fumC		
+KADELANJ_01052	CDS			hypothetical protein
+KADELANJ_01052	gene			
+KADELANJ_01053	CDS	rnhB	3.1.26.4	Ribonuclease HII
+KADELANJ_01053	gene	rnhB		
+KADELANJ_01054	CDS			hypothetical protein
+KADELANJ_01054	gene			
+KADELANJ_01055	CDS			hypothetical protein
+KADELANJ_01055	gene			
+KADELANJ_01056	CDS	rpsJ		30S ribosomal protein S10
+KADELANJ_01056	gene	rpsJ		
+KADELANJ_01057	CDS	rplC		50S ribosomal protein L3
+KADELANJ_01057	gene	rplC		
+KADELANJ_01058	CDS	rplD		50S ribosomal protein L4
+KADELANJ_01058	gene	rplD		
+KADELANJ_01059	CDS	rplW		50S ribosomal protein L23
+KADELANJ_01059	gene	rplW		
+KADELANJ_01060	CDS	rplB		50S ribosomal protein L2
+KADELANJ_01060	gene	rplB		
+KADELANJ_01061	CDS	rpsS		30S ribosomal protein S19
+KADELANJ_01061	gene	rpsS		
+KADELANJ_01062	CDS	rplV		50S ribosomal protein L22
+KADELANJ_01062	gene	rplV		
+KADELANJ_01063	CDS	rpsC		30S ribosomal protein S3
+KADELANJ_01063	gene	rpsC		
+KADELANJ_01064	CDS	rplP		50S ribosomal protein L16
+KADELANJ_01064	gene	rplP		
+KADELANJ_01065	CDS	rpmC		50S ribosomal protein L29
+KADELANJ_01065	gene	rpmC		
+KADELANJ_01066	CDS	rpsQ		30S ribosomal protein S17
+KADELANJ_01066	gene	rpsQ		
+KADELANJ_01067	CDS	rplN		50S ribosomal protein L14
+KADELANJ_01067	gene	rplN		
+KADELANJ_01068	CDS	rplX		50S ribosomal protein L24
+KADELANJ_01068	gene	rplX		
+KADELANJ_01069	CDS	rplE		50S ribosomal protein L5
+KADELANJ_01069	gene	rplE		
+KADELANJ_01070	CDS	rpsH		30S ribosomal protein S8
+KADELANJ_01070	gene	rpsH		
+KADELANJ_01071	CDS	rplF		50S ribosomal protein L6
+KADELANJ_01071	gene	rplF		
+KADELANJ_01072	CDS	rplR		50S ribosomal protein L18
+KADELANJ_01072	gene	rplR		
+KADELANJ_01073	CDS	rpsE		30S ribosomal protein S5
+KADELANJ_01073	gene	rpsE		
+KADELANJ_01074	CDS	rplO		50S ribosomal protein L15
+KADELANJ_01074	gene	rplO		
+KADELANJ_01075	CDS	secY		Protein translocase subunit SecY
+KADELANJ_01075	gene	secY		
+KADELANJ_01076	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+KADELANJ_01076	gene	map		
+KADELANJ_01077	CDS	infA		Translation initiation factor IF-1
+KADELANJ_01077	gene	infA		
+KADELANJ_01078	CDS	rpmJ		50S ribosomal protein L36
+KADELANJ_01078	gene	rpmJ		
+KADELANJ_01079	CDS	rpsM		30S ribosomal protein S13
+KADELANJ_01079	gene	rpsM		
+KADELANJ_01080	CDS	rpsK		30S ribosomal protein S11
+KADELANJ_01080	gene	rpsK		
+KADELANJ_01081	CDS	rpsD		30S ribosomal protein S4
+KADELANJ_01081	gene	rpsD		
+KADELANJ_01082	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+KADELANJ_01082	gene	rpoA		
+KADELANJ_01083	CDS	rplQ		50S ribosomal protein L17
+KADELANJ_01083	gene	rplQ		
+KADELANJ_01084	CDS			hypothetical protein
+KADELANJ_01084	gene			
+KADELANJ_01085	CDS	pnuC		Nicotinamide riboside transporter PnuC
+KADELANJ_01085	gene	pnuC		
+KADELANJ_01086	CDS			hypothetical protein
+KADELANJ_01086	gene			
+KADELANJ_01087	CDS			hypothetical protein
+KADELANJ_01087	gene			
+KADELANJ_01088	CDS	tenA	3.5.99.2	Aminopyrimidine aminohydrolase
+KADELANJ_01088	gene	tenA		
+KADELANJ_01089	CDS	yceI		Protein YceI
+KADELANJ_01089	gene	yceI		
+KADELANJ_01090	CDS	hel		Lipoprotein E
+KADELANJ_01090	gene	hel		
+KADELANJ_01091	CDS			hypothetical protein
+KADELANJ_01091	gene			
+KADELANJ_01092	CDS			hypothetical protein
+KADELANJ_01092	gene			
+KADELANJ_01093	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+KADELANJ_01093	gene	trpE		
+KADELANJ_01094	CDS	trpG	4.1.3.27	Anthranilate synthase component 2
+KADELANJ_01094	gene	trpG		
+KADELANJ_01095	CDS	trpGD		Bifunctional protein TrpGD
+KADELANJ_01095	gene	trpGD		
+KADELANJ_01096	CDS	trpC		Tryptophan biosynthesis protein TrpCF
+KADELANJ_01096	gene	trpC		
+KADELANJ_01097	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+KADELANJ_01097	gene	trpB		
+KADELANJ_01098	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+KADELANJ_01098	gene	trpA		
+KADELANJ_01099	CDS			hypothetical protein
+KADELANJ_01099	gene			
+KADELANJ_01100	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+KADELANJ_01100	gene	algC		
+KADELANJ_01101	CDS			hypothetical protein
+KADELANJ_01101	gene			
+KADELANJ_01102	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+KADELANJ_01102	gene	nuoN		
+KADELANJ_01103	CDS	ndhD1	1.6.5.-	NAD(P)H-quinone oxidoreductase chain 4 1
+KADELANJ_01103	gene	ndhD1		
+KADELANJ_01104	CDS	nuoL	1.6.5.11	NADH-quinone oxidoreductase subunit L
+KADELANJ_01104	gene	nuoL		
+KADELANJ_01105	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+KADELANJ_01105	gene			
+KADELANJ_01106	CDS	nuoJ	1.6.5.11	NADH-quinone oxidoreductase subunit J
+KADELANJ_01106	gene	nuoJ		
+KADELANJ_01107	CDS	nuoI	1.6.5.11	NADH-quinone oxidoreductase subunit I
+KADELANJ_01107	gene	nuoI		
+KADELANJ_01108	CDS	nqo8	1.6.5.11	NADH-quinone oxidoreductase subunit 8
+KADELANJ_01108	gene	nqo8		
+KADELANJ_01109	CDS	sfrA	1.-.-.-	NADPH-Fe(3+) oxidoreductase subunit alpha
+KADELANJ_01109	gene	sfrA		
+KADELANJ_01110	CDS			hypothetical protein
+KADELANJ_01110	gene			
+KADELANJ_01111	CDS			hypothetical protein
+KADELANJ_01111	gene			
+KADELANJ_01112	CDS	nuoD	1.6.5.11	NADH-quinone oxidoreductase subunit D
+KADELANJ_01112	gene	nuoD		
+KADELANJ_01113	CDS	ndhJ	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit J
+KADELANJ_01113	gene	ndhJ		
+KADELANJ_01114	CDS	nqo6	1.6.5.11	NADH-quinone oxidoreductase subunit 6
+KADELANJ_01114	gene	nqo6		
+KADELANJ_01115	CDS	nuoA	1.6.5.11	NADH-quinone oxidoreductase subunit A
+KADELANJ_01115	gene	nuoA		
+KADELANJ_01116	CDS	cobB_1	3.5.1.-	NAD-dependent protein deacylase
+KADELANJ_01116	gene	cobB_1		
+KADELANJ_01117	CDS	cobB_2	3.5.1.-	NAD-dependent protein deacylase
+KADELANJ_01117	gene	cobB_2		
+KADELANJ_01118	CDS			hypothetical protein
+KADELANJ_01118	gene			
+KADELANJ_01119	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+KADELANJ_01119	gene	pyrE		
+KADELANJ_01120	CDS	frr		Ribosome-recycling factor
+KADELANJ_01120	gene	frr		
+KADELANJ_01121	CDS	secG		putative protein-export membrane protein SecG
+KADELANJ_01121	gene	secG		
+KADELANJ_01122	CDS	tam	2.1.1.144	Trans-aconitate 2-methyltransferase
+KADELANJ_01122	gene	tam		
+KADELANJ_01123	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+KADELANJ_01123	gene	trpS		
+KADELANJ_01124	CDS	dppE		Dipeptide-binding protein DppE
+KADELANJ_01124	gene	dppE		
+KADELANJ_01125	CDS	yejB		Inner membrane ABC transporter permease protein YejB
+KADELANJ_01125	gene	yejB		
+KADELANJ_01126	CDS			hypothetical protein
+KADELANJ_01126	gene			
+KADELANJ_01127	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+KADELANJ_01127	gene	aroE		
+KADELANJ_01128	CDS	rnr	3.1.13.1	Ribonuclease R
+KADELANJ_01128	gene	rnr		
+KADELANJ_01129	CDS			hypothetical protein
+KADELANJ_01129	gene			
+KADELANJ_01130	CDS	rpsF		30S ribosomal protein S6
+KADELANJ_01130	gene	rpsF		
+KADELANJ_01131	CDS	ssb		Single-stranded DNA-binding protein
+KADELANJ_01131	gene	ssb		
+KADELANJ_01132	CDS	rpsR		30S ribosomal protein S18
+KADELANJ_01132	gene	rpsR		
+KADELANJ_01133	CDS	cadA	3.6.3.3	Cadmium, zinc and cobalt-transporting ATPase
+KADELANJ_01133	gene	cadA		
+KADELANJ_01134	CDS	comM		Competence protein ComM
+KADELANJ_01134	gene	comM		
+KADELANJ_01135	CDS	def	3.5.1.88	Peptide deformylase
+KADELANJ_01135	gene	def		
+KADELANJ_01136	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+KADELANJ_01136	gene	clpP		
+KADELANJ_01137	CDS	tig	5.2.1.8	Trigger factor
+KADELANJ_01137	gene	tig		
+KADELANJ_01138	CDS			hypothetical protein
+KADELANJ_01138	gene			
+KADELANJ_01139	CDS			hypothetical protein
+KADELANJ_01139	gene			
+KADELANJ_01140	CDS	moaC	4.6.1.17	Cyclic pyranopterin monophosphate synthase
+KADELANJ_01140	gene	moaC		
+KADELANJ_01141	CDS	mog	2.7.7.75	Molybdopterin adenylyltransferase
+KADELANJ_01141	gene	mog		
+KADELANJ_01142	CDS	moaE	2.8.1.12	Molybdopterin synthase catalytic subunit
+KADELANJ_01142	gene	moaE		
+KADELANJ_01143	CDS			hypothetical protein
+KADELANJ_01143	gene			
+KADELANJ_01144	CDS	ribA	3.5.4.25	GTP cyclohydrolase-2
+KADELANJ_01144	gene	ribA		
+KADELANJ_01145	CDS			hypothetical protein
+KADELANJ_01145	gene			
+KADELANJ_01146	CDS	ribBA		Riboflavin biosynthesis protein RibBA
+KADELANJ_01146	gene	ribBA		
+KADELANJ_01147	CDS			hypothetical protein
+KADELANJ_01147	gene			
+KADELANJ_01148	CDS			hypothetical protein
+KADELANJ_01148	gene			
+KADELANJ_01149	CDS	fecA_2		Fe(3+) dicitrate transport protein FecA
+KADELANJ_01149	gene	fecA_2		
+KADELANJ_01150	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+KADELANJ_01150	gene	acpS		
+KADELANJ_01151	CDS			hypothetical protein
+KADELANJ_01151	gene			
+KADELANJ_01152	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+KADELANJ_01152	gene	rsmD		
+KADELANJ_01153	CDS			hypothetical protein
+KADELANJ_01153	gene			
+KADELANJ_01154	CDS			hypothetical protein
+KADELANJ_01154	gene			
+KADELANJ_01155	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+KADELANJ_01155	gene	gloC		
+KADELANJ_01156	CDS	moeZ		putative adenylyltransferase/sulfurtransferase MoeZ
+KADELANJ_01156	gene	moeZ		
+KADELANJ_01157	CDS	pomA		Chemotaxis protein PomA
+KADELANJ_01157	gene	pomA		
+KADELANJ_01158	CDS	motB		Motility protein B
+KADELANJ_01158	gene	motB		
+KADELANJ_01159	CDS			hypothetical protein
+KADELANJ_01159	gene			
+KADELANJ_01160	CDS	opuCC		Glycine betaine/carnitine/choline-binding protein OpuCC
+KADELANJ_01160	gene	opuCC		
+KADELANJ_01161	CDS	opuBA		Choline transport ATP-binding protein OpuBA
+KADELANJ_01161	gene	opuBA		
+KADELANJ_01162	CDS			hypothetical protein
+KADELANJ_01162	gene			
+KADELANJ_01163	CDS	uvrC		UvrABC system protein C
+KADELANJ_01163	gene	uvrC		
+KADELANJ_01164	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+KADELANJ_01164	gene	hom		
+KADELANJ_01165	CDS			hypothetical protein
+KADELANJ_01165	gene			
+KADELANJ_01166	CDS	trxA_2		Thioredoxin
+KADELANJ_01166	gene	trxA_2		
+KADELANJ_01167	CDS	trxB	1.8.1.9	Thioredoxin reductase
+KADELANJ_01167	gene	trxB		
+KADELANJ_01168	CDS	lex1	2.-.-.-	Lipooligosaccharide biosynthesis protein lex-1
+KADELANJ_01168	gene	lex1		
+KADELANJ_01169	CDS			hypothetical protein
+KADELANJ_01169	gene			
+KADELANJ_01170	CDS	atpB		ATP synthase subunit a
+KADELANJ_01170	gene	atpB		
+KADELANJ_01171	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+KADELANJ_01171	gene	guaB		
+KADELANJ_01172	CDS	gatA	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+KADELANJ_01172	gene	gatA		
+KADELANJ_01173	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+KADELANJ_01173	gene	coaE		
+KADELANJ_01174	CDS	speE	2.5.1.16	Polyamine aminopropyltransferase
+KADELANJ_01174	gene	speE		
+KADELANJ_01175	CDS			hypothetical protein
+KADELANJ_01175	gene			
+KADELANJ_01176	CDS	der_2		GTPase Der
+KADELANJ_01176	gene	der_2		
+KADELANJ_01177	CDS	hup		DNA-binding protein HU
+KADELANJ_01177	gene	hup		
+KADELANJ_01178	tRNA			tRNA-Arg(cct)
+KADELANJ_01178	gene			
+KADELANJ_01179	CDS			hypothetical protein
+KADELANJ_01179	gene			
+KADELANJ_01180	CDS			hypothetical protein
+KADELANJ_01180	gene			
+KADELANJ_01181	CDS			hypothetical protein
+KADELANJ_01181	gene			
+KADELANJ_01182	CDS	pseB	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+KADELANJ_01182	gene	pseB		
+KADELANJ_01183	CDS	coaBC		Coenzyme A biosynthesis bifunctional protein CoaBC
+KADELANJ_01183	gene	coaBC		
+KADELANJ_01184	CDS			hypothetical protein
+KADELANJ_01184	gene			
+KADELANJ_01185	CDS	thiE	2.5.1.3	Thiamine-phosphate synthase
+KADELANJ_01185	gene	thiE		
+KADELANJ_01186	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+KADELANJ_01186	gene	thiD		
+KADELANJ_01187	CDS	thiM	2.7.1.50	Hydroxyethylthiazole kinase
+KADELANJ_01187	gene	thiM		
+KADELANJ_01188	CDS	hsdR_3	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+KADELANJ_01188	gene	hsdR_3		
+KADELANJ_01189	CDS			hypothetical protein
+KADELANJ_01189	gene			
+KADELANJ_01190	CDS			hypothetical protein
+KADELANJ_01190	gene			
+KADELANJ_01191	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+KADELANJ_01191	gene	ftsW		
+KADELANJ_01192	CDS	flgB		Flagellar basal body rod protein FlgB
+KADELANJ_01192	gene	flgB		
+KADELANJ_01193	CDS	flgC		Flagellar basal-body rod protein FlgC
+KADELANJ_01193	gene	flgC		
+KADELANJ_01194	CDS	fliE		Flagellar hook-basal body complex protein FliE
+KADELANJ_01194	gene	fliE		
+KADELANJ_01195	CDS	ftsI	3.4.16.4	Peptidoglycan D,D-transpeptidase FtsI
+KADELANJ_01195	gene	ftsI		
+KADELANJ_01196	CDS	tsf		Elongation factor Ts
+KADELANJ_01196	gene	tsf		
+KADELANJ_01197	CDS	rpsB		30S ribosomal protein S2
+KADELANJ_01197	gene	rpsB		
+KADELANJ_01198	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+KADELANJ_01198	gene	addA		
+KADELANJ_01199	CDS	nhaA		Na(+)/H(+) antiporter NhaA
+KADELANJ_01199	gene	nhaA		
+KADELANJ_01200	CDS			hypothetical protein
+KADELANJ_01200	gene			
+KADELANJ_01201	CDS			hypothetical protein
+KADELANJ_01201	gene			
+KADELANJ_01202	CDS			hypothetical protein
+KADELANJ_01202	gene			
+KADELANJ_01203	CDS			hypothetical protein
+KADELANJ_01203	gene			
+KADELANJ_01204	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+KADELANJ_01204	gene	leuS		
+KADELANJ_01205	CDS			hypothetical protein
+KADELANJ_01205	gene			
+KADELANJ_01206	CDS	folC	6.3.2.12	Dihydrofolate synthase/folylpolyglutamate synthase
+KADELANJ_01206	gene	folC		
+KADELANJ_01207	CDS	mepM_2	3.4.24.-	Murein DD-endopeptidase MepM
+KADELANJ_01207	gene	mepM_2		
+KADELANJ_01208	CDS	mepM_3	3.4.24.-	Murein DD-endopeptidase MepM
+KADELANJ_01208	gene	mepM_3		
+KADELANJ_01209	CDS			hypothetical protein
+KADELANJ_01209	gene			
+KADELANJ_01210	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+KADELANJ_01210	gene	mfd		
+KADELANJ_01211	CDS	petA	1.10.2.2	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+KADELANJ_01211	gene	petA		
+KADELANJ_01212	CDS	petB		Cytochrome b
+KADELANJ_01212	gene	petB		
+KADELANJ_01213	CDS			hypothetical protein
+KADELANJ_01213	gene			
+KADELANJ_01214	CDS			hypothetical protein
+KADELANJ_01214	gene			
+KADELANJ_01215	CDS	SERB	3.1.3.3	Phosphoserine phosphatase
+KADELANJ_01215	gene	SERB		
+KADELANJ_01216	CDS	ftnA	1.16.3.2	Bacterial non-heme ferritin
+KADELANJ_01216	gene	ftnA		
+KADELANJ_01217	CDS	mqnE	2.5.1.120	Aminodeoxyfutalosine synthase
+KADELANJ_01217	gene	mqnE		
+KADELANJ_01218	CDS	bamA		Outer membrane protein assembly factor BamA
+KADELANJ_01218	gene	bamA		
+KADELANJ_01219	CDS	mqnC	1.21.98.1	Cyclic dehypoxanthine futalosine synthase
+KADELANJ_01219	gene	mqnC		
+KADELANJ_01220	CDS		3.4.24.-	putative zinc protease
+KADELANJ_01220	gene			
+KADELANJ_01221	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+KADELANJ_01221	gene	gatB		
+KADELANJ_01222	CDS	surA	5.2.1.8	Chaperone SurA
+KADELANJ_01222	gene	surA		
+KADELANJ_01223	CDS	lapB		Lipopolysaccharide assembly protein B
+KADELANJ_01223	gene	lapB		
+KADELANJ_01224	CDS	rnhA	3.1.26.4	Ribonuclease HI
+KADELANJ_01224	gene	rnhA		
+KADELANJ_01225	CDS	rnc	3.1.26.3	Ribonuclease 3
+KADELANJ_01225	gene	rnc		
+KADELANJ_01226	CDS	aroC	4.2.3.5	Chorismate synthase
+KADELANJ_01226	gene	aroC		
+KADELANJ_01227	CDS			hypothetical protein
+KADELANJ_01227	gene			
+KADELANJ_01228	CDS	hemN_2	1.3.98.3	Oxygen-independent coproporphyrinogen III oxidase
+KADELANJ_01228	gene	hemN_2		
+KADELANJ_01229	CDS	glpC		Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+KADELANJ_01229	gene	glpC		
+KADELANJ_01230	CDS			hypothetical protein
+KADELANJ_01230	gene			
+KADELANJ_01231	CDS			hypothetical protein
+KADELANJ_01231	gene			
+KADELANJ_01232	CDS			hypothetical protein
+KADELANJ_01232	gene			
+KADELANJ_01233	CDS			hypothetical protein
+KADELANJ_01233	gene			
+KADELANJ_01234	CDS			hypothetical protein
+KADELANJ_01234	gene			
+KADELANJ_01235	CDS		2.6.1.1	Aspartate aminotransferase
+KADELANJ_01235	gene			
+KADELANJ_01236	CDS			hypothetical protein
+KADELANJ_01236	gene			
+KADELANJ_01237	CDS			hypothetical protein
+KADELANJ_01237	gene			
+KADELANJ_01238	CDS	xerH_1		Tyrosine recombinase XerH
+KADELANJ_01238	gene	xerH_1		
+KADELANJ_01239	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+KADELANJ_01239	gene	ogt		
+KADELANJ_01240	CDS			hypothetical protein
+KADELANJ_01240	gene			
+KADELANJ_01241	CDS	wbpB	1.1.1.335	UDP-N-acetyl-2-amino-2-deoxy-D-glucuronate oxidase
+KADELANJ_01241	gene	wbpB		
+KADELANJ_01242	CDS	nrdA	1.17.4.1	Ribonucleoside-diphosphate reductase 1 subunit alpha
+KADELANJ_01242	gene	nrdA		
+KADELANJ_01243	CDS			hypothetical protein
+KADELANJ_01243	gene			
+KADELANJ_01244	CDS			hypothetical protein
+KADELANJ_01244	gene			
+KADELANJ_01245	CDS	glmU		Bifunctional protein GlmU
+KADELANJ_01245	gene	glmU		
+KADELANJ_01246	CDS	fliP_1		Flagellar biosynthetic protein FliP
+KADELANJ_01246	gene	fliP_1		
+KADELANJ_01247	CDS	fliP_2		Flagellar biosynthetic protein FliP
+KADELANJ_01247	gene	fliP_2		
+KADELANJ_01248	CDS	fecA_3		Fe(3+) dicitrate transport protein FecA
+KADELANJ_01248	gene	fecA_3		
+KADELANJ_01249	CDS	feoB		Fe(2+) transporter FeoB
+KADELANJ_01249	gene	feoB		
+KADELANJ_01250	CDS			hypothetical protein
+KADELANJ_01250	gene			
+KADELANJ_01251	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+KADELANJ_01251	gene	thlA		
+KADELANJ_01252	CDS	scoA	2.8.3.5	Succinyl-CoA:3-ketoacid coenzyme A transferase subunit A
+KADELANJ_01252	gene	scoA		
+KADELANJ_01253	CDS	scoB	2.8.3.5	Succinyl-CoA:3-ketoacid coenzyme A transferase subunit B
+KADELANJ_01253	gene	scoB		
+KADELANJ_01254	CDS	atoE		Putative short-chain fatty acid transporter
+KADELANJ_01254	gene	atoE		
+KADELANJ_01255	CDS			hypothetical protein
+KADELANJ_01255	gene			
+KADELANJ_01256	CDS	acxA	6.4.1.6	Acetone carboxylase beta subunit
+KADELANJ_01256	gene	acxA		
+KADELANJ_01257	CDS	acxB	6.4.1.6	Acetone carboxylase alpha subunit
+KADELANJ_01257	gene	acxB		
+KADELANJ_01258	CDS	acxC	6.4.1.6	Acetone carboxylase gamma subunit
+KADELANJ_01258	gene	acxC		
+KADELANJ_01259	CDS			hypothetical protein
+KADELANJ_01259	gene			
+KADELANJ_01260	CDS	dgkA	2.7.1.107	Diacylglycerol kinase
+KADELANJ_01260	gene	dgkA		
+KADELANJ_01261	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+KADELANJ_01261	gene	gyrA		
+KADELANJ_01262	CDS			hypothetical protein
+KADELANJ_01262	gene			
+KADELANJ_01263	CDS	glrR		Transcriptional regulatory protein GlrR
+KADELANJ_01263	gene	glrR		
+KADELANJ_01264	CDS	uvrA		UvrABC system protein A
+KADELANJ_01264	gene	uvrA		
+KADELANJ_01265	CDS			hypothetical protein
+KADELANJ_01265	gene			
+KADELANJ_01266	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+KADELANJ_01266	gene	rsmH		
+KADELANJ_01267	CDS			hypothetical protein
+KADELANJ_01267	gene			
+KADELANJ_01268	CDS	salL	2.5.1.94	Adenosyl-chloride synthase
+KADELANJ_01268	gene	salL		
+KADELANJ_01269	CDS			hypothetical protein
+KADELANJ_01269	gene			
+KADELANJ_01270	CDS	yfbR	3.1.3.89	5'-deoxynucleotidase YfbR
+KADELANJ_01270	gene	yfbR		
+KADELANJ_01271	CDS			hypothetical protein
+KADELANJ_01271	gene			
+KADELANJ_01272	CDS			hypothetical protein
+KADELANJ_01272	gene			
+KADELANJ_01273	CDS	rpoN		RNA polymerase sigma-54 factor
+KADELANJ_01273	gene	rpoN		
+KADELANJ_01274	CDS	lptB	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+KADELANJ_01274	gene	lptB		
+KADELANJ_01275	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+KADELANJ_01275	gene	tsaE		
+KADELANJ_01276	CDS	dnaX	2.7.7.7	DNA polymerase III subunit tau
+KADELANJ_01276	gene	dnaX		
+KADELANJ_01277	CDS	argO		Arginine exporter protein ArgO
+KADELANJ_01277	gene	argO		
+KADELANJ_01278	CDS			hypothetical protein
+KADELANJ_01278	gene			
+KADELANJ_01279	CDS			hypothetical protein
+KADELANJ_01279	gene			
+KADELANJ_01280	CDS			hypothetical protein
+KADELANJ_01280	gene			
+KADELANJ_01281	CDS			hypothetical protein
+KADELANJ_01281	gene			
+KADELANJ_01282	CDS			hypothetical protein
+KADELANJ_01282	gene			
+KADELANJ_01283	CDS			hypothetical protein
+KADELANJ_01283	gene			
+KADELANJ_01284	CDS	flgG_2		Flagellar basal-body rod protein FlgG
+KADELANJ_01284	gene	flgG_2		
+KADELANJ_01285	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+KADELANJ_01285	gene	tsaD		
+KADELANJ_01286	CDS	pdxA	1.1.1.262	4-hydroxythreonine-4-phosphate dehydrogenase
+KADELANJ_01286	gene	pdxA		
+KADELANJ_01287	CDS	pdxJ	2.6.99.2	Pyridoxine 5'-phosphate synthase
+KADELANJ_01287	gene	pdxJ		
+KADELANJ_01288	CDS	tagO	2.7.8.33	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+KADELANJ_01288	gene	tagO		
+KADELANJ_01289	CDS	lpxE_1	3.1.-.-	Lipid A 1-phosphatase
+KADELANJ_01289	gene	lpxE_1		
+KADELANJ_01290	CDS			hypothetical protein
+KADELANJ_01290	gene			
+KADELANJ_01291	CDS			hypothetical protein
+KADELANJ_01291	gene			
+KADELANJ_01292	CDS	metI		D-methionine transport system permease protein MetI
+KADELANJ_01292	gene	metI		
+KADELANJ_01293	CDS	metN	3.6.3.-	Methionine import ATP-binding protein MetN
+KADELANJ_01293	gene	metN		
+KADELANJ_01294	CDS	flhB_2		Flagellar biosynthetic protein FlhB
+KADELANJ_01294	gene	flhB_2		
+KADELANJ_01295	CDS	ribE	2.5.1.9	Riboflavin synthase
+KADELANJ_01295	gene	ribE		
+KADELANJ_01296	CDS	ycfH	3.1.-.-	putative metal-dependent hydrolase YcfH
+KADELANJ_01296	gene	ycfH		
+KADELANJ_01297	CDS	mltD	4.2.2.-	Membrane-bound lytic murein transglycosylase D
+KADELANJ_01297	gene	mltD		
+KADELANJ_01298	CDS	rlpA	4.2.2.-	Endolytic peptidoglycan transglycosylase RlpA
+KADELANJ_01298	gene	rlpA		
+KADELANJ_01299	CDS	kdsC	3.1.3.45	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+KADELANJ_01299	gene	kdsC		
+KADELANJ_01300	CDS			hypothetical protein
+KADELANJ_01300	gene			
+KADELANJ_01301	CDS	lptA		Lipopolysaccharide export system protein LptA
+KADELANJ_01301	gene	lptA		
+KADELANJ_01302	CDS	engB		putative GTP-binding protein EngB
+KADELANJ_01302	gene	engB		
+KADELANJ_01303	CDS			hypothetical protein
+KADELANJ_01303	gene			
+KADELANJ_01304	CDS	mrdA	3.4.16.4	Peptidoglycan D,D-transpeptidase MrdA
+KADELANJ_01304	gene	mrdA		
+KADELANJ_01305	CDS	metQ		D-methionine-binding lipoprotein MetQ
+KADELANJ_01305	gene	metQ		
+KADELANJ_01306	CDS	tsaA	1.11.1.15	putative peroxiredoxin
+KADELANJ_01306	gene	tsaA		
+KADELANJ_01307	CDS	uvrB		UvrABC system protein B
+KADELANJ_01307	gene	uvrB		
+KADELANJ_01308	CDS			hypothetical protein
+KADELANJ_01308	gene			
+KADELANJ_01309	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+KADELANJ_01309	gene	purB		
+KADELANJ_01310	CDS	porB	1.2.7.1	Pyruvate synthase subunit PorB
+KADELANJ_01310	gene	porB		
+KADELANJ_01311	CDS	porA	1.2.7.1	Pyruvate synthase subunit PorA
+KADELANJ_01311	gene	porA		
+KADELANJ_01312	CDS	porD		Pyruvate synthase subunit PorD
+KADELANJ_01312	gene	porD		
+KADELANJ_01313	CDS	porC	1.2.7.1	Pyruvate synthase subunit PorC
+KADELANJ_01313	gene	porC		
+KADELANJ_01314	CDS			hypothetical protein
+KADELANJ_01314	gene			
+KADELANJ_01315	CDS			hypothetical protein
+KADELANJ_01315	gene			
+KADELANJ_01316	CDS			hypothetical protein
+KADELANJ_01316	gene			
+KADELANJ_01317	CDS	adhA	1.1.1.-	putative formaldehyde dehydrogenase AdhA
+KADELANJ_01317	gene	adhA		
+KADELANJ_01318	CDS	glk	2.7.1.2	Glucokinase
+KADELANJ_01318	gene	glk		
+KADELANJ_01319	CDS	pgl	3.1.1.31	6-phosphogluconolactonase
+KADELANJ_01319	gene	pgl		
+KADELANJ_01320	CDS	zwf	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase
+KADELANJ_01320	gene	zwf		
+KADELANJ_01321	CDS	edd	4.2.1.12	Phosphogluconate dehydratase
+KADELANJ_01321	gene	edd		
+KADELANJ_01322	CDS	eda		KHG/KDPG aldolase
+KADELANJ_01322	gene	eda		
+KADELANJ_01323	CDS	hcpC_2	3.5.2.6	Putative beta-lactamase HcpC
+KADELANJ_01323	gene	hcpC_2		
+KADELANJ_01324	CDS			hypothetical protein
+KADELANJ_01324	gene			
+KADELANJ_01325	CDS			hypothetical protein
+KADELANJ_01325	gene			
+KADELANJ_01326	CDS	queE_2	4.3.99.3	7-carboxy-7-deazaguanine synthase
+KADELANJ_01326	gene	queE_2		
+KADELANJ_01327	CDS	topA_2	5.99.1.2	DNA topoisomerase 1
+KADELANJ_01327	gene	topA_2		
+KADELANJ_01328	CDS	flaB		Flagellin B
+KADELANJ_01328	gene	flaB		
+KADELANJ_01329	CDS			hypothetical protein
+KADELANJ_01329	gene			
+KADELANJ_01330	CDS			hypothetical protein
+KADELANJ_01330	gene			
+KADELANJ_01331	CDS			hypothetical protein
+KADELANJ_01331	gene			
+KADELANJ_01332	CDS	hrcA		Heat-inducible transcription repressor HrcA
+KADELANJ_01332	gene	hrcA		
+KADELANJ_01333	CDS	grpE		Protein GrpE
+KADELANJ_01333	gene	grpE		
+KADELANJ_01334	CDS	dnaK		Chaperone protein DnaK
+KADELANJ_01334	gene	dnaK		
+KADELANJ_01335	CDS			hypothetical protein
+KADELANJ_01335	gene			
+KADELANJ_01336	CDS	cysM	2.5.1.47	Cysteine synthase
+KADELANJ_01336	gene	cysM		
+KADELANJ_01337	CDS	metB	2.5.1.48	Cystathionine gamma-synthase
+KADELANJ_01337	gene	metB		
+KADELANJ_01338	CDS	luxS	4.4.1.21	S-ribosylhomocysteine lyase
+KADELANJ_01338	gene	luxS		
+KADELANJ_01339	CDS	yfkN		Trifunctional nucleotide phosphoesterase protein YfkN
+KADELANJ_01339	gene	yfkN		
+KADELANJ_01340	CDS	mcp4		Methyl-accepting chemotaxis protein 4
+KADELANJ_01340	gene	mcp4		
+KADELANJ_01341	CDS		2.4.-.-	putative glycosyltransferase
+KADELANJ_01341	gene			
+KADELANJ_01342	CDS			hypothetical protein
+KADELANJ_01342	gene			
+KADELANJ_01343	CDS			hypothetical protein
+KADELANJ_01343	gene			
+KADELANJ_01344	CDS	pctC		Methyl-accepting chemotaxis protein PctC
+KADELANJ_01344	gene	pctC		
+KADELANJ_01345	CDS	thrC	4.2.3.1	Threonine synthase
+KADELANJ_01345	gene	thrC		
+KADELANJ_01346	CDS			hypothetical protein
+KADELANJ_01346	gene			
+KADELANJ_01347	CDS		1.-.-.-	Putative 2-hydroxyacid dehydrogenase
+KADELANJ_01347	gene			
+KADELANJ_01348	CDS			hypothetical protein
+KADELANJ_01348	gene			
+KADELANJ_01349	CDS			hypothetical protein
+KADELANJ_01349	gene			
+KADELANJ_01350	CDS	wbnK	2.4.1.308	O-antigen biosynthesis glycosyltransferase WbnK
+KADELANJ_01350	gene	wbnK		
+KADELANJ_01351	CDS	dpnA_4	2.1.1.72	Modification methylase DpnIIB
+KADELANJ_01351	gene	dpnA_4		
+KADELANJ_01352	CDS	mboIR	3.1.21.4	Type-2 restriction enzyme MboI
+KADELANJ_01352	gene	mboIR		
+KADELANJ_01353	tRNA			tRNA-Ser(gct)
+KADELANJ_01353	gene			
+KADELANJ_01354	CDS	fenF	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+KADELANJ_01354	gene	fenF		
+KADELANJ_01355	CDS	mtnN	3.2.2.30	Aminodeoxyfutalosine nucleosidase
+KADELANJ_01355	gene	mtnN		
+KADELANJ_01356	CDS	rpoD		RNA polymerase sigma factor RpoD
+KADELANJ_01356	gene	rpoD		
+KADELANJ_01357	CDS			hypothetical protein
+KADELANJ_01357	gene			
+KADELANJ_01358	CDS	mqo	1.1.5.4	Malate:quinone oxidoreductase
+KADELANJ_01358	gene	mqo		
+KADELANJ_01359	CDS			hypothetical protein
+KADELANJ_01359	gene			
+KADELANJ_01360	CDS	rplM		50S ribosomal protein L13
+KADELANJ_01360	gene	rplM		
+KADELANJ_01361	CDS	rpsI		30S ribosomal protein S9
+KADELANJ_01361	gene	rpsI		
+KADELANJ_01362	CDS	pctB		Methyl-accepting chemotaxis protein PctB
+KADELANJ_01362	gene	pctB		
+KADELANJ_01363	CDS			hypothetical protein
+KADELANJ_01363	gene			
+KADELANJ_01364	CDS			hypothetical protein
+KADELANJ_01364	gene			
+KADELANJ_01365	CDS			hypothetical protein
+KADELANJ_01365	gene			
+KADELANJ_01366	CDS	prfA		Peptide chain release factor RF1
+KADELANJ_01366	gene	prfA		
+KADELANJ_01367	CDS	rpsT		30S ribosomal protein S20
+KADELANJ_01367	gene	rpsT		
+KADELANJ_01368	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+KADELANJ_01368	gene	glmM		
+KADELANJ_01369	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+KADELANJ_01369	gene	lspA		
+KADELANJ_01370	tRNA			tRNA-Val(gac)
+KADELANJ_01370	gene			
+KADELANJ_01371	CDS	ureA	3.5.1.5	Urease subunit alpha
+KADELANJ_01371	gene	ureA		
+KADELANJ_01372	CDS	ureB	3.5.1.5	Urease subunit beta
+KADELANJ_01372	gene	ureB		
+KADELANJ_01373	CDS	ureI		Acid-activated urea channel
+KADELANJ_01373	gene	ureI		
+KADELANJ_01374	CDS	ureE		Urease accessory protein UreE
+KADELANJ_01374	gene	ureE		
+KADELANJ_01375	CDS	ureF		Urease accessory protein UreF
+KADELANJ_01375	gene	ureF		
+KADELANJ_01376	CDS	ureG		Urease accessory protein UreG
+KADELANJ_01376	gene	ureG		
+KADELANJ_01377	CDS	ureH		Urease accessory protein UreH
+KADELANJ_01377	gene	ureH		
+KADELANJ_01378	CDS	ftsK		DNA translocase FtsK
+KADELANJ_01378	gene	ftsK		
+KADELANJ_01379	CDS			hypothetical protein
+KADELANJ_01379	gene			
+KADELANJ_01380	CDS			hypothetical protein
+KADELANJ_01380	gene			
+KADELANJ_01381	CDS			hypothetical protein
+KADELANJ_01381	gene			
+KADELANJ_01382	CDS			hypothetical protein
+KADELANJ_01382	gene			
+KADELANJ_01383	CDS			hypothetical protein
+KADELANJ_01383	gene			
+KADELANJ_01384	CDS			hypothetical protein
+KADELANJ_01384	gene			
+KADELANJ_01385	CDS	smc_2		Chromosome partition protein Smc
+KADELANJ_01385	gene	smc_2		
+KADELANJ_01386	CDS			hypothetical protein
+KADELANJ_01386	gene			
+KADELANJ_01387	CDS			hypothetical protein
+KADELANJ_01387	gene			
+KADELANJ_01388	CDS			hypothetical protein
+KADELANJ_01388	gene			
+KADELANJ_01389	CDS			hypothetical protein
+KADELANJ_01389	gene			
+KADELANJ_01390	CDS			hypothetical protein
+KADELANJ_01390	gene			
+KADELANJ_01391	CDS			hypothetical protein
+KADELANJ_01391	gene			
+KADELANJ_01392	CDS			hypothetical protein
+KADELANJ_01392	gene			
+KADELANJ_01393	CDS			hypothetical protein
+KADELANJ_01393	gene			
+KADELANJ_01394	CDS			hypothetical protein
+KADELANJ_01394	gene			
+KADELANJ_01395	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+KADELANJ_01395	gene	recD2		
+KADELANJ_01396	CDS			hypothetical protein
+KADELANJ_01396	gene			
+KADELANJ_01397	CDS			hypothetical protein
+KADELANJ_01397	gene			
+KADELANJ_01398	CDS			hypothetical protein
+KADELANJ_01398	gene			
+KADELANJ_01399	CDS			hypothetical protein
+KADELANJ_01399	gene			
+KADELANJ_01400	CDS			hypothetical protein
+KADELANJ_01400	gene			
+KADELANJ_01401	CDS	speA	4.1.1.19	Biosynthetic arginine decarboxylase
+KADELANJ_01401	gene	speA		
+KADELANJ_01402	CDS	mgtA	2.4.1.-	GDP-mannose-dependent alpha-mannosyltransferase
+KADELANJ_01402	gene	mgtA		
+KADELANJ_01403	CDS			hypothetical protein
+KADELANJ_01403	gene			
+KADELANJ_01404	CDS	cmoB	2.5.1.-	tRNA U34 carboxymethyltransferase
+KADELANJ_01404	gene	cmoB		
+KADELANJ_01405	CDS			hypothetical protein
+KADELANJ_01405	gene			
+KADELANJ_01406	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+KADELANJ_01406	gene	metG		
+KADELANJ_01407	CDS	cfa	2.1.1.79	Cyclopropane-fatty-acyl-phospholipid synthase
+KADELANJ_01407	gene	cfa		
+KADELANJ_01408	CDS	ynaI		Low conductance mechanosensitive channel YnaI
+KADELANJ_01408	gene	ynaI		
+KADELANJ_01409	CDS	rocA1	1.2.1.88	1-pyrroline-5-carboxylate dehydrogenase 1
+KADELANJ_01409	gene	rocA1		
+KADELANJ_01410	CDS	putP		High-affinity proline transporter PutP
+KADELANJ_01410	gene	putP		
+KADELANJ_01411	CDS	haeIIIM	2.1.1.37	Modification methylase HaeIII
+KADELANJ_01411	gene	haeIIIM		
+KADELANJ_01412	CDS			hypothetical protein
+KADELANJ_01412	gene			
+KADELANJ_01413	CDS			hypothetical protein
+KADELANJ_01413	gene			
+KADELANJ_01414	CDS			hypothetical protein
+KADELANJ_01414	gene			
+KADELANJ_01415	CDS	bspRIM	2.1.1.37	Modification methylase BspRI
+KADELANJ_01415	gene	bspRIM		
+KADELANJ_01416	CDS	dpnA_5	2.1.1.72	Modification methylase DpnIIB
+KADELANJ_01416	gene	dpnA_5		
+KADELANJ_01417	CDS	aguA	3.5.3.12	Agmatine deiminase
+KADELANJ_01417	gene	aguA		
+KADELANJ_01418	CDS	hypF	2.1.3.-	Carbamoyltransferase HypF
+KADELANJ_01418	gene	hypF		
+KADELANJ_01419	CDS	hypE		Hydrogenase isoenzymes formation protein HypE
+KADELANJ_01419	gene	hypE		
+KADELANJ_01420	CDS	colC	1.1.1.356	GDP-L-colitose synthase
+KADELANJ_01420	gene	colC		
+KADELANJ_01421	CDS	gmd	4.2.1.47	GDP-mannose 4,6-dehydratase
+KADELANJ_01421	gene	gmd		
+KADELANJ_01422	CDS	algA		Alginate biosynthesis protein AlgA
+KADELANJ_01422	gene	algA		
+KADELANJ_01423	CDS	ptlG		Type IV secretion system protein PtlG
+KADELANJ_01423	gene	ptlG		
+KADELANJ_01424	CDS			hypothetical protein
+KADELANJ_01424	gene			
+KADELANJ_01425	CDS			hypothetical protein
+KADELANJ_01425	gene			
+KADELANJ_01426	CDS			hypothetical protein
+KADELANJ_01426	gene			
+KADELANJ_01427	CDS			hypothetical protein
+KADELANJ_01427	gene			
+KADELANJ_01428	CDS			hypothetical protein
+KADELANJ_01428	gene			
+KADELANJ_01429	CDS			Nucleoid-associated protein
+KADELANJ_01429	gene			
+KADELANJ_01430	CDS	panD	4.1.1.11	Aspartate 1-decarboxylase
+KADELANJ_01430	gene	panD		
+KADELANJ_01431	CDS	clpA		ATP-dependent Clp protease ATP-binding subunit ClpA
+KADELANJ_01431	gene	clpA		
+KADELANJ_01432	CDS	clpS		ATP-dependent Clp protease adapter protein ClpS
+KADELANJ_01432	gene	clpS		
+KADELANJ_01433	CDS			hypothetical protein
+KADELANJ_01433	gene			
+KADELANJ_01434	CDS			hypothetical protein
+KADELANJ_01434	gene			
+KADELANJ_01435	CDS	bioD	6.3.3.3	ATP-dependent dethiobiotin synthetase BioD
+KADELANJ_01435	gene	bioD		
+KADELANJ_01436	CDS			hypothetical protein
+KADELANJ_01436	gene			
+KADELANJ_01437	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+KADELANJ_01437	gene	icd		
+KADELANJ_01438	CDS	aarA	2.3.3.16	Citrate synthase
+KADELANJ_01438	gene	aarA		
+KADELANJ_01439	CDS			hypothetical protein
+KADELANJ_01439	gene			
+KADELANJ_01440	CDS	eptA	2.7.-.-	Phosphoethanolamine transferase EptA
+KADELANJ_01440	gene	eptA		
+KADELANJ_01441	CDS	lpxE_2	3.1.-.-	Lipid A 1-phosphatase
+KADELANJ_01441	gene	lpxE_2		
+KADELANJ_01442	CDS	nspC	4.1.1.96	Carboxynorspermidine/carboxyspermidine decarboxylase
+KADELANJ_01442	gene	nspC		
+KADELANJ_01443	CDS	cheV_3		Chemotaxis protein CheV
+KADELANJ_01443	gene	cheV_3		
+KADELANJ_01444	CDS			hypothetical protein
+KADELANJ_01444	gene			
+KADELANJ_01445	CDS	virB4_3		Type IV secretion system protein virB4
+KADELANJ_01445	gene	virB4_3		
+KADELANJ_01446	CDS			hypothetical protein
+KADELANJ_01446	gene			
+KADELANJ_01447	CDS			hypothetical protein
+KADELANJ_01447	gene			
+KADELANJ_01448	CDS			hypothetical protein
+KADELANJ_01448	gene			
+KADELANJ_01449	CDS	mnmA_2	2.8.1.-	tRNA-specific 2-thiouridylase MnmA
+KADELANJ_01449	gene	mnmA_2		
+KADELANJ_01450	CDS	dnaG	2.7.7.-	DNA primase
+KADELANJ_01450	gene	dnaG		
+KADELANJ_01451	CDS	groS		10 kDa chaperonin
+KADELANJ_01451	gene	groS		
+KADELANJ_01452	CDS	groL		60 kDa chaperonin
+KADELANJ_01452	gene	groL		
+KADELANJ_01453	CDS			hypothetical protein
+KADELANJ_01453	gene			
+KADELANJ_01454	tRNA			tRNA-Lys(ttt)
+KADELANJ_01454	gene			
+KADELANJ_01455	tRNA			tRNA-Glu(ttc)
+KADELANJ_01455	gene			
+KADELANJ_01456	tRNA			tRNA-Val(tac)
+KADELANJ_01456	gene			
+KADELANJ_01457	tRNA			tRNA-Asp(gtc)
+KADELANJ_01457	gene			
+KADELANJ_01458	tRNA			tRNA-Glu(ttc)
+KADELANJ_01458	gene			
+KADELANJ_01459	CDS	panC	6.3.2.1	Pantothenate synthetase
+KADELANJ_01459	gene	panC		
+KADELANJ_01460	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+KADELANJ_01460	gene	pyrF		
+KADELANJ_01461	CDS	cynT	4.2.1.1	Carbonic anhydrase 1
+KADELANJ_01461	gene	cynT		
+KADELANJ_01462	CDS	kdsA	2.5.1.55	2-dehydro-3-deoxyphosphooctonate aldolase
+KADELANJ_01462	gene	kdsA		
+KADELANJ_01463	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+KADELANJ_01463	gene	ribH		
+KADELANJ_01464	CDS	nusB		N utilization substance protein B 
+KADELANJ_01464	gene	nusB		
+KADELANJ_01465	CDS	gap1	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase 1
+KADELANJ_01465	gene	gap1		
+KADELANJ_01466	CDS	yccA		Modulator of FtsH protease YccA
+KADELANJ_01466	gene	yccA		
+KADELANJ_01467	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+KADELANJ_01467	gene	carB		
+KADELANJ_01468	CDS			hypothetical protein
+KADELANJ_01468	gene			
+KADELANJ_01469	CDS	bhuA_2		Heme transporter BhuA
+KADELANJ_01469	gene	bhuA_2		
+KADELANJ_01470	CDS	hemR		Hemin receptor
+KADELANJ_01470	gene	hemR		
+KADELANJ_01471	CDS			hypothetical protein
+KADELANJ_01471	gene			
+KADELANJ_01472	CDS			hypothetical protein
+KADELANJ_01472	gene			
+KADELANJ_01473	CDS			hypothetical protein
+KADELANJ_01473	gene			
+KADELANJ_01474	CDS	uvrD	3.6.4.12	DNA helicase II
+KADELANJ_01474	gene	uvrD		
+KADELANJ_01475	CDS	taqIM	2.1.1.72	Modification methylase TaqI
+KADELANJ_01475	gene	taqIM		
+KADELANJ_01476	CDS			hypothetical protein
+KADELANJ_01476	gene			
+KADELANJ_01477	CDS	flgE_2		Flagellar hook protein FlgE
+KADELANJ_01477	gene	flgE_2		
+KADELANJ_01478	CDS	flgD		Basal-body rod modification protein FlgD
+KADELANJ_01478	gene	flgD		
+KADELANJ_01479	CDS			hypothetical protein
+KADELANJ_01479	gene			
+KADELANJ_01480	CDS			hypothetical protein
+KADELANJ_01480	gene			
+KADELANJ_01481	CDS	pta_1	2.3.1.8	Phosphate acetyltransferase
+KADELANJ_01481	gene	pta_1		
+KADELANJ_01482	CDS	pta_2	2.3.1.8	Phosphate acetyltransferase
+KADELANJ_01482	gene	pta_2		
+KADELANJ_01483	CDS	ackA	2.7.2.1	Acetate kinase
+KADELANJ_01483	gene	ackA		
+KADELANJ_01484	CDS			hypothetical protein
+KADELANJ_01484	gene			
+KADELANJ_01485	CDS			hypothetical protein
+KADELANJ_01485	gene			
+KADELANJ_01486	CDS	hypB		Hydrogenase/urease nickel incorporation protein HypB
+KADELANJ_01486	gene	hypB		
+KADELANJ_01487	CDS	hypC		Hydrogenase isoenzymes formation protein HypC
+KADELANJ_01487	gene	hypC		
+KADELANJ_01488	CDS	hypD		Hydrogenase isoenzymes formation protein HypD
+KADELANJ_01488	gene	hypD		
+KADELANJ_01489	tRNA			tRNA-Gln(ttg)
+KADELANJ_01489	gene			
+KADELANJ_01490	tRNA			tRNA-Met(cat)
+KADELANJ_01490	gene			
+KADELANJ_01491	CDS	vacA_4		Vacuolating cytotoxin autotransporter
+KADELANJ_01491	gene	vacA_4		
+KADELANJ_01492	CDS	queF	1.7.1.13	NADPH-dependent 7-cyano-7-deazaguanine reductase
+KADELANJ_01492	gene	queF		
+KADELANJ_01493	CDS	rsfS		Ribosomal silencing factor RsfS
+KADELANJ_01493	gene	rsfS		
+KADELANJ_01494	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+KADELANJ_01494	gene	miaA		
+KADELANJ_01495	CDS			hypothetical protein
+KADELANJ_01495	gene			
+KADELANJ_01496	CDS			hypothetical protein
+KADELANJ_01496	gene			
+KADELANJ_01497	CDS	cptA	2.7.-.-	Phosphoethanolamine transferase CptA
+KADELANJ_01497	gene	cptA		
+KADELANJ_01498	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+KADELANJ_01498	gene	murB		
+KADELANJ_01499	CDS			hypothetical protein
+KADELANJ_01499	gene			
+KADELANJ_01500	CDS	fliI	3.6.3.14	Flagellum-specific ATP synthase
+KADELANJ_01500	gene	fliI		
+KADELANJ_01501	CDS	ptlH		Type IV secretion system protein PtlH
+KADELANJ_01501	gene	ptlH		
+KADELANJ_01502	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+KADELANJ_01502	gene	ileS		
+KADELANJ_01503	CDS			hypothetical protein
+KADELANJ_01503	gene			
+KADELANJ_01504	CDS			hypothetical protein
+KADELANJ_01504	gene			
+KADELANJ_01505	CDS			hypothetical protein
+KADELANJ_01505	gene			
+KADELANJ_01506	CDS			hypothetical protein
+KADELANJ_01506	gene			
+KADELANJ_01507	CDS			hypothetical protein
+KADELANJ_01507	gene			
+KADELANJ_01508	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+KADELANJ_01508	gene	rlmN		
+KADELANJ_01509	CDS	kdsD	5.3.1.13	Arabinose 5-phosphate isomerase KdsD
+KADELANJ_01509	gene	kdsD		
+KADELANJ_01510	CDS	rnj	3.1.-.-	Ribonuclease J
+KADELANJ_01510	gene	rnj		
+KADELANJ_01511	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+KADELANJ_01511	gene	rsmA		
+KADELANJ_01512	CDS			hypothetical protein
+KADELANJ_01512	gene			
+KADELANJ_01513	CDS			hypothetical protein
+KADELANJ_01513	gene			
+KADELANJ_01514	CDS			hypothetical protein
+KADELANJ_01514	gene			
+KADELANJ_01515	CDS			hypothetical protein
+KADELANJ_01515	gene			
+KADELANJ_01516	CDS			hypothetical protein
+KADELANJ_01516	gene			
+KADELANJ_01517	CDS			hypothetical protein
+KADELANJ_01517	gene			
+KADELANJ_01518	CDS			hypothetical protein
+KADELANJ_01518	gene			
+KADELANJ_01519	CDS			hypothetical protein
+KADELANJ_01519	gene			
+KADELANJ_01520	CDS			hypothetical protein
+KADELANJ_01520	gene			
+KADELANJ_01521	CDS			hypothetical protein
+KADELANJ_01521	gene			
+KADELANJ_01522	CDS			hypothetical protein
+KADELANJ_01522	gene			
+KADELANJ_01523	CDS			hypothetical protein
+KADELANJ_01523	gene			
+KADELANJ_01524	CDS			hypothetical protein
+KADELANJ_01524	gene			
+KADELANJ_01525	CDS			hypothetical protein
+KADELANJ_01525	gene			
+KADELANJ_01526	CDS			hypothetical protein
+KADELANJ_01526	gene			
+KADELANJ_01527	CDS			hypothetical protein
+KADELANJ_01527	gene			
+KADELANJ_01528	CDS	srpA	1.11.1.-	Catalase-related peroxidase
+KADELANJ_01528	gene	srpA		
+KADELANJ_01529	CDS			hypothetical protein
+KADELANJ_01529	gene			
+KADELANJ_01530	CDS			hypothetical protein
+KADELANJ_01530	gene			
+KADELANJ_01531	CDS	ydiO	2.1.1.37	putative BsuMI modification methylase subunit YdiO
+KADELANJ_01531	gene	ydiO		
+KADELANJ_01532	CDS			hypothetical protein
+KADELANJ_01532	gene			
+KADELANJ_01533	CDS			hypothetical protein
+KADELANJ_01533	gene			
+KADELANJ_01534	CDS			hypothetical protein
+KADELANJ_01534	gene			
+KADELANJ_01535	CDS			hypothetical protein
+KADELANJ_01535	gene			
+KADELANJ_01536	CDS	typA		GTP-binding protein TypA/BipA
+KADELANJ_01536	gene	typA		
+KADELANJ_01537	CDS			hypothetical protein
+KADELANJ_01537	gene			
+KADELANJ_01538	CDS	vspIM	2.1.1.72	Modification methylase VspI
+KADELANJ_01538	gene	vspIM		
+KADELANJ_01539	CDS			hypothetical protein
+KADELANJ_01539	gene			
+KADELANJ_01540	CDS			hypothetical protein
+KADELANJ_01540	gene			
+KADELANJ_01541	CDS			hypothetical protein
+KADELANJ_01541	gene			
+KADELANJ_01542	CDS			hypothetical protein
+KADELANJ_01542	gene			
+KADELANJ_01543	CDS			hypothetical protein
+KADELANJ_01543	gene			
+KADELANJ_01544	CDS			hypothetical protein
+KADELANJ_01544	gene			
+KADELANJ_01545	CDS	mscS		Small-conductance mechanosensitive channel
+KADELANJ_01545	gene	mscS		
+KADELANJ_01546	CDS			hypothetical protein
+KADELANJ_01546	gene			
+KADELANJ_01547	CDS			hypothetical protein
+KADELANJ_01547	gene			
+KADELANJ_01548	CDS			hypothetical protein
+KADELANJ_01548	gene			
+KADELANJ_01549	CDS			hypothetical protein
+KADELANJ_01549	gene			
+KADELANJ_01550	CDS			hypothetical protein
+KADELANJ_01550	gene			
+KADELANJ_01551	CDS	ctkA	2.7.11.1	Serine/threonine-protein kinase CtkA
+KADELANJ_01551	gene	ctkA		
+KADELANJ_01552	CDS	xerH_2		Tyrosine recombinase XerH
+KADELANJ_01552	gene	xerH_2		
+KADELANJ_01553	CDS			hypothetical protein
+KADELANJ_01553	gene			
+KADELANJ_01554	CDS	purU	3.5.1.10	Formyltetrahydrofolate deformylase
+KADELANJ_01554	gene	purU		
+KADELANJ_01555	CDS	sppA	3.4.21.-	Putative signal peptide peptidase SppA
+KADELANJ_01555	gene	sppA		
+KADELANJ_01556	CDS			hypothetical protein
+KADELANJ_01556	gene			
+KADELANJ_01557	CDS			hypothetical protein
+KADELANJ_01557	gene			
+KADELANJ_01558	CDS			hypothetical protein
+KADELANJ_01558	gene			
+KADELANJ_01559	CDS			hypothetical protein
+KADELANJ_01559	gene			
+KADELANJ_01560	CDS	ansA	3.5.1.1	putative L-asparaginase
+KADELANJ_01560	gene	ansA		
+KADELANJ_01561	CDS	dcuA		Anaerobic C4-dicarboxylate transporter DcuA
+KADELANJ_01561	gene	dcuA		
+KADELANJ_01562	CDS			hypothetical protein
+KADELANJ_01562	gene			
+KADELANJ_01563	CDS			hypothetical protein
+KADELANJ_01563	gene			
+KADELANJ_01564	CDS	xerH_3		Tyrosine recombinase XerH
+KADELANJ_01564	gene	xerH_3		
+KADELANJ_01565	CDS			hypothetical protein
+KADELANJ_01565	gene			
+KADELANJ_01566	CDS			hypothetical protein
+KADELANJ_01566	gene			

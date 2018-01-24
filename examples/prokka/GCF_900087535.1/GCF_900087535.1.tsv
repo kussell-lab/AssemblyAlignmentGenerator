@@ -1,0 +1,3195 @@
+locus_tag	ftype	gene	EC_number	product
+LAKMDKJD_00001	CDS			hypothetical protein
+LAKMDKJD_00001	gene			
+LAKMDKJD_00002	CDS	dusC	1.3.1.-	tRNA-dihydrouridine(16) synthase
+LAKMDKJD_00002	gene	dusC		
+LAKMDKJD_00003	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+LAKMDKJD_00003	gene	tilS		
+LAKMDKJD_00004	CDS			hypothetical protein
+LAKMDKJD_00004	gene			
+LAKMDKJD_00005	CDS			hypothetical protein
+LAKMDKJD_00005	gene			
+LAKMDKJD_00006	CDS			hypothetical protein
+LAKMDKJD_00006	gene			
+LAKMDKJD_00007	CDS			hypothetical protein
+LAKMDKJD_00007	gene			
+LAKMDKJD_00008	CDS	rimO	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+LAKMDKJD_00008	gene	rimO		
+LAKMDKJD_00009	CDS	gpt	2.4.2.22	Xanthine phosphoribosyltransferase
+LAKMDKJD_00009	gene	gpt		
+LAKMDKJD_00010	CDS		2.6.1.51	Serine-pyruvate aminotransferase
+LAKMDKJD_00010	gene			
+LAKMDKJD_00011	CDS	pgpA	3.1.3.27	Phosphatidylglycerophosphatase A
+LAKMDKJD_00011	gene	pgpA		
+LAKMDKJD_00012	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+LAKMDKJD_00012	gene	ddl		
+LAKMDKJD_00013	CDS	menH	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+LAKMDKJD_00013	gene	menH		
+LAKMDKJD_00014	CDS	murF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+LAKMDKJD_00014	gene	murF		
+LAKMDKJD_00015	CDS		2.7.7.53	AP-4-A phosphorylase
+LAKMDKJD_00015	gene			
+LAKMDKJD_00016	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+LAKMDKJD_00016	gene	prs		
+LAKMDKJD_00017	tRNA			tRNA-Met(cat)
+LAKMDKJD_00017	gene			
+LAKMDKJD_00018	CDS			hypothetical protein
+LAKMDKJD_00018	gene			
+LAKMDKJD_00019	CDS	rsgA	3.6.1.-	Putative ribosome biogenesis GTPase RsgA
+LAKMDKJD_00019	gene	rsgA		
+LAKMDKJD_00020	CDS	rluD	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+LAKMDKJD_00020	gene	rluD		
+LAKMDKJD_00021	CDS			hypothetical protein
+LAKMDKJD_00021	gene			
+LAKMDKJD_00022	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+LAKMDKJD_00022	gene	trmB		
+LAKMDKJD_00023	CDS	ftsE		Cell division ATP-binding protein FtsE
+LAKMDKJD_00023	gene	ftsE		
+LAKMDKJD_00024	CDS			hypothetical protein
+LAKMDKJD_00024	gene			
+LAKMDKJD_00025	CDS			hypothetical protein
+LAKMDKJD_00025	gene			
+LAKMDKJD_00026	CDS			hypothetical protein
+LAKMDKJD_00026	gene			
+LAKMDKJD_00027	CDS	fliD		Flagellar hook-associated protein 2
+LAKMDKJD_00027	gene	fliD		
+LAKMDKJD_00028	CDS	fliS		Flagellar protein FliS
+LAKMDKJD_00028	gene	fliS		
+LAKMDKJD_00029	CDS			hypothetical protein
+LAKMDKJD_00029	gene			
+LAKMDKJD_00030	CDS	tcdA	6.1.-.-	tRNA threonylcarbamoyladenosine dehydratase
+LAKMDKJD_00030	gene	tcdA		
+LAKMDKJD_00031	CDS			hypothetical protein
+LAKMDKJD_00031	gene			
+LAKMDKJD_00032	CDS		3.5.1.77	N-carbamoyl-D-amino acid hydrolase
+LAKMDKJD_00032	gene			
+LAKMDKJD_00033	CDS			hypothetical protein
+LAKMDKJD_00033	gene			
+LAKMDKJD_00034	CDS	yeeO		putative FMN/FAD exporter YeeO
+LAKMDKJD_00034	gene	yeeO		
+LAKMDKJD_00035	CDS	rny	3.1.-.-	Ribonuclease Y
+LAKMDKJD_00035	gene	rny		
+LAKMDKJD_00036	CDS			hypothetical protein
+LAKMDKJD_00036	gene			
+LAKMDKJD_00037	CDS			hypothetical protein
+LAKMDKJD_00037	gene			
+LAKMDKJD_00038	CDS	ftsY		Signal recognition particle receptor FtsY
+LAKMDKJD_00038	gene	ftsY		
+LAKMDKJD_00039	CDS			hypothetical protein
+LAKMDKJD_00039	gene			
+LAKMDKJD_00040	CDS			hypothetical protein
+LAKMDKJD_00040	gene			
+LAKMDKJD_00041	CDS			hypothetical protein
+LAKMDKJD_00041	gene			
+LAKMDKJD_00042	CDS			hypothetical protein
+LAKMDKJD_00042	gene			
+LAKMDKJD_00043	CDS	moaA	4.1.99.22	GTP 3',8-cyclase
+LAKMDKJD_00043	gene	moaA		
+LAKMDKJD_00044	CDS	mobA	2.7.7.77	putative molybdenum cofactor guanylyltransferase
+LAKMDKJD_00044	gene	mobA		
+LAKMDKJD_00045	CDS	flhB_1		Flagellar biosynthetic protein FlhB
+LAKMDKJD_00045	gene	flhB_1		
+LAKMDKJD_00046	CDS			hypothetical protein
+LAKMDKJD_00046	gene			
+LAKMDKJD_00047	CDS	amiC	3.5.1.28	N-acetylmuramoyl-L-alanine amidase AmiC
+LAKMDKJD_00047	gene	amiC		
+LAKMDKJD_00048	CDS	pyrD_1	1.3.-.-	Dihydroorotate dehydrogenase
+LAKMDKJD_00048	gene	pyrD_1		
+LAKMDKJD_00049	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+LAKMDKJD_00049	gene	tyrS		
+LAKMDKJD_00050	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+LAKMDKJD_00050	gene	relA		
+LAKMDKJD_00051	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+LAKMDKJD_00051	gene	rpoZ		
+LAKMDKJD_00052	CDS	pyrH_1	2.7.4.22	Uridylate kinase
+LAKMDKJD_00052	gene	pyrH_1		
+LAKMDKJD_00053	CDS	pyrH_2	2.7.4.22	Uridylate kinase
+LAKMDKJD_00053	gene	pyrH_2		
+LAKMDKJD_00054	CDS	mqnA	4.2.1.151	Chorismate dehydratase
+LAKMDKJD_00054	gene	mqnA		
+LAKMDKJD_00055	CDS	acnB	4.2.1.3	Aconitate hydratase B
+LAKMDKJD_00055	gene	acnB		
+LAKMDKJD_00056	CDS			hypothetical protein
+LAKMDKJD_00056	gene			
+LAKMDKJD_00057	CDS			hypothetical protein
+LAKMDKJD_00057	gene			
+LAKMDKJD_00058	CDS			hypothetical protein
+LAKMDKJD_00058	gene			
+LAKMDKJD_00059	CDS			hypothetical protein
+LAKMDKJD_00059	gene			
+LAKMDKJD_00060	tmRNA	ssrA		transfer-messenger RNA, SsrA
+LAKMDKJD_00060	gene	ssrA		
+LAKMDKJD_00061	CDS	lolA		Outer-membrane lipoprotein carrier protein
+LAKMDKJD_00061	gene	lolA		
+LAKMDKJD_00062	CDS	secA		Protein translocase subunit SecA
+LAKMDKJD_00062	gene	secA		
+LAKMDKJD_00063	CDS	lolC		Lipoprotein-releasing system transmembrane protein LolC
+LAKMDKJD_00063	gene	lolC		
+LAKMDKJD_00064	CDS			hypothetical protein
+LAKMDKJD_00064	gene			
+LAKMDKJD_00065	CDS			hypothetical protein
+LAKMDKJD_00065	gene			
+LAKMDKJD_00066	CDS			hypothetical protein
+LAKMDKJD_00066	gene			
+LAKMDKJD_00067	CDS	cadA	3.6.3.3	Cadmium, zinc and cobalt-transporting ATPase
+LAKMDKJD_00067	gene	cadA		
+LAKMDKJD_00068	CDS	comM		Competence protein ComM
+LAKMDKJD_00068	gene	comM		
+LAKMDKJD_00069	CDS	def	3.5.1.88	Peptide deformylase
+LAKMDKJD_00069	gene	def		
+LAKMDKJD_00070	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+LAKMDKJD_00070	gene	clpP		
+LAKMDKJD_00071	CDS	tig	5.2.1.8	Trigger factor
+LAKMDKJD_00071	gene	tig		
+LAKMDKJD_00072	CDS			hypothetical protein
+LAKMDKJD_00072	gene			
+LAKMDKJD_00073	CDS			hypothetical protein
+LAKMDKJD_00073	gene			
+LAKMDKJD_00074	CDS	moaC	4.6.1.17	Cyclic pyranopterin monophosphate synthase
+LAKMDKJD_00074	gene	moaC		
+LAKMDKJD_00075	CDS	mog	2.7.7.75	Molybdopterin adenylyltransferase
+LAKMDKJD_00075	gene	mog		
+LAKMDKJD_00076	CDS	moaE	2.8.1.12	Molybdopterin synthase catalytic subunit
+LAKMDKJD_00076	gene	moaE		
+LAKMDKJD_00077	CDS			hypothetical protein
+LAKMDKJD_00077	gene			
+LAKMDKJD_00078	CDS	ribA	3.5.4.25	GTP cyclohydrolase-2
+LAKMDKJD_00078	gene	ribA		
+LAKMDKJD_00079	CDS			hypothetical protein
+LAKMDKJD_00079	gene			
+LAKMDKJD_00080	CDS	ribBA		Riboflavin biosynthesis protein RibBA
+LAKMDKJD_00080	gene	ribBA		
+LAKMDKJD_00081	CDS			hypothetical protein
+LAKMDKJD_00081	gene			
+LAKMDKJD_00082	CDS			hypothetical protein
+LAKMDKJD_00082	gene			
+LAKMDKJD_00083	CDS	fecA_1		Fe(3+) dicitrate transport protein FecA
+LAKMDKJD_00083	gene	fecA_1		
+LAKMDKJD_00084	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+LAKMDKJD_00084	gene	acpS		
+LAKMDKJD_00085	CDS			hypothetical protein
+LAKMDKJD_00085	gene			
+LAKMDKJD_00086	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+LAKMDKJD_00086	gene	rsmD		
+LAKMDKJD_00087	CDS			hypothetical protein
+LAKMDKJD_00087	gene			
+LAKMDKJD_00088	CDS			hypothetical protein
+LAKMDKJD_00088	gene			
+LAKMDKJD_00089	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+LAKMDKJD_00089	gene	gloC		
+LAKMDKJD_00090	CDS			hypothetical protein
+LAKMDKJD_00090	gene			
+LAKMDKJD_00091	CDS	moeZ		putative adenylyltransferase/sulfurtransferase MoeZ
+LAKMDKJD_00091	gene	moeZ		
+LAKMDKJD_00092	CDS	pomA		Chemotaxis protein PomA
+LAKMDKJD_00092	gene	pomA		
+LAKMDKJD_00093	CDS	motB		Motility protein B
+LAKMDKJD_00093	gene	motB		
+LAKMDKJD_00094	CDS			hypothetical protein
+LAKMDKJD_00094	gene			
+LAKMDKJD_00095	CDS	opuCC		Glycine betaine/carnitine/choline-binding protein OpuCC
+LAKMDKJD_00095	gene	opuCC		
+LAKMDKJD_00096	CDS	opuBA		Choline transport ATP-binding protein OpuBA
+LAKMDKJD_00096	gene	opuBA		
+LAKMDKJD_00097	CDS			hypothetical protein
+LAKMDKJD_00097	gene			
+LAKMDKJD_00098	CDS	uvrC		UvrABC system protein C
+LAKMDKJD_00098	gene	uvrC		
+LAKMDKJD_00099	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+LAKMDKJD_00099	gene	hom		
+LAKMDKJD_00100	CDS			hypothetical protein
+LAKMDKJD_00100	gene			
+LAKMDKJD_00101	CDS	trxA_1		Thioredoxin
+LAKMDKJD_00101	gene	trxA_1		
+LAKMDKJD_00102	CDS	trxB	1.8.1.9	Thioredoxin reductase
+LAKMDKJD_00102	gene	trxB		
+LAKMDKJD_00103	CDS	lex1	2.-.-.-	Lipooligosaccharide biosynthesis protein lex-1
+LAKMDKJD_00103	gene	lex1		
+LAKMDKJD_00104	CDS			hypothetical protein
+LAKMDKJD_00104	gene			
+LAKMDKJD_00105	CDS	atpB		ATP synthase subunit a
+LAKMDKJD_00105	gene	atpB		
+LAKMDKJD_00106	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+LAKMDKJD_00106	gene	guaB		
+LAKMDKJD_00107	CDS	gatA	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+LAKMDKJD_00107	gene	gatA		
+LAKMDKJD_00108	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+LAKMDKJD_00108	gene	coaE		
+LAKMDKJD_00109	CDS	speE	2.5.1.16	Polyamine aminopropyltransferase
+LAKMDKJD_00109	gene	speE		
+LAKMDKJD_00110	CDS			hypothetical protein
+LAKMDKJD_00110	gene			
+LAKMDKJD_00111	CDS	der_1		GTPase Der
+LAKMDKJD_00111	gene	der_1		
+LAKMDKJD_00112	CDS	hup		DNA-binding protein HU
+LAKMDKJD_00112	gene	hup		
+LAKMDKJD_00113	tRNA			tRNA-Arg(cct)
+LAKMDKJD_00113	gene			
+LAKMDKJD_00114	CDS			hypothetical protein
+LAKMDKJD_00114	gene			
+LAKMDKJD_00115	CDS			hypothetical protein
+LAKMDKJD_00115	gene			
+LAKMDKJD_00116	CDS			hypothetical protein
+LAKMDKJD_00116	gene			
+LAKMDKJD_00117	CDS	pseB	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+LAKMDKJD_00117	gene	pseB		
+LAKMDKJD_00118	CDS	coaBC		Coenzyme A biosynthesis bifunctional protein CoaBC
+LAKMDKJD_00118	gene	coaBC		
+LAKMDKJD_00119	CDS			hypothetical protein
+LAKMDKJD_00119	gene			
+LAKMDKJD_00120	CDS	thiE	2.5.1.3	Thiamine-phosphate synthase
+LAKMDKJD_00120	gene	thiE		
+LAKMDKJD_00121	CDS	thiD_1	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+LAKMDKJD_00121	gene	thiD_1		
+LAKMDKJD_00122	CDS	thiD_2	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+LAKMDKJD_00122	gene	thiD_2		
+LAKMDKJD_00123	CDS	thiM	2.7.1.50	Hydroxyethylthiazole kinase
+LAKMDKJD_00123	gene	thiM		
+LAKMDKJD_00124	CDS	hsdR_1	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+LAKMDKJD_00124	gene	hsdR_1		
+LAKMDKJD_00125	CDS			hypothetical protein
+LAKMDKJD_00125	gene			
+LAKMDKJD_00126	CDS			Putative type-1 restriction enzyme specificity protein MG438
+LAKMDKJD_00126	gene			
+LAKMDKJD_00127	CDS			hypothetical protein
+LAKMDKJD_00127	gene			
+LAKMDKJD_00128	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+LAKMDKJD_00128	gene			
+LAKMDKJD_00129	CDS			hypothetical protein
+LAKMDKJD_00129	gene			
+LAKMDKJD_00130	CDS			hypothetical protein
+LAKMDKJD_00130	gene			
+LAKMDKJD_00131	CDS	ybiT		putative ABC transporter ATP-binding protein YbiT
+LAKMDKJD_00131	gene	ybiT		
+LAKMDKJD_00132	CDS	guaC	1.7.1.7	GMP reductase
+LAKMDKJD_00132	gene	guaC		
+LAKMDKJD_00133	CDS	patA	2.3.1.-	Peptidoglycan O-acetyltransferase
+LAKMDKJD_00133	gene	patA		
+LAKMDKJD_00134	CDS			hypothetical protein
+LAKMDKJD_00134	gene			
+LAKMDKJD_00135	CDS	gmhA1	5.3.1.28	Phosphoheptose isomerase 1
+LAKMDKJD_00135	gene	gmhA1		
+LAKMDKJD_00136	CDS	hldE		Bifunctional protein HldE
+LAKMDKJD_00136	gene	hldE		
+LAKMDKJD_00137	CDS	hldD	5.1.3.20	ADP-L-glycero-D-manno-heptose-6-epimerase
+LAKMDKJD_00137	gene	hldD		
+LAKMDKJD_00138	CDS	gmhB	3.1.3.82	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+LAKMDKJD_00138	gene	gmhB		
+LAKMDKJD_00139	CDS			hypothetical protein
+LAKMDKJD_00139	gene			
+LAKMDKJD_00140	CDS	coaX	2.7.1.33	Type III pantothenate kinase
+LAKMDKJD_00140	gene	coaX		
+LAKMDKJD_00141	CDS	pgbB		Plasminogen-binding protein PgbB
+LAKMDKJD_00141	gene	pgbB		
+LAKMDKJD_00142	CDS			hypothetical protein
+LAKMDKJD_00142	gene			
+LAKMDKJD_00143	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+LAKMDKJD_00143	gene	dut		
+LAKMDKJD_00144	CDS	greA		Transcription elongation factor GreA
+LAKMDKJD_00144	gene	greA		
+LAKMDKJD_00145	CDS	lpxB	2.4.1.182	Lipid-A-disaccharide synthase
+LAKMDKJD_00145	gene	lpxB		
+LAKMDKJD_00146	CDS			hypothetical protein
+LAKMDKJD_00146	gene			
+LAKMDKJD_00147	CDS	hypA		Hydrogenase/urease nickel incorporation protein HypA
+LAKMDKJD_00147	gene	hypA		
+LAKMDKJD_00148	CDS	flgE_1		Flagellar hook protein FlgE
+LAKMDKJD_00148	gene	flgE_1		
+LAKMDKJD_00149	CDS	cdh	3.6.1.26	CDP-diacylglycerol pyrophosphatase
+LAKMDKJD_00149	gene	cdh		
+LAKMDKJD_00150	CDS			hypothetical protein
+LAKMDKJD_00150	gene			
+LAKMDKJD_00151	CDS			hypothetical protein
+LAKMDKJD_00151	gene			
+LAKMDKJD_00152	CDS			hypothetical protein
+LAKMDKJD_00152	gene			
+LAKMDKJD_00153	CDS	katA	1.11.1.6	Catalase
+LAKMDKJD_00153	gene	katA		
+LAKMDKJD_00154	CDS	tdhA		TonB-dependent heme receptor A
+LAKMDKJD_00154	gene	tdhA		
+LAKMDKJD_00155	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+LAKMDKJD_00155	gene	ruvC		
+LAKMDKJD_00156	CDS			hypothetical protein
+LAKMDKJD_00156	gene			
+LAKMDKJD_00157	CDS			hypothetical protein
+LAKMDKJD_00157	gene			
+LAKMDKJD_00158	CDS			hypothetical protein
+LAKMDKJD_00158	gene			
+LAKMDKJD_00159	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+LAKMDKJD_00159	gene	ruvA		
+LAKMDKJD_00160	CDS			hypothetical protein
+LAKMDKJD_00160	gene			
+LAKMDKJD_00161	CDS	murJ		Lipid II flippase MurJ
+LAKMDKJD_00161	gene	murJ		
+LAKMDKJD_00162	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+LAKMDKJD_00162	gene	cysS		
+LAKMDKJD_00163	CDS	vacA_1		Vacuolating cytotoxin autotransporter
+LAKMDKJD_00163	gene	vacA_1		
+LAKMDKJD_00164	CDS			putative ABC transporter ATP-binding protein
+LAKMDKJD_00164	gene			
+LAKMDKJD_00165	CDS	hmuU		Hemin transport system permease protein HmuU
+LAKMDKJD_00165	gene	hmuU		
+LAKMDKJD_00166	CDS		1.-.-.-	putative oxidoreductase
+LAKMDKJD_00166	gene			
+LAKMDKJD_00167	CDS			hypothetical protein
+LAKMDKJD_00167	gene			
+LAKMDKJD_00168	CDS	yafQ_1	3.1.-.-	mRNA interferase YafQ
+LAKMDKJD_00168	gene	yafQ_1		
+LAKMDKJD_00169	CDS			hypothetical protein
+LAKMDKJD_00169	gene			
+LAKMDKJD_00170	CDS	yafQ_2	3.1.-.-	mRNA interferase YafQ
+LAKMDKJD_00170	gene	yafQ_2		
+LAKMDKJD_00171	CDS			hypothetical protein
+LAKMDKJD_00171	gene			
+LAKMDKJD_00172	CDS			hypothetical protein
+LAKMDKJD_00172	gene			
+LAKMDKJD_00173	CDS			hypothetical protein
+LAKMDKJD_00173	gene			
+LAKMDKJD_00174	CDS			hypothetical protein
+LAKMDKJD_00174	gene			
+LAKMDKJD_00175	CDS	cagT		CAG pathogenicity island protein 12
+LAKMDKJD_00175	gene	cagT		
+LAKMDKJD_00176	CDS			hypothetical protein
+LAKMDKJD_00176	gene			
+LAKMDKJD_00177	CDS	cagS		CAG pathogenicity island protein 13
+LAKMDKJD_00177	gene	cagS		
+LAKMDKJD_00178	CDS			hypothetical protein
+LAKMDKJD_00178	gene			
+LAKMDKJD_00179	CDS			hypothetical protein
+LAKMDKJD_00179	gene			
+LAKMDKJD_00180	CDS			hypothetical protein
+LAKMDKJD_00180	gene			
+LAKMDKJD_00181	CDS			hypothetical protein
+LAKMDKJD_00181	gene			
+LAKMDKJD_00182	CDS			hypothetical protein
+LAKMDKJD_00182	gene			
+LAKMDKJD_00183	CDS			hypothetical protein
+LAKMDKJD_00183	gene			
+LAKMDKJD_00184	CDS			hypothetical protein
+LAKMDKJD_00184	gene			
+LAKMDKJD_00185	CDS			hypothetical protein
+LAKMDKJD_00185	gene			
+LAKMDKJD_00186	CDS			hypothetical protein
+LAKMDKJD_00186	gene			
+LAKMDKJD_00187	CDS			hypothetical protein
+LAKMDKJD_00187	gene			
+LAKMDKJD_00188	CDS	virB4_1		Type IV secretion system protein virB4
+LAKMDKJD_00188	gene	virB4_1		
+LAKMDKJD_00189	CDS			hypothetical protein
+LAKMDKJD_00189	gene			
+LAKMDKJD_00190	CDS			hypothetical protein
+LAKMDKJD_00190	gene			
+LAKMDKJD_00191	CDS			hypothetical protein
+LAKMDKJD_00191	gene			
+LAKMDKJD_00192	CDS	cagA		Cytotoxicity-associated immunodominant antigen
+LAKMDKJD_00192	gene	cagA		
+LAKMDKJD_00193	CDS			hypothetical protein
+LAKMDKJD_00193	gene			
+LAKMDKJD_00194	CDS			hypothetical protein
+LAKMDKJD_00194	gene			
+LAKMDKJD_00195	CDS	murI	5.1.1.3	Glutamate racemase
+LAKMDKJD_00195	gene	murI		
+LAKMDKJD_00196	CDS	rho	3.6.4.-	Transcription termination factor Rho
+LAKMDKJD_00196	gene	rho		
+LAKMDKJD_00197	CDS	rpmE		50S ribosomal protein L31
+LAKMDKJD_00197	gene	rpmE		
+LAKMDKJD_00198	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+LAKMDKJD_00198	gene	rsmI		
+LAKMDKJD_00199	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+LAKMDKJD_00199	gene			
+LAKMDKJD_00200	CDS			hypothetical protein
+LAKMDKJD_00200	gene			
+LAKMDKJD_00201	CDS			hypothetical protein
+LAKMDKJD_00201	gene			
+LAKMDKJD_00202	CDS			hypothetical protein
+LAKMDKJD_00202	gene			
+LAKMDKJD_00203	CDS			hypothetical protein
+LAKMDKJD_00203	gene			
+LAKMDKJD_00204	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+LAKMDKJD_00204	gene	accA		
+LAKMDKJD_00205	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+LAKMDKJD_00205	gene	fabF		
+LAKMDKJD_00206	CDS	acpP_1		Acyl carrier protein
+LAKMDKJD_00206	gene	acpP_1		
+LAKMDKJD_00207	CDS	fabG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+LAKMDKJD_00207	gene	fabG		
+LAKMDKJD_00208	CDS	rpsU		30S ribosomal protein S21
+LAKMDKJD_00208	gene	rpsU		
+LAKMDKJD_00209	CDS			hypothetical protein
+LAKMDKJD_00209	gene			
+LAKMDKJD_00210	CDS			hypothetical protein
+LAKMDKJD_00210	gene			
+LAKMDKJD_00211	CDS	rclC		Inner membrane protein RclC
+LAKMDKJD_00211	gene	rclC		
+LAKMDKJD_00212	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+LAKMDKJD_00212	gene	dapF		
+LAKMDKJD_00213	CDS			hypothetical protein
+LAKMDKJD_00213	gene			
+LAKMDKJD_00214	CDS	pqqE		Coenzyme PQQ synthesis protein E
+LAKMDKJD_00214	gene	pqqE		
+LAKMDKJD_00215	CDS	ychF		Ribosome-binding ATPase YchF
+LAKMDKJD_00215	gene	ychF		
+LAKMDKJD_00216	CDS	pepA	3.4.11.1	Cytosol aminopeptidase
+LAKMDKJD_00216	gene	pepA		
+LAKMDKJD_00217	CDS	yohD_1		Inner membrane protein YohD
+LAKMDKJD_00217	gene	yohD_1		
+LAKMDKJD_00218	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+LAKMDKJD_00218	gene	apt		
+LAKMDKJD_00219	CDS			hypothetical protein
+LAKMDKJD_00219	gene			
+LAKMDKJD_00220	CDS	ywlF	5.3.1.-	Putative sugar phosphate isomerase YwlF
+LAKMDKJD_00220	gene	ywlF		
+LAKMDKJD_00221	CDS			hypothetical protein
+LAKMDKJD_00221	gene			
+LAKMDKJD_00222	CDS	lepB	3.4.21.89	Signal peptidase I
+LAKMDKJD_00222	gene	lepB		
+LAKMDKJD_00223	CDS	folD		Bifunctional protein FolD protein
+LAKMDKJD_00223	gene	folD		
+LAKMDKJD_00224	CDS	mdoB	2.7.8.20	Phosphoglycerol transferase I
+LAKMDKJD_00224	gene	mdoB		
+LAKMDKJD_00225	CDS			hypothetical protein
+LAKMDKJD_00225	gene			
+LAKMDKJD_00226	CDS			hypothetical protein
+LAKMDKJD_00226	gene			
+LAKMDKJD_00227	CDS	pyrC_1	3.5.2.3	Dihydroorotase
+LAKMDKJD_00227	gene	pyrC_1		
+LAKMDKJD_00228	CDS			hypothetical protein
+LAKMDKJD_00228	gene			
+LAKMDKJD_00229	CDS			hypothetical protein
+LAKMDKJD_00229	gene			
+LAKMDKJD_00230	CDS	fliN_1		Flagellar motor switch protein FliN
+LAKMDKJD_00230	gene	fliN_1		
+LAKMDKJD_00231	CDS	nth_1	4.2.99.18	Endonuclease III
+LAKMDKJD_00231	gene	nth_1		
+LAKMDKJD_00232	CDS	feoA		Putative Fe(2+) transport protein A
+LAKMDKJD_00232	gene	feoA		
+LAKMDKJD_00233	CDS			hypothetical protein
+LAKMDKJD_00233	gene			
+LAKMDKJD_00234	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+LAKMDKJD_00234	gene	mltG		
+LAKMDKJD_00235	CDS	hydA_1	1.12.7.2	Periplasmic [Fe] hydrogenase large subunit
+LAKMDKJD_00235	gene	hydA_1		
+LAKMDKJD_00236	CDS	korA	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+LAKMDKJD_00236	gene	korA		
+LAKMDKJD_00237	CDS	korB	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+LAKMDKJD_00237	gene	korB		
+LAKMDKJD_00238	CDS			hypothetical protein
+LAKMDKJD_00238	gene			
+LAKMDKJD_00239	CDS			hypothetical protein
+LAKMDKJD_00239	gene			
+LAKMDKJD_00240	CDS			hypothetical protein
+LAKMDKJD_00240	gene			
+LAKMDKJD_00241	CDS			hypothetical protein
+LAKMDKJD_00241	gene			
+LAKMDKJD_00242	CDS	dsbB		Disulfide bond formation protein B
+LAKMDKJD_00242	gene	dsbB		
+LAKMDKJD_00243	CDS			hypothetical protein
+LAKMDKJD_00243	gene			
+LAKMDKJD_00244	CDS	mrcA		Penicillin-binding protein 1A
+LAKMDKJD_00244	gene	mrcA		
+LAKMDKJD_00245	CDS	bioF	2.3.1.47	8-amino-7-oxononanoate synthase 2
+LAKMDKJD_00245	gene	bioF		
+LAKMDKJD_00246	CDS	mcpU		Methyl-accepting chemotaxis protein McpU
+LAKMDKJD_00246	gene	mcpU		
+LAKMDKJD_00247	CDS			putative ABC transporter ATP-binding protein
+LAKMDKJD_00247	gene			
+LAKMDKJD_00248	CDS			hypothetical protein
+LAKMDKJD_00248	gene			
+LAKMDKJD_00249	CDS	flaA		Flagellin A
+LAKMDKJD_00249	gene	flaA		
+LAKMDKJD_00250	CDS	nth_2	4.2.99.18	Endonuclease III
+LAKMDKJD_00250	gene	nth_2		
+LAKMDKJD_00251	CDS			hypothetical protein
+LAKMDKJD_00251	gene			
+LAKMDKJD_00252	CDS	hemE	4.1.1.37	Uroporphyrinogen decarboxylase
+LAKMDKJD_00252	gene	hemE		
+LAKMDKJD_00253	CDS			hypothetical protein
+LAKMDKJD_00253	gene			
+LAKMDKJD_00254	CDS	czcB		Cobalt-zinc-cadmium resistance protein CzcB
+LAKMDKJD_00254	gene	czcB		
+LAKMDKJD_00255	CDS	mdtC		Multidrug resistance protein MdtC
+LAKMDKJD_00255	gene	mdtC		
+LAKMDKJD_00256	CDS			hypothetical protein
+LAKMDKJD_00256	gene			
+LAKMDKJD_00257	CDS	vacA_2		Vacuolating cytotoxin autotransporter
+LAKMDKJD_00257	gene	vacA_2		
+LAKMDKJD_00258	CDS			hypothetical protein
+LAKMDKJD_00258	gene			
+LAKMDKJD_00259	CDS	yxdL		ABC transporter ATP-binding protein YxdL
+LAKMDKJD_00259	gene	yxdL		
+LAKMDKJD_00260	CDS			hypothetical protein
+LAKMDKJD_00260	gene			
+LAKMDKJD_00261	CDS	ligA	6.5.1.2	DNA ligase
+LAKMDKJD_00261	gene	ligA		
+LAKMDKJD_00262	CDS	cheV_1		Chemotaxis protein CheV
+LAKMDKJD_00262	gene	cheV_1		
+LAKMDKJD_00263	CDS	aspS	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+LAKMDKJD_00263	gene	aspS		
+LAKMDKJD_00264	CDS	adk	2.7.4.3	Adenylate kinase
+LAKMDKJD_00264	gene	adk		
+LAKMDKJD_00265	CDS			hypothetical protein
+LAKMDKJD_00265	gene			
+LAKMDKJD_00266	CDS	ppa	3.6.1.1	Inorganic pyrophosphatase
+LAKMDKJD_00266	gene	ppa		
+LAKMDKJD_00267	CDS	mutS2_1	3.1.-.-	Endonuclease MutS2
+LAKMDKJD_00267	gene	mutS2_1		
+LAKMDKJD_00268	CDS	mutS2_2	3.1.-.-	Endonuclease MutS2
+LAKMDKJD_00268	gene	mutS2_2		
+LAKMDKJD_00269	CDS	mutS2_3	3.1.-.-	Endonuclease MutS2
+LAKMDKJD_00269	gene	mutS2_3		
+LAKMDKJD_00270	CDS			hypothetical protein
+LAKMDKJD_00270	gene			
+LAKMDKJD_00271	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+LAKMDKJD_00271	gene	murC		
+LAKMDKJD_00272	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+LAKMDKJD_00272	gene	dapL		
+LAKMDKJD_00273	CDS	ispG	1.17.7.3	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+LAKMDKJD_00273	gene	ispG		
+LAKMDKJD_00274	CDS	dapD	2.3.1.117	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+LAKMDKJD_00274	gene	dapD		
+LAKMDKJD_00275	CDS	hcpD	3.5.2.6	Putative beta-lactamase HcpD
+LAKMDKJD_00275	gene	hcpD		
+LAKMDKJD_00276	CDS			hypothetical protein
+LAKMDKJD_00276	gene			
+LAKMDKJD_00277	CDS	mdaB		Modulator of drug activity B
+LAKMDKJD_00277	gene	mdaB		
+LAKMDKJD_00278	CDS	hydA_2	1.12.5.1	Quinone-reactive Ni/Fe-hydrogenase small chain
+LAKMDKJD_00278	gene	hydA_2		
+LAKMDKJD_00279	CDS	hydB	1.12.5.1	Quinone-reactive Ni/Fe-hydrogenase large chain
+LAKMDKJD_00279	gene	hydB		
+LAKMDKJD_00280	CDS	hydC		Quinone-reactive Ni/Fe-hydrogenase B-type cytochrome subunit
+LAKMDKJD_00280	gene	hydC		
+LAKMDKJD_00281	CDS	hybD	3.4.23.-	Hydrogenase 2 maturation protease
+LAKMDKJD_00281	gene	hybD		
+LAKMDKJD_00282	CDS			hypothetical protein
+LAKMDKJD_00282	gene			
+LAKMDKJD_00283	CDS			hypothetical protein
+LAKMDKJD_00283	gene			
+LAKMDKJD_00284	CDS			hypothetical protein
+LAKMDKJD_00284	gene			
+LAKMDKJD_00285	CDS			hypothetical protein
+LAKMDKJD_00285	gene			
+LAKMDKJD_00286	CDS	queC	6.3.4.20	7-cyano-7-deazaguanine synthase
+LAKMDKJD_00286	gene	queC		
+LAKMDKJD_00287	CDS	cca	2.7.7.72	CCA-adding enzyme
+LAKMDKJD_00287	gene	cca		
+LAKMDKJD_00288	CDS			hypothetical protein
+LAKMDKJD_00288	gene			
+LAKMDKJD_00289	CDS	yfkO	1.-.-.-	Putative NAD(P)H nitroreductase YfkO
+LAKMDKJD_00289	gene	yfkO		
+LAKMDKJD_00290	CDS	gltX1	6.1.1.17	Glutamate--tRNA ligase 1
+LAKMDKJD_00290	gene	gltX1		
+LAKMDKJD_00291	CDS			hypothetical protein
+LAKMDKJD_00291	gene			
+LAKMDKJD_00292	CDS			hypothetical protein
+LAKMDKJD_00292	gene			
+LAKMDKJD_00293	CDS	slt	4.2.2.-	Soluble lytic murein transglycosylase
+LAKMDKJD_00293	gene	slt		
+LAKMDKJD_00294	CDS	gtaB	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+LAKMDKJD_00294	gene	gtaB		
+LAKMDKJD_00295	CDS	murA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+LAKMDKJD_00295	gene	murA		
+LAKMDKJD_00296	CDS	aspA	4.3.1.1	Aspartate ammonia-lyase
+LAKMDKJD_00296	gene	aspA		
+LAKMDKJD_00297	CDS			hypothetical protein
+LAKMDKJD_00297	gene			
+LAKMDKJD_00298	CDS	fucT_1	2.4.1.152	Alpha-(1,3)-fucosyltransferase FucT
+LAKMDKJD_00298	gene	fucT_1		
+LAKMDKJD_00299	CDS			hypothetical protein
+LAKMDKJD_00299	gene			
+LAKMDKJD_00300	CDS	queE_1	4.3.99.3	7-carboxy-7-deazaguanine synthase
+LAKMDKJD_00300	gene	queE_1		
+LAKMDKJD_00301	CDS	topA_1	5.99.1.2	DNA topoisomerase 1
+LAKMDKJD_00301	gene	topA_1		
+LAKMDKJD_00302	CDS	flaB		Flagellin B
+LAKMDKJD_00302	gene	flaB		
+LAKMDKJD_00303	CDS			hypothetical protein
+LAKMDKJD_00303	gene			
+LAKMDKJD_00304	CDS			hypothetical protein
+LAKMDKJD_00304	gene			
+LAKMDKJD_00305	CDS			hypothetical protein
+LAKMDKJD_00305	gene			
+LAKMDKJD_00306	CDS	hrcA		Heat-inducible transcription repressor HrcA
+LAKMDKJD_00306	gene	hrcA		
+LAKMDKJD_00307	CDS	grpE		Protein GrpE
+LAKMDKJD_00307	gene	grpE		
+LAKMDKJD_00308	CDS	dnaK		Chaperone protein DnaK
+LAKMDKJD_00308	gene	dnaK		
+LAKMDKJD_00309	CDS			hypothetical protein
+LAKMDKJD_00309	gene			
+LAKMDKJD_00310	CDS	cysM	2.5.1.47	Cysteine synthase
+LAKMDKJD_00310	gene	cysM		
+LAKMDKJD_00311	CDS	metB	2.5.1.48	Cystathionine gamma-synthase
+LAKMDKJD_00311	gene	metB		
+LAKMDKJD_00312	CDS	luxS	4.4.1.21	S-ribosylhomocysteine lyase
+LAKMDKJD_00312	gene	luxS		
+LAKMDKJD_00313	CDS	yfkN		Trifunctional nucleotide phosphoesterase protein YfkN
+LAKMDKJD_00313	gene	yfkN		
+LAKMDKJD_00314	CDS	mcp4		Methyl-accepting chemotaxis protein 4
+LAKMDKJD_00314	gene	mcp4		
+LAKMDKJD_00315	CDS		2.4.-.-	putative glycosyltransferase
+LAKMDKJD_00315	gene			
+LAKMDKJD_00316	CDS			hypothetical protein
+LAKMDKJD_00316	gene			
+LAKMDKJD_00317	CDS			hypothetical protein
+LAKMDKJD_00317	gene			
+LAKMDKJD_00318	CDS	pctC		Methyl-accepting chemotaxis protein PctC
+LAKMDKJD_00318	gene	pctC		
+LAKMDKJD_00319	CDS	thrC	4.2.3.1	Threonine synthase
+LAKMDKJD_00319	gene	thrC		
+LAKMDKJD_00320	CDS			hypothetical protein
+LAKMDKJD_00320	gene			
+LAKMDKJD_00321	CDS		1.-.-.-	Putative 2-hydroxyacid dehydrogenase
+LAKMDKJD_00321	gene			
+LAKMDKJD_00322	CDS			hypothetical protein
+LAKMDKJD_00322	gene			
+LAKMDKJD_00323	CDS	wbnK	2.4.1.308	O-antigen biosynthesis glycosyltransferase WbnK
+LAKMDKJD_00323	gene	wbnK		
+LAKMDKJD_00324	CDS	dpnA_1	2.1.1.72	Modification methylase DpnIIB
+LAKMDKJD_00324	gene	dpnA_1		
+LAKMDKJD_00325	CDS	mboIR	3.1.21.4	Type-2 restriction enzyme MboI
+LAKMDKJD_00325	gene	mboIR		
+LAKMDKJD_00326	tRNA			tRNA-Ser(gct)
+LAKMDKJD_00326	gene			
+LAKMDKJD_00327	CDS	fenF	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+LAKMDKJD_00327	gene	fenF		
+LAKMDKJD_00328	CDS	mtnN	3.2.2.30	Aminodeoxyfutalosine nucleosidase
+LAKMDKJD_00328	gene	mtnN		
+LAKMDKJD_00329	CDS	rpoD		RNA polymerase sigma factor RpoD
+LAKMDKJD_00329	gene	rpoD		
+LAKMDKJD_00330	CDS			hypothetical protein
+LAKMDKJD_00330	gene			
+LAKMDKJD_00331	CDS			hypothetical protein
+LAKMDKJD_00331	gene			
+LAKMDKJD_00332	CDS	mqo	1.1.5.4	Malate:quinone oxidoreductase
+LAKMDKJD_00332	gene	mqo		
+LAKMDKJD_00333	CDS			hypothetical protein
+LAKMDKJD_00333	gene			
+LAKMDKJD_00334	CDS	rplM		50S ribosomal protein L13
+LAKMDKJD_00334	gene	rplM		
+LAKMDKJD_00335	CDS	rpsI		30S ribosomal protein S9
+LAKMDKJD_00335	gene	rpsI		
+LAKMDKJD_00336	CDS	pctB		Methyl-accepting chemotaxis protein PctB
+LAKMDKJD_00336	gene	pctB		
+LAKMDKJD_00337	CDS			hypothetical protein
+LAKMDKJD_00337	gene			
+LAKMDKJD_00338	CDS			hypothetical protein
+LAKMDKJD_00338	gene			
+LAKMDKJD_00339	CDS			hypothetical protein
+LAKMDKJD_00339	gene			
+LAKMDKJD_00340	CDS	prfA		Peptide chain release factor RF1
+LAKMDKJD_00340	gene	prfA		
+LAKMDKJD_00341	CDS	rpsT		30S ribosomal protein S20
+LAKMDKJD_00341	gene	rpsT		
+LAKMDKJD_00342	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+LAKMDKJD_00342	gene	glmM		
+LAKMDKJD_00343	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+LAKMDKJD_00343	gene	lspA		
+LAKMDKJD_00344	tRNA			tRNA-Val(gac)
+LAKMDKJD_00344	gene			
+LAKMDKJD_00345	CDS	ureA	3.5.1.5	Urease subunit alpha
+LAKMDKJD_00345	gene	ureA		
+LAKMDKJD_00346	CDS	ureB	3.5.1.5	Urease subunit beta
+LAKMDKJD_00346	gene	ureB		
+LAKMDKJD_00347	CDS	ureI		Acid-activated urea channel
+LAKMDKJD_00347	gene	ureI		
+LAKMDKJD_00348	CDS	ureE		Urease accessory protein UreE
+LAKMDKJD_00348	gene	ureE		
+LAKMDKJD_00349	CDS	ureF		Urease accessory protein UreF
+LAKMDKJD_00349	gene	ureF		
+LAKMDKJD_00350	CDS	ureG		Urease accessory protein UreG
+LAKMDKJD_00350	gene	ureG		
+LAKMDKJD_00351	CDS	ureH		Urease accessory protein UreH
+LAKMDKJD_00351	gene	ureH		
+LAKMDKJD_00352	CDS	ftsK		DNA translocase FtsK
+LAKMDKJD_00352	gene	ftsK		
+LAKMDKJD_00353	CDS			hypothetical protein
+LAKMDKJD_00353	gene			
+LAKMDKJD_00354	CDS			hypothetical protein
+LAKMDKJD_00354	gene			
+LAKMDKJD_00355	CDS			hypothetical protein
+LAKMDKJD_00355	gene			
+LAKMDKJD_00356	CDS			hypothetical protein
+LAKMDKJD_00356	gene			
+LAKMDKJD_00357	CDS			hypothetical protein
+LAKMDKJD_00357	gene			
+LAKMDKJD_00358	CDS			hypothetical protein
+LAKMDKJD_00358	gene			
+LAKMDKJD_00359	CDS	smc_1		Chromosome partition protein Smc
+LAKMDKJD_00359	gene	smc_1		
+LAKMDKJD_00360	CDS	smc_2		Chromosome partition protein Smc
+LAKMDKJD_00360	gene	smc_2		
+LAKMDKJD_00361	CDS			hypothetical protein
+LAKMDKJD_00361	gene			
+LAKMDKJD_00362	CDS			hypothetical protein
+LAKMDKJD_00362	gene			
+LAKMDKJD_00363	CDS	rocA1	1.2.1.88	1-pyrroline-5-carboxylate dehydrogenase 1
+LAKMDKJD_00363	gene	rocA1		
+LAKMDKJD_00364	CDS	putP		High-affinity proline transporter PutP
+LAKMDKJD_00364	gene	putP		
+LAKMDKJD_00365	CDS	haeIIIM	2.1.1.37	Modification methylase HaeIII
+LAKMDKJD_00365	gene	haeIIIM		
+LAKMDKJD_00366	CDS			hypothetical protein
+LAKMDKJD_00366	gene			
+LAKMDKJD_00367	CDS			hypothetical protein
+LAKMDKJD_00367	gene			
+LAKMDKJD_00368	CDS			hypothetical protein
+LAKMDKJD_00368	gene			
+LAKMDKJD_00369	CDS	bspRIM	2.1.1.37	Modification methylase BspRI
+LAKMDKJD_00369	gene	bspRIM		
+LAKMDKJD_00370	CDS	dpnA_2	2.1.1.72	Modification methylase DpnIIB
+LAKMDKJD_00370	gene	dpnA_2		
+LAKMDKJD_00371	CDS	aguA	3.5.3.12	Agmatine deiminase
+LAKMDKJD_00371	gene	aguA		
+LAKMDKJD_00372	CDS	hypF	2.1.3.-	Carbamoyltransferase HypF
+LAKMDKJD_00372	gene	hypF		
+LAKMDKJD_00373	CDS	hypE		Hydrogenase isoenzymes formation protein HypE
+LAKMDKJD_00373	gene	hypE		
+LAKMDKJD_00374	CDS	colC	1.1.1.356	GDP-L-colitose synthase
+LAKMDKJD_00374	gene	colC		
+LAKMDKJD_00375	CDS	gmd	4.2.1.47	GDP-mannose 4,6-dehydratase
+LAKMDKJD_00375	gene	gmd		
+LAKMDKJD_00376	CDS	algA		Alginate biosynthesis protein AlgA
+LAKMDKJD_00376	gene	algA		
+LAKMDKJD_00377	CDS	ptlG		Type IV secretion system protein PtlG
+LAKMDKJD_00377	gene	ptlG		
+LAKMDKJD_00378	CDS			hypothetical protein
+LAKMDKJD_00378	gene			
+LAKMDKJD_00379	CDS			hypothetical protein
+LAKMDKJD_00379	gene			
+LAKMDKJD_00380	CDS			hypothetical protein
+LAKMDKJD_00380	gene			
+LAKMDKJD_00381	CDS			hypothetical protein
+LAKMDKJD_00381	gene			
+LAKMDKJD_00382	CDS			hypothetical protein
+LAKMDKJD_00382	gene			
+LAKMDKJD_00383	CDS			Nucleoid-associated protein
+LAKMDKJD_00383	gene			
+LAKMDKJD_00384	CDS	panD	4.1.1.11	Aspartate 1-decarboxylase
+LAKMDKJD_00384	gene	panD		
+LAKMDKJD_00385	CDS	clpA		ATP-dependent Clp protease ATP-binding subunit ClpA
+LAKMDKJD_00385	gene	clpA		
+LAKMDKJD_00386	CDS	clpS		ATP-dependent Clp protease adapter protein ClpS
+LAKMDKJD_00386	gene	clpS		
+LAKMDKJD_00387	CDS			hypothetical protein
+LAKMDKJD_00387	gene			
+LAKMDKJD_00388	CDS			hypothetical protein
+LAKMDKJD_00388	gene			
+LAKMDKJD_00389	CDS	bioD	6.3.3.3	ATP-dependent dethiobiotin synthetase BioD
+LAKMDKJD_00389	gene	bioD		
+LAKMDKJD_00390	CDS			hypothetical protein
+LAKMDKJD_00390	gene			
+LAKMDKJD_00391	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+LAKMDKJD_00391	gene	icd		
+LAKMDKJD_00392	CDS	aarA	2.3.3.16	Citrate synthase
+LAKMDKJD_00392	gene	aarA		
+LAKMDKJD_00393	CDS			hypothetical protein
+LAKMDKJD_00393	gene			
+LAKMDKJD_00394	CDS	eptA	2.7.-.-	Phosphoethanolamine transferase EptA
+LAKMDKJD_00394	gene	eptA		
+LAKMDKJD_00395	CDS	lpxE_1	3.1.-.-	Lipid A 1-phosphatase
+LAKMDKJD_00395	gene	lpxE_1		
+LAKMDKJD_00396	CDS	nspC	4.1.1.96	Carboxynorspermidine/carboxyspermidine decarboxylase
+LAKMDKJD_00396	gene	nspC		
+LAKMDKJD_00397	CDS	cheV_2		Chemotaxis protein CheV
+LAKMDKJD_00397	gene	cheV_2		
+LAKMDKJD_00398	CDS			hypothetical protein
+LAKMDKJD_00398	gene			
+LAKMDKJD_00399	CDS	virB4_2		Type IV secretion system protein virB4
+LAKMDKJD_00399	gene	virB4_2		
+LAKMDKJD_00400	CDS			hypothetical protein
+LAKMDKJD_00400	gene			
+LAKMDKJD_00401	CDS			hypothetical protein
+LAKMDKJD_00401	gene			
+LAKMDKJD_00402	CDS			hypothetical protein
+LAKMDKJD_00402	gene			
+LAKMDKJD_00403	CDS	mnmA_1	2.8.1.-	tRNA-specific 2-thiouridylase MnmA
+LAKMDKJD_00403	gene	mnmA_1		
+LAKMDKJD_00404	CDS	dnaG	2.7.7.-	DNA primase
+LAKMDKJD_00404	gene	dnaG		
+LAKMDKJD_00405	CDS	groS		10 kDa chaperonin
+LAKMDKJD_00405	gene	groS		
+LAKMDKJD_00406	CDS	groL		60 kDa chaperonin
+LAKMDKJD_00406	gene	groL		
+LAKMDKJD_00407	CDS	thyX	2.1.1.148	Flavin-dependent thymidylate synthase
+LAKMDKJD_00407	gene	thyX		
+LAKMDKJD_00408	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+LAKMDKJD_00408	gene	glmS		
+LAKMDKJD_00409	CDS			hypothetical protein
+LAKMDKJD_00409	gene			
+LAKMDKJD_00410	CDS	mqnB	3.2.2.26	Futalosine hydrolase
+LAKMDKJD_00410	gene	mqnB		
+LAKMDKJD_00411	CDS	dnaA		Chromosomal replication initiator protein DnaA
+LAKMDKJD_00411	gene	dnaA		
+LAKMDKJD_00412	CDS			hypothetical protein
+LAKMDKJD_00412	gene			
+LAKMDKJD_00413	tRNA			tRNA-Phe(gaa)
+LAKMDKJD_00413	gene			
+LAKMDKJD_00414	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+LAKMDKJD_00414	gene	exoA		
+LAKMDKJD_00415	CDS			hypothetical protein
+LAKMDKJD_00415	gene			
+LAKMDKJD_00416	CDS			hypothetical protein
+LAKMDKJD_00416	gene			
+LAKMDKJD_00417	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+LAKMDKJD_00417	gene	recG		
+LAKMDKJD_00418	CDS			hypothetical protein
+LAKMDKJD_00418	gene			
+LAKMDKJD_00419	CDS			hypothetical protein
+LAKMDKJD_00419	gene			
+LAKMDKJD_00420	CDS			hypothetical protein
+LAKMDKJD_00420	gene			
+LAKMDKJD_00421	CDS			hypothetical protein
+LAKMDKJD_00421	gene			
+LAKMDKJD_00422	CDS			hypothetical protein
+LAKMDKJD_00422	gene			
+LAKMDKJD_00423	CDS			hypothetical protein
+LAKMDKJD_00423	gene			
+LAKMDKJD_00424	CDS			hypothetical protein
+LAKMDKJD_00424	gene			
+LAKMDKJD_00425	CDS	paeR7IM	2.1.1.72	Modification methylase PaeR7I
+LAKMDKJD_00425	gene	paeR7IM		
+LAKMDKJD_00426	CDS			hypothetical protein
+LAKMDKJD_00426	gene			
+LAKMDKJD_00427	CDS	nusA		Transcription termination/antitermination protein NusA
+LAKMDKJD_00427	gene	nusA		
+LAKMDKJD_00428	CDS	selA	2.9.1.1	L-seryl-tRNA(Sec) selenium transferase
+LAKMDKJD_00428	gene	selA		
+LAKMDKJD_00429	CDS	bhuA_1		Heme transporter BhuA
+LAKMDKJD_00429	gene	bhuA_1		
+LAKMDKJD_00430	CDS			hypothetical protein
+LAKMDKJD_00430	gene			
+LAKMDKJD_00431	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+LAKMDKJD_00431	gene	plsY		
+LAKMDKJD_00432	CDS	yccM		Putative electron transport protein YccM
+LAKMDKJD_00432	gene	yccM		
+LAKMDKJD_00433	CDS		1.5.1.43	Carboxynorspermidine synthase
+LAKMDKJD_00433	gene			
+LAKMDKJD_00434	CDS	gltS		Sodium/glutamate symporter
+LAKMDKJD_00434	gene	gltS		
+LAKMDKJD_00435	CDS	ribD		Riboflavin biosynthesis protein RibD
+LAKMDKJD_00435	gene	ribD		
+LAKMDKJD_00436	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+LAKMDKJD_00436	gene	yfiC		
+LAKMDKJD_00437	CDS	copA_1	3.6.3.54	Copper-exporting P-type ATPase A
+LAKMDKJD_00437	gene	copA_1		
+LAKMDKJD_00438	CDS			hypothetical protein
+LAKMDKJD_00438	gene			
+LAKMDKJD_00439	CDS			hypothetical protein
+LAKMDKJD_00439	gene			
+LAKMDKJD_00440	CDS			hypothetical protein
+LAKMDKJD_00440	gene			
+LAKMDKJD_00441	CDS			hypothetical protein
+LAKMDKJD_00441	gene			
+LAKMDKJD_00442	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+LAKMDKJD_00442	gene	pth		
+LAKMDKJD_00443	CDS	rplY		50S ribosomal protein L25
+LAKMDKJD_00443	gene	rplY		
+LAKMDKJD_00444	CDS	tal	2.2.1.2	Transaldolase
+LAKMDKJD_00444	gene	tal		
+LAKMDKJD_00445	CDS	murE	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+LAKMDKJD_00445	gene	murE		
+LAKMDKJD_00446	CDS			hypothetical protein
+LAKMDKJD_00446	gene			
+LAKMDKJD_00447	CDS	nfuA		Fe/S biogenesis protein NfuA
+LAKMDKJD_00447	gene	nfuA		
+LAKMDKJD_00448	CDS	cysP		Sulfate permease CysP
+LAKMDKJD_00448	gene	cysP		
+LAKMDKJD_00449	CDS	corC		Magnesium and cobalt efflux protein CorC
+LAKMDKJD_00449	gene	corC		
+LAKMDKJD_00450	CDS			hypothetical protein
+LAKMDKJD_00450	gene			
+LAKMDKJD_00451	CDS	mdtN		Multidrug resistance protein MdtN
+LAKMDKJD_00451	gene	mdtN		
+LAKMDKJD_00452	CDS			hypothetical protein
+LAKMDKJD_00452	gene			
+LAKMDKJD_00453	CDS	ybhS		Inner membrane transport permease YbhS
+LAKMDKJD_00453	gene	ybhS		
+LAKMDKJD_00454	CDS	yigZ		IMPACT family member YigZ
+LAKMDKJD_00454	gene	yigZ		
+LAKMDKJD_00455	CDS			hypothetical protein
+LAKMDKJD_00455	gene			
+LAKMDKJD_00456	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+LAKMDKJD_00456	gene	menG		
+LAKMDKJD_00457	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+LAKMDKJD_00457	gene	xseB		
+LAKMDKJD_00458	CDS			hypothetical protein
+LAKMDKJD_00458	gene			
+LAKMDKJD_00459	CDS	serS	6.1.1.11	Serine--tRNA ligase
+LAKMDKJD_00459	gene	serS		
+LAKMDKJD_00460	CDS			hypothetical protein
+LAKMDKJD_00460	gene			
+LAKMDKJD_00461	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+LAKMDKJD_00461	gene	pcrA		
+LAKMDKJD_00462	CDS			hypothetical protein
+LAKMDKJD_00462	gene			
+LAKMDKJD_00463	CDS	ubiX	2.5.1.129	Flavin prenyltransferase UbiX
+LAKMDKJD_00463	gene	ubiX		
+LAKMDKJD_00464	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+LAKMDKJD_00464	gene	coaD		
+LAKMDKJD_00465	CDS	tmk	2.7.4.9	Thymidylate kinase
+LAKMDKJD_00465	gene	tmk		
+LAKMDKJD_00466	CDS			hypothetical protein
+LAKMDKJD_00466	gene			
+LAKMDKJD_00467	CDS	bcgIA	3.1.21.-	Restriction enzyme BgcI subunit alpha
+LAKMDKJD_00467	gene	bcgIA		
+LAKMDKJD_00468	CDS	bcgIB	3.1.21.-	Restriction enzyme BgcI subunit beta
+LAKMDKJD_00468	gene	bcgIB		
+LAKMDKJD_00469	CDS			hypothetical protein
+LAKMDKJD_00469	gene			
+LAKMDKJD_00470	CDS	polA	2.7.7.7	DNA polymerase I, thermostable
+LAKMDKJD_00470	gene	polA		
+LAKMDKJD_00471	CDS			hypothetical protein
+LAKMDKJD_00471	gene			
+LAKMDKJD_00472	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid transaminase 1
+LAKMDKJD_00472	gene	ilvE		
+LAKMDKJD_00473	CDS			hypothetical protein
+LAKMDKJD_00473	gene			
+LAKMDKJD_00474	CDS	mlaE		putative phospholipid ABC transporter permease protein MlaE
+LAKMDKJD_00474	gene	mlaE		
+LAKMDKJD_00475	CDS	metN2	3.6.3.-	Methionine import ATP-binding protein MetN 2
+LAKMDKJD_00475	gene	metN2		
+LAKMDKJD_00476	CDS			hypothetical protein
+LAKMDKJD_00476	gene			
+LAKMDKJD_00477	CDS			hypothetical protein
+LAKMDKJD_00477	gene			
+LAKMDKJD_00478	CDS			hypothetical protein
+LAKMDKJD_00478	gene			
+LAKMDKJD_00479	CDS	ccpA	1.11.1.5	Cytochrome c551 peroxidase
+LAKMDKJD_00479	gene	ccpA		
+LAKMDKJD_00480	CDS	dnaE_1	2.7.7.7	DNA polymerase III subunit alpha
+LAKMDKJD_00480	gene	dnaE_1		
+LAKMDKJD_00481	CDS	dnaE_2	2.7.7.7	DNA polymerase III subunit alpha
+LAKMDKJD_00481	gene	dnaE_2		
+LAKMDKJD_00482	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+LAKMDKJD_00482	gene	rluB		
+LAKMDKJD_00483	CDS	trxA_2		Thioredoxin
+LAKMDKJD_00483	gene	trxA_2		
+LAKMDKJD_00484	CDS			hypothetical protein
+LAKMDKJD_00484	gene			
+LAKMDKJD_00485	CDS			LPP20 lipoprotein
+LAKMDKJD_00485	gene			
+LAKMDKJD_00486	CDS			hypothetical protein
+LAKMDKJD_00486	gene			
+LAKMDKJD_00487	CDS			hypothetical protein
+LAKMDKJD_00487	gene			
+LAKMDKJD_00488	CDS			hypothetical protein
+LAKMDKJD_00488	gene			
+LAKMDKJD_00489	CDS	mnmE	3.6.5.-	tRNA modification GTPase MnmE
+LAKMDKJD_00489	gene	mnmE		
+LAKMDKJD_00490	CDS			hypothetical protein
+LAKMDKJD_00490	gene			
+LAKMDKJD_00491	CDS			hypothetical protein
+LAKMDKJD_00491	gene			
+LAKMDKJD_00492	CDS	yidC		Membrane protein insertase YidC
+LAKMDKJD_00492	gene	yidC		
+LAKMDKJD_00493	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+LAKMDKJD_00493	gene	rnpA		
+LAKMDKJD_00494	CDS	exbD_1		Biopolymer transport protein ExbD
+LAKMDKJD_00494	gene	exbD_1		
+LAKMDKJD_00495	CDS	exbB_1		Biopolymer transport protein ExbB
+LAKMDKJD_00495	gene	exbB_1		
+LAKMDKJD_00496	CDS	smpB		SsrA-binding protein
+LAKMDKJD_00496	gene	smpB		
+LAKMDKJD_00497	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+LAKMDKJD_00497	gene	ispE		
+LAKMDKJD_00498	CDS	csrA		Carbon storage regulator 
+LAKMDKJD_00498	gene	csrA		
+LAKMDKJD_00499	CDS	ppiB	5.2.1.8	Peptidyl-prolyl cis-trans isomerase B
+LAKMDKJD_00499	gene	ppiB		
+LAKMDKJD_00500	CDS	vapD_1	3.1.-.-	Endoribonuclease VapD
+LAKMDKJD_00500	gene	vapD_1		
+LAKMDKJD_00501	CDS			hypothetical protein
+LAKMDKJD_00501	gene			
+LAKMDKJD_00502	CDS	yjiA		putative GTP-binding protein YjiA
+LAKMDKJD_00502	gene	yjiA		
+LAKMDKJD_00503	CDS			hypothetical protein
+LAKMDKJD_00503	gene			
+LAKMDKJD_00504	CDS	pgdA	3.5.1.-	Peptidoglycan deacetylase
+LAKMDKJD_00504	gene	pgdA		
+LAKMDKJD_00505	CDS		3.5.1.111	2-oxoglutaramate amidase
+LAKMDKJD_00505	gene			
+LAKMDKJD_00506	CDS			hypothetical protein
+LAKMDKJD_00506	gene			
+LAKMDKJD_00507	CDS			hypothetical protein
+LAKMDKJD_00507	gene			
+LAKMDKJD_00508	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+LAKMDKJD_00508	gene	hemL		
+LAKMDKJD_00509	CDS			hypothetical protein
+LAKMDKJD_00509	gene			
+LAKMDKJD_00510	CDS			hypothetical protein
+LAKMDKJD_00510	gene			
+LAKMDKJD_00511	CDS	obg	3.6.5.-	GTPase Obg
+LAKMDKJD_00511	gene	obg		
+LAKMDKJD_00512	CDS	oppF		Oligopeptide transport ATP-binding protein OppF
+LAKMDKJD_00512	gene	oppF		
+LAKMDKJD_00513	CDS	oppD		Oligopeptide transport ATP-binding protein OppD
+LAKMDKJD_00513	gene	oppD		
+LAKMDKJD_00514	CDS	dppC		Dipeptide transport system permease protein DppC
+LAKMDKJD_00514	gene	dppC		
+LAKMDKJD_00515	CDS	dppB		Dipeptide transport system permease protein DppB
+LAKMDKJD_00515	gene	dppB		
+LAKMDKJD_00516	CDS	hbpA		Heme-binding protein A
+LAKMDKJD_00516	gene	hbpA		
+LAKMDKJD_00517	CDS	rpmA		50S ribosomal protein L27
+LAKMDKJD_00517	gene	rpmA		
+LAKMDKJD_00518	CDS	rplU		50S ribosomal protein L21
+LAKMDKJD_00518	gene	rplU		
+LAKMDKJD_00519	CDS	flgL		Flagellar hook-associated protein 3
+LAKMDKJD_00519	gene	flgL		
+LAKMDKJD_00520	CDS			hypothetical protein
+LAKMDKJD_00520	gene			
+LAKMDKJD_00521	CDS	amiE	3.5.1.4	Aliphatic amidase
+LAKMDKJD_00521	gene	amiE		
+LAKMDKJD_00522	CDS	pabB	2.6.1.85	Aminodeoxychorismate synthase component 1
+LAKMDKJD_00522	gene	pabB		
+LAKMDKJD_00523	CDS			hypothetical protein
+LAKMDKJD_00523	gene			
+LAKMDKJD_00524	CDS	tyrA_1		T-protein
+LAKMDKJD_00524	gene	tyrA_1		
+LAKMDKJD_00525	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+LAKMDKJD_00525	gene	lysA		
+LAKMDKJD_00526	CDS	vacA_3		Vacuolating cytotoxin autotransporter
+LAKMDKJD_00526	gene	vacA_3		
+LAKMDKJD_00527	CDS			hypothetical protein
+LAKMDKJD_00527	gene			
+LAKMDKJD_00528	CDS			hypothetical protein
+LAKMDKJD_00528	gene			
+LAKMDKJD_00529	CDS	ftsH_1	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+LAKMDKJD_00529	gene	ftsH_1		
+LAKMDKJD_00530	CDS	mtaB	2.8.4.5	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+LAKMDKJD_00530	gene	mtaB		
+LAKMDKJD_00531	CDS			hypothetical protein
+LAKMDKJD_00531	gene			
+LAKMDKJD_00532	CDS			hypothetical protein
+LAKMDKJD_00532	gene			
+LAKMDKJD_00533	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+LAKMDKJD_00533	gene	aroB		
+LAKMDKJD_00534	CDS			hypothetical protein
+LAKMDKJD_00534	gene			
+LAKMDKJD_00535	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+LAKMDKJD_00535	gene	tgt		
+LAKMDKJD_00536	CDS	lpxP	2.3.1.242	Lipid A biosynthesis palmitoleoyltransferase
+LAKMDKJD_00536	gene	lpxP		
+LAKMDKJD_00537	CDS	rfaC	2.-.-.-	Lipopolysaccharide heptosyltransferase 1
+LAKMDKJD_00537	gene	rfaC		
+LAKMDKJD_00538	CDS	gppA	3.6.1.40	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+LAKMDKJD_00538	gene	gppA		
+LAKMDKJD_00539	CDS	fdx		Ferredoxin
+LAKMDKJD_00539	gene	fdx		
+LAKMDKJD_00540	CDS			hypothetical protein
+LAKMDKJD_00540	gene			
+LAKMDKJD_00541	CDS			hypothetical protein
+LAKMDKJD_00541	gene			
+LAKMDKJD_00542	CDS			hypothetical protein
+LAKMDKJD_00542	gene			
+LAKMDKJD_00543	CDS			hypothetical protein
+LAKMDKJD_00543	gene			
+LAKMDKJD_00544	CDS			hypothetical protein
+LAKMDKJD_00544	gene			
+LAKMDKJD_00545	CDS			hypothetical protein
+LAKMDKJD_00545	gene			
+LAKMDKJD_00546	CDS			hypothetical protein
+LAKMDKJD_00546	gene			
+LAKMDKJD_00547	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+LAKMDKJD_00547	gene	miaB		
+LAKMDKJD_00548	CDS			hypothetical protein
+LAKMDKJD_00548	gene			
+LAKMDKJD_00549	CDS		3.5.4.4	Adenosine deaminase
+LAKMDKJD_00549	gene			
+LAKMDKJD_00550	CDS	pyrC_2	3.5.2.3	Dihydroorotase
+LAKMDKJD_00550	gene	pyrC_2		
+LAKMDKJD_00551	CDS	dsbD	1.8.1.8	Thiol:disulfide interchange protein DsbD
+LAKMDKJD_00551	gene	dsbD		
+LAKMDKJD_00552	CDS	clpB		Chaperone protein ClpB
+LAKMDKJD_00552	gene	clpB		
+LAKMDKJD_00553	CDS	dpnA_3	2.1.1.72	Modification methylase DpnIIB
+LAKMDKJD_00553	gene	dpnA_3		
+LAKMDKJD_00554	CDS			hypothetical protein
+LAKMDKJD_00554	gene			
+LAKMDKJD_00555	CDS			hypothetical protein
+LAKMDKJD_00555	gene			
+LAKMDKJD_00556	CDS			hypothetical protein
+LAKMDKJD_00556	gene			
+LAKMDKJD_00557	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+LAKMDKJD_00557	gene	xseA		
+LAKMDKJD_00558	CDS	mmpA	3.4.24.-	Metalloprotease MmpA
+LAKMDKJD_00558	gene	mmpA		
+LAKMDKJD_00559	CDS			hypothetical protein
+LAKMDKJD_00559	gene			
+LAKMDKJD_00560	CDS			hypothetical protein
+LAKMDKJD_00560	gene			
+LAKMDKJD_00561	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+LAKMDKJD_00561	gene	purA		
+LAKMDKJD_00562	CDS			hypothetical protein
+LAKMDKJD_00562	gene			
+LAKMDKJD_00563	CDS			hypothetical protein
+LAKMDKJD_00563	gene			
+LAKMDKJD_00564	tRNA			tRNA-Ala(ggc)
+LAKMDKJD_00564	gene			
+LAKMDKJD_00565	CDS	yejE		Inner membrane ABC transporter permease protein YejE
+LAKMDKJD_00565	gene	yejE		
+LAKMDKJD_00566	CDS	gsiA	3.6.3.-	Glutathione import ATP-binding protein GsiA
+LAKMDKJD_00566	gene	gsiA		
+LAKMDKJD_00567	CDS			hypothetical protein
+LAKMDKJD_00567	gene			
+LAKMDKJD_00568	CDS	hflC		Modulator of FtsH protease HflC
+LAKMDKJD_00568	gene	hflC		
+LAKMDKJD_00569	CDS	rhpA	3.6.4.13	DEAD-box ATP-dependent RNA helicase RhpA
+LAKMDKJD_00569	gene	rhpA		
+LAKMDKJD_00570	CDS	flgI		Flagellar P-ring protein
+LAKMDKJD_00570	gene	flgI		
+LAKMDKJD_00571	CDS			hypothetical protein
+LAKMDKJD_00571	gene			
+LAKMDKJD_00572	CDS	zraS	2.7.13.3	Sensor protein ZraS
+LAKMDKJD_00572	gene	zraS		
+LAKMDKJD_00573	CDS	dps	1.16.-.-	DNA protection during starvation protein
+LAKMDKJD_00573	gene	dps		
+LAKMDKJD_00574	CDS			hypothetical protein
+LAKMDKJD_00574	gene			
+LAKMDKJD_00575	CDS			hypothetical protein
+LAKMDKJD_00575	gene			
+LAKMDKJD_00576	CDS	ispB	2.5.1.90	Octaprenyl diphosphate synthase
+LAKMDKJD_00576	gene	ispB		
+LAKMDKJD_00577	CDS	hemA	1.2.1.70	Glutamyl-tRNA reductase
+LAKMDKJD_00577	gene	hemA		
+LAKMDKJD_00578	CDS	proS	6.1.1.15	Proline--tRNA ligase
+LAKMDKJD_00578	gene	proS		
+LAKMDKJD_00579	CDS	hemC	2.5.1.61	Porphobilinogen deaminase
+LAKMDKJD_00579	gene	hemC		
+LAKMDKJD_00580	CDS			hypothetical protein
+LAKMDKJD_00580	gene			
+LAKMDKJD_00581	CDS	hcpC_1	3.5.2.6	Putative beta-lactamase HcpC
+LAKMDKJD_00581	gene	hcpC_1		
+LAKMDKJD_00582	CDS			hypothetical protein
+LAKMDKJD_00582	gene			
+LAKMDKJD_00583	CDS	ygiC	6.3.1.-	Putative acid--amine ligase YgiC
+LAKMDKJD_00583	gene	ygiC		
+LAKMDKJD_00584	CDS			hypothetical protein
+LAKMDKJD_00584	gene			
+LAKMDKJD_00585	CDS			hypothetical protein
+LAKMDKJD_00585	gene			
+LAKMDKJD_00586	CDS	kdsB	2.7.7.38	3-deoxy-manno-octulosonate cytidylyltransferase
+LAKMDKJD_00586	gene	kdsB		
+LAKMDKJD_00587	CDS			hypothetical protein
+LAKMDKJD_00587	gene			
+LAKMDKJD_00588	tRNA			tRNA-Asn(gtt)
+LAKMDKJD_00588	gene			
+LAKMDKJD_00589	CDS	bicA		Bicarbonate transporter BicA
+LAKMDKJD_00589	gene	bicA		
+LAKMDKJD_00590	CDS			hypothetical protein
+LAKMDKJD_00590	gene			
+LAKMDKJD_00591	CDS	exbD_2		Biopolymer transport protein ExbD
+LAKMDKJD_00591	gene	exbD_2		
+LAKMDKJD_00592	CDS	exbB_2		Biopolymer transport protein ExbB
+LAKMDKJD_00592	gene	exbB_2		
+LAKMDKJD_00593	CDS			Putative nickel-responsive regulator
+LAKMDKJD_00593	gene			
+LAKMDKJD_00594	CDS	nadD	2.7.7.18	putative nicotinate-nucleotide adenylyltransferase
+LAKMDKJD_00594	gene	nadD		
+LAKMDKJD_00595	CDS			hypothetical protein
+LAKMDKJD_00595	gene			
+LAKMDKJD_00596	CDS	mnmA_2	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+LAKMDKJD_00596	gene	mnmA_2		
+LAKMDKJD_00597	CDS			hypothetical protein
+LAKMDKJD_00597	gene			
+LAKMDKJD_00598	CDS			hypothetical protein
+LAKMDKJD_00598	gene			
+LAKMDKJD_00599	CDS	dnaJ		Chaperone protein DnaJ
+LAKMDKJD_00599	gene	dnaJ		
+LAKMDKJD_00600	CDS	ygaZ		Inner membrane protein YgaZ
+LAKMDKJD_00600	gene	ygaZ		
+LAKMDKJD_00601	CDS			hypothetical protein
+LAKMDKJD_00601	gene			
+LAKMDKJD_00602	CDS	cusA		Cation efflux system protein CusA
+LAKMDKJD_00602	gene	cusA		
+LAKMDKJD_00603	CDS	cusB		Cation efflux system protein CusB
+LAKMDKJD_00603	gene	cusB		
+LAKMDKJD_00604	CDS			hypothetical protein
+LAKMDKJD_00604	gene			
+LAKMDKJD_00605	CDS			hypothetical protein
+LAKMDKJD_00605	gene			
+LAKMDKJD_00606	CDS	fumC	4.2.1.2	Fumarate hydratase class II
+LAKMDKJD_00606	gene	fumC		
+LAKMDKJD_00607	CDS			hypothetical protein
+LAKMDKJD_00607	gene			
+LAKMDKJD_00608	CDS	rnhB	3.1.26.4	Ribonuclease HII
+LAKMDKJD_00608	gene	rnhB		
+LAKMDKJD_00609	CDS			hypothetical protein
+LAKMDKJD_00609	gene			
+LAKMDKJD_00610	CDS			hypothetical protein
+LAKMDKJD_00610	gene			
+LAKMDKJD_00611	CDS	rpsJ		30S ribosomal protein S10
+LAKMDKJD_00611	gene	rpsJ		
+LAKMDKJD_00612	CDS	rplC		50S ribosomal protein L3
+LAKMDKJD_00612	gene	rplC		
+LAKMDKJD_00613	CDS	rplD		50S ribosomal protein L4
+LAKMDKJD_00613	gene	rplD		
+LAKMDKJD_00614	CDS	rplW		50S ribosomal protein L23
+LAKMDKJD_00614	gene	rplW		
+LAKMDKJD_00615	CDS	rplB		50S ribosomal protein L2
+LAKMDKJD_00615	gene	rplB		
+LAKMDKJD_00616	CDS	rpsS		30S ribosomal protein S19
+LAKMDKJD_00616	gene	rpsS		
+LAKMDKJD_00617	CDS	rplV		50S ribosomal protein L22
+LAKMDKJD_00617	gene	rplV		
+LAKMDKJD_00618	CDS	rpsC		30S ribosomal protein S3
+LAKMDKJD_00618	gene	rpsC		
+LAKMDKJD_00619	CDS	rplP		50S ribosomal protein L16
+LAKMDKJD_00619	gene	rplP		
+LAKMDKJD_00620	CDS	rpmC		50S ribosomal protein L29
+LAKMDKJD_00620	gene	rpmC		
+LAKMDKJD_00621	CDS	rpsQ		30S ribosomal protein S17
+LAKMDKJD_00621	gene	rpsQ		
+LAKMDKJD_00622	CDS	rplN		50S ribosomal protein L14
+LAKMDKJD_00622	gene	rplN		
+LAKMDKJD_00623	CDS	rplX		50S ribosomal protein L24
+LAKMDKJD_00623	gene	rplX		
+LAKMDKJD_00624	CDS	rplE		50S ribosomal protein L5
+LAKMDKJD_00624	gene	rplE		
+LAKMDKJD_00625	CDS	rpsH		30S ribosomal protein S8
+LAKMDKJD_00625	gene	rpsH		
+LAKMDKJD_00626	CDS	rplF		50S ribosomal protein L6
+LAKMDKJD_00626	gene	rplF		
+LAKMDKJD_00627	CDS	rplR		50S ribosomal protein L18
+LAKMDKJD_00627	gene	rplR		
+LAKMDKJD_00628	CDS	rpsE		30S ribosomal protein S5
+LAKMDKJD_00628	gene	rpsE		
+LAKMDKJD_00629	CDS	rplO		50S ribosomal protein L15
+LAKMDKJD_00629	gene	rplO		
+LAKMDKJD_00630	CDS	secY		Protein translocase subunit SecY
+LAKMDKJD_00630	gene	secY		
+LAKMDKJD_00631	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+LAKMDKJD_00631	gene	map		
+LAKMDKJD_00632	CDS	infA		Translation initiation factor IF-1
+LAKMDKJD_00632	gene	infA		
+LAKMDKJD_00633	CDS	rpmJ		50S ribosomal protein L36
+LAKMDKJD_00633	gene	rpmJ		
+LAKMDKJD_00634	CDS	rpsM		30S ribosomal protein S13
+LAKMDKJD_00634	gene	rpsM		
+LAKMDKJD_00635	CDS	rpsK		30S ribosomal protein S11
+LAKMDKJD_00635	gene	rpsK		
+LAKMDKJD_00636	CDS	rpsD		30S ribosomal protein S4
+LAKMDKJD_00636	gene	rpsD		
+LAKMDKJD_00637	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+LAKMDKJD_00637	gene	rpoA		
+LAKMDKJD_00638	CDS	rplQ		50S ribosomal protein L17
+LAKMDKJD_00638	gene	rplQ		
+LAKMDKJD_00639	CDS			hypothetical protein
+LAKMDKJD_00639	gene			
+LAKMDKJD_00640	CDS	pnuC		Nicotinamide riboside transporter PnuC
+LAKMDKJD_00640	gene	pnuC		
+LAKMDKJD_00641	CDS			hypothetical protein
+LAKMDKJD_00641	gene			
+LAKMDKJD_00642	CDS			hypothetical protein
+LAKMDKJD_00642	gene			
+LAKMDKJD_00643	CDS	tenA	3.5.99.2	Aminopyrimidine aminohydrolase
+LAKMDKJD_00643	gene	tenA		
+LAKMDKJD_00644	CDS	yceI		Protein YceI
+LAKMDKJD_00644	gene	yceI		
+LAKMDKJD_00645	CDS	hel		Lipoprotein E
+LAKMDKJD_00645	gene	hel		
+LAKMDKJD_00646	CDS			hypothetical protein
+LAKMDKJD_00646	gene			
+LAKMDKJD_00647	CDS			hypothetical protein
+LAKMDKJD_00647	gene			
+LAKMDKJD_00648	CDS	trpE_1	4.1.3.27	Anthranilate synthase component 1
+LAKMDKJD_00648	gene	trpE_1		
+LAKMDKJD_00649	CDS	trpE_2	4.1.3.27	Anthranilate synthase component 1
+LAKMDKJD_00649	gene	trpE_2		
+LAKMDKJD_00650	CDS	trpG	4.1.3.27	Anthranilate synthase component 2
+LAKMDKJD_00650	gene	trpG		
+LAKMDKJD_00651	CDS	trpGD		Bifunctional protein TrpGD
+LAKMDKJD_00651	gene	trpGD		
+LAKMDKJD_00652	CDS	trpC		Tryptophan biosynthesis protein TrpCF
+LAKMDKJD_00652	gene	trpC		
+LAKMDKJD_00653	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+LAKMDKJD_00653	gene	trpB		
+LAKMDKJD_00654	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+LAKMDKJD_00654	gene	trpA		
+LAKMDKJD_00655	CDS			hypothetical protein
+LAKMDKJD_00655	gene			
+LAKMDKJD_00656	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+LAKMDKJD_00656	gene	algC		
+LAKMDKJD_00657	CDS			hypothetical protein
+LAKMDKJD_00657	gene			
+LAKMDKJD_00658	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+LAKMDKJD_00658	gene	nuoN		
+LAKMDKJD_00659	CDS	ndhD1	1.6.5.-	NAD(P)H-quinone oxidoreductase chain 4 1
+LAKMDKJD_00659	gene	ndhD1		
+LAKMDKJD_00660	CDS	nuoL	1.6.5.11	NADH-quinone oxidoreductase subunit L
+LAKMDKJD_00660	gene	nuoL		
+LAKMDKJD_00661	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+LAKMDKJD_00661	gene			
+LAKMDKJD_00662	CDS	nuoJ	1.6.5.11	NADH-quinone oxidoreductase subunit J
+LAKMDKJD_00662	gene	nuoJ		
+LAKMDKJD_00663	CDS	nuoI	1.6.5.11	NADH-quinone oxidoreductase subunit I
+LAKMDKJD_00663	gene	nuoI		
+LAKMDKJD_00664	CDS	nqo8	1.6.5.11	NADH-quinone oxidoreductase subunit 8
+LAKMDKJD_00664	gene	nqo8		
+LAKMDKJD_00665	CDS	sfrA	1.-.-.-	NADPH-Fe(3+) oxidoreductase subunit alpha
+LAKMDKJD_00665	gene	sfrA		
+LAKMDKJD_00666	CDS			hypothetical protein
+LAKMDKJD_00666	gene			
+LAKMDKJD_00667	CDS			hypothetical protein
+LAKMDKJD_00667	gene			
+LAKMDKJD_00668	CDS	nuoD	1.6.5.11	NADH-quinone oxidoreductase subunit D
+LAKMDKJD_00668	gene	nuoD		
+LAKMDKJD_00669	CDS	ndhJ	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit J
+LAKMDKJD_00669	gene	ndhJ		
+LAKMDKJD_00670	CDS	nqo6	1.6.5.11	NADH-quinone oxidoreductase subunit 6
+LAKMDKJD_00670	gene	nqo6		
+LAKMDKJD_00671	CDS	nuoA	1.6.5.11	NADH-quinone oxidoreductase subunit A
+LAKMDKJD_00671	gene	nuoA		
+LAKMDKJD_00672	CDS	cobB_1	3.5.1.-	NAD-dependent protein deacylase
+LAKMDKJD_00672	gene	cobB_1		
+LAKMDKJD_00673	CDS	cobB_2	3.5.1.-	NAD-dependent protein deacylase
+LAKMDKJD_00673	gene	cobB_2		
+LAKMDKJD_00674	CDS			hypothetical protein
+LAKMDKJD_00674	gene			
+LAKMDKJD_00675	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+LAKMDKJD_00675	gene	pyrE		
+LAKMDKJD_00676	CDS	frr		Ribosome-recycling factor
+LAKMDKJD_00676	gene	frr		
+LAKMDKJD_00677	CDS	secG		putative protein-export membrane protein SecG
+LAKMDKJD_00677	gene	secG		
+LAKMDKJD_00678	CDS	tam	2.1.1.144	Trans-aconitate 2-methyltransferase
+LAKMDKJD_00678	gene	tam		
+LAKMDKJD_00679	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+LAKMDKJD_00679	gene	trpS		
+LAKMDKJD_00680	CDS	dppE		Dipeptide-binding protein DppE
+LAKMDKJD_00680	gene	dppE		
+LAKMDKJD_00681	CDS	yejB		Inner membrane ABC transporter permease protein YejB
+LAKMDKJD_00681	gene	yejB		
+LAKMDKJD_00682	CDS			hypothetical protein
+LAKMDKJD_00682	gene			
+LAKMDKJD_00683	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+LAKMDKJD_00683	gene	aroE		
+LAKMDKJD_00684	CDS			hypothetical protein
+LAKMDKJD_00684	gene			
+LAKMDKJD_00685	CDS	msrAB		Peptide methionine sulfoxide reductase msrA/msrB
+LAKMDKJD_00685	gene	msrAB		
+LAKMDKJD_00686	CDS	radA	3.6.4.-	DNA repair protein RadA
+LAKMDKJD_00686	gene	radA		
+LAKMDKJD_00687	CDS			hypothetical protein
+LAKMDKJD_00687	gene			
+LAKMDKJD_00688	CDS	iscU		Iron-sulfur cluster assembly scaffold protein IscU
+LAKMDKJD_00688	gene	iscU		
+LAKMDKJD_00689	CDS	iscS	2.8.1.7	Cysteine desulfurase IscS
+LAKMDKJD_00689	gene	iscS		
+LAKMDKJD_00690	CDS			hypothetical protein
+LAKMDKJD_00690	gene			
+LAKMDKJD_00691	CDS			hypothetical protein
+LAKMDKJD_00691	gene			
+LAKMDKJD_00692	CDS			hypothetical protein
+LAKMDKJD_00692	gene			
+LAKMDKJD_00693	CDS			hypothetical protein
+LAKMDKJD_00693	gene			
+LAKMDKJD_00694	CDS	dxr	1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+LAKMDKJD_00694	gene	dxr		
+LAKMDKJD_00695	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+LAKMDKJD_00695	gene	cdsA		
+LAKMDKJD_00696	CDS	sdcS		Sodium-dependent dicarboxylate transporter SdcS
+LAKMDKJD_00696	gene	sdcS		
+LAKMDKJD_00697	CDS	mnmG		tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+LAKMDKJD_00697	gene	mnmG		
+LAKMDKJD_00698	CDS	dapE	3.5.1.18	Succinyl-diaminopimelate desuccinylase
+LAKMDKJD_00698	gene	dapE		
+LAKMDKJD_00699	CDS	hcpA	3.5.2.6	Beta-lactamase HcpA
+LAKMDKJD_00699	gene	hcpA		
+LAKMDKJD_00700	CDS	htpG		Chaperone protein HtpG
+LAKMDKJD_00700	gene	htpG		
+LAKMDKJD_00701	CDS			hypothetical protein
+LAKMDKJD_00701	gene			
+LAKMDKJD_00702	CDS			hypothetical protein
+LAKMDKJD_00702	gene			
+LAKMDKJD_00703	CDS	gspA		General stress protein A
+LAKMDKJD_00703	gene	gspA		
+LAKMDKJD_00704	CDS	apbC		Iron-sulfur cluster carrier protein
+LAKMDKJD_00704	gene	apbC		
+LAKMDKJD_00705	CDS			hypothetical protein
+LAKMDKJD_00705	gene			
+LAKMDKJD_00706	CDS			hypothetical protein
+LAKMDKJD_00706	gene			
+LAKMDKJD_00707	CDS			hypothetical protein
+LAKMDKJD_00707	gene			
+LAKMDKJD_00708	CDS			hypothetical protein
+LAKMDKJD_00708	gene			
+LAKMDKJD_00709	CDS			hypothetical protein
+LAKMDKJD_00709	gene			
+LAKMDKJD_00710	CDS			hypothetical protein
+LAKMDKJD_00710	gene			
+LAKMDKJD_00711	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+LAKMDKJD_00711	gene	fabH		
+LAKMDKJD_00712	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+LAKMDKJD_00712	gene	plsX		
+LAKMDKJD_00713	CDS	rpmF		50S ribosomal protein L32
+LAKMDKJD_00713	gene	rpmF		
+LAKMDKJD_00714	CDS			hypothetical protein
+LAKMDKJD_00714	gene			
+LAKMDKJD_00715	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+LAKMDKJD_00715	gene	ndk		
+LAKMDKJD_00716	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+LAKMDKJD_00716	gene	metK		
+LAKMDKJD_00717	CDS	lpxD	2.3.1.-	UDP-3-O-acylglucosamine N-acyltransferase
+LAKMDKJD_00717	gene	lpxD		
+LAKMDKJD_00718	CDS	fabI	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+LAKMDKJD_00718	gene	fabI		
+LAKMDKJD_00719	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+LAKMDKJD_00719	gene	tpiA		
+LAKMDKJD_00720	CDS	frdC		Fumarate reductase cytochrome b subunit
+LAKMDKJD_00720	gene	frdC		
+LAKMDKJD_00721	CDS	frdA	1.3.5.4	Fumarate reductase flavoprotein subunit
+LAKMDKJD_00721	gene	frdA		
+LAKMDKJD_00722	CDS	frdB	1.3.5.1	Fumarate reductase iron-sulfur subunit
+LAKMDKJD_00722	gene	frdB		
+LAKMDKJD_00723	CDS	clsC	2.7.8.-	Cardiolipin synthase C
+LAKMDKJD_00723	gene	clsC		
+LAKMDKJD_00724	CDS			hypothetical protein
+LAKMDKJD_00724	gene			
+LAKMDKJD_00725	CDS			hypothetical protein
+LAKMDKJD_00725	gene			
+LAKMDKJD_00726	CDS			hypothetical protein
+LAKMDKJD_00726	gene			
+LAKMDKJD_00727	CDS			hypothetical protein
+LAKMDKJD_00727	gene			
+LAKMDKJD_00728	CDS	zipA		Cell division protein ZipA
+LAKMDKJD_00728	gene	zipA		
+LAKMDKJD_00729	CDS			hypothetical protein
+LAKMDKJD_00729	gene			
+LAKMDKJD_00730	CDS	glyA_1	2.1.2.1	Serine hydroxymethyltransferase
+LAKMDKJD_00730	gene	glyA_1		
+LAKMDKJD_00731	CDS	glyA_2	2.1.2.1	Serine hydroxymethyltransferase
+LAKMDKJD_00731	gene	glyA_2		
+LAKMDKJD_00732	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+LAKMDKJD_00732	gene	lysS		
+LAKMDKJD_00733	CDS			hypothetical protein
+LAKMDKJD_00733	gene			
+LAKMDKJD_00734	CDS	lnt	2.3.1.-	Apolipoprotein N-acyltransferase
+LAKMDKJD_00734	gene	lnt		
+LAKMDKJD_00735	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+LAKMDKJD_00735	gene	lolD		
+LAKMDKJD_00736	CDS	pseI	2.5.1.97	Pseudaminic acid synthase
+LAKMDKJD_00736	gene	pseI		
+LAKMDKJD_00737	CDS	efp		Elongation factor P
+LAKMDKJD_00737	gene	efp		
+LAKMDKJD_00738	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+LAKMDKJD_00738	gene	fba		
+LAKMDKJD_00739	CDS		5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+LAKMDKJD_00739	gene			
+LAKMDKJD_00740	CDS			hypothetical protein
+LAKMDKJD_00740	gene			
+LAKMDKJD_00741	CDS			hypothetical protein
+LAKMDKJD_00741	gene			
+LAKMDKJD_00742	CDS	moeA	2.10.1.1	Molybdopterin molybdenumtransferase
+LAKMDKJD_00742	gene	moeA		
+LAKMDKJD_00743	CDS			hypothetical protein
+LAKMDKJD_00743	gene			
+LAKMDKJD_00744	CDS	prfB		Peptide chain release factor RF2
+LAKMDKJD_00744	gene	prfB		
+LAKMDKJD_00745	CDS			hypothetical protein
+LAKMDKJD_00745	gene			
+LAKMDKJD_00746	CDS	ydcP	3.4.-.-	putative protease YdcP
+LAKMDKJD_00746	gene	ydcP		
+LAKMDKJD_00747	CDS			hypothetical protein
+LAKMDKJD_00747	gene			
+LAKMDKJD_00748	CDS			hypothetical protein
+LAKMDKJD_00748	gene			
+LAKMDKJD_00749	CDS	arlR		Response regulator ArlR
+LAKMDKJD_00749	gene	arlR		
+LAKMDKJD_00750	CDS	hssS	2.7.13.3	Heme sensor protein HssS
+LAKMDKJD_00750	gene	hssS		
+LAKMDKJD_00751	CDS	hemB	4.2.1.24	Delta-aminolevulinic acid dehydratase
+LAKMDKJD_00751	gene	hemB		
+LAKMDKJD_00752	CDS			putative transcriptional regulatory protein
+LAKMDKJD_00752	gene			
+LAKMDKJD_00753	CDS			hypothetical protein
+LAKMDKJD_00753	gene			
+LAKMDKJD_00754	CDS			hypothetical protein
+LAKMDKJD_00754	gene			
+LAKMDKJD_00755	CDS			hypothetical protein
+LAKMDKJD_00755	gene			
+LAKMDKJD_00756	CDS			hypothetical protein
+LAKMDKJD_00756	gene			
+LAKMDKJD_00757	CDS			hypothetical protein
+LAKMDKJD_00757	gene			
+LAKMDKJD_00758	CDS			hypothetical protein
+LAKMDKJD_00758	gene			
+LAKMDKJD_00759	CDS			hypothetical protein
+LAKMDKJD_00759	gene			
+LAKMDKJD_00760	CDS			hypothetical protein
+LAKMDKJD_00760	gene			
+LAKMDKJD_00761	CDS			hypothetical protein
+LAKMDKJD_00761	gene			
+LAKMDKJD_00762	CDS			hypothetical protein
+LAKMDKJD_00762	gene			
+LAKMDKJD_00763	CDS	corA		Magnesium transport protein CorA
+LAKMDKJD_00763	gene	corA		
+LAKMDKJD_00764	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+LAKMDKJD_00764	gene	pgk		
+LAKMDKJD_00765	CDS	gapB	1.2.1.59	Glyceraldehyde-3-phosphate dehydrogenase 2
+LAKMDKJD_00765	gene	gapB		
+LAKMDKJD_00766	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+LAKMDKJD_00766	gene	ung		
+LAKMDKJD_00767	CDS			hypothetical protein
+LAKMDKJD_00767	gene			
+LAKMDKJD_00768	CDS			hypothetical protein
+LAKMDKJD_00768	gene			
+LAKMDKJD_00769	CDS	ctpB	3.4.21.102	Carboxy-terminal processing protease CtpB
+LAKMDKJD_00769	gene	ctpB		
+LAKMDKJD_00770	CDS			hypothetical protein
+LAKMDKJD_00770	gene			
+LAKMDKJD_00771	CDS	dpnA_4	2.1.1.72	Modification methylase DpnIIB
+LAKMDKJD_00771	gene	dpnA_4		
+LAKMDKJD_00772	CDS			hypothetical protein
+LAKMDKJD_00772	gene			
+LAKMDKJD_00773	CDS	nadC	2.4.2.19	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+LAKMDKJD_00773	gene	nadC		
+LAKMDKJD_00774	CDS	nadA	2.5.1.72	Quinolinate synthase A
+LAKMDKJD_00774	gene	nadA		
+LAKMDKJD_00775	CDS	psd	4.1.1.65	Phosphatidylserine decarboxylase proenzyme
+LAKMDKJD_00775	gene	psd		
+LAKMDKJD_00776	CDS			hypothetical protein
+LAKMDKJD_00776	gene			
+LAKMDKJD_00777	CDS			hypothetical protein
+LAKMDKJD_00777	gene			
+LAKMDKJD_00778	CDS	plqA	2.5.1.-	4-hydroxybenzoate solanesyltransferase
+LAKMDKJD_00778	gene	plqA		
+LAKMDKJD_00779	CDS			hypothetical protein
+LAKMDKJD_00779	gene			
+LAKMDKJD_00780	CDS	dnaB	3.6.4.12	Replicative DNA helicase
+LAKMDKJD_00780	gene	dnaB		
+LAKMDKJD_00781	CDS	nnr		Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+LAKMDKJD_00781	gene	nnr		
+LAKMDKJD_00782	CDS	senX3	2.7.13.3	Signal-transduction histidine kinase senX3
+LAKMDKJD_00782	gene	senX3		
+LAKMDKJD_00783	CDS	qseB		Transcriptional regulatory protein QseB
+LAKMDKJD_00783	gene	qseB		
+LAKMDKJD_00784	CDS	mboIIR	3.1.21.4	Type-2 restriction enzyme MboII
+LAKMDKJD_00784	gene	mboIIR		
+LAKMDKJD_00785	CDS	mboIIM	2.1.1.72	Modification methylase MboII
+LAKMDKJD_00785	gene	mboIIM		
+LAKMDKJD_00786	CDS	rsrIM	2.1.1.72	Modification methylase RsrI
+LAKMDKJD_00786	gene	rsrIM		
+LAKMDKJD_00787	CDS			hypothetical protein
+LAKMDKJD_00787	gene			
+LAKMDKJD_00788	CDS	dpnA_5	2.1.1.72	Modification methylase DpnIIB
+LAKMDKJD_00788	gene	dpnA_5		
+LAKMDKJD_00789	CDS			hypothetical protein
+LAKMDKJD_00789	gene			
+LAKMDKJD_00790	CDS			hypothetical protein
+LAKMDKJD_00790	gene			
+LAKMDKJD_00791	CDS	mreB		Rod shape-determining protein MreB
+LAKMDKJD_00791	gene	mreB		
+LAKMDKJD_00792	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+LAKMDKJD_00792	gene	clpX		
+LAKMDKJD_00793	CDS	lpxA	2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+LAKMDKJD_00793	gene	lpxA		
+LAKMDKJD_00794	CDS	fabZ	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+LAKMDKJD_00794	gene	fabZ		
+LAKMDKJD_00795	CDS	fliW2		Flagellar assembly factor FliW 2
+LAKMDKJD_00795	gene	fliW2		
+LAKMDKJD_00796	CDS	bamD		Outer membrane protein assembly factor BamD
+LAKMDKJD_00796	gene	bamD		
+LAKMDKJD_00797	CDS	lon	3.4.21.53	Lon protease
+LAKMDKJD_00797	gene	lon		
+LAKMDKJD_00798	CDS	tyrA_2	1.3.1.12	Prephenate dehydrogenase
+LAKMDKJD_00798	gene	tyrA_2		
+LAKMDKJD_00799	CDS			hypothetical protein
+LAKMDKJD_00799	gene			
+LAKMDKJD_00800	CDS			hypothetical protein
+LAKMDKJD_00800	gene			
+LAKMDKJD_00801	CDS			hypothetical protein
+LAKMDKJD_00801	gene			
+LAKMDKJD_00802	CDS	fbp	3.1.3.11	Fructose-1,6-bisphosphatase class 1
+LAKMDKJD_00802	gene	fbp		
+LAKMDKJD_00803	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+LAKMDKJD_00803	gene	rpe		
+LAKMDKJD_00804	CDS	polC	2.7.7.7	DNA polymerase III PolC-type
+LAKMDKJD_00804	gene	polC		
+LAKMDKJD_00805	CDS			hypothetical protein
+LAKMDKJD_00805	gene			
+LAKMDKJD_00806	CDS			hypothetical protein
+LAKMDKJD_00806	gene			
+LAKMDKJD_00807	CDS			hypothetical protein
+LAKMDKJD_00807	gene			
+LAKMDKJD_00808	CDS			hypothetical protein
+LAKMDKJD_00808	gene			
+LAKMDKJD_00809	CDS			hypothetical protein
+LAKMDKJD_00809	gene			
+LAKMDKJD_00810	CDS			hypothetical protein
+LAKMDKJD_00810	gene			
+LAKMDKJD_00811	CDS	recN		DNA repair protein RecN
+LAKMDKJD_00811	gene	recN		
+LAKMDKJD_00812	CDS	nadK_1	2.7.1.23	NAD kinase
+LAKMDKJD_00812	gene	nadK_1		
+LAKMDKJD_00813	CDS	nadK_2	2.7.1.23	NAD kinase
+LAKMDKJD_00813	gene	nadK_2		
+LAKMDKJD_00814	CDS			hypothetical protein
+LAKMDKJD_00814	gene			
+LAKMDKJD_00815	CDS			hypothetical protein
+LAKMDKJD_00815	gene			
+LAKMDKJD_00816	CDS			hypothetical protein
+LAKMDKJD_00816	gene			
+LAKMDKJD_00817	CDS	ald	1.4.1.1	Alanine dehydrogenase
+LAKMDKJD_00817	gene	ald		
+LAKMDKJD_00818	CDS	rocF	3.5.3.1	Arginase
+LAKMDKJD_00818	gene	rocF		
+LAKMDKJD_00819	CDS	fecA_2		Fe(3+) dicitrate transport protein FecA
+LAKMDKJD_00819	gene	fecA_2		
+LAKMDKJD_00820	CDS			hypothetical protein
+LAKMDKJD_00820	gene			
+LAKMDKJD_00821	CDS	hsdR_2	3.1.21.3	Type-1 restriction enzyme R protein
+LAKMDKJD_00821	gene	hsdR_2		
+LAKMDKJD_00822	CDS	hsdM	2.1.1.72	Type I restriction enzyme EcoKI M protein
+LAKMDKJD_00822	gene	hsdM		
+LAKMDKJD_00823	CDS			hypothetical protein
+LAKMDKJD_00823	gene			
+LAKMDKJD_00824	CDS	bioB	2.8.1.6	Biotin synthase
+LAKMDKJD_00824	gene	bioB		
+LAKMDKJD_00825	CDS			hypothetical protein
+LAKMDKJD_00825	gene			
+LAKMDKJD_00826	CDS			hypothetical protein
+LAKMDKJD_00826	gene			
+LAKMDKJD_00827	tRNA			tRNA-Lys(ttt)
+LAKMDKJD_00827	gene			
+LAKMDKJD_00828	tRNA			tRNA-Glu(ttc)
+LAKMDKJD_00828	gene			
+LAKMDKJD_00829	tRNA			tRNA-Val(tac)
+LAKMDKJD_00829	gene			
+LAKMDKJD_00830	tRNA			tRNA-Asp(gtc)
+LAKMDKJD_00830	gene			
+LAKMDKJD_00831	tRNA			tRNA-Glu(ttc)
+LAKMDKJD_00831	gene			
+LAKMDKJD_00832	CDS	panC	6.3.2.1	Pantothenate synthetase
+LAKMDKJD_00832	gene	panC		
+LAKMDKJD_00833	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+LAKMDKJD_00833	gene	pyrF		
+LAKMDKJD_00834	CDS	cynT	4.2.1.1	Carbonic anhydrase 1
+LAKMDKJD_00834	gene	cynT		
+LAKMDKJD_00835	CDS	kdsA	2.5.1.55	2-dehydro-3-deoxyphosphooctonate aldolase
+LAKMDKJD_00835	gene	kdsA		
+LAKMDKJD_00836	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+LAKMDKJD_00836	gene	ribH		
+LAKMDKJD_00837	CDS	nusB		N utilization substance protein B 
+LAKMDKJD_00837	gene	nusB		
+LAKMDKJD_00838	CDS			hypothetical protein
+LAKMDKJD_00838	gene			
+LAKMDKJD_00839	CDS			hypothetical protein
+LAKMDKJD_00839	gene			
+LAKMDKJD_00840	CDS			hypothetical protein
+LAKMDKJD_00840	gene			
+LAKMDKJD_00841	CDS			hypothetical protein
+LAKMDKJD_00841	gene			
+LAKMDKJD_00842	CDS			hypothetical protein
+LAKMDKJD_00842	gene			
+LAKMDKJD_00843	CDS	flgG_1		Flagellar basal-body rod protein FlgG
+LAKMDKJD_00843	gene	flgG_1		
+LAKMDKJD_00844	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+LAKMDKJD_00844	gene	tsaD		
+LAKMDKJD_00845	CDS	pdxA	1.1.1.262	4-hydroxythreonine-4-phosphate dehydrogenase
+LAKMDKJD_00845	gene	pdxA		
+LAKMDKJD_00846	CDS	pdxJ	2.6.99.2	Pyridoxine 5'-phosphate synthase
+LAKMDKJD_00846	gene	pdxJ		
+LAKMDKJD_00847	CDS	tagO	2.7.8.33	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+LAKMDKJD_00847	gene	tagO		
+LAKMDKJD_00848	CDS	lpxE_2	3.1.-.-	Lipid A 1-phosphatase
+LAKMDKJD_00848	gene	lpxE_2		
+LAKMDKJD_00849	CDS			hypothetical protein
+LAKMDKJD_00849	gene			
+LAKMDKJD_00850	CDS			hypothetical protein
+LAKMDKJD_00850	gene			
+LAKMDKJD_00851	CDS	metI		D-methionine transport system permease protein MetI
+LAKMDKJD_00851	gene	metI		
+LAKMDKJD_00852	CDS	metN	3.6.3.-	Methionine import ATP-binding protein MetN
+LAKMDKJD_00852	gene	metN		
+LAKMDKJD_00853	CDS	flhB_2		Flagellar biosynthetic protein FlhB
+LAKMDKJD_00853	gene	flhB_2		
+LAKMDKJD_00854	CDS	ribE	2.5.1.9	Riboflavin synthase
+LAKMDKJD_00854	gene	ribE		
+LAKMDKJD_00855	CDS	ycfH	3.1.-.-	putative metal-dependent hydrolase YcfH
+LAKMDKJD_00855	gene	ycfH		
+LAKMDKJD_00856	CDS	mltD	4.2.2.-	Membrane-bound lytic murein transglycosylase D
+LAKMDKJD_00856	gene	mltD		
+LAKMDKJD_00857	CDS	rlpA	4.2.2.-	Endolytic peptidoglycan transglycosylase RlpA
+LAKMDKJD_00857	gene	rlpA		
+LAKMDKJD_00858	CDS	kdsC	3.1.3.45	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+LAKMDKJD_00858	gene	kdsC		
+LAKMDKJD_00859	CDS			hypothetical protein
+LAKMDKJD_00859	gene			
+LAKMDKJD_00860	CDS	lptA		Lipopolysaccharide export system protein LptA
+LAKMDKJD_00860	gene	lptA		
+LAKMDKJD_00861	CDS	engB		putative GTP-binding protein EngB
+LAKMDKJD_00861	gene	engB		
+LAKMDKJD_00862	CDS			hypothetical protein
+LAKMDKJD_00862	gene			
+LAKMDKJD_00863	CDS	mrdA	3.4.16.4	Peptidoglycan D,D-transpeptidase MrdA
+LAKMDKJD_00863	gene	mrdA		
+LAKMDKJD_00864	CDS	metQ		D-methionine-binding lipoprotein MetQ
+LAKMDKJD_00864	gene	metQ		
+LAKMDKJD_00865	CDS	tsaA	1.11.1.15	putative peroxiredoxin
+LAKMDKJD_00865	gene	tsaA		
+LAKMDKJD_00866	CDS	btuF_1		Vitamin B12-binding protein
+LAKMDKJD_00866	gene	btuF_1		
+LAKMDKJD_00867	CDS	btuF_2		Vitamin B12-binding protein
+LAKMDKJD_00867	gene	btuF_2		
+LAKMDKJD_00868	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+LAKMDKJD_00868	gene	ftsW		
+LAKMDKJD_00869	CDS	flgB		Flagellar basal body rod protein FlgB
+LAKMDKJD_00869	gene	flgB		
+LAKMDKJD_00870	CDS	flgC		Flagellar basal-body rod protein FlgC
+LAKMDKJD_00870	gene	flgC		
+LAKMDKJD_00871	CDS	fliE		Flagellar hook-basal body complex protein FliE
+LAKMDKJD_00871	gene	fliE		
+LAKMDKJD_00872	CDS	ftsI	3.4.16.4	Peptidoglycan D,D-transpeptidase FtsI
+LAKMDKJD_00872	gene	ftsI		
+LAKMDKJD_00873	CDS	tsf		Elongation factor Ts
+LAKMDKJD_00873	gene	tsf		
+LAKMDKJD_00874	CDS	rpsB		30S ribosomal protein S2
+LAKMDKJD_00874	gene	rpsB		
+LAKMDKJD_00875	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+LAKMDKJD_00875	gene	addA		
+LAKMDKJD_00876	CDS	nhaA		Na(+)/H(+) antiporter NhaA
+LAKMDKJD_00876	gene	nhaA		
+LAKMDKJD_00877	CDS			hypothetical protein
+LAKMDKJD_00877	gene			
+LAKMDKJD_00878	CDS			hypothetical protein
+LAKMDKJD_00878	gene			
+LAKMDKJD_00879	CDS			hypothetical protein
+LAKMDKJD_00879	gene			
+LAKMDKJD_00880	CDS			hypothetical protein
+LAKMDKJD_00880	gene			
+LAKMDKJD_00881	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+LAKMDKJD_00881	gene	leuS		
+LAKMDKJD_00882	CDS			hypothetical protein
+LAKMDKJD_00882	gene			
+LAKMDKJD_00883	CDS	folC	6.3.2.12	Dihydrofolate synthase/folylpolyglutamate synthase
+LAKMDKJD_00883	gene	folC		
+LAKMDKJD_00884	CDS	mepM_1	3.4.24.-	Murein DD-endopeptidase MepM
+LAKMDKJD_00884	gene	mepM_1		
+LAKMDKJD_00885	CDS	mepM_2	3.4.24.-	Murein DD-endopeptidase MepM
+LAKMDKJD_00885	gene	mepM_2		
+LAKMDKJD_00886	CDS			hypothetical protein
+LAKMDKJD_00886	gene			
+LAKMDKJD_00887	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+LAKMDKJD_00887	gene	mfd		
+LAKMDKJD_00888	CDS	petA	1.10.2.2	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+LAKMDKJD_00888	gene	petA		
+LAKMDKJD_00889	CDS	petB		Cytochrome b
+LAKMDKJD_00889	gene	petB		
+LAKMDKJD_00890	CDS			hypothetical protein
+LAKMDKJD_00890	gene			
+LAKMDKJD_00891	CDS			hypothetical protein
+LAKMDKJD_00891	gene			
+LAKMDKJD_00892	tRNA			tRNA-Pro(ggg)
+LAKMDKJD_00892	gene			
+LAKMDKJD_00893	CDS	ppk	2.7.4.1	Polyphosphate kinase
+LAKMDKJD_00893	gene	ppk		
+LAKMDKJD_00894	CDS	pyrD_2	1.3.5.2	Dihydroorotate dehydrogenase (quinone)
+LAKMDKJD_00894	gene	pyrD_2		
+LAKMDKJD_00895	CDS		3.4.24.-	putative zinc protease
+LAKMDKJD_00895	gene			
+LAKMDKJD_00896	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+LAKMDKJD_00896	gene	dapA		
+LAKMDKJD_00897	CDS	fabL	1.3.1.104	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabL
+LAKMDKJD_00897	gene	fabL		
+LAKMDKJD_00898	CDS			hypothetical protein
+LAKMDKJD_00898	gene			
+LAKMDKJD_00899	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+LAKMDKJD_00899	gene	pgsA		
+LAKMDKJD_00900	CDS	rocE		Amino-acid permease RocE
+LAKMDKJD_00900	gene	rocE		
+LAKMDKJD_00901	CDS	degP	3.4.21.107	Periplasmic serine endoprotease DegP
+LAKMDKJD_00901	gene	degP		
+LAKMDKJD_00902	CDS	ispDF		Bifunctional enzyme IspD/IspF
+LAKMDKJD_00902	gene	ispDF		
+LAKMDKJD_00903	CDS			hypothetical protein
+LAKMDKJD_00903	gene			
+LAKMDKJD_00904	CDS	xni	3.1.-.-	Flap endonuclease Xni
+LAKMDKJD_00904	gene	xni		
+LAKMDKJD_00905	CDS			hypothetical protein
+LAKMDKJD_00905	gene			
+LAKMDKJD_00906	CDS	cbpA		Curved DNA-binding protein
+LAKMDKJD_00906	gene	cbpA		
+LAKMDKJD_00907	CDS	hspR		Putative heat shock protein HspR
+LAKMDKJD_00907	gene	hspR		
+LAKMDKJD_00908	CDS			putative AAA domain-containing protein
+LAKMDKJD_00908	gene			
+LAKMDKJD_00909	CDS	fur		Ferric uptake regulation protein
+LAKMDKJD_00909	gene	fur		
+LAKMDKJD_00910	CDS			hypothetical protein
+LAKMDKJD_00910	gene			
+LAKMDKJD_00911	CDS			hypothetical protein
+LAKMDKJD_00911	gene			
+LAKMDKJD_00912	CDS			hypothetical protein
+LAKMDKJD_00912	gene			
+LAKMDKJD_00913	CDS	fliN_2		Flagellar motor switch protein FliN
+LAKMDKJD_00913	gene	fliN_2		
+LAKMDKJD_00914	CDS	fliM		Flagellar motor switch protein FliM
+LAKMDKJD_00914	gene	fliM		
+LAKMDKJD_00915	CDS	fliA		RNA polymerase sigma factor FliA
+LAKMDKJD_00915	gene	fliA		
+LAKMDKJD_00916	CDS			hypothetical protein
+LAKMDKJD_00916	gene			
+LAKMDKJD_00917	CDS	ylxH		Flagellum site-determining protein YlxH
+LAKMDKJD_00917	gene	ylxH		
+LAKMDKJD_00918	CDS	flhF		Flagellar biosynthesis protein FlhF
+LAKMDKJD_00918	gene	flhF		
+LAKMDKJD_00919	CDS	folK	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+LAKMDKJD_00919	gene	folK		
+LAKMDKJD_00920	CDS		3.4.11.-	Aminopeptidase
+LAKMDKJD_00920	gene			
+LAKMDKJD_00921	CDS	aroQ	4.2.1.10	3-dehydroquinate dehydratase
+LAKMDKJD_00921	gene	aroQ		
+LAKMDKJD_00922	CDS			hypothetical protein
+LAKMDKJD_00922	gene			
+LAKMDKJD_00923	CDS	rpsO		30S ribosomal protein S15
+LAKMDKJD_00923	gene	rpsO		
+LAKMDKJD_00924	CDS	flhA		Flagellar biosynthesis protein FlhA
+LAKMDKJD_00924	gene	flhA		
+LAKMDKJD_00925	CDS		3.1.4.17	3',5'-cyclic-nucleotide phosphodiesterase
+LAKMDKJD_00925	gene			
+LAKMDKJD_00926	CDS	cusR		Transcriptional regulatory protein CusR
+LAKMDKJD_00926	gene	cusR		
+LAKMDKJD_00927	CDS	cpdA	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+LAKMDKJD_00927	gene	cpdA		
+LAKMDKJD_00928	CDS	acsA	6.2.1.1	Acetyl-coenzyme A synthetase
+LAKMDKJD_00928	gene	acsA		
+LAKMDKJD_00929	CDS	rimP		Ribosome maturation factor RimP
+LAKMDKJD_00929	gene	rimP		
+LAKMDKJD_00930	CDS	rbfA		Ribosome-binding factor A
+LAKMDKJD_00930	gene	rbfA		
+LAKMDKJD_00931	CDS	infB		Translation initiation factor IF-2
+LAKMDKJD_00931	gene	infB		
+LAKMDKJD_00932	CDS			hypothetical protein
+LAKMDKJD_00932	gene			
+LAKMDKJD_00933	CDS	thrB	2.7.1.39	Homoserine kinase
+LAKMDKJD_00933	gene	thrB		
+LAKMDKJD_00934	CDS			hypothetical protein
+LAKMDKJD_00934	gene			
+LAKMDKJD_00935	CDS	lpxC	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+LAKMDKJD_00935	gene	lpxC		
+LAKMDKJD_00936	CDS	minC		putative septum site-determining protein MinC
+LAKMDKJD_00936	gene	minC		
+LAKMDKJD_00937	CDS			hypothetical protein
+LAKMDKJD_00937	gene			
+LAKMDKJD_00938	CDS			hypothetical protein
+LAKMDKJD_00938	gene			
+LAKMDKJD_00939	CDS			hypothetical protein
+LAKMDKJD_00939	gene			
+LAKMDKJD_00940	CDS			hypothetical protein
+LAKMDKJD_00940	gene			
+LAKMDKJD_00941	CDS	panB	2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase
+LAKMDKJD_00941	gene	panB		
+LAKMDKJD_00942	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+LAKMDKJD_00942	gene	ruvB		
+LAKMDKJD_00943	CDS	tatB		Sec-independent protein translocase protein TatB
+LAKMDKJD_00943	gene	tatB		
+LAKMDKJD_00944	CDS	tatC		Sec-independent protein translocase protein TatC
+LAKMDKJD_00944	gene	tatC		
+LAKMDKJD_00945	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+LAKMDKJD_00945	gene	queA		
+LAKMDKJD_00946	CDS	rsmG	2.1.1.170	Ribosomal RNA small subunit methyltransferase G
+LAKMDKJD_00946	gene	rsmG		
+LAKMDKJD_00947	CDS			hypothetical protein
+LAKMDKJD_00947	gene			
+LAKMDKJD_00948	CDS			hypothetical protein
+LAKMDKJD_00948	gene			
+LAKMDKJD_00949	tRNA			tRNA-Ser(gga)
+LAKMDKJD_00949	gene			
+LAKMDKJD_00950	CDS			hypothetical protein
+LAKMDKJD_00950	gene			
+LAKMDKJD_00951	CDS	cheY		Chemotaxis protein CheY 
+LAKMDKJD_00951	gene	cheY		
+LAKMDKJD_00952	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+LAKMDKJD_00952	gene	prmA		
+LAKMDKJD_00953	CDS	ftsH_2	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+LAKMDKJD_00953	gene	ftsH_2		
+LAKMDKJD_00954	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+LAKMDKJD_00954	gene	asd		
+LAKMDKJD_00955	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+LAKMDKJD_00955	gene	hisS		
+LAKMDKJD_00956	CDS	rfaF_1	2.-.-.-	ADP-heptose--LPS heptosyltransferase 2
+LAKMDKJD_00956	gene	rfaF_1		
+LAKMDKJD_00957	CDS	rfaF_2	2.-.-.-	ADP-heptose--LPS heptosyltransferase 2
+LAKMDKJD_00957	gene	rfaF_2		
+LAKMDKJD_00958	CDS			hypothetical protein
+LAKMDKJD_00958	gene			
+LAKMDKJD_00959	CDS	yhdN	1.1.1.-	General stress protein 69
+LAKMDKJD_00959	gene	yhdN		
+LAKMDKJD_00960	CDS	fusA		Elongation factor G
+LAKMDKJD_00960	gene	fusA		
+LAKMDKJD_00961	CDS	rpsG		30S ribosomal protein S7
+LAKMDKJD_00961	gene	rpsG		
+LAKMDKJD_00962	CDS	rpsL		30S ribosomal protein S12
+LAKMDKJD_00962	gene	rpsL		
+LAKMDKJD_00963	CDS	rpoBC	2.7.7.6	Bifunctional DNA-directed RNA polymerase subunit beta-beta'
+LAKMDKJD_00963	gene	rpoBC		
+LAKMDKJD_00964	CDS	rplL		50S ribosomal protein L7/L12
+LAKMDKJD_00964	gene	rplL		
+LAKMDKJD_00965	CDS	rplJ		50S ribosomal protein L10
+LAKMDKJD_00965	gene	rplJ		
+LAKMDKJD_00966	CDS	rplA		50S ribosomal protein L1
+LAKMDKJD_00966	gene	rplA		
+LAKMDKJD_00967	CDS	rplK		50S ribosomal protein L11
+LAKMDKJD_00967	gene	rplK		
+LAKMDKJD_00968	CDS	nusG		Transcription termination/antitermination protein NusG
+LAKMDKJD_00968	gene	nusG		
+LAKMDKJD_00969	CDS			hypothetical protein
+LAKMDKJD_00969	gene			
+LAKMDKJD_00970	tRNA			tRNA-Trp(cca)
+LAKMDKJD_00970	gene			
+LAKMDKJD_00971	CDS	rpmG2		50S ribosomal protein L33 2
+LAKMDKJD_00971	gene	rpmG2		
+LAKMDKJD_00972	CDS	tufA		Elongation factor Tu
+LAKMDKJD_00972	gene	tufA		
+LAKMDKJD_00973	tRNA			tRNA-Thr(ggt)
+LAKMDKJD_00973	gene			
+LAKMDKJD_00974	tRNA			tRNA-Gly(tcc)
+LAKMDKJD_00974	gene			
+LAKMDKJD_00975	tRNA			tRNA-Tyr(gta)
+LAKMDKJD_00975	gene			
+LAKMDKJD_00976	tRNA			tRNA-Thr(tgt)
+LAKMDKJD_00976	gene			
+LAKMDKJD_00977	CDS	hepA		Heterocyst differentiation ATP-binding protein HepA
+LAKMDKJD_00977	gene	hepA		
+LAKMDKJD_00978	CDS			hypothetical protein
+LAKMDKJD_00978	gene			
+LAKMDKJD_00979	CDS	fokIM	2.1.1.72	Modification methylase FokI
+LAKMDKJD_00979	gene	fokIM		
+LAKMDKJD_00980	CDS			hypothetical protein
+LAKMDKJD_00980	gene			
+LAKMDKJD_00981	CDS	cysE	2.3.1.30	Serine acetyltransferase
+LAKMDKJD_00981	gene	cysE		
+LAKMDKJD_00982	tRNA			tRNA-Leu(caa)
+LAKMDKJD_00982	gene			
+LAKMDKJD_00983	tRNA			tRNA-Leu(gag)
+LAKMDKJD_00983	gene			
+LAKMDKJD_00984	CDS	atpE		ATP synthase subunit c
+LAKMDKJD_00984	gene	atpE		
+LAKMDKJD_00985	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+LAKMDKJD_00985	gene	pnp		
+LAKMDKJD_00986	CDS			hypothetical protein
+LAKMDKJD_00986	gene			
+LAKMDKJD_00987	CDS	lptD		LPS-assembly protein LptD
+LAKMDKJD_00987	gene	lptD		
+LAKMDKJD_00988	CDS			hypothetical protein
+LAKMDKJD_00988	gene			
+LAKMDKJD_00989	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+LAKMDKJD_00989	gene	purD		
+LAKMDKJD_00990	CDS	ytrB		ABC transporter ATP-binding protein YtrB
+LAKMDKJD_00990	gene	ytrB		
+LAKMDKJD_00991	CDS	uppS	2.5.1.-	Isoprenyl transferase
+LAKMDKJD_00991	gene	uppS		
+LAKMDKJD_00992	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+LAKMDKJD_00992	gene			
+LAKMDKJD_00993	CDS	glpE	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+LAKMDKJD_00993	gene	glpE		
+LAKMDKJD_00994	CDS			hypothetical protein
+LAKMDKJD_00994	gene			
+LAKMDKJD_00995	CDS	crcB		Putative fluoride ion transporter CrcB
+LAKMDKJD_00995	gene	crcB		
+LAKMDKJD_00996	CDS	hemN_1	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+LAKMDKJD_00996	gene	hemN_1		
+LAKMDKJD_00997	CDS			Cytochrome c-553
+LAKMDKJD_00997	gene			
+LAKMDKJD_00998	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+LAKMDKJD_00998	gene	rppH		
+LAKMDKJD_00999	CDS	lysC	2.7.2.4	Aspartate kinase Ask_LysC
+LAKMDKJD_00999	gene	lysC		
+LAKMDKJD_01000	CDS			hypothetical protein
+LAKMDKJD_01000	gene			
+LAKMDKJD_01001	CDS			hypothetical protein
+LAKMDKJD_01001	gene			
+LAKMDKJD_01002	CDS	folP		Bifunctional dihydropteroate synthase/dihydropteroate reductase
+LAKMDKJD_01002	gene	folP		
+LAKMDKJD_01003	CDS			hypothetical protein
+LAKMDKJD_01003	gene			
+LAKMDKJD_01004	CDS			hypothetical protein
+LAKMDKJD_01004	gene			
+LAKMDKJD_01005	CDS			hypothetical protein
+LAKMDKJD_01005	gene			
+LAKMDKJD_01006	CDS			hypothetical protein
+LAKMDKJD_01006	gene			
+LAKMDKJD_01007	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+LAKMDKJD_01007	gene	carA		
+LAKMDKJD_01008	CDS	amiF	3.5.1.49	Formamidase
+LAKMDKJD_01008	gene	amiF		
+LAKMDKJD_01009	CDS	maf		Septum formation protein Maf
+LAKMDKJD_01009	gene	maf		
+LAKMDKJD_01010	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+LAKMDKJD_01010	gene	alaS		
+LAKMDKJD_01011	CDS			hypothetical protein
+LAKMDKJD_01011	gene			
+LAKMDKJD_01012	CDS			hypothetical protein
+LAKMDKJD_01012	gene			
+LAKMDKJD_01013	CDS			hypothetical protein
+LAKMDKJD_01013	gene			
+LAKMDKJD_01014	CDS			hypothetical protein
+LAKMDKJD_01014	gene			
+LAKMDKJD_01015	CDS			hypothetical protein
+LAKMDKJD_01015	gene			
+LAKMDKJD_01016	CDS		2.6.1.1	Aspartate aminotransferase
+LAKMDKJD_01016	gene			
+LAKMDKJD_01017	CDS			hypothetical protein
+LAKMDKJD_01017	gene			
+LAKMDKJD_01018	CDS			hypothetical protein
+LAKMDKJD_01018	gene			
+LAKMDKJD_01019	CDS	xerH_1		Tyrosine recombinase XerH
+LAKMDKJD_01019	gene	xerH_1		
+LAKMDKJD_01020	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+LAKMDKJD_01020	gene	ogt		
+LAKMDKJD_01021	CDS			hypothetical protein
+LAKMDKJD_01021	gene			
+LAKMDKJD_01022	CDS			hypothetical protein
+LAKMDKJD_01022	gene			
+LAKMDKJD_01023	CDS	wbpB	1.1.1.335	UDP-N-acetyl-2-amino-2-deoxy-D-glucuronate oxidase
+LAKMDKJD_01023	gene	wbpB		
+LAKMDKJD_01024	CDS	nrdA	1.17.4.1	Ribonucleoside-diphosphate reductase 1 subunit alpha
+LAKMDKJD_01024	gene	nrdA		
+LAKMDKJD_01025	CDS			hypothetical protein
+LAKMDKJD_01025	gene			
+LAKMDKJD_01026	CDS			hypothetical protein
+LAKMDKJD_01026	gene			
+LAKMDKJD_01027	CDS	glmU		Bifunctional protein GlmU
+LAKMDKJD_01027	gene	glmU		
+LAKMDKJD_01028	CDS	fliP_1		Flagellar biosynthetic protein FliP
+LAKMDKJD_01028	gene	fliP_1		
+LAKMDKJD_01029	CDS	fliP_2		Flagellar biosynthetic protein FliP
+LAKMDKJD_01029	gene	fliP_2		
+LAKMDKJD_01030	CDS	fecA_3		Fe(3+) dicitrate transport protein FecA
+LAKMDKJD_01030	gene	fecA_3		
+LAKMDKJD_01031	CDS	feoB		Fe(2+) transporter FeoB
+LAKMDKJD_01031	gene	feoB		
+LAKMDKJD_01032	CDS			hypothetical protein
+LAKMDKJD_01032	gene			
+LAKMDKJD_01033	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+LAKMDKJD_01033	gene	thlA		
+LAKMDKJD_01034	CDS	scoA	2.8.3.5	Succinyl-CoA:3-ketoacid coenzyme A transferase subunit A
+LAKMDKJD_01034	gene	scoA		
+LAKMDKJD_01035	CDS	scoB	2.8.3.5	Succinyl-CoA:3-ketoacid coenzyme A transferase subunit B
+LAKMDKJD_01035	gene	scoB		
+LAKMDKJD_01036	CDS	atoE		Putative short-chain fatty acid transporter
+LAKMDKJD_01036	gene	atoE		
+LAKMDKJD_01037	CDS			hypothetical protein
+LAKMDKJD_01037	gene			
+LAKMDKJD_01038	CDS	acxA	6.4.1.6	Acetone carboxylase beta subunit
+LAKMDKJD_01038	gene	acxA		
+LAKMDKJD_01039	CDS	acxB_1	6.4.1.6	Acetone carboxylase alpha subunit
+LAKMDKJD_01039	gene	acxB_1		
+LAKMDKJD_01040	CDS	acxB_2	6.4.1.6	Acetone carboxylase alpha subunit
+LAKMDKJD_01040	gene	acxB_2		
+LAKMDKJD_01041	CDS	acxC	6.4.1.6	Acetone carboxylase gamma subunit
+LAKMDKJD_01041	gene	acxC		
+LAKMDKJD_01042	CDS			hypothetical protein
+LAKMDKJD_01042	gene			
+LAKMDKJD_01043	CDS	dgkA	2.7.1.107	Diacylglycerol kinase
+LAKMDKJD_01043	gene	dgkA		
+LAKMDKJD_01044	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+LAKMDKJD_01044	gene	gyrA		
+LAKMDKJD_01045	CDS			hypothetical protein
+LAKMDKJD_01045	gene			
+LAKMDKJD_01046	CDS	dctD		C4-dicarboxylate transport transcriptional regulatory protein DctD
+LAKMDKJD_01046	gene	dctD		
+LAKMDKJD_01047	CDS	glrR		Transcriptional regulatory protein GlrR
+LAKMDKJD_01047	gene	glrR		
+LAKMDKJD_01048	CDS	uvrA		UvrABC system protein A
+LAKMDKJD_01048	gene	uvrA		
+LAKMDKJD_01049	CDS			hypothetical protein
+LAKMDKJD_01049	gene			
+LAKMDKJD_01050	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+LAKMDKJD_01050	gene	rsmH		
+LAKMDKJD_01051	CDS			hypothetical protein
+LAKMDKJD_01051	gene			
+LAKMDKJD_01052	CDS	salL	2.5.1.94	Adenosyl-chloride synthase
+LAKMDKJD_01052	gene	salL		
+LAKMDKJD_01053	CDS			hypothetical protein
+LAKMDKJD_01053	gene			
+LAKMDKJD_01054	CDS	yfbR	3.1.3.89	5'-deoxynucleotidase YfbR
+LAKMDKJD_01054	gene	yfbR		
+LAKMDKJD_01055	CDS			hypothetical protein
+LAKMDKJD_01055	gene			
+LAKMDKJD_01056	CDS			hypothetical protein
+LAKMDKJD_01056	gene			
+LAKMDKJD_01057	CDS	rpoN		RNA polymerase sigma-54 factor
+LAKMDKJD_01057	gene	rpoN		
+LAKMDKJD_01058	CDS	lptB	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+LAKMDKJD_01058	gene	lptB		
+LAKMDKJD_01059	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+LAKMDKJD_01059	gene	tsaE		
+LAKMDKJD_01060	CDS	dnaX	2.7.7.7	DNA polymerase III subunit tau
+LAKMDKJD_01060	gene	dnaX		
+LAKMDKJD_01061	CDS	argO		Arginine exporter protein ArgO
+LAKMDKJD_01061	gene	argO		
+LAKMDKJD_01062	CDS			hypothetical protein
+LAKMDKJD_01062	gene			
+LAKMDKJD_01063	CDS			hypothetical protein
+LAKMDKJD_01063	gene			
+LAKMDKJD_01064	CDS		5.3.2.-	putative tautomerase
+LAKMDKJD_01064	gene			
+LAKMDKJD_01065	CDS	recR		Recombination protein RecR
+LAKMDKJD_01065	gene	recR		
+LAKMDKJD_01066	CDS	truD	5.4.99.27	tRNA pseudouridine synthase D
+LAKMDKJD_01066	gene	truD		
+LAKMDKJD_01067	CDS	htpX_1	3.4.24.-	Protease HtpX 
+LAKMDKJD_01067	gene	htpX_1		
+LAKMDKJD_01068	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+LAKMDKJD_01068	gene	folE		
+LAKMDKJD_01069	CDS		2.5.1.10	Farnesyl diphosphate synthase
+LAKMDKJD_01069	gene			
+LAKMDKJD_01070	CDS	surE	3.1.3.5	5'-nucleotidase SurE
+LAKMDKJD_01070	gene	surE		
+LAKMDKJD_01071	CDS			hypothetical protein
+LAKMDKJD_01071	gene			
+LAKMDKJD_01072	CDS			hypothetical protein
+LAKMDKJD_01072	gene			
+LAKMDKJD_01073	CDS	queE_2	4.3.99.3	7-carboxy-7-deazaguanine synthase
+LAKMDKJD_01073	gene	queE_2		
+LAKMDKJD_01074	CDS			hypothetical protein
+LAKMDKJD_01074	gene			
+LAKMDKJD_01075	CDS	proP		Proline/betaine transporter
+LAKMDKJD_01075	gene	proP		
+LAKMDKJD_01076	CDS			hypothetical protein
+LAKMDKJD_01076	gene			
+LAKMDKJD_01077	CDS			hypothetical protein
+LAKMDKJD_01077	gene			
+LAKMDKJD_01078	CDS	tcyB		L-cystine transport system permease protein TcyB
+LAKMDKJD_01078	gene	tcyB		
+LAKMDKJD_01079	CDS			putative amino-acid ABC transporter-binding protein
+LAKMDKJD_01079	gene			
+LAKMDKJD_01080	CDS	alr1	5.1.1.1	Alanine racemase 1
+LAKMDKJD_01080	gene	alr1		
+LAKMDKJD_01081	CDS	alsT		Amino-acid carrier protein AlsT
+LAKMDKJD_01081	gene	alsT		
+LAKMDKJD_01082	CDS	dadA	1.4.5.1	D-amino acid dehydrogenase
+LAKMDKJD_01082	gene	dadA		
+LAKMDKJD_01083	CDS			RutC family protein
+LAKMDKJD_01083	gene			
+LAKMDKJD_01084	tRNA			tRNA-Gly(gcc)
+LAKMDKJD_01084	gene			
+LAKMDKJD_01085	CDS			hypothetical protein
+LAKMDKJD_01085	gene			
+LAKMDKJD_01086	tRNA			tRNA-Leu(taa)
+LAKMDKJD_01086	gene			
+LAKMDKJD_01087	tRNA			tRNA-Cys(gca)
+LAKMDKJD_01087	gene			
+LAKMDKJD_01088	tRNA			tRNA-Ser(tga)
+LAKMDKJD_01088	gene			
+LAKMDKJD_01089	CDS	mleN		Malate-2H(+)/Na(+)-lactate antiporter
+LAKMDKJD_01089	gene	mleN		
+LAKMDKJD_01090	CDS			hypothetical protein
+LAKMDKJD_01090	gene			
+LAKMDKJD_01091	CDS			hypothetical protein
+LAKMDKJD_01091	gene			
+LAKMDKJD_01092	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+LAKMDKJD_01092	gene	rlmH		
+LAKMDKJD_01093	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+LAKMDKJD_01093	gene	accD		
+LAKMDKJD_01094	CDS			hypothetical protein
+LAKMDKJD_01094	gene			
+LAKMDKJD_01095	CDS	pncC	3.5.1.42	Nicotinamide-nucleotide amidohydrolase PncC
+LAKMDKJD_01095	gene	pncC		
+LAKMDKJD_01096	CDS			hypothetical protein
+LAKMDKJD_01096	gene			
+LAKMDKJD_01097	CDS	rdxA	1.-.-.-	Oxygen-insensitive NADPH nitroreductase
+LAKMDKJD_01097	gene	rdxA		
+LAKMDKJD_01098	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+LAKMDKJD_01098	gene	lgt		
+LAKMDKJD_01099	CDS		5.4.99.-	putative RNA pseudouridine synthase
+LAKMDKJD_01099	gene			
+LAKMDKJD_01100	CDS	waaA	2.4.99.12	3-deoxy-D-manno-octulosonic acid transferase
+LAKMDKJD_01100	gene	waaA		
+LAKMDKJD_01101	CDS			hypothetical protein
+LAKMDKJD_01101	gene			
+LAKMDKJD_01102	CDS		3.5.4.16	GTP cyclohydrolase 1 type 2
+LAKMDKJD_01102	gene			
+LAKMDKJD_01103	CDS	glyQ	6.1.1.14	Glycine--tRNA ligase alpha subunit
+LAKMDKJD_01103	gene	glyQ		
+LAKMDKJD_01104	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+LAKMDKJD_01104	gene	gpsA		
+LAKMDKJD_01105	CDS	acpP_2		Acyl carrier protein
+LAKMDKJD_01105	gene	acpP_2		
+LAKMDKJD_01106	CDS	era_1		GTPase Era
+LAKMDKJD_01106	gene	era_1		
+LAKMDKJD_01107	CDS			hypothetical protein
+LAKMDKJD_01107	gene			
+LAKMDKJD_01108	CDS	der_2		GTPase Der
+LAKMDKJD_01108	gene	der_2		
+LAKMDKJD_01109	CDS			hypothetical protein
+LAKMDKJD_01109	gene			
+LAKMDKJD_01110	CDS	vapD_2	3.1.-.-	Endoribonuclease VapD
+LAKMDKJD_01110	gene	vapD_2		
+LAKMDKJD_01111	CDS			hypothetical protein
+LAKMDKJD_01111	gene			
+LAKMDKJD_01112	CDS	czcA		Cobalt-zinc-cadmium resistance protein CzcA
+LAKMDKJD_01112	gene	czcA		
+LAKMDKJD_01113	CDS			hypothetical protein
+LAKMDKJD_01113	gene			
+LAKMDKJD_01114	CDS			hypothetical protein
+LAKMDKJD_01114	gene			
+LAKMDKJD_01115	CDS	glyS	6.1.1.14	Glycine--tRNA ligase beta subunit
+LAKMDKJD_01115	gene	glyS		
+LAKMDKJD_01116	CDS			hypothetical protein
+LAKMDKJD_01116	gene			
+LAKMDKJD_01117	CDS	gpmI	5.4.2.12	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+LAKMDKJD_01117	gene	gpmI		
+LAKMDKJD_01118	CDS	gatC	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+LAKMDKJD_01118	gene	gatC		
+LAKMDKJD_01119	CDS	bioA	2.6.1.62	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+LAKMDKJD_01119	gene	bioA		
+LAKMDKJD_01120	CDS	ppiD	5.2.1.8	Peptidyl-prolyl cis-trans isomerase D
+LAKMDKJD_01120	gene	ppiD		
+LAKMDKJD_01121	CDS	ftsA		Cell division protein FtsA
+LAKMDKJD_01121	gene	ftsA		
+LAKMDKJD_01122	CDS	ftsZ		Cell division protein FtsZ
+LAKMDKJD_01122	gene	ftsZ		
+LAKMDKJD_01123	CDS	rseP	3.4.24.-	Regulator of sigma-E protease RseP
+LAKMDKJD_01123	gene	rseP		
+LAKMDKJD_01124	CDS	ccsA		Cytochrome c biogenesis protein CcsA
+LAKMDKJD_01124	gene	ccsA		
+LAKMDKJD_01125	CDS			hypothetical protein
+LAKMDKJD_01125	gene			
+LAKMDKJD_01126	CDS	hemH	4.99.1.1	Ferrochelatase
+LAKMDKJD_01126	gene	hemH		
+LAKMDKJD_01127	CDS			hypothetical protein
+LAKMDKJD_01127	gene			
+LAKMDKJD_01128	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+LAKMDKJD_01128	gene	rsmE		
+LAKMDKJD_01129	CDS			hypothetical protein
+LAKMDKJD_01129	gene			
+LAKMDKJD_01130	CDS	dcd	3.5.4.13	dCTP deaminase
+LAKMDKJD_01130	gene	dcd		
+LAKMDKJD_01131	CDS	accB		Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+LAKMDKJD_01131	gene	accB		
+LAKMDKJD_01132	CDS	accC	6.3.4.14	Biotin carboxylase
+LAKMDKJD_01132	gene	accC		
+LAKMDKJD_01133	CDS			hypothetical protein
+LAKMDKJD_01133	gene			
+LAKMDKJD_01134	CDS			hypothetical protein
+LAKMDKJD_01134	gene			
+LAKMDKJD_01135	CDS			hypothetical protein
+LAKMDKJD_01135	gene			
+LAKMDKJD_01136	CDS			hypothetical protein
+LAKMDKJD_01136	gene			
+LAKMDKJD_01137	CDS	pseC	2.6.1.92	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase
+LAKMDKJD_01137	gene	pseC		
+LAKMDKJD_01138	tRNA			tRNA-Leu(tag)
+LAKMDKJD_01138	gene			
+LAKMDKJD_01139	CDS	nrdB	1.17.4.1	Ribonucleoside-diphosphate reductase subunit beta
+LAKMDKJD_01139	gene	nrdB		
+LAKMDKJD_01140	CDS	pcm	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+LAKMDKJD_01140	gene	pcm		
+LAKMDKJD_01141	CDS			hypothetical protein
+LAKMDKJD_01141	gene			
+LAKMDKJD_01142	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+LAKMDKJD_01142	gene	truA		
+LAKMDKJD_01143	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+LAKMDKJD_01143	gene	galE		
+LAKMDKJD_01144	tRNA			tRNA-Ile(gat)
+LAKMDKJD_01144	gene			
+LAKMDKJD_01145	tRNA			tRNA-Ala(tgc)
+LAKMDKJD_01145	gene			
+LAKMDKJD_01146	CDS			hypothetical protein
+LAKMDKJD_01146	gene			
+LAKMDKJD_01147	CDS	ydfG	1.1.1.381	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+LAKMDKJD_01147	gene	ydfG		
+LAKMDKJD_01148	CDS			hypothetical protein
+LAKMDKJD_01148	gene			
+LAKMDKJD_01149	CDS	lepA	3.6.5.-	Elongation factor 4
+LAKMDKJD_01149	gene	lepA		
+LAKMDKJD_01150	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+LAKMDKJD_01150	gene	dxs		
+LAKMDKJD_01151	CDS			hypothetical protein
+LAKMDKJD_01151	gene			
+LAKMDKJD_01152	CDS	fliG		Flagellar motor switch protein FliG
+LAKMDKJD_01152	gene	fliG		
+LAKMDKJD_01153	CDS	fliF		Flagellar M-ring protein
+LAKMDKJD_01153	gene	fliF		
+LAKMDKJD_01154	CDS			hypothetical protein
+LAKMDKJD_01154	gene			
+LAKMDKJD_01155	CDS	pyrG	6.3.4.2	CTP synthase
+LAKMDKJD_01155	gene	pyrG		
+LAKMDKJD_01156	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+LAKMDKJD_01156	gene	recJ		
+LAKMDKJD_01157	CDS		5.4.99.-	putative RNA pseudouridine synthase
+LAKMDKJD_01157	gene			
+LAKMDKJD_01158	CDS		5.4.99.-	putative RNA pseudouridine synthase
+LAKMDKJD_01158	gene			
+LAKMDKJD_01159	CDS			hypothetical protein
+LAKMDKJD_01159	gene			
+LAKMDKJD_01160	CDS	divIB		Cell division protein DivIB
+LAKMDKJD_01160	gene	divIB		
+LAKMDKJD_01161	CDS			hypothetical protein
+LAKMDKJD_01161	gene			
+LAKMDKJD_01162	CDS			hypothetical protein
+LAKMDKJD_01162	gene			
+LAKMDKJD_01163	CDS			hypothetical protein
+LAKMDKJD_01163	gene			
+LAKMDKJD_01164	CDS			hypothetical protein
+LAKMDKJD_01164	gene			
+LAKMDKJD_01165	CDS			hypothetical protein
+LAKMDKJD_01165	gene			
+LAKMDKJD_01166	CDS			hypothetical protein
+LAKMDKJD_01166	gene			
+LAKMDKJD_01167	CDS			hypothetical protein
+LAKMDKJD_01167	gene			
+LAKMDKJD_01168	CDS	hcpB_1	3.5.2.6	Beta-lactamase HcpB
+LAKMDKJD_01168	gene	hcpB_1		
+LAKMDKJD_01169	CDS			hypothetical protein
+LAKMDKJD_01169	gene			
+LAKMDKJD_01170	CDS	yqgF	3.1.-.-	Putative pre-16S rRNA nuclease
+LAKMDKJD_01170	gene	yqgF		
+LAKMDKJD_01171	CDS	dprA		DNA processing protein DprA
+LAKMDKJD_01171	gene	dprA		
+LAKMDKJD_01172	CDS	minE		Cell division topological specificity factor
+LAKMDKJD_01172	gene	minE		
+LAKMDKJD_01173	CDS	minD		Septum site-determining protein MinD
+LAKMDKJD_01173	gene	minD		
+LAKMDKJD_01174	CDS	ilvC	1.1.1.86	Ketol-acid reductoisomerase (NADP(+))
+LAKMDKJD_01174	gene	ilvC		
+LAKMDKJD_01175	tRNA			tRNA-Arg(gcg)
+LAKMDKJD_01175	gene			
+LAKMDKJD_01176	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+LAKMDKJD_01176	gene	nadE		
+LAKMDKJD_01177	CDS	lpxK	2.7.1.130	Tetraacyldisaccharide 4'-kinase
+LAKMDKJD_01177	gene	lpxK		
+LAKMDKJD_01178	CDS	pseH	2.3.1.202	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine N-acetyltransferase
+LAKMDKJD_01178	gene	pseH		
+LAKMDKJD_01179	CDS			hypothetical protein
+LAKMDKJD_01179	gene			
+LAKMDKJD_01180	CDS	neuA	2.7.7.43	N-acylneuraminate cytidylyltransferase
+LAKMDKJD_01180	gene	neuA		
+LAKMDKJD_01181	CDS	flgH		Flagellar L-ring protein
+LAKMDKJD_01181	gene	flgH		
+LAKMDKJD_01182	CDS			hypothetical protein
+LAKMDKJD_01182	gene			
+LAKMDKJD_01183	CDS	ywiE	2.7.8.-	putative cardiolipin synthase YwiE
+LAKMDKJD_01183	gene	ywiE		
+LAKMDKJD_01184	CDS			hypothetical protein
+LAKMDKJD_01184	gene			
+LAKMDKJD_01185	CDS	gmk	2.7.4.8	Guanylate kinase
+LAKMDKJD_01185	gene	gmk		
+LAKMDKJD_01186	CDS	tatA		Sec-independent protein translocase protein TatA
+LAKMDKJD_01186	gene	tatA		
+LAKMDKJD_01187	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+LAKMDKJD_01187	gene	argS		
+LAKMDKJD_01188	CDS			hypothetical protein
+LAKMDKJD_01188	gene			
+LAKMDKJD_01189	CDS			hypothetical protein
+LAKMDKJD_01189	gene			
+LAKMDKJD_01190	CDS			hypothetical protein
+LAKMDKJD_01190	gene			
+LAKMDKJD_01191	CDS	rplS		50S ribosomal protein L19
+LAKMDKJD_01191	gene	rplS		
+LAKMDKJD_01192	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+LAKMDKJD_01192	gene	trmD		
+LAKMDKJD_01193	CDS	rimM		Ribosome maturation factor RimM
+LAKMDKJD_01193	gene	rimM		
+LAKMDKJD_01194	CDS			hypothetical protein
+LAKMDKJD_01194	gene			
+LAKMDKJD_01195	CDS	rpsP		30S ribosomal protein S16
+LAKMDKJD_01195	gene	rpsP		
+LAKMDKJD_01196	CDS	ffh		Signal recognition particle protein
+LAKMDKJD_01196	gene	ffh		
+LAKMDKJD_01197	CDS	valS	6.1.1.9	Valine--tRNA ligase
+LAKMDKJD_01197	gene	valS		
+LAKMDKJD_01198	CDS	fliW1		Flagellar assembly factor FliW 1
+LAKMDKJD_01198	gene	fliW1		
+LAKMDKJD_01199	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+LAKMDKJD_01199	gene	murG		
+LAKMDKJD_01200	CDS			hypothetical protein
+LAKMDKJD_01200	gene			
+LAKMDKJD_01201	CDS			hypothetical protein
+LAKMDKJD_01201	gene			
+LAKMDKJD_01202	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+LAKMDKJD_01202	gene	proC		
+LAKMDKJD_01203	CDS		2.7.7.-	Adenosine monophosphate-protein transferase NmFic
+LAKMDKJD_01203	gene			
+LAKMDKJD_01204	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+LAKMDKJD_01204	gene	ybeY		
+LAKMDKJD_01205	CDS	fldA		Flavodoxin
+LAKMDKJD_01205	gene	fldA		
+LAKMDKJD_01206	CDS	yohD_2		Inner membrane protein YohD
+LAKMDKJD_01206	gene	yohD_2		
+LAKMDKJD_01207	CDS			hypothetical protein
+LAKMDKJD_01207	gene			
+LAKMDKJD_01208	CDS		1.18.1.2	Ferredoxin--NADP reductase
+LAKMDKJD_01208	gene			
+LAKMDKJD_01209	CDS			hypothetical protein
+LAKMDKJD_01209	gene			
+LAKMDKJD_01210	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+LAKMDKJD_01210	gene	pgi		
+LAKMDKJD_01211	CDS			hypothetical protein
+LAKMDKJD_01211	gene			
+LAKMDKJD_01212	CDS	cstA		Carbon starvation protein A
+LAKMDKJD_01212	gene	cstA		
+LAKMDKJD_01213	CDS	glnP_1		Glutamine transport system permease protein GlnP
+LAKMDKJD_01213	gene	glnP_1		
+LAKMDKJD_01214	CDS	glnP_2		Glutamine transport system permease protein GlnP
+LAKMDKJD_01214	gene	glnP_2		
+LAKMDKJD_01215	CDS	artM		Arginine transport ATP-binding protein ArtM
+LAKMDKJD_01215	gene	artM		
+LAKMDKJD_01216	CDS	glnH		ABC transporter glutamine-binding protein GlnH
+LAKMDKJD_01216	gene	glnH		
+LAKMDKJD_01217	CDS			hypothetical protein
+LAKMDKJD_01217	gene			
+LAKMDKJD_01218	CDS	fucP_1		L-fucose-proton symporter
+LAKMDKJD_01218	gene	fucP_1		
+LAKMDKJD_01219	CDS	fucP_2		L-fucose-proton symporter
+LAKMDKJD_01219	gene	fucP_2		
+LAKMDKJD_01220	CDS	adeQ		Adenine permease AdeQ
+LAKMDKJD_01220	gene	adeQ		
+LAKMDKJD_01221	CDS			hypothetical protein
+LAKMDKJD_01221	gene			
+LAKMDKJD_01222	CDS	deoD	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+LAKMDKJD_01222	gene	deoD		
+LAKMDKJD_01223	CDS	deoB	5.4.2.7	Phosphopentomutase
+LAKMDKJD_01223	gene	deoB		
+LAKMDKJD_01224	CDS	nupX		Putative nucleoside permease NupX
+LAKMDKJD_01224	gene	nupX		
+LAKMDKJD_01225	tRNA			tRNA-Met(cat)
+LAKMDKJD_01225	gene			
+LAKMDKJD_01226	CDS	yajR		Inner membrane transport protein YajR
+LAKMDKJD_01226	gene	yajR		
+LAKMDKJD_01227	CDS	ttcA		tRNA 2-thiocytidine biosynthesis protein TtcA
+LAKMDKJD_01227	gene	ttcA		
+LAKMDKJD_01228	CDS			hypothetical protein
+LAKMDKJD_01228	gene			
+LAKMDKJD_01229	CDS	mepA		Multidrug export protein MepA
+LAKMDKJD_01229	gene	mepA		
+LAKMDKJD_01230	CDS	sotB		Sugar efflux transporter B
+LAKMDKJD_01230	gene	sotB		
+LAKMDKJD_01231	CDS	cah	4.2.1.1	Carbonic anhydrase
+LAKMDKJD_01231	gene	cah		
+LAKMDKJD_01232	CDS			hypothetical protein
+LAKMDKJD_01232	gene			
+LAKMDKJD_01233	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+LAKMDKJD_01233	gene	gltX		
+LAKMDKJD_01234	CDS	potA	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+LAKMDKJD_01234	gene	potA		
+LAKMDKJD_01235	CDS	modB		Molybdenum transport system permease protein ModB
+LAKMDKJD_01235	gene	modB		
+LAKMDKJD_01236	CDS	modA		Molybdate-binding periplasmic protein
+LAKMDKJD_01236	gene	modA		
+LAKMDKJD_01237	CDS			hypothetical protein
+LAKMDKJD_01237	gene			
+LAKMDKJD_01238	CDS	kefC		Glutathione-regulated potassium-efflux system protein KefC
+LAKMDKJD_01238	gene	kefC		
+LAKMDKJD_01239	CDS	pepF1	3.4.24.-	Oligoendopeptidase F, plasmid
+LAKMDKJD_01239	gene	pepF1		
+LAKMDKJD_01240	CDS			hypothetical protein
+LAKMDKJD_01240	gene			
+LAKMDKJD_01241	CDS			hypothetical protein
+LAKMDKJD_01241	gene			
+LAKMDKJD_01242	CDS			hypothetical protein
+LAKMDKJD_01242	gene			
+LAKMDKJD_01243	CDS			hypothetical protein
+LAKMDKJD_01243	gene			
+LAKMDKJD_01244	CDS			hypothetical protein
+LAKMDKJD_01244	gene			
+LAKMDKJD_01245	CDS			hypothetical protein
+LAKMDKJD_01245	gene			
+LAKMDKJD_01246	CDS	hsdR_3	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+LAKMDKJD_01246	gene	hsdR_3		
+LAKMDKJD_01247	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+LAKMDKJD_01247	gene			
+LAKMDKJD_01248	CDS			hypothetical protein
+LAKMDKJD_01248	gene			
+LAKMDKJD_01249	CDS			hypothetical protein
+LAKMDKJD_01249	gene			
+LAKMDKJD_01250	CDS	virB4_3		Type IV secretion system protein virB4
+LAKMDKJD_01250	gene	virB4_3		
+LAKMDKJD_01251	CDS			hypothetical protein
+LAKMDKJD_01251	gene			
+LAKMDKJD_01252	CDS			hypothetical protein
+LAKMDKJD_01252	gene			
+LAKMDKJD_01253	CDS			hypothetical protein
+LAKMDKJD_01253	gene			
+LAKMDKJD_01254	CDS			hypothetical protein
+LAKMDKJD_01254	gene			
+LAKMDKJD_01255	CDS			hypothetical protein
+LAKMDKJD_01255	gene			
+LAKMDKJD_01256	CDS			hypothetical protein
+LAKMDKJD_01256	gene			
+LAKMDKJD_01257	CDS			hypothetical protein
+LAKMDKJD_01257	gene			
+LAKMDKJD_01258	CDS			hypothetical protein
+LAKMDKJD_01258	gene			
+LAKMDKJD_01259	CDS			hypothetical protein
+LAKMDKJD_01259	gene			
+LAKMDKJD_01260	CDS			hypothetical protein
+LAKMDKJD_01260	gene			
+LAKMDKJD_01261	CDS			hypothetical protein
+LAKMDKJD_01261	gene			
+LAKMDKJD_01262	CDS			hypothetical protein
+LAKMDKJD_01262	gene			
+LAKMDKJD_01263	CDS			hypothetical protein
+LAKMDKJD_01263	gene			
+LAKMDKJD_01264	CDS			hypothetical protein
+LAKMDKJD_01264	gene			
+LAKMDKJD_01265	CDS			hypothetical protein
+LAKMDKJD_01265	gene			
+LAKMDKJD_01266	CDS			hypothetical protein
+LAKMDKJD_01266	gene			
+LAKMDKJD_01267	CDS			hypothetical protein
+LAKMDKJD_01267	gene			
+LAKMDKJD_01268	CDS			hypothetical protein
+LAKMDKJD_01268	gene			
+LAKMDKJD_01269	CDS			hypothetical protein
+LAKMDKJD_01269	gene			
+LAKMDKJD_01270	CDS			hypothetical protein
+LAKMDKJD_01270	gene			
+LAKMDKJD_01271	CDS			hypothetical protein
+LAKMDKJD_01271	gene			
+LAKMDKJD_01272	CDS	ptlC		Type IV secretion system protein PtlC
+LAKMDKJD_01272	gene	ptlC		
+LAKMDKJD_01273	CDS	topA_2	5.99.1.2	DNA topoisomerase 1
+LAKMDKJD_01273	gene	topA_2		
+LAKMDKJD_01274	CDS	kch		Voltage-gated potassium channel Kch
+LAKMDKJD_01274	gene	kch		
+LAKMDKJD_01275	CDS	rpmB		50S ribosomal protein L28
+LAKMDKJD_01275	gene	rpmB		
+LAKMDKJD_01276	CDS			hypothetical protein
+LAKMDKJD_01276	gene			
+LAKMDKJD_01277	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+LAKMDKJD_01277	gene	mraY		
+LAKMDKJD_01278	CDS	murD_1	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+LAKMDKJD_01278	gene	murD_1		
+LAKMDKJD_01279	CDS	murD_2	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+LAKMDKJD_01279	gene	murD_2		
+LAKMDKJD_01280	CDS			hypothetical protein
+LAKMDKJD_01280	gene			
+LAKMDKJD_01281	CDS	ybgC	3.1.2.-	Acyl-CoA thioesterase YbgC
+LAKMDKJD_01281	gene	ybgC		
+LAKMDKJD_01282	CDS			hypothetical protein
+LAKMDKJD_01282	gene			
+LAKMDKJD_01283	CDS			hypothetical protein
+LAKMDKJD_01283	gene			
+LAKMDKJD_01284	CDS	pldA	3.1.1.32	Phospholipase A1
+LAKMDKJD_01284	gene	pldA		
+LAKMDKJD_01285	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+LAKMDKJD_01285	gene	dnaN		
+LAKMDKJD_01286	CDS	gyrB	5.99.1.3	Type 2 topoisomerase subunit B
+LAKMDKJD_01286	gene	gyrB		
+LAKMDKJD_01287	CDS			hypothetical protein
+LAKMDKJD_01287	gene			
+LAKMDKJD_01288	CDS			hypothetical protein
+LAKMDKJD_01288	gene			
+LAKMDKJD_01289	CDS			hypothetical protein
+LAKMDKJD_01289	gene			
+LAKMDKJD_01290	CDS			hypothetical protein
+LAKMDKJD_01290	gene			
+LAKMDKJD_01291	CDS	mepM_3	3.4.24.-	Murein DD-endopeptidase MepM
+LAKMDKJD_01291	gene	mepM_3		
+LAKMDKJD_01292	CDS	nudK	3.6.1.-	GDP-mannose pyrophosphatase NudK
+LAKMDKJD_01292	gene	nudK		
+LAKMDKJD_01293	CDS	pgbA		Plasminogen-binding protein PgbA
+LAKMDKJD_01293	gene	pgbA		
+LAKMDKJD_01294	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+LAKMDKJD_01294	gene			
+LAKMDKJD_01295	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+LAKMDKJD_01295	gene	dapB		
+LAKMDKJD_01296	CDS			hypothetical protein
+LAKMDKJD_01296	gene			
+LAKMDKJD_01297	CDS		5.4.4.3	3-hydroxylaminophenol mutase
+LAKMDKJD_01297	gene			
+LAKMDKJD_01298	CDS			hypothetical protein
+LAKMDKJD_01298	gene			
+LAKMDKJD_01299	CDS	rplI		50S ribosomal protein L9
+LAKMDKJD_01299	gene	rplI		
+LAKMDKJD_01300	CDS	hslV	3.4.25.2	ATP-dependent protease subunit HslV
+LAKMDKJD_01300	gene	hslV		
+LAKMDKJD_01301	CDS	clpY		ATP-dependent protease ATPase subunit ClpY
+LAKMDKJD_01301	gene	clpY		
+LAKMDKJD_01302	CDS	era_2		GTPase Era
+LAKMDKJD_01302	gene	era_2		
+LAKMDKJD_01303	CDS			hypothetical protein
+LAKMDKJD_01303	gene			
+LAKMDKJD_01304	CDS	hcpB_2	3.5.2.6	Beta-lactamase HcpB
+LAKMDKJD_01304	gene	hcpB_2		
+LAKMDKJD_01305	CDS			hypothetical protein
+LAKMDKJD_01305	gene			
+LAKMDKJD_01306	CDS			hypothetical protein
+LAKMDKJD_01306	gene			
+LAKMDKJD_01307	CDS			hypothetical protein
+LAKMDKJD_01307	gene			
+LAKMDKJD_01308	CDS	traG		Conjugal transfer protein TraG
+LAKMDKJD_01308	gene	traG		
+LAKMDKJD_01309	CDS			Type IV secretion system protein VirB11
+LAKMDKJD_01309	gene			
+LAKMDKJD_01310	CDS			hypothetical protein
+LAKMDKJD_01310	gene			
+LAKMDKJD_01311	CDS			Type IV secretion system protein virB10
+LAKMDKJD_01311	gene			
+LAKMDKJD_01312	CDS			hypothetical protein
+LAKMDKJD_01312	gene			
+LAKMDKJD_01313	tRNA			tRNA-Met(cat)
+LAKMDKJD_01313	gene			
+LAKMDKJD_01314	tRNA			tRNA-Gln(ttg)
+LAKMDKJD_01314	gene			
+LAKMDKJD_01315	CDS	hypD		Hydrogenase isoenzymes formation protein HypD
+LAKMDKJD_01315	gene	hypD		
+LAKMDKJD_01316	CDS	hypC		Hydrogenase isoenzymes formation protein HypC
+LAKMDKJD_01316	gene	hypC		
+LAKMDKJD_01317	CDS	hypB		Hydrogenase/urease nickel incorporation protein HypB
+LAKMDKJD_01317	gene	hypB		
+LAKMDKJD_01318	CDS			hypothetical protein
+LAKMDKJD_01318	gene			
+LAKMDKJD_01319	CDS			hypothetical protein
+LAKMDKJD_01319	gene			
+LAKMDKJD_01320	CDS	ackA_1	2.7.2.1	Acetate kinase
+LAKMDKJD_01320	gene	ackA_1		
+LAKMDKJD_01321	CDS	ackA_2	2.7.2.1	Acetate kinase
+LAKMDKJD_01321	gene	ackA_2		
+LAKMDKJD_01322	CDS	pta_1	2.3.1.8	Phosphate acetyltransferase
+LAKMDKJD_01322	gene	pta_1		
+LAKMDKJD_01323	CDS	pta_2	2.3.1.8	Phosphate acetyltransferase
+LAKMDKJD_01323	gene	pta_2		
+LAKMDKJD_01324	CDS	pta_3	2.3.1.8	Phosphate acetyltransferase
+LAKMDKJD_01324	gene	pta_3		
+LAKMDKJD_01325	CDS			hypothetical protein
+LAKMDKJD_01325	gene			
+LAKMDKJD_01326	CDS			hypothetical protein
+LAKMDKJD_01326	gene			
+LAKMDKJD_01327	CDS	flgD		Basal-body rod modification protein FlgD
+LAKMDKJD_01327	gene	flgD		
+LAKMDKJD_01328	CDS	flgE_2		Flagellar hook protein FlgE
+LAKMDKJD_01328	gene	flgE_2		
+LAKMDKJD_01329	CDS			hypothetical protein
+LAKMDKJD_01329	gene			
+LAKMDKJD_01330	CDS	taqIM	2.1.1.72	Modification methylase TaqI
+LAKMDKJD_01330	gene	taqIM		
+LAKMDKJD_01331	CDS	uvrD	3.6.4.12	DNA helicase II
+LAKMDKJD_01331	gene	uvrD		
+LAKMDKJD_01332	CDS			hypothetical protein
+LAKMDKJD_01332	gene			
+LAKMDKJD_01333	CDS			hypothetical protein
+LAKMDKJD_01333	gene			
+LAKMDKJD_01334	CDS			hypothetical protein
+LAKMDKJD_01334	gene			
+LAKMDKJD_01335	CDS	hemR		Hemin receptor
+LAKMDKJD_01335	gene	hemR		
+LAKMDKJD_01336	CDS	bhuA_2		Heme transporter BhuA
+LAKMDKJD_01336	gene	bhuA_2		
+LAKMDKJD_01337	CDS			hypothetical protein
+LAKMDKJD_01337	gene			
+LAKMDKJD_01338	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+LAKMDKJD_01338	gene	carB		
+LAKMDKJD_01339	CDS	yccA		Modulator of FtsH protease YccA
+LAKMDKJD_01339	gene	yccA		
+LAKMDKJD_01340	CDS	gap1	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase 1
+LAKMDKJD_01340	gene	gap1		
+LAKMDKJD_01341	CDS	vacA_4		Vacuolating cytotoxin autotransporter
+LAKMDKJD_01341	gene	vacA_4		
+LAKMDKJD_01342	CDS	ppsA	2.7.9.2	Phosphoenolpyruvate synthase
+LAKMDKJD_01342	gene	ppsA		
+LAKMDKJD_01343	CDS	thrZ	6.1.1.3	Threonine--tRNA ligase 2
+LAKMDKJD_01343	gene	thrZ		
+LAKMDKJD_01344	CDS	infC		Translation initiation factor IF-3
+LAKMDKJD_01344	gene	infC		
+LAKMDKJD_01345	CDS	rpmI		50S ribosomal protein L35
+LAKMDKJD_01345	gene	rpmI		
+LAKMDKJD_01346	CDS	rplT		50S ribosomal protein L20
+LAKMDKJD_01346	gene	rplT		
+LAKMDKJD_01347	CDS			hypothetical protein
+LAKMDKJD_01347	gene			
+LAKMDKJD_01348	CDS			hypothetical protein
+LAKMDKJD_01348	gene			
+LAKMDKJD_01349	CDS			hypothetical protein
+LAKMDKJD_01349	gene			
+LAKMDKJD_01350	CDS	sdaA	4.3.1.17	L-serine dehydratase 1
+LAKMDKJD_01350	gene	sdaA		
+LAKMDKJD_01351	CDS	sdaC		Serine transporter
+LAKMDKJD_01351	gene	sdaC		
+LAKMDKJD_01352	CDS	aroH	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+LAKMDKJD_01352	gene	aroH		
+LAKMDKJD_01353	CDS			hypothetical protein
+LAKMDKJD_01353	gene			
+LAKMDKJD_01354	CDS	bcp	1.11.1.15	Putative peroxiredoxin bcp
+LAKMDKJD_01354	gene	bcp		
+LAKMDKJD_01355	CDS	lutC		Lactate utilization protein C
+LAKMDKJD_01355	gene	lutC		
+LAKMDKJD_01356	CDS	lutB		Lactate utilization protein B
+LAKMDKJD_01356	gene	lutB		
+LAKMDKJD_01357	CDS	lutA		Lactate utilization protein A
+LAKMDKJD_01357	gene	lutA		
+LAKMDKJD_01358	CDS	lldP_1		L-lactate permease
+LAKMDKJD_01358	gene	lldP_1		
+LAKMDKJD_01359	CDS	lldP_2		L-lactate permease
+LAKMDKJD_01359	gene	lldP_2		
+LAKMDKJD_01360	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+LAKMDKJD_01360	gene	mutY		
+LAKMDKJD_01361	CDS	citT_1		Citrate carrier
+LAKMDKJD_01361	gene	citT_1		
+LAKMDKJD_01362	CDS	citT_2		Citrate carrier
+LAKMDKJD_01362	gene	citT_2		
+LAKMDKJD_01363	CDS	ccoN1	1.9.3.1	Cbb3-type cytochrome c oxidase subunit CcoN1
+LAKMDKJD_01363	gene	ccoN1		
+LAKMDKJD_01364	CDS			hypothetical protein
+LAKMDKJD_01364	gene			
+LAKMDKJD_01365	CDS			hypothetical protein
+LAKMDKJD_01365	gene			
+LAKMDKJD_01366	CDS	ccoP		Cbb3-type cytochrome c oxidase subunit CcoP
+LAKMDKJD_01366	gene	ccoP		
+LAKMDKJD_01367	CDS			hypothetical protein
+LAKMDKJD_01367	gene			
+LAKMDKJD_01368	CDS			hypothetical protein
+LAKMDKJD_01368	gene			
+LAKMDKJD_01369	CDS			hypothetical protein
+LAKMDKJD_01369	gene			
+LAKMDKJD_01370	CDS			hypothetical protein
+LAKMDKJD_01370	gene			
+LAKMDKJD_01371	CDS			hypothetical protein
+LAKMDKJD_01371	gene			
+LAKMDKJD_01372	CDS	mqnD	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+LAKMDKJD_01372	gene	mqnD		
+LAKMDKJD_01373	CDS	recA		Protein RecA
+LAKMDKJD_01373	gene	recA		
+LAKMDKJD_01374	CDS	eno	4.2.1.11	Enolase
+LAKMDKJD_01374	gene	eno		
+LAKMDKJD_01375	CDS			hypothetical protein
+LAKMDKJD_01375	gene			
+LAKMDKJD_01376	CDS			hypothetical protein
+LAKMDKJD_01376	gene			
+LAKMDKJD_01377	CDS	aroK	2.7.1.71	Shikimate kinase
+LAKMDKJD_01377	gene	aroK		
+LAKMDKJD_01378	CDS			hypothetical protein
+LAKMDKJD_01378	gene			
+LAKMDKJD_01379	CDS			hypothetical protein
+LAKMDKJD_01379	gene			
+LAKMDKJD_01380	CDS	fucT_2	2.4.1.152	Alpha-(1,3)-fucosyltransferase FucT
+LAKMDKJD_01380	gene	fucT_2		
+LAKMDKJD_01381	CDS	gdhA	1.4.1.2	NAD(P)-specific glutamate dehydrogenase
+LAKMDKJD_01381	gene	gdhA		
+LAKMDKJD_01382	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+LAKMDKJD_01382	gene	prmC		
+LAKMDKJD_01383	CDS	htpX_2	3.4.24.-	Protease HtpX
+LAKMDKJD_01383	gene	htpX_2		
+LAKMDKJD_01384	CDS			hypothetical protein
+LAKMDKJD_01384	gene			
+LAKMDKJD_01385	CDS			hypothetical protein
+LAKMDKJD_01385	gene			
+LAKMDKJD_01386	CDS			hypothetical protein
+LAKMDKJD_01386	gene			
+LAKMDKJD_01387	CDS			hypothetical protein
+LAKMDKJD_01387	gene			
+LAKMDKJD_01388	CDS			hypothetical protein
+LAKMDKJD_01388	gene			
+LAKMDKJD_01389	CDS	priA	3.6.4.-	Primosomal protein N'
+LAKMDKJD_01389	gene	priA		
+LAKMDKJD_01390	CDS	cmoA	2.1.3.-	Carboxy-S-adenosyl-L-methionine synthase
+LAKMDKJD_01390	gene	cmoA		
+LAKMDKJD_01391	CDS	sodB	1.15.1.1	Superoxide dismutase [Fe]
+LAKMDKJD_01391	gene	sodB		
+LAKMDKJD_01392	CDS	tpx	1.11.1.-	putative thiol peroxidase
+LAKMDKJD_01392	gene	tpx		
+LAKMDKJD_01393	CDS	cheW		Chemotaxis protein CheW
+LAKMDKJD_01393	gene	cheW		
+LAKMDKJD_01394	CDS	cheA	2.7.13.3	Chemotaxis protein CheA
+LAKMDKJD_01394	gene	cheA		
+LAKMDKJD_01395	CDS	cheV_3		Chemotaxis protein CheV
+LAKMDKJD_01395	gene	cheV_3		
+LAKMDKJD_01396	CDS			hypothetical protein
+LAKMDKJD_01396	gene			
+LAKMDKJD_01397	CDS	lpxH	3.6.1.54	UDP-2,3-diacylglucosamine hydrolase
+LAKMDKJD_01397	gene	lpxH		
+LAKMDKJD_01398	CDS			hypothetical protein
+LAKMDKJD_01398	gene			
+LAKMDKJD_01399	CDS	ubiD	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+LAKMDKJD_01399	gene	ubiD		
+LAKMDKJD_01400	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+LAKMDKJD_01400	gene	serA		
+LAKMDKJD_01401	CDS			hypothetical protein
+LAKMDKJD_01401	gene			
+LAKMDKJD_01402	CDS	rpsA		30S ribosomal protein S1
+LAKMDKJD_01402	gene	rpsA		
+LAKMDKJD_01403	CDS	ispH	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+LAKMDKJD_01403	gene	ispH		
+LAKMDKJD_01404	CDS	aroA1	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase 1
+LAKMDKJD_01404	gene	aroA1		
+LAKMDKJD_01405	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+LAKMDKJD_01405	gene	pheT		
+LAKMDKJD_01406	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+LAKMDKJD_01406	gene	pheS		
+LAKMDKJD_01407	CDS			putative HIT-like protein
+LAKMDKJD_01407	gene			
+LAKMDKJD_01408	CDS	csd	2.8.1.7	putative cysteine desulfurase
+LAKMDKJD_01408	gene	csd		
+LAKMDKJD_01409	CDS			hypothetical protein
+LAKMDKJD_01409	gene			
+LAKMDKJD_01410	CDS	dorA	1.7.2.3	Dimethyl sulfoxide/trimethylamine N-oxide reductase
+LAKMDKJD_01410	gene	dorA		
+LAKMDKJD_01411	CDS			hypothetical protein
+LAKMDKJD_01411	gene			
+LAKMDKJD_01412	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+LAKMDKJD_01412	gene	guaA		
+LAKMDKJD_01413	CDS			hypothetical protein
+LAKMDKJD_01413	gene			
+LAKMDKJD_01414	CDS			hypothetical protein
+LAKMDKJD_01414	gene			
+LAKMDKJD_01415	tRNA			tRNA-Pro(tgg)
+LAKMDKJD_01415	gene			
+LAKMDKJD_01416	tRNA			tRNA-His(gtg)
+LAKMDKJD_01416	gene			
+LAKMDKJD_01417	tRNA			tRNA-Arg(tcg)
+LAKMDKJD_01417	gene			
+LAKMDKJD_01418	tRNA			tRNA-Arg(tct)
+LAKMDKJD_01418	gene			
+LAKMDKJD_01419	CDS	queF	1.7.1.13	NADPH-dependent 7-cyano-7-deazaguanine reductase
+LAKMDKJD_01419	gene	queF		
+LAKMDKJD_01420	CDS	rsfS		Ribosomal silencing factor RsfS
+LAKMDKJD_01420	gene	rsfS		
+LAKMDKJD_01421	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+LAKMDKJD_01421	gene	miaA		
+LAKMDKJD_01422	CDS			hypothetical protein
+LAKMDKJD_01422	gene			
+LAKMDKJD_01423	CDS			hypothetical protein
+LAKMDKJD_01423	gene			
+LAKMDKJD_01424	CDS	cptA	2.7.-.-	Phosphoethanolamine transferase CptA
+LAKMDKJD_01424	gene	cptA		
+LAKMDKJD_01425	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+LAKMDKJD_01425	gene	murB		
+LAKMDKJD_01426	CDS			hypothetical protein
+LAKMDKJD_01426	gene			
+LAKMDKJD_01427	CDS	fliI	3.6.3.14	Flagellum-specific ATP synthase
+LAKMDKJD_01427	gene	fliI		
+LAKMDKJD_01428	CDS	ptlH		Type IV secretion system protein PtlH
+LAKMDKJD_01428	gene	ptlH		
+LAKMDKJD_01429	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+LAKMDKJD_01429	gene	ileS		
+LAKMDKJD_01430	CDS			hypothetical protein
+LAKMDKJD_01430	gene			
+LAKMDKJD_01431	CDS			hypothetical protein
+LAKMDKJD_01431	gene			
+LAKMDKJD_01432	CDS			hypothetical protein
+LAKMDKJD_01432	gene			
+LAKMDKJD_01433	CDS			hypothetical protein
+LAKMDKJD_01433	gene			
+LAKMDKJD_01434	CDS			hypothetical protein
+LAKMDKJD_01434	gene			
+LAKMDKJD_01435	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+LAKMDKJD_01435	gene	rlmN		
+LAKMDKJD_01436	CDS	kdsD	5.3.1.13	Arabinose 5-phosphate isomerase KdsD
+LAKMDKJD_01436	gene	kdsD		
+LAKMDKJD_01437	CDS	rnj	3.1.-.-	Ribonuclease J
+LAKMDKJD_01437	gene	rnj		
+LAKMDKJD_01438	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+LAKMDKJD_01438	gene	rsmA		
+LAKMDKJD_01439	CDS			hypothetical protein
+LAKMDKJD_01439	gene			
+LAKMDKJD_01440	CDS			hypothetical protein
+LAKMDKJD_01440	gene			
+LAKMDKJD_01441	CDS	purU	3.5.1.10	Formyltetrahydrofolate deformylase
+LAKMDKJD_01441	gene	purU		
+LAKMDKJD_01442	CDS	sppA	3.4.21.-	Putative signal peptide peptidase SppA
+LAKMDKJD_01442	gene	sppA		
+LAKMDKJD_01443	CDS			hypothetical protein
+LAKMDKJD_01443	gene			
+LAKMDKJD_01444	CDS			hypothetical protein
+LAKMDKJD_01444	gene			
+LAKMDKJD_01445	CDS			hypothetical protein
+LAKMDKJD_01445	gene			
+LAKMDKJD_01446	CDS			hypothetical protein
+LAKMDKJD_01446	gene			
+LAKMDKJD_01447	CDS	copA_2	3.6.3.54	Copper-exporting P-type ATPase A
+LAKMDKJD_01447	gene	copA_2		
+LAKMDKJD_01448	CDS	copA_3	3.6.3.54	Copper-exporting P-type ATPase A
+LAKMDKJD_01448	gene	copA_3		
+LAKMDKJD_01449	CDS	copP		COP-associated protein
+LAKMDKJD_01449	gene	copP		
+LAKMDKJD_01450	CDS			hypothetical protein
+LAKMDKJD_01450	gene			
+LAKMDKJD_01451	CDS			hypothetical protein
+LAKMDKJD_01451	gene			
+LAKMDKJD_01452	CDS			hypothetical protein
+LAKMDKJD_01452	gene			
+LAKMDKJD_01453	CDS	nixA		High-affinity nickel-transport protein NixA
+LAKMDKJD_01453	gene	nixA		
+LAKMDKJD_01454	CDS			hypothetical protein
+LAKMDKJD_01454	gene			
+LAKMDKJD_01455	CDS		3.6.1.-	ATP/GTP phosphatase
+LAKMDKJD_01455	gene			
+LAKMDKJD_01456	CDS			hypothetical protein
+LAKMDKJD_01456	gene			
+LAKMDKJD_01457	CDS			hypothetical protein
+LAKMDKJD_01457	gene			
+LAKMDKJD_01458	CDS	msbA	3.6.3.-	Lipid A export ATP-binding/permease protein MsbA
+LAKMDKJD_01458	gene	msbA		
+LAKMDKJD_01459	CDS			hypothetical protein
+LAKMDKJD_01459	gene			
+LAKMDKJD_01460	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+LAKMDKJD_01460	gene	pyrB		
+LAKMDKJD_01461	CDS			hypothetical protein
+LAKMDKJD_01461	gene			
+LAKMDKJD_01462	CDS	tlyA	2.1.1.226	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+LAKMDKJD_01462	gene	tlyA		
+LAKMDKJD_01463	CDS	ribF		Riboflavin biosynthesis protein RibF
+LAKMDKJD_01463	gene	ribF		
+LAKMDKJD_01464	CDS	tkt	2.2.1.1	Transketolase
+LAKMDKJD_01464	gene	tkt		
+LAKMDKJD_01465	CDS			hypothetical protein
+LAKMDKJD_01465	gene			
+LAKMDKJD_01466	CDS	spoIIIE		DNA translocase SpoIIIE
+LAKMDKJD_01466	gene	spoIIIE		
+LAKMDKJD_01467	CDS	kgtP		Alpha-ketoglutarate permease
+LAKMDKJD_01467	gene	kgtP		
+LAKMDKJD_01468	CDS	flgG_2		Flagellar basal-body rod protein FlgG
+LAKMDKJD_01468	gene	flgG_2		
+LAKMDKJD_01469	CDS	esiB		Secretory immunoglobulin A-binding protein EsiB
+LAKMDKJD_01469	gene	esiB		
+LAKMDKJD_01470	CDS	ggt	2.3.2.2	Gamma-glutamyltranspeptidase
+LAKMDKJD_01470	gene	ggt		
+LAKMDKJD_01471	CDS	flgK		Flagellar hook-associated protein 1
+LAKMDKJD_01471	gene	flgK		
+LAKMDKJD_01472	CDS			hypothetical protein
+LAKMDKJD_01472	gene			
+LAKMDKJD_01473	CDS	hhaIM	2.1.1.37	Modification methylase HhaI
+LAKMDKJD_01473	gene	hhaIM		
+LAKMDKJD_01474	CDS			hypothetical protein
+LAKMDKJD_01474	gene			
+LAKMDKJD_01475	CDS			hypothetical protein
+LAKMDKJD_01475	gene			
+LAKMDKJD_01476	CDS	slyD	5.2.1.8	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+LAKMDKJD_01476	gene	slyD		
+LAKMDKJD_01477	CDS			hypothetical protein
+LAKMDKJD_01477	gene			
+LAKMDKJD_01478	CDS	pal		Outer membrane protein P6
+LAKMDKJD_01478	gene	pal		
+LAKMDKJD_01479	CDS	tolB		Protein TolB
+LAKMDKJD_01479	gene	tolB		
+LAKMDKJD_01480	CDS			hypothetical protein
+LAKMDKJD_01480	gene			
+LAKMDKJD_01481	CDS	exbD_3		Biopolymer transport protein ExbD
+LAKMDKJD_01481	gene	exbD_3		
+LAKMDKJD_01482	CDS	exbB_3		Biopolymer transport protein ExbB
+LAKMDKJD_01482	gene	exbB_3		
+LAKMDKJD_01483	CDS			hypothetical protein
+LAKMDKJD_01483	gene			
+LAKMDKJD_01484	CDS	atpC		ATP synthase epsilon chain
+LAKMDKJD_01484	gene	atpC		
+LAKMDKJD_01485	CDS	atpD_1	3.6.3.14	ATP synthase subunit beta
+LAKMDKJD_01485	gene	atpD_1		
+LAKMDKJD_01486	CDS	atpG		ATP synthase gamma chain
+LAKMDKJD_01486	gene	atpG		
+LAKMDKJD_01487	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+LAKMDKJD_01487	gene	atpA		
+LAKMDKJD_01488	CDS	atpD_2		ATP synthase subunit delta
+LAKMDKJD_01488	gene	atpD_2		
+LAKMDKJD_01489	CDS	atpF_1		ATP synthase subunit b
+LAKMDKJD_01489	gene	atpF_1		
+LAKMDKJD_01490	CDS	atpF_2		ATP synthase subunit b, sodium ion specific
+LAKMDKJD_01490	gene	atpF_2		
+LAKMDKJD_01491	CDS	parB		putative chromosome-partitioning protein ParB
+LAKMDKJD_01491	gene	parB		
+LAKMDKJD_01492	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+LAKMDKJD_01492	gene	soj		
+LAKMDKJD_01493	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+LAKMDKJD_01493	gene	birA		
+LAKMDKJD_01494	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+LAKMDKJD_01494	gene	fmt		
+LAKMDKJD_01495	CDS	smc_3		Chromosome partition protein Smc
+LAKMDKJD_01495	gene	smc_3		
+LAKMDKJD_01496	CDS			hypothetical protein
+LAKMDKJD_01496	gene			
+LAKMDKJD_01497	CDS			hypothetical protein
+LAKMDKJD_01497	gene			
+LAKMDKJD_01498	CDS	uvrB		UvrABC system protein B
+LAKMDKJD_01498	gene	uvrB		
+LAKMDKJD_01499	CDS			hypothetical protein
+LAKMDKJD_01499	gene			
+LAKMDKJD_01500	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+LAKMDKJD_01500	gene	purB		
+LAKMDKJD_01501	CDS	porB	1.2.7.1	Pyruvate synthase subunit PorB
+LAKMDKJD_01501	gene	porB		
+LAKMDKJD_01502	CDS	porA	1.2.7.1	Pyruvate synthase subunit PorA
+LAKMDKJD_01502	gene	porA		
+LAKMDKJD_01503	CDS	porD		Pyruvate synthase subunit PorD
+LAKMDKJD_01503	gene	porD		
+LAKMDKJD_01504	CDS	porC	1.2.7.1	Pyruvate synthase subunit PorC
+LAKMDKJD_01504	gene	porC		
+LAKMDKJD_01505	CDS			hypothetical protein
+LAKMDKJD_01505	gene			
+LAKMDKJD_01506	CDS			hypothetical protein
+LAKMDKJD_01506	gene			
+LAKMDKJD_01507	CDS			hypothetical protein
+LAKMDKJD_01507	gene			
+LAKMDKJD_01508	CDS	adhA	1.1.1.-	putative formaldehyde dehydrogenase AdhA
+LAKMDKJD_01508	gene	adhA		
+LAKMDKJD_01509	CDS	glk	2.7.1.2	Glucokinase
+LAKMDKJD_01509	gene	glk		
+LAKMDKJD_01510	CDS	pgl	3.1.1.31	6-phosphogluconolactonase
+LAKMDKJD_01510	gene	pgl		
+LAKMDKJD_01511	CDS	zwf	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase
+LAKMDKJD_01511	gene	zwf		
+LAKMDKJD_01512	CDS	edd	4.2.1.12	Phosphogluconate dehydratase
+LAKMDKJD_01512	gene	edd		
+LAKMDKJD_01513	CDS	eda		KHG/KDPG aldolase
+LAKMDKJD_01513	gene	eda		
+LAKMDKJD_01514	CDS	hcpC_2	3.5.2.6	Putative beta-lactamase HcpC
+LAKMDKJD_01514	gene	hcpC_2		
+LAKMDKJD_01515	CDS			hypothetical protein
+LAKMDKJD_01515	gene			
+LAKMDKJD_01516	CDS			hypothetical protein
+LAKMDKJD_01516	gene			
+LAKMDKJD_01517	CDS	glpC		Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+LAKMDKJD_01517	gene	glpC		
+LAKMDKJD_01518	CDS	hemN_2	1.3.98.3	Oxygen-independent coproporphyrinogen III oxidase
+LAKMDKJD_01518	gene	hemN_2		
+LAKMDKJD_01519	CDS			hypothetical protein
+LAKMDKJD_01519	gene			
+LAKMDKJD_01520	CDS	aroC	4.2.3.5	Chorismate synthase
+LAKMDKJD_01520	gene	aroC		
+LAKMDKJD_01521	CDS	rnc	3.1.26.3	Ribonuclease 3
+LAKMDKJD_01521	gene	rnc		
+LAKMDKJD_01522	CDS	rnhA	3.1.26.4	Ribonuclease HI
+LAKMDKJD_01522	gene	rnhA		
+LAKMDKJD_01523	CDS	lapB		Lipopolysaccharide assembly protein B
+LAKMDKJD_01523	gene	lapB		
+LAKMDKJD_01524	CDS	surA	5.2.1.8	Chaperone SurA
+LAKMDKJD_01524	gene	surA		
+LAKMDKJD_01525	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+LAKMDKJD_01525	gene	gatB		
+LAKMDKJD_01526	CDS		3.4.24.-	putative zinc protease
+LAKMDKJD_01526	gene			
+LAKMDKJD_01527	CDS	mqnC	1.21.98.1	Cyclic dehypoxanthine futalosine synthase
+LAKMDKJD_01527	gene	mqnC		
+LAKMDKJD_01528	CDS	bamA		Outer membrane protein assembly factor BamA
+LAKMDKJD_01528	gene	bamA		
+LAKMDKJD_01529	CDS	mqnE	2.5.1.120	Aminodeoxyfutalosine synthase
+LAKMDKJD_01529	gene	mqnE		
+LAKMDKJD_01530	CDS	ftnA	1.16.3.2	Bacterial non-heme ferritin
+LAKMDKJD_01530	gene	ftnA		
+LAKMDKJD_01531	CDS	SERB	3.1.3.3	Phosphoserine phosphatase
+LAKMDKJD_01531	gene	SERB		
+LAKMDKJD_01532	CDS			hypothetical protein
+LAKMDKJD_01532	gene			
+LAKMDKJD_01533	CDS			hypothetical protein
+LAKMDKJD_01533	gene			
+LAKMDKJD_01534	CDS	srpA	1.11.1.-	Catalase-related peroxidase
+LAKMDKJD_01534	gene	srpA		
+LAKMDKJD_01535	CDS			hypothetical protein
+LAKMDKJD_01535	gene			
+LAKMDKJD_01536	CDS			hypothetical protein
+LAKMDKJD_01536	gene			
+LAKMDKJD_01537	CDS			hypothetical protein
+LAKMDKJD_01537	gene			
+LAKMDKJD_01538	CDS	ydiO	2.1.1.37	putative BsuMI modification methylase subunit YdiO
+LAKMDKJD_01538	gene	ydiO		
+LAKMDKJD_01539	CDS			hypothetical protein
+LAKMDKJD_01539	gene			
+LAKMDKJD_01540	CDS			hypothetical protein
+LAKMDKJD_01540	gene			
+LAKMDKJD_01541	CDS			hypothetical protein
+LAKMDKJD_01541	gene			
+LAKMDKJD_01542	CDS			hypothetical protein
+LAKMDKJD_01542	gene			
+LAKMDKJD_01543	CDS	typA		GTP-binding protein TypA/BipA
+LAKMDKJD_01543	gene	typA		
+LAKMDKJD_01544	CDS			hypothetical protein
+LAKMDKJD_01544	gene			
+LAKMDKJD_01545	CDS	vspIM	2.1.1.72	Modification methylase VspI
+LAKMDKJD_01545	gene	vspIM		
+LAKMDKJD_01546	CDS	speA	4.1.1.19	Biosynthetic arginine decarboxylase
+LAKMDKJD_01546	gene	speA		
+LAKMDKJD_01547	CDS	mgtA	2.4.1.-	GDP-mannose-dependent alpha-mannosyltransferase
+LAKMDKJD_01547	gene	mgtA		
+LAKMDKJD_01548	CDS			hypothetical protein
+LAKMDKJD_01548	gene			
+LAKMDKJD_01549	CDS	cmoB	2.5.1.-	tRNA U34 carboxymethyltransferase
+LAKMDKJD_01549	gene	cmoB		
+LAKMDKJD_01550	CDS			hypothetical protein
+LAKMDKJD_01550	gene			
+LAKMDKJD_01551	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+LAKMDKJD_01551	gene	metG		
+LAKMDKJD_01552	CDS	cfa	2.1.1.79	Cyclopropane-fatty-acyl-phospholipid synthase
+LAKMDKJD_01552	gene	cfa		
+LAKMDKJD_01553	CDS	ynaI		Low conductance mechanosensitive channel YnaI
+LAKMDKJD_01553	gene	ynaI		
+LAKMDKJD_01554	CDS			hypothetical protein
+LAKMDKJD_01554	gene			
+LAKMDKJD_01555	CDS			hypothetical protein
+LAKMDKJD_01555	gene			
+LAKMDKJD_01556	CDS			hypothetical protein
+LAKMDKJD_01556	gene			
+LAKMDKJD_01557	CDS			hypothetical protein
+LAKMDKJD_01557	gene			
+LAKMDKJD_01558	CDS			hypothetical protein
+LAKMDKJD_01558	gene			
+LAKMDKJD_01559	CDS	xerH_2		Tyrosine recombinase XerH
+LAKMDKJD_01559	gene	xerH_2		
+LAKMDKJD_01560	CDS	ctkA	2.7.11.1	Serine/threonine-protein kinase CtkA
+LAKMDKJD_01560	gene	ctkA		
+LAKMDKJD_01561	CDS			hypothetical protein
+LAKMDKJD_01561	gene			
+LAKMDKJD_01562	CDS			hypothetical protein
+LAKMDKJD_01562	gene			
+LAKMDKJD_01563	CDS			hypothetical protein
+LAKMDKJD_01563	gene			
+LAKMDKJD_01564	CDS			hypothetical protein
+LAKMDKJD_01564	gene			
+LAKMDKJD_01565	CDS	rpsR		30S ribosomal protein S18
+LAKMDKJD_01565	gene	rpsR		
+LAKMDKJD_01566	CDS	ssb		Single-stranded DNA-binding protein
+LAKMDKJD_01566	gene	ssb		
+LAKMDKJD_01567	CDS	rpsF		30S ribosomal protein S6
+LAKMDKJD_01567	gene	rpsF		
+LAKMDKJD_01568	CDS			hypothetical protein
+LAKMDKJD_01568	gene			
+LAKMDKJD_01569	CDS	rnr	3.1.13.1	Ribonuclease R
+LAKMDKJD_01569	gene	rnr		
+LAKMDKJD_01570	CDS			hypothetical protein
+LAKMDKJD_01570	gene			
+LAKMDKJD_01571	CDS			hypothetical protein
+LAKMDKJD_01571	gene			
+LAKMDKJD_01572	CDS			hypothetical protein
+LAKMDKJD_01572	gene			
+LAKMDKJD_01573	CDS			hypothetical protein
+LAKMDKJD_01573	gene			
+LAKMDKJD_01574	CDS	mscS		Small-conductance mechanosensitive channel
+LAKMDKJD_01574	gene	mscS		
+LAKMDKJD_01575	CDS			hypothetical protein
+LAKMDKJD_01575	gene			
+LAKMDKJD_01576	CDS			hypothetical protein
+LAKMDKJD_01576	gene			
+LAKMDKJD_01577	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+LAKMDKJD_01577	gene	recD2		
+LAKMDKJD_01578	CDS			hypothetical protein
+LAKMDKJD_01578	gene			
+LAKMDKJD_01579	CDS			hypothetical protein
+LAKMDKJD_01579	gene			
+LAKMDKJD_01580	CDS			hypothetical protein
+LAKMDKJD_01580	gene			
+LAKMDKJD_01581	CDS			hypothetical protein
+LAKMDKJD_01581	gene			
+LAKMDKJD_01582	CDS			hypothetical protein
+LAKMDKJD_01582	gene			
+LAKMDKJD_01583	CDS			hypothetical protein
+LAKMDKJD_01583	gene			
+LAKMDKJD_01584	CDS			hypothetical protein
+LAKMDKJD_01584	gene			
+LAKMDKJD_01585	CDS			hypothetical protein
+LAKMDKJD_01585	gene			
+LAKMDKJD_01586	CDS			hypothetical protein
+LAKMDKJD_01586	gene			
+LAKMDKJD_01587	CDS	ansA	3.5.1.1	putative L-asparaginase
+LAKMDKJD_01587	gene	ansA		
+LAKMDKJD_01588	CDS	dcuA		Anaerobic C4-dicarboxylate transporter DcuA
+LAKMDKJD_01588	gene	dcuA		
+LAKMDKJD_01589	CDS			hypothetical protein
+LAKMDKJD_01589	gene			
+LAKMDKJD_01590	CDS			hypothetical protein
+LAKMDKJD_01590	gene			
+LAKMDKJD_01591	CDS			hypothetical protein
+LAKMDKJD_01591	gene			
+LAKMDKJD_01592	CDS			hypothetical protein
+LAKMDKJD_01592	gene			
+LAKMDKJD_01593	CDS			hypothetical protein
+LAKMDKJD_01593	gene			
+LAKMDKJD_01594	CDS			hypothetical protein
+LAKMDKJD_01594	gene			
+LAKMDKJD_01595	CDS			hypothetical protein
+LAKMDKJD_01595	gene			
+LAKMDKJD_01596	CDS			hypothetical protein
+LAKMDKJD_01596	gene			
+LAKMDKJD_01597	CDS			hypothetical protein
+LAKMDKJD_01597	gene			

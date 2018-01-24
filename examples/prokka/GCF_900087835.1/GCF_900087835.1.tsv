@@ -1,0 +1,3127 @@
+locus_tag	ftype	gene	EC_number	product
+NDKHHKNJ_00001	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+NDKHHKNJ_00001	gene	gltX		
+NDKHHKNJ_00002	CDS	potA	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+NDKHHKNJ_00002	gene	potA		
+NDKHHKNJ_00003	CDS	modB		Molybdenum transport system permease protein ModB
+NDKHHKNJ_00003	gene	modB		
+NDKHHKNJ_00004	CDS	modA		Molybdate-binding periplasmic protein
+NDKHHKNJ_00004	gene	modA		
+NDKHHKNJ_00005	CDS			hypothetical protein
+NDKHHKNJ_00005	gene			
+NDKHHKNJ_00006	CDS	kefC		Glutathione-regulated potassium-efflux system protein KefC
+NDKHHKNJ_00006	gene	kefC		
+NDKHHKNJ_00007	CDS	pepF1	3.4.24.-	Oligoendopeptidase F, plasmid
+NDKHHKNJ_00007	gene	pepF1		
+NDKHHKNJ_00008	CDS			hypothetical protein
+NDKHHKNJ_00008	gene			
+NDKHHKNJ_00009	CDS			hypothetical protein
+NDKHHKNJ_00009	gene			
+NDKHHKNJ_00010	CDS			hypothetical protein
+NDKHHKNJ_00010	gene			
+NDKHHKNJ_00011	CDS			hypothetical protein
+NDKHHKNJ_00011	gene			
+NDKHHKNJ_00012	CDS			hypothetical protein
+NDKHHKNJ_00012	gene			
+NDKHHKNJ_00013	CDS			hypothetical protein
+NDKHHKNJ_00013	gene			
+NDKHHKNJ_00014	CDS	hsdR_1	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+NDKHHKNJ_00014	gene	hsdR_1		
+NDKHHKNJ_00015	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+NDKHHKNJ_00015	gene			
+NDKHHKNJ_00016	CDS			hypothetical protein
+NDKHHKNJ_00016	gene			
+NDKHHKNJ_00017	CDS			Type IV secretion system protein virB10
+NDKHHKNJ_00017	gene			
+NDKHHKNJ_00018	CDS			hypothetical protein
+NDKHHKNJ_00018	gene			
+NDKHHKNJ_00019	CDS			Type IV secretion system protein VirB11
+NDKHHKNJ_00019	gene			
+NDKHHKNJ_00020	CDS	traG		Conjugal transfer protein TraG
+NDKHHKNJ_00020	gene	traG		
+NDKHHKNJ_00021	CDS			hypothetical protein
+NDKHHKNJ_00021	gene			
+NDKHHKNJ_00022	CDS			hypothetical protein
+NDKHHKNJ_00022	gene			
+NDKHHKNJ_00023	CDS			hypothetical protein
+NDKHHKNJ_00023	gene			
+NDKHHKNJ_00024	CDS	hcpB_1	3.5.2.6	Beta-lactamase HcpB
+NDKHHKNJ_00024	gene	hcpB_1		
+NDKHHKNJ_00025	CDS			hypothetical protein
+NDKHHKNJ_00025	gene			
+NDKHHKNJ_00026	CDS	era_1		GTPase Era
+NDKHHKNJ_00026	gene	era_1		
+NDKHHKNJ_00027	CDS	clpY		ATP-dependent protease ATPase subunit ClpY
+NDKHHKNJ_00027	gene	clpY		
+NDKHHKNJ_00028	CDS	hslV	3.4.25.2	ATP-dependent protease subunit HslV
+NDKHHKNJ_00028	gene	hslV		
+NDKHHKNJ_00029	CDS	rplI		50S ribosomal protein L9
+NDKHHKNJ_00029	gene	rplI		
+NDKHHKNJ_00030	CDS			hypothetical protein
+NDKHHKNJ_00030	gene			
+NDKHHKNJ_00031	CDS			hypothetical protein
+NDKHHKNJ_00031	gene			
+NDKHHKNJ_00032	CDS		5.4.4.3	3-hydroxylaminophenol mutase
+NDKHHKNJ_00032	gene			
+NDKHHKNJ_00033	CDS			hypothetical protein
+NDKHHKNJ_00033	gene			
+NDKHHKNJ_00034	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+NDKHHKNJ_00034	gene	dapB		
+NDKHHKNJ_00035	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+NDKHHKNJ_00035	gene			
+NDKHHKNJ_00036	CDS	pgbA		Plasminogen-binding protein PgbA
+NDKHHKNJ_00036	gene	pgbA		
+NDKHHKNJ_00037	CDS	nudK	3.6.1.-	GDP-mannose pyrophosphatase NudK
+NDKHHKNJ_00037	gene	nudK		
+NDKHHKNJ_00038	CDS	mepM_1	3.4.24.-	Murein DD-endopeptidase MepM
+NDKHHKNJ_00038	gene	mepM_1		
+NDKHHKNJ_00039	CDS			hypothetical protein
+NDKHHKNJ_00039	gene			
+NDKHHKNJ_00040	CDS			hypothetical protein
+NDKHHKNJ_00040	gene			
+NDKHHKNJ_00041	CDS			hypothetical protein
+NDKHHKNJ_00041	gene			
+NDKHHKNJ_00042	CDS			hypothetical protein
+NDKHHKNJ_00042	gene			
+NDKHHKNJ_00043	CDS	gyrB	5.99.1.3	Type 2 topoisomerase subunit B
+NDKHHKNJ_00043	gene	gyrB		
+NDKHHKNJ_00044	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+NDKHHKNJ_00044	gene	dnaN		
+NDKHHKNJ_00045	CDS	pldA	3.1.1.32	Phospholipase A1
+NDKHHKNJ_00045	gene	pldA		
+NDKHHKNJ_00046	CDS			hypothetical protein
+NDKHHKNJ_00046	gene			
+NDKHHKNJ_00047	CDS			hypothetical protein
+NDKHHKNJ_00047	gene			
+NDKHHKNJ_00048	CDS	ybgC	3.1.2.-	Acyl-CoA thioesterase YbgC
+NDKHHKNJ_00048	gene	ybgC		
+NDKHHKNJ_00049	CDS			hypothetical protein
+NDKHHKNJ_00049	gene			
+NDKHHKNJ_00050	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+NDKHHKNJ_00050	gene	murD		
+NDKHHKNJ_00051	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+NDKHHKNJ_00051	gene	mraY		
+NDKHHKNJ_00052	CDS			hypothetical protein
+NDKHHKNJ_00052	gene			
+NDKHHKNJ_00053	CDS	rpmB		50S ribosomal protein L28
+NDKHHKNJ_00053	gene	rpmB		
+NDKHHKNJ_00054	CDS	kch		Voltage-gated potassium channel Kch
+NDKHHKNJ_00054	gene	kch		
+NDKHHKNJ_00055	CDS	ppiB	5.2.1.8	Peptidyl-prolyl cis-trans isomerase B
+NDKHHKNJ_00055	gene	ppiB		
+NDKHHKNJ_00056	CDS	csrA		Carbon storage regulator 
+NDKHHKNJ_00056	gene	csrA		
+NDKHHKNJ_00057	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+NDKHHKNJ_00057	gene	ispE		
+NDKHHKNJ_00058	CDS	smpB		SsrA-binding protein
+NDKHHKNJ_00058	gene	smpB		
+NDKHHKNJ_00059	CDS	exbB_1		Biopolymer transport protein ExbB
+NDKHHKNJ_00059	gene	exbB_1		
+NDKHHKNJ_00060	CDS	exbD_1		Biopolymer transport protein ExbD
+NDKHHKNJ_00060	gene	exbD_1		
+NDKHHKNJ_00061	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+NDKHHKNJ_00061	gene	rnpA		
+NDKHHKNJ_00062	CDS	yidC		Membrane protein insertase YidC
+NDKHHKNJ_00062	gene	yidC		
+NDKHHKNJ_00063	CDS			hypothetical protein
+NDKHHKNJ_00063	gene			
+NDKHHKNJ_00064	CDS	mnmE	3.6.5.-	tRNA modification GTPase MnmE
+NDKHHKNJ_00064	gene	mnmE		
+NDKHHKNJ_00065	CDS			hypothetical protein
+NDKHHKNJ_00065	gene			
+NDKHHKNJ_00066	CDS			hypothetical protein
+NDKHHKNJ_00066	gene			
+NDKHHKNJ_00067	CDS			hypothetical protein
+NDKHHKNJ_00067	gene			
+NDKHHKNJ_00068	CDS			LPP20 lipoprotein
+NDKHHKNJ_00068	gene			
+NDKHHKNJ_00069	CDS			hypothetical protein
+NDKHHKNJ_00069	gene			
+NDKHHKNJ_00070	CDS	trxA_1		Thioredoxin
+NDKHHKNJ_00070	gene	trxA_1		
+NDKHHKNJ_00071	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+NDKHHKNJ_00071	gene	rluB		
+NDKHHKNJ_00072	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+NDKHHKNJ_00072	gene	dnaE		
+NDKHHKNJ_00073	CDS	ccpA	1.11.1.5	Cytochrome c551 peroxidase
+NDKHHKNJ_00073	gene	ccpA		
+NDKHHKNJ_00074	CDS			hypothetical protein
+NDKHHKNJ_00074	gene			
+NDKHHKNJ_00075	CDS			hypothetical protein
+NDKHHKNJ_00075	gene			
+NDKHHKNJ_00076	CDS			hypothetical protein
+NDKHHKNJ_00076	gene			
+NDKHHKNJ_00077	CDS	metN2	3.6.3.-	Methionine import ATP-binding protein MetN 2
+NDKHHKNJ_00077	gene	metN2		
+NDKHHKNJ_00078	CDS	mlaE		putative phospholipid ABC transporter permease protein MlaE
+NDKHHKNJ_00078	gene	mlaE		
+NDKHHKNJ_00079	CDS			hypothetical protein
+NDKHHKNJ_00079	gene			
+NDKHHKNJ_00080	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid transaminase 1
+NDKHHKNJ_00080	gene	ilvE		
+NDKHHKNJ_00081	CDS			hypothetical protein
+NDKHHKNJ_00081	gene			
+NDKHHKNJ_00082	CDS	polA	2.7.7.7	DNA polymerase I
+NDKHHKNJ_00082	gene	polA		
+NDKHHKNJ_00083	CDS			hypothetical protein
+NDKHHKNJ_00083	gene			
+NDKHHKNJ_00084	CDS	bcgIB	3.1.21.-	Restriction enzyme BgcI subunit beta
+NDKHHKNJ_00084	gene	bcgIB		
+NDKHHKNJ_00085	CDS	bcgIA	3.1.21.-	Restriction enzyme BgcI subunit alpha
+NDKHHKNJ_00085	gene	bcgIA		
+NDKHHKNJ_00086	CDS			hypothetical protein
+NDKHHKNJ_00086	gene			
+NDKHHKNJ_00087	CDS	tmk	2.7.4.9	Thymidylate kinase
+NDKHHKNJ_00087	gene	tmk		
+NDKHHKNJ_00088	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+NDKHHKNJ_00088	gene	coaD		
+NDKHHKNJ_00089	CDS	ubiX	2.5.1.129	Flavin prenyltransferase UbiX
+NDKHHKNJ_00089	gene	ubiX		
+NDKHHKNJ_00090	CDS			hypothetical protein
+NDKHHKNJ_00090	gene			
+NDKHHKNJ_00091	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+NDKHHKNJ_00091	gene	pcrA		
+NDKHHKNJ_00092	CDS			hypothetical protein
+NDKHHKNJ_00092	gene			
+NDKHHKNJ_00093	CDS	serS	6.1.1.11	Serine--tRNA ligase
+NDKHHKNJ_00093	gene	serS		
+NDKHHKNJ_00094	CDS			hypothetical protein
+NDKHHKNJ_00094	gene			
+NDKHHKNJ_00095	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+NDKHHKNJ_00095	gene	xseB		
+NDKHHKNJ_00096	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+NDKHHKNJ_00096	gene	menG		
+NDKHHKNJ_00097	CDS			hypothetical protein
+NDKHHKNJ_00097	gene			
+NDKHHKNJ_00098	CDS	yigZ		IMPACT family member YigZ
+NDKHHKNJ_00098	gene	yigZ		
+NDKHHKNJ_00099	CDS	ybhS		Inner membrane transport permease YbhS
+NDKHHKNJ_00099	gene	ybhS		
+NDKHHKNJ_00100	CDS			hypothetical protein
+NDKHHKNJ_00100	gene			
+NDKHHKNJ_00101	CDS	mdtN		Multidrug resistance protein MdtN
+NDKHHKNJ_00101	gene	mdtN		
+NDKHHKNJ_00102	CDS			hypothetical protein
+NDKHHKNJ_00102	gene			
+NDKHHKNJ_00103	CDS	corC		Magnesium and cobalt efflux protein CorC
+NDKHHKNJ_00103	gene	corC		
+NDKHHKNJ_00104	CDS	cysP		Sulfate permease CysP
+NDKHHKNJ_00104	gene	cysP		
+NDKHHKNJ_00105	CDS	nfuA		Fe/S biogenesis protein NfuA
+NDKHHKNJ_00105	gene	nfuA		
+NDKHHKNJ_00106	CDS			hypothetical protein
+NDKHHKNJ_00106	gene			
+NDKHHKNJ_00107	CDS	murE	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+NDKHHKNJ_00107	gene	murE		
+NDKHHKNJ_00108	CDS	tal	2.2.1.2	Transaldolase
+NDKHHKNJ_00108	gene	tal		
+NDKHHKNJ_00109	CDS	rplY		50S ribosomal protein L25
+NDKHHKNJ_00109	gene	rplY		
+NDKHHKNJ_00110	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+NDKHHKNJ_00110	gene	pth		
+NDKHHKNJ_00111	CDS			hypothetical protein
+NDKHHKNJ_00111	gene			
+NDKHHKNJ_00112	CDS			hypothetical protein
+NDKHHKNJ_00112	gene			
+NDKHHKNJ_00113	CDS			hypothetical protein
+NDKHHKNJ_00113	gene			
+NDKHHKNJ_00114	CDS			hypothetical protein
+NDKHHKNJ_00114	gene			
+NDKHHKNJ_00115	CDS	copA_1	3.6.3.54	Copper-exporting P-type ATPase A
+NDKHHKNJ_00115	gene	copA_1		
+NDKHHKNJ_00116	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+NDKHHKNJ_00116	gene	yfiC		
+NDKHHKNJ_00117	CDS	ribD		Riboflavin biosynthesis protein RibD
+NDKHHKNJ_00117	gene	ribD		
+NDKHHKNJ_00118	CDS	gltS		Sodium/glutamate symporter
+NDKHHKNJ_00118	gene	gltS		
+NDKHHKNJ_00119	CDS		1.5.1.43	Carboxynorspermidine synthase
+NDKHHKNJ_00119	gene			
+NDKHHKNJ_00120	CDS	yccM		Putative electron transport protein YccM
+NDKHHKNJ_00120	gene	yccM		
+NDKHHKNJ_00121	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+NDKHHKNJ_00121	gene	plsY		
+NDKHHKNJ_00122	CDS			hypothetical protein
+NDKHHKNJ_00122	gene			
+NDKHHKNJ_00123	CDS			hypothetical protein
+NDKHHKNJ_00123	gene			
+NDKHHKNJ_00124	CDS	bhuA_1		Heme transporter BhuA
+NDKHHKNJ_00124	gene	bhuA_1		
+NDKHHKNJ_00125	CDS	selA	2.9.1.1	L-seryl-tRNA(Sec) selenium transferase
+NDKHHKNJ_00125	gene	selA		
+NDKHHKNJ_00126	CDS	nusA		Transcription termination/antitermination protein NusA
+NDKHHKNJ_00126	gene	nusA		
+NDKHHKNJ_00127	CDS			hypothetical protein
+NDKHHKNJ_00127	gene			
+NDKHHKNJ_00128	CDS	paeR7IM	2.1.1.72	Modification methylase PaeR7I
+NDKHHKNJ_00128	gene	paeR7IM		
+NDKHHKNJ_00129	CDS			hypothetical protein
+NDKHHKNJ_00129	gene			
+NDKHHKNJ_00130	CDS			hypothetical protein
+NDKHHKNJ_00130	gene			
+NDKHHKNJ_00131	CDS			hypothetical protein
+NDKHHKNJ_00131	gene			
+NDKHHKNJ_00132	CDS			hypothetical protein
+NDKHHKNJ_00132	gene			
+NDKHHKNJ_00133	CDS			hypothetical protein
+NDKHHKNJ_00133	gene			
+NDKHHKNJ_00134	CDS			hypothetical protein
+NDKHHKNJ_00134	gene			
+NDKHHKNJ_00135	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+NDKHHKNJ_00135	gene	recG		
+NDKHHKNJ_00136	CDS			hypothetical protein
+NDKHHKNJ_00136	gene			
+NDKHHKNJ_00137	CDS			hypothetical protein
+NDKHHKNJ_00137	gene			
+NDKHHKNJ_00138	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+NDKHHKNJ_00138	gene	exoA		
+NDKHHKNJ_00139	tRNA			tRNA-Phe(gaa)
+NDKHHKNJ_00139	gene			
+NDKHHKNJ_00140	CDS			hypothetical protein
+NDKHHKNJ_00140	gene			
+NDKHHKNJ_00141	CDS	dnaA		Chromosomal replication initiator protein DnaA
+NDKHHKNJ_00141	gene	dnaA		
+NDKHHKNJ_00142	CDS	mqnB	3.2.2.26	Futalosine hydrolase
+NDKHHKNJ_00142	gene	mqnB		
+NDKHHKNJ_00143	CDS			hypothetical protein
+NDKHHKNJ_00143	gene			
+NDKHHKNJ_00144	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+NDKHHKNJ_00144	gene	glmS		
+NDKHHKNJ_00145	CDS	thyX	2.1.1.148	Flavin-dependent thymidylate synthase
+NDKHHKNJ_00145	gene	thyX		
+NDKHHKNJ_00146	CDS			hypothetical protein
+NDKHHKNJ_00146	gene			
+NDKHHKNJ_00147	CDS			hypothetical protein
+NDKHHKNJ_00147	gene			
+NDKHHKNJ_00148	CDS	mscS		Small-conductance mechanosensitive channel
+NDKHHKNJ_00148	gene	mscS		
+NDKHHKNJ_00149	CDS			hypothetical protein
+NDKHHKNJ_00149	gene			
+NDKHHKNJ_00150	CDS			hypothetical protein
+NDKHHKNJ_00150	gene			
+NDKHHKNJ_00151	CDS			hypothetical protein
+NDKHHKNJ_00151	gene			
+NDKHHKNJ_00152	CDS			hypothetical protein
+NDKHHKNJ_00152	gene			
+NDKHHKNJ_00153	CDS	dusC	1.3.1.-	tRNA-dihydrouridine(16) synthase
+NDKHHKNJ_00153	gene	dusC		
+NDKHHKNJ_00154	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+NDKHHKNJ_00154	gene	tilS		
+NDKHHKNJ_00155	CDS			hypothetical protein
+NDKHHKNJ_00155	gene			
+NDKHHKNJ_00156	CDS			hypothetical protein
+NDKHHKNJ_00156	gene			
+NDKHHKNJ_00157	CDS			hypothetical protein
+NDKHHKNJ_00157	gene			
+NDKHHKNJ_00158	CDS			hypothetical protein
+NDKHHKNJ_00158	gene			
+NDKHHKNJ_00159	CDS	rimO	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+NDKHHKNJ_00159	gene	rimO		
+NDKHHKNJ_00160	CDS	gpt	2.4.2.22	Xanthine phosphoribosyltransferase
+NDKHHKNJ_00160	gene	gpt		
+NDKHHKNJ_00161	CDS		2.6.1.51	Serine-pyruvate aminotransferase
+NDKHHKNJ_00161	gene			
+NDKHHKNJ_00162	CDS	pgpA	3.1.3.27	Phosphatidylglycerophosphatase A
+NDKHHKNJ_00162	gene	pgpA		
+NDKHHKNJ_00163	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+NDKHHKNJ_00163	gene	ddl		
+NDKHHKNJ_00164	CDS	menH	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+NDKHHKNJ_00164	gene	menH		
+NDKHHKNJ_00165	CDS	murF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+NDKHHKNJ_00165	gene	murF		
+NDKHHKNJ_00166	CDS		2.7.7.53	AP-4-A phosphorylase
+NDKHHKNJ_00166	gene			
+NDKHHKNJ_00167	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+NDKHHKNJ_00167	gene	prs		
+NDKHHKNJ_00168	tRNA			tRNA-Met(cat)
+NDKHHKNJ_00168	gene			
+NDKHHKNJ_00169	CDS			hypothetical protein
+NDKHHKNJ_00169	gene			
+NDKHHKNJ_00170	CDS	rsgA	3.6.1.-	Putative ribosome biogenesis GTPase RsgA
+NDKHHKNJ_00170	gene	rsgA		
+NDKHHKNJ_00171	CDS	rluD	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+NDKHHKNJ_00171	gene	rluD		
+NDKHHKNJ_00172	CDS			hypothetical protein
+NDKHHKNJ_00172	gene			
+NDKHHKNJ_00173	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+NDKHHKNJ_00173	gene	trmB		
+NDKHHKNJ_00174	CDS	ftsE		Cell division ATP-binding protein FtsE
+NDKHHKNJ_00174	gene	ftsE		
+NDKHHKNJ_00175	CDS			hypothetical protein
+NDKHHKNJ_00175	gene			
+NDKHHKNJ_00176	CDS			hypothetical protein
+NDKHHKNJ_00176	gene			
+NDKHHKNJ_00177	CDS			hypothetical protein
+NDKHHKNJ_00177	gene			
+NDKHHKNJ_00178	CDS	fliD		Flagellar hook-associated protein 2
+NDKHHKNJ_00178	gene	fliD		
+NDKHHKNJ_00179	CDS	fliS		Flagellar protein FliS
+NDKHHKNJ_00179	gene	fliS		
+NDKHHKNJ_00180	CDS			hypothetical protein
+NDKHHKNJ_00180	gene			
+NDKHHKNJ_00181	CDS	tcdA	6.1.-.-	tRNA threonylcarbamoyladenosine dehydratase
+NDKHHKNJ_00181	gene	tcdA		
+NDKHHKNJ_00182	CDS			hypothetical protein
+NDKHHKNJ_00182	gene			
+NDKHHKNJ_00183	CDS		3.5.1.77	N-carbamoyl-D-amino acid hydrolase
+NDKHHKNJ_00183	gene			
+NDKHHKNJ_00184	CDS			hypothetical protein
+NDKHHKNJ_00184	gene			
+NDKHHKNJ_00185	CDS	yeeO		putative FMN/FAD exporter YeeO
+NDKHHKNJ_00185	gene	yeeO		
+NDKHHKNJ_00186	CDS	rny	3.1.-.-	Ribonuclease Y
+NDKHHKNJ_00186	gene	rny		
+NDKHHKNJ_00187	CDS			hypothetical protein
+NDKHHKNJ_00187	gene			
+NDKHHKNJ_00188	CDS			hypothetical protein
+NDKHHKNJ_00188	gene			
+NDKHHKNJ_00189	CDS	ftsY		Signal recognition particle receptor FtsY
+NDKHHKNJ_00189	gene	ftsY		
+NDKHHKNJ_00190	CDS			hypothetical protein
+NDKHHKNJ_00190	gene			
+NDKHHKNJ_00191	CDS			hypothetical protein
+NDKHHKNJ_00191	gene			
+NDKHHKNJ_00192	CDS			hypothetical protein
+NDKHHKNJ_00192	gene			
+NDKHHKNJ_00193	CDS	moaA	4.1.99.22	GTP 3',8-cyclase
+NDKHHKNJ_00193	gene	moaA		
+NDKHHKNJ_00194	CDS	mobA	2.7.7.77	putative molybdenum cofactor guanylyltransferase
+NDKHHKNJ_00194	gene	mobA		
+NDKHHKNJ_00195	CDS	flhB_1		Flagellar biosynthetic protein FlhB
+NDKHHKNJ_00195	gene	flhB_1		
+NDKHHKNJ_00196	CDS			hypothetical protein
+NDKHHKNJ_00196	gene			
+NDKHHKNJ_00197	CDS	amiC	3.5.1.28	N-acetylmuramoyl-L-alanine amidase AmiC
+NDKHHKNJ_00197	gene	amiC		
+NDKHHKNJ_00198	CDS	pyrD_1	1.3.-.-	Dihydroorotate dehydrogenase
+NDKHHKNJ_00198	gene	pyrD_1		
+NDKHHKNJ_00199	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+NDKHHKNJ_00199	gene	tyrS		
+NDKHHKNJ_00200	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+NDKHHKNJ_00200	gene	relA		
+NDKHHKNJ_00201	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+NDKHHKNJ_00201	gene	rpoZ		
+NDKHHKNJ_00202	CDS	pyrH	2.7.4.22	Uridylate kinase
+NDKHHKNJ_00202	gene	pyrH		
+NDKHHKNJ_00203	CDS	mqnA	4.2.1.151	Chorismate dehydratase
+NDKHHKNJ_00203	gene	mqnA		
+NDKHHKNJ_00204	CDS	acnB	4.2.1.3	Aconitate hydratase B
+NDKHHKNJ_00204	gene	acnB		
+NDKHHKNJ_00205	CDS			hypothetical protein
+NDKHHKNJ_00205	gene			
+NDKHHKNJ_00206	CDS			hypothetical protein
+NDKHHKNJ_00206	gene			
+NDKHHKNJ_00207	CDS			hypothetical protein
+NDKHHKNJ_00207	gene			
+NDKHHKNJ_00208	CDS			hypothetical protein
+NDKHHKNJ_00208	gene			
+NDKHHKNJ_00209	tmRNA	ssrA		transfer-messenger RNA, SsrA
+NDKHHKNJ_00209	gene	ssrA		
+NDKHHKNJ_00210	CDS	lolA		Outer-membrane lipoprotein carrier protein
+NDKHHKNJ_00210	gene	lolA		
+NDKHHKNJ_00211	CDS	secA		Protein translocase subunit SecA
+NDKHHKNJ_00211	gene	secA		
+NDKHHKNJ_00212	CDS	lolC		Lipoprotein-releasing system transmembrane protein LolC
+NDKHHKNJ_00212	gene	lolC		
+NDKHHKNJ_00213	CDS			hypothetical protein
+NDKHHKNJ_00213	gene			
+NDKHHKNJ_00214	CDS			hypothetical protein
+NDKHHKNJ_00214	gene			
+NDKHHKNJ_00215	CDS			hypothetical protein
+NDKHHKNJ_00215	gene			
+NDKHHKNJ_00216	CDS	cadA	3.6.3.3	Cadmium, zinc and cobalt-transporting ATPase
+NDKHHKNJ_00216	gene	cadA		
+NDKHHKNJ_00217	CDS	comM		Competence protein ComM
+NDKHHKNJ_00217	gene	comM		
+NDKHHKNJ_00218	CDS	def	3.5.1.88	Peptide deformylase
+NDKHHKNJ_00218	gene	def		
+NDKHHKNJ_00219	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+NDKHHKNJ_00219	gene	clpP		
+NDKHHKNJ_00220	CDS	tig	5.2.1.8	Trigger factor
+NDKHHKNJ_00220	gene	tig		
+NDKHHKNJ_00221	CDS			hypothetical protein
+NDKHHKNJ_00221	gene			
+NDKHHKNJ_00222	CDS			hypothetical protein
+NDKHHKNJ_00222	gene			
+NDKHHKNJ_00223	CDS	moaC	4.6.1.17	Cyclic pyranopterin monophosphate synthase
+NDKHHKNJ_00223	gene	moaC		
+NDKHHKNJ_00224	CDS	mog	2.7.7.75	Molybdopterin adenylyltransferase
+NDKHHKNJ_00224	gene	mog		
+NDKHHKNJ_00225	CDS	moaE	2.8.1.12	Molybdopterin synthase catalytic subunit
+NDKHHKNJ_00225	gene	moaE		
+NDKHHKNJ_00226	CDS			hypothetical protein
+NDKHHKNJ_00226	gene			
+NDKHHKNJ_00227	CDS	ribA	3.5.4.25	GTP cyclohydrolase-2
+NDKHHKNJ_00227	gene	ribA		
+NDKHHKNJ_00228	CDS			hypothetical protein
+NDKHHKNJ_00228	gene			
+NDKHHKNJ_00229	CDS	ribBA		Riboflavin biosynthesis protein RibBA
+NDKHHKNJ_00229	gene	ribBA		
+NDKHHKNJ_00230	CDS			hypothetical protein
+NDKHHKNJ_00230	gene			
+NDKHHKNJ_00231	CDS			hypothetical protein
+NDKHHKNJ_00231	gene			
+NDKHHKNJ_00232	CDS	fecA_1		Fe(3+) dicitrate transport protein FecA
+NDKHHKNJ_00232	gene	fecA_1		
+NDKHHKNJ_00233	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+NDKHHKNJ_00233	gene	acpS		
+NDKHHKNJ_00234	CDS			hypothetical protein
+NDKHHKNJ_00234	gene			
+NDKHHKNJ_00235	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+NDKHHKNJ_00235	gene	rsmD		
+NDKHHKNJ_00236	CDS			hypothetical protein
+NDKHHKNJ_00236	gene			
+NDKHHKNJ_00237	CDS			hypothetical protein
+NDKHHKNJ_00237	gene			
+NDKHHKNJ_00238	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+NDKHHKNJ_00238	gene	gloC		
+NDKHHKNJ_00239	CDS	moeZ		putative adenylyltransferase/sulfurtransferase MoeZ
+NDKHHKNJ_00239	gene	moeZ		
+NDKHHKNJ_00240	CDS	pomA		Chemotaxis protein PomA
+NDKHHKNJ_00240	gene	pomA		
+NDKHHKNJ_00241	CDS	motB		Motility protein B
+NDKHHKNJ_00241	gene	motB		
+NDKHHKNJ_00242	CDS			hypothetical protein
+NDKHHKNJ_00242	gene			
+NDKHHKNJ_00243	CDS	opuCC		Glycine betaine/carnitine/choline-binding protein OpuCC
+NDKHHKNJ_00243	gene	opuCC		
+NDKHHKNJ_00244	CDS	opuBA		Choline transport ATP-binding protein OpuBA
+NDKHHKNJ_00244	gene	opuBA		
+NDKHHKNJ_00245	CDS			hypothetical protein
+NDKHHKNJ_00245	gene			
+NDKHHKNJ_00246	CDS	uvrC		UvrABC system protein C
+NDKHHKNJ_00246	gene	uvrC		
+NDKHHKNJ_00247	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+NDKHHKNJ_00247	gene	hom		
+NDKHHKNJ_00248	CDS			hypothetical protein
+NDKHHKNJ_00248	gene			
+NDKHHKNJ_00249	CDS	trxA_2		Thioredoxin
+NDKHHKNJ_00249	gene	trxA_2		
+NDKHHKNJ_00250	CDS	trxB	1.8.1.9	Thioredoxin reductase
+NDKHHKNJ_00250	gene	trxB		
+NDKHHKNJ_00251	CDS	lex1	2.-.-.-	Lipooligosaccharide biosynthesis protein lex-1
+NDKHHKNJ_00251	gene	lex1		
+NDKHHKNJ_00252	CDS			hypothetical protein
+NDKHHKNJ_00252	gene			
+NDKHHKNJ_00253	CDS	atpB		ATP synthase subunit a
+NDKHHKNJ_00253	gene	atpB		
+NDKHHKNJ_00254	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+NDKHHKNJ_00254	gene	guaB		
+NDKHHKNJ_00255	CDS	gatA	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+NDKHHKNJ_00255	gene	gatA		
+NDKHHKNJ_00256	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+NDKHHKNJ_00256	gene	coaE		
+NDKHHKNJ_00257	CDS	speE	2.5.1.16	Polyamine aminopropyltransferase
+NDKHHKNJ_00257	gene	speE		
+NDKHHKNJ_00258	CDS			hypothetical protein
+NDKHHKNJ_00258	gene			
+NDKHHKNJ_00259	CDS	der_1		GTPase Der
+NDKHHKNJ_00259	gene	der_1		
+NDKHHKNJ_00260	CDS	hup		DNA-binding protein HU
+NDKHHKNJ_00260	gene	hup		
+NDKHHKNJ_00261	tRNA			tRNA-Arg(cct)
+NDKHHKNJ_00261	gene			
+NDKHHKNJ_00262	CDS			hypothetical protein
+NDKHHKNJ_00262	gene			
+NDKHHKNJ_00263	CDS			hypothetical protein
+NDKHHKNJ_00263	gene			
+NDKHHKNJ_00264	CDS			hypothetical protein
+NDKHHKNJ_00264	gene			
+NDKHHKNJ_00265	CDS	pseB	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+NDKHHKNJ_00265	gene	pseB		
+NDKHHKNJ_00266	CDS	coaBC		Coenzyme A biosynthesis bifunctional protein CoaBC
+NDKHHKNJ_00266	gene	coaBC		
+NDKHHKNJ_00267	CDS			hypothetical protein
+NDKHHKNJ_00267	gene			
+NDKHHKNJ_00268	CDS	thiE	2.5.1.3	Thiamine-phosphate synthase
+NDKHHKNJ_00268	gene	thiE		
+NDKHHKNJ_00269	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+NDKHHKNJ_00269	gene	thiD		
+NDKHHKNJ_00270	CDS	thiM	2.7.1.50	Hydroxyethylthiazole kinase
+NDKHHKNJ_00270	gene	thiM		
+NDKHHKNJ_00271	CDS	hsdR_2	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+NDKHHKNJ_00271	gene	hsdR_2		
+NDKHHKNJ_00272	CDS			hypothetical protein
+NDKHHKNJ_00272	gene			
+NDKHHKNJ_00273	CDS			hypothetical protein
+NDKHHKNJ_00273	gene			
+NDKHHKNJ_00274	CDS			hypothetical protein
+NDKHHKNJ_00274	gene			
+NDKHHKNJ_00275	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+NDKHHKNJ_00275	gene	argS		
+NDKHHKNJ_00276	CDS	tatA		Sec-independent protein translocase protein TatA
+NDKHHKNJ_00276	gene	tatA		
+NDKHHKNJ_00277	CDS	gmk	2.7.4.8	Guanylate kinase
+NDKHHKNJ_00277	gene	gmk		
+NDKHHKNJ_00278	CDS			hypothetical protein
+NDKHHKNJ_00278	gene			
+NDKHHKNJ_00279	CDS	ywiE	2.7.8.-	putative cardiolipin synthase YwiE
+NDKHHKNJ_00279	gene	ywiE		
+NDKHHKNJ_00280	CDS			hypothetical protein
+NDKHHKNJ_00280	gene			
+NDKHHKNJ_00281	CDS	flgH		Flagellar L-ring protein
+NDKHHKNJ_00281	gene	flgH		
+NDKHHKNJ_00282	CDS	neuA	2.7.7.43	N-acylneuraminate cytidylyltransferase
+NDKHHKNJ_00282	gene	neuA		
+NDKHHKNJ_00283	CDS			hypothetical protein
+NDKHHKNJ_00283	gene			
+NDKHHKNJ_00284	CDS	pseH	2.3.1.202	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine N-acetyltransferase
+NDKHHKNJ_00284	gene	pseH		
+NDKHHKNJ_00285	CDS	lpxK	2.7.1.130	Tetraacyldisaccharide 4'-kinase
+NDKHHKNJ_00285	gene	lpxK		
+NDKHHKNJ_00286	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+NDKHHKNJ_00286	gene	nadE		
+NDKHHKNJ_00287	tRNA			tRNA-Arg(gcg)
+NDKHHKNJ_00287	gene			
+NDKHHKNJ_00288	CDS	ilvC	1.1.1.86	Ketol-acid reductoisomerase (NADP(+))
+NDKHHKNJ_00288	gene	ilvC		
+NDKHHKNJ_00289	CDS	minD		Septum site-determining protein MinD
+NDKHHKNJ_00289	gene	minD		
+NDKHHKNJ_00290	CDS	minE		Cell division topological specificity factor
+NDKHHKNJ_00290	gene	minE		
+NDKHHKNJ_00291	CDS	dprA		DNA processing protein DprA
+NDKHHKNJ_00291	gene	dprA		
+NDKHHKNJ_00292	CDS	yqgF	3.1.-.-	Putative pre-16S rRNA nuclease
+NDKHHKNJ_00292	gene	yqgF		
+NDKHHKNJ_00293	CDS			hypothetical protein
+NDKHHKNJ_00293	gene			
+NDKHHKNJ_00294	CDS	hcpB_2	3.5.2.6	Beta-lactamase HcpB
+NDKHHKNJ_00294	gene	hcpB_2		
+NDKHHKNJ_00295	CDS			hypothetical protein
+NDKHHKNJ_00295	gene			
+NDKHHKNJ_00296	CDS			hypothetical protein
+NDKHHKNJ_00296	gene			
+NDKHHKNJ_00297	CDS			hypothetical protein
+NDKHHKNJ_00297	gene			
+NDKHHKNJ_00298	CDS			hypothetical protein
+NDKHHKNJ_00298	gene			
+NDKHHKNJ_00299	CDS			hypothetical protein
+NDKHHKNJ_00299	gene			
+NDKHHKNJ_00300	CDS			hypothetical protein
+NDKHHKNJ_00300	gene			
+NDKHHKNJ_00301	CDS			hypothetical protein
+NDKHHKNJ_00301	gene			
+NDKHHKNJ_00302	CDS	divIB		Cell division protein DivIB
+NDKHHKNJ_00302	gene	divIB		
+NDKHHKNJ_00303	CDS			hypothetical protein
+NDKHHKNJ_00303	gene			
+NDKHHKNJ_00304	CDS		5.4.99.-	putative RNA pseudouridine synthase
+NDKHHKNJ_00304	gene			
+NDKHHKNJ_00305	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+NDKHHKNJ_00305	gene	recJ		
+NDKHHKNJ_00306	CDS	pyrG	6.3.4.2	CTP synthase
+NDKHHKNJ_00306	gene	pyrG		
+NDKHHKNJ_00307	CDS			hypothetical protein
+NDKHHKNJ_00307	gene			
+NDKHHKNJ_00308	CDS	fliF		Flagellar M-ring protein
+NDKHHKNJ_00308	gene	fliF		
+NDKHHKNJ_00309	CDS	fliG		Flagellar motor switch protein FliG
+NDKHHKNJ_00309	gene	fliG		
+NDKHHKNJ_00310	CDS			hypothetical protein
+NDKHHKNJ_00310	gene			
+NDKHHKNJ_00311	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+NDKHHKNJ_00311	gene	dxs		
+NDKHHKNJ_00312	CDS	lepA	3.6.5.-	Elongation factor 4
+NDKHHKNJ_00312	gene	lepA		
+NDKHHKNJ_00313	CDS			hypothetical protein
+NDKHHKNJ_00313	gene			
+NDKHHKNJ_00314	CDS	ydfG	1.1.1.381	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+NDKHHKNJ_00314	gene	ydfG		
+NDKHHKNJ_00315	CDS			hypothetical protein
+NDKHHKNJ_00315	gene			
+NDKHHKNJ_00316	tRNA			tRNA-Ala(tgc)
+NDKHHKNJ_00316	gene			
+NDKHHKNJ_00317	tRNA			tRNA-Ile(gat)
+NDKHHKNJ_00317	gene			
+NDKHHKNJ_00318	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+NDKHHKNJ_00318	gene	galE		
+NDKHHKNJ_00319	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+NDKHHKNJ_00319	gene	truA		
+NDKHHKNJ_00320	CDS			hypothetical protein
+NDKHHKNJ_00320	gene			
+NDKHHKNJ_00321	CDS	pcm	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+NDKHHKNJ_00321	gene	pcm		
+NDKHHKNJ_00322	CDS	nrdB	1.17.4.1	Ribonucleoside-diphosphate reductase subunit beta
+NDKHHKNJ_00322	gene	nrdB		
+NDKHHKNJ_00323	tRNA			tRNA-Leu(tag)
+NDKHHKNJ_00323	gene			
+NDKHHKNJ_00324	CDS	pseC	2.6.1.92	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase
+NDKHHKNJ_00324	gene	pseC		
+NDKHHKNJ_00325	CDS			hypothetical protein
+NDKHHKNJ_00325	gene			
+NDKHHKNJ_00326	CDS			hypothetical protein
+NDKHHKNJ_00326	gene			
+NDKHHKNJ_00327	CDS			hypothetical protein
+NDKHHKNJ_00327	gene			
+NDKHHKNJ_00328	CDS			hypothetical protein
+NDKHHKNJ_00328	gene			
+NDKHHKNJ_00329	CDS	accC	6.3.4.14	Biotin carboxylase
+NDKHHKNJ_00329	gene	accC		
+NDKHHKNJ_00330	CDS	accB		Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+NDKHHKNJ_00330	gene	accB		
+NDKHHKNJ_00331	CDS	dcd	3.5.4.13	dCTP deaminase
+NDKHHKNJ_00331	gene	dcd		
+NDKHHKNJ_00332	CDS			hypothetical protein
+NDKHHKNJ_00332	gene			
+NDKHHKNJ_00333	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+NDKHHKNJ_00333	gene	rsmE		
+NDKHHKNJ_00334	CDS			hypothetical protein
+NDKHHKNJ_00334	gene			
+NDKHHKNJ_00335	CDS	hemH	4.99.1.1	Ferrochelatase
+NDKHHKNJ_00335	gene	hemH		
+NDKHHKNJ_00336	CDS			hypothetical protein
+NDKHHKNJ_00336	gene			
+NDKHHKNJ_00337	CDS	ccsA		Cytochrome c biogenesis protein CcsA
+NDKHHKNJ_00337	gene	ccsA		
+NDKHHKNJ_00338	CDS		5.3.2.-	putative tautomerase
+NDKHHKNJ_00338	gene			
+NDKHHKNJ_00339	CDS	recR		Recombination protein RecR
+NDKHHKNJ_00339	gene	recR		
+NDKHHKNJ_00340	CDS	truD	5.4.99.27	tRNA pseudouridine synthase D
+NDKHHKNJ_00340	gene	truD		
+NDKHHKNJ_00341	CDS	htpX_1	3.4.24.-	Protease HtpX 
+NDKHHKNJ_00341	gene	htpX_1		
+NDKHHKNJ_00342	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+NDKHHKNJ_00342	gene	folE		
+NDKHHKNJ_00343	CDS		2.5.1.10	Farnesyl diphosphate synthase
+NDKHHKNJ_00343	gene			
+NDKHHKNJ_00344	CDS	surE	3.1.3.5	5'-nucleotidase SurE
+NDKHHKNJ_00344	gene	surE		
+NDKHHKNJ_00345	CDS			hypothetical protein
+NDKHHKNJ_00345	gene			
+NDKHHKNJ_00346	CDS			hypothetical protein
+NDKHHKNJ_00346	gene			
+NDKHHKNJ_00347	CDS	queE_1	4.3.99.3	7-carboxy-7-deazaguanine synthase
+NDKHHKNJ_00347	gene	queE_1		
+NDKHHKNJ_00348	CDS			hypothetical protein
+NDKHHKNJ_00348	gene			
+NDKHHKNJ_00349	CDS	proP		Proline/betaine transporter
+NDKHHKNJ_00349	gene	proP		
+NDKHHKNJ_00350	CDS			hypothetical protein
+NDKHHKNJ_00350	gene			
+NDKHHKNJ_00351	CDS			hypothetical protein
+NDKHHKNJ_00351	gene			
+NDKHHKNJ_00352	CDS	tcyB		L-cystine transport system permease protein TcyB
+NDKHHKNJ_00352	gene	tcyB		
+NDKHHKNJ_00353	CDS			putative amino-acid ABC transporter-binding protein
+NDKHHKNJ_00353	gene			
+NDKHHKNJ_00354	CDS	alr1	5.1.1.1	Alanine racemase 1
+NDKHHKNJ_00354	gene	alr1		
+NDKHHKNJ_00355	CDS	alsT		Amino-acid carrier protein AlsT
+NDKHHKNJ_00355	gene	alsT		
+NDKHHKNJ_00356	CDS	dadA	1.4.5.1	D-amino acid dehydrogenase
+NDKHHKNJ_00356	gene	dadA		
+NDKHHKNJ_00357	CDS			RutC family protein
+NDKHHKNJ_00357	gene			
+NDKHHKNJ_00358	tRNA			tRNA-Gly(gcc)
+NDKHHKNJ_00358	gene			
+NDKHHKNJ_00359	CDS			hypothetical protein
+NDKHHKNJ_00359	gene			
+NDKHHKNJ_00360	tRNA			tRNA-Leu(taa)
+NDKHHKNJ_00360	gene			
+NDKHHKNJ_00361	tRNA			tRNA-Cys(gca)
+NDKHHKNJ_00361	gene			
+NDKHHKNJ_00362	tRNA			tRNA-Ser(tga)
+NDKHHKNJ_00362	gene			
+NDKHHKNJ_00363	CDS	mleN		Malate-2H(+)/Na(+)-lactate antiporter
+NDKHHKNJ_00363	gene	mleN		
+NDKHHKNJ_00364	CDS			hypothetical protein
+NDKHHKNJ_00364	gene			
+NDKHHKNJ_00365	CDS			hypothetical protein
+NDKHHKNJ_00365	gene			
+NDKHHKNJ_00366	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+NDKHHKNJ_00366	gene	rlmH		
+NDKHHKNJ_00367	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+NDKHHKNJ_00367	gene	accD		
+NDKHHKNJ_00368	CDS			hypothetical protein
+NDKHHKNJ_00368	gene			
+NDKHHKNJ_00369	CDS	pncC	3.5.1.42	Nicotinamide-nucleotide amidohydrolase PncC
+NDKHHKNJ_00369	gene	pncC		
+NDKHHKNJ_00370	CDS			hypothetical protein
+NDKHHKNJ_00370	gene			
+NDKHHKNJ_00371	CDS	rdxA	1.-.-.-	Oxygen-insensitive NADPH nitroreductase
+NDKHHKNJ_00371	gene	rdxA		
+NDKHHKNJ_00372	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+NDKHHKNJ_00372	gene	lgt		
+NDKHHKNJ_00373	CDS		5.4.99.-	putative RNA pseudouridine synthase
+NDKHHKNJ_00373	gene			
+NDKHHKNJ_00374	CDS	waaA	2.4.99.12	3-deoxy-D-manno-octulosonic acid transferase
+NDKHHKNJ_00374	gene	waaA		
+NDKHHKNJ_00375	CDS			hypothetical protein
+NDKHHKNJ_00375	gene			
+NDKHHKNJ_00376	CDS		3.5.4.16	GTP cyclohydrolase 1 type 2
+NDKHHKNJ_00376	gene			
+NDKHHKNJ_00377	CDS	glyQ	6.1.1.14	Glycine--tRNA ligase alpha subunit
+NDKHHKNJ_00377	gene	glyQ		
+NDKHHKNJ_00378	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+NDKHHKNJ_00378	gene	gpsA		
+NDKHHKNJ_00379	CDS	acpP_1		Acyl carrier protein
+NDKHHKNJ_00379	gene	acpP_1		
+NDKHHKNJ_00380	CDS	era_2		GTPase Era
+NDKHHKNJ_00380	gene	era_2		
+NDKHHKNJ_00381	CDS			hypothetical protein
+NDKHHKNJ_00381	gene			
+NDKHHKNJ_00382	CDS	der_2		GTPase Der
+NDKHHKNJ_00382	gene	der_2		
+NDKHHKNJ_00383	CDS			hypothetical protein
+NDKHHKNJ_00383	gene			
+NDKHHKNJ_00384	CDS	vapD_1	3.1.-.-	Endoribonuclease VapD
+NDKHHKNJ_00384	gene	vapD_1		
+NDKHHKNJ_00385	CDS			hypothetical protein
+NDKHHKNJ_00385	gene			
+NDKHHKNJ_00386	CDS	czcA		Cobalt-zinc-cadmium resistance protein CzcA
+NDKHHKNJ_00386	gene	czcA		
+NDKHHKNJ_00387	CDS			hypothetical protein
+NDKHHKNJ_00387	gene			
+NDKHHKNJ_00388	CDS			hypothetical protein
+NDKHHKNJ_00388	gene			
+NDKHHKNJ_00389	CDS	glyS	6.1.1.14	Glycine--tRNA ligase beta subunit
+NDKHHKNJ_00389	gene	glyS		
+NDKHHKNJ_00390	CDS			hypothetical protein
+NDKHHKNJ_00390	gene			
+NDKHHKNJ_00391	CDS	gpmI	5.4.2.12	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+NDKHHKNJ_00391	gene	gpmI		
+NDKHHKNJ_00392	CDS	gatC	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+NDKHHKNJ_00392	gene	gatC		
+NDKHHKNJ_00393	CDS	bioA	2.6.1.62	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+NDKHHKNJ_00393	gene	bioA		
+NDKHHKNJ_00394	CDS	ppiD	5.2.1.8	Peptidyl-prolyl cis-trans isomerase D
+NDKHHKNJ_00394	gene	ppiD		
+NDKHHKNJ_00395	CDS	ftsA		Cell division protein FtsA
+NDKHHKNJ_00395	gene	ftsA		
+NDKHHKNJ_00396	CDS	ftsZ		Cell division protein FtsZ
+NDKHHKNJ_00396	gene	ftsZ		
+NDKHHKNJ_00397	CDS	rseP	3.4.24.-	Regulator of sigma-E protease RseP
+NDKHHKNJ_00397	gene	rseP		
+NDKHHKNJ_00398	CDS	xseA_1	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+NDKHHKNJ_00398	gene	xseA_1		
+NDKHHKNJ_00399	CDS			hypothetical protein
+NDKHHKNJ_00399	gene			
+NDKHHKNJ_00400	CDS	cah	4.2.1.1	Carbonic anhydrase
+NDKHHKNJ_00400	gene	cah		
+NDKHHKNJ_00401	CDS	sotB		Sugar efflux transporter B
+NDKHHKNJ_00401	gene	sotB		
+NDKHHKNJ_00402	CDS	mepA		Multidrug export protein MepA
+NDKHHKNJ_00402	gene	mepA		
+NDKHHKNJ_00403	CDS			hypothetical protein
+NDKHHKNJ_00403	gene			
+NDKHHKNJ_00404	CDS	ttcA		tRNA 2-thiocytidine biosynthesis protein TtcA
+NDKHHKNJ_00404	gene	ttcA		
+NDKHHKNJ_00405	CDS	yajR		Inner membrane transport protein YajR
+NDKHHKNJ_00405	gene	yajR		
+NDKHHKNJ_00406	tRNA			tRNA-Met(cat)
+NDKHHKNJ_00406	gene			
+NDKHHKNJ_00407	CDS	nupX		Putative nucleoside permease NupX
+NDKHHKNJ_00407	gene	nupX		
+NDKHHKNJ_00408	CDS	deoB	5.4.2.7	Phosphopentomutase
+NDKHHKNJ_00408	gene	deoB		
+NDKHHKNJ_00409	CDS	deoD	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+NDKHHKNJ_00409	gene	deoD		
+NDKHHKNJ_00410	CDS			hypothetical protein
+NDKHHKNJ_00410	gene			
+NDKHHKNJ_00411	CDS	adeQ		Adenine permease AdeQ
+NDKHHKNJ_00411	gene	adeQ		
+NDKHHKNJ_00412	CDS	fucP		L-fucose-proton symporter
+NDKHHKNJ_00412	gene	fucP		
+NDKHHKNJ_00413	CDS			hypothetical protein
+NDKHHKNJ_00413	gene			
+NDKHHKNJ_00414	CDS	glnH		ABC transporter glutamine-binding protein GlnH
+NDKHHKNJ_00414	gene	glnH		
+NDKHHKNJ_00415	CDS	artM		Arginine transport ATP-binding protein ArtM
+NDKHHKNJ_00415	gene	artM		
+NDKHHKNJ_00416	CDS	glnP_1		Glutamine transport system permease protein GlnP
+NDKHHKNJ_00416	gene	glnP_1		
+NDKHHKNJ_00417	CDS	glnP_2		Glutamine transport system permease protein GlnP
+NDKHHKNJ_00417	gene	glnP_2		
+NDKHHKNJ_00418	CDS	cstA		Carbon starvation protein A
+NDKHHKNJ_00418	gene	cstA		
+NDKHHKNJ_00419	CDS			hypothetical protein
+NDKHHKNJ_00419	gene			
+NDKHHKNJ_00420	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+NDKHHKNJ_00420	gene	pgi		
+NDKHHKNJ_00421	CDS			hypothetical protein
+NDKHHKNJ_00421	gene			
+NDKHHKNJ_00422	CDS		1.18.1.2	Ferredoxin--NADP reductase
+NDKHHKNJ_00422	gene			
+NDKHHKNJ_00423	CDS			hypothetical protein
+NDKHHKNJ_00423	gene			
+NDKHHKNJ_00424	CDS	yohD_1		Inner membrane protein YohD
+NDKHHKNJ_00424	gene	yohD_1		
+NDKHHKNJ_00425	CDS	fldA		Flavodoxin
+NDKHHKNJ_00425	gene	fldA		
+NDKHHKNJ_00426	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+NDKHHKNJ_00426	gene	ybeY		
+NDKHHKNJ_00427	CDS		2.7.7.-	Adenosine monophosphate-protein transferase NmFic
+NDKHHKNJ_00427	gene			
+NDKHHKNJ_00428	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+NDKHHKNJ_00428	gene	proC		
+NDKHHKNJ_00429	CDS			hypothetical protein
+NDKHHKNJ_00429	gene			
+NDKHHKNJ_00430	CDS			hypothetical protein
+NDKHHKNJ_00430	gene			
+NDKHHKNJ_00431	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+NDKHHKNJ_00431	gene	murG		
+NDKHHKNJ_00432	CDS	fliW1		Flagellar assembly factor FliW 1
+NDKHHKNJ_00432	gene	fliW1		
+NDKHHKNJ_00433	CDS	valS	6.1.1.9	Valine--tRNA ligase
+NDKHHKNJ_00433	gene	valS		
+NDKHHKNJ_00434	CDS	ffh		Signal recognition particle protein
+NDKHHKNJ_00434	gene	ffh		
+NDKHHKNJ_00435	CDS	rpsP		30S ribosomal protein S16
+NDKHHKNJ_00435	gene	rpsP		
+NDKHHKNJ_00436	CDS			hypothetical protein
+NDKHHKNJ_00436	gene			
+NDKHHKNJ_00437	CDS	rimM		Ribosome maturation factor RimM
+NDKHHKNJ_00437	gene	rimM		
+NDKHHKNJ_00438	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+NDKHHKNJ_00438	gene	trmD		
+NDKHHKNJ_00439	CDS	rplS		50S ribosomal protein L19
+NDKHHKNJ_00439	gene	rplS		
+NDKHHKNJ_00440	CDS			hypothetical protein
+NDKHHKNJ_00440	gene			
+NDKHHKNJ_00441	CDS			hypothetical protein
+NDKHHKNJ_00441	gene			
+NDKHHKNJ_00442	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+NDKHHKNJ_00442	gene	asd		
+NDKHHKNJ_00443	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+NDKHHKNJ_00443	gene	hisS		
+NDKHHKNJ_00444	CDS	rfaF	2.-.-.-	ADP-heptose--LPS heptosyltransferase 2
+NDKHHKNJ_00444	gene	rfaF		
+NDKHHKNJ_00445	CDS			hypothetical protein
+NDKHHKNJ_00445	gene			
+NDKHHKNJ_00446	CDS	yhdN	1.1.1.-	General stress protein 69
+NDKHHKNJ_00446	gene	yhdN		
+NDKHHKNJ_00447	CDS	fusA		Elongation factor G
+NDKHHKNJ_00447	gene	fusA		
+NDKHHKNJ_00448	CDS	rpsG		30S ribosomal protein S7
+NDKHHKNJ_00448	gene	rpsG		
+NDKHHKNJ_00449	CDS	rpsL		30S ribosomal protein S12
+NDKHHKNJ_00449	gene	rpsL		
+NDKHHKNJ_00450	CDS	rpoBC	2.7.7.6	Bifunctional DNA-directed RNA polymerase subunit beta-beta'
+NDKHHKNJ_00450	gene	rpoBC		
+NDKHHKNJ_00451	CDS	rplL		50S ribosomal protein L7/L12
+NDKHHKNJ_00451	gene	rplL		
+NDKHHKNJ_00452	CDS	rplJ		50S ribosomal protein L10
+NDKHHKNJ_00452	gene	rplJ		
+NDKHHKNJ_00453	CDS	rplA		50S ribosomal protein L1
+NDKHHKNJ_00453	gene	rplA		
+NDKHHKNJ_00454	CDS	rplK		50S ribosomal protein L11
+NDKHHKNJ_00454	gene	rplK		
+NDKHHKNJ_00455	CDS	nusG		Transcription termination/antitermination protein NusG
+NDKHHKNJ_00455	gene	nusG		
+NDKHHKNJ_00456	CDS			hypothetical protein
+NDKHHKNJ_00456	gene			
+NDKHHKNJ_00457	tRNA			tRNA-Trp(cca)
+NDKHHKNJ_00457	gene			
+NDKHHKNJ_00458	CDS	rpmG2		50S ribosomal protein L33 2
+NDKHHKNJ_00458	gene	rpmG2		
+NDKHHKNJ_00459	CDS	tufA		Elongation factor Tu
+NDKHHKNJ_00459	gene	tufA		
+NDKHHKNJ_00460	tRNA			tRNA-Thr(ggt)
+NDKHHKNJ_00460	gene			
+NDKHHKNJ_00461	tRNA			tRNA-Gly(tcc)
+NDKHHKNJ_00461	gene			
+NDKHHKNJ_00462	tRNA			tRNA-Tyr(gta)
+NDKHHKNJ_00462	gene			
+NDKHHKNJ_00463	tRNA			tRNA-Thr(tgt)
+NDKHHKNJ_00463	gene			
+NDKHHKNJ_00464	CDS	hepA		Heterocyst differentiation ATP-binding protein HepA
+NDKHHKNJ_00464	gene	hepA		
+NDKHHKNJ_00465	CDS			hypothetical protein
+NDKHHKNJ_00465	gene			
+NDKHHKNJ_00466	CDS	fokIM	2.1.1.72	Modification methylase FokI
+NDKHHKNJ_00466	gene	fokIM		
+NDKHHKNJ_00467	CDS			hypothetical protein
+NDKHHKNJ_00467	gene			
+NDKHHKNJ_00468	CDS	cysE	2.3.1.30	Serine acetyltransferase
+NDKHHKNJ_00468	gene	cysE		
+NDKHHKNJ_00469	tRNA			tRNA-Leu(caa)
+NDKHHKNJ_00469	gene			
+NDKHHKNJ_00470	tRNA			tRNA-Leu(gag)
+NDKHHKNJ_00470	gene			
+NDKHHKNJ_00471	CDS	atpE		ATP synthase subunit c
+NDKHHKNJ_00471	gene	atpE		
+NDKHHKNJ_00472	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+NDKHHKNJ_00472	gene	pnp		
+NDKHHKNJ_00473	CDS			hypothetical protein
+NDKHHKNJ_00473	gene			
+NDKHHKNJ_00474	CDS	lptD		LPS-assembly protein LptD
+NDKHHKNJ_00474	gene	lptD		
+NDKHHKNJ_00475	CDS			hypothetical protein
+NDKHHKNJ_00475	gene			
+NDKHHKNJ_00476	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+NDKHHKNJ_00476	gene	purD		
+NDKHHKNJ_00477	CDS	ytrB		ABC transporter ATP-binding protein YtrB
+NDKHHKNJ_00477	gene	ytrB		
+NDKHHKNJ_00478	CDS	uppS	2.5.1.-	Isoprenyl transferase
+NDKHHKNJ_00478	gene	uppS		
+NDKHHKNJ_00479	CDS			hypothetical protein
+NDKHHKNJ_00479	gene			
+NDKHHKNJ_00480	CDS	glpE	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+NDKHHKNJ_00480	gene	glpE		
+NDKHHKNJ_00481	CDS			hypothetical protein
+NDKHHKNJ_00481	gene			
+NDKHHKNJ_00482	CDS	crcB		Putative fluoride ion transporter CrcB
+NDKHHKNJ_00482	gene	crcB		
+NDKHHKNJ_00483	CDS	hemN_1	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+NDKHHKNJ_00483	gene	hemN_1		
+NDKHHKNJ_00484	CDS			Cytochrome c-553
+NDKHHKNJ_00484	gene			
+NDKHHKNJ_00485	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+NDKHHKNJ_00485	gene	rppH		
+NDKHHKNJ_00486	CDS	lysC	2.7.2.4	Aspartate kinase Ask_LysC
+NDKHHKNJ_00486	gene	lysC		
+NDKHHKNJ_00487	CDS			hypothetical protein
+NDKHHKNJ_00487	gene			
+NDKHHKNJ_00488	CDS			hypothetical protein
+NDKHHKNJ_00488	gene			
+NDKHHKNJ_00489	CDS	folP		Bifunctional dihydropteroate synthase/dihydropteroate reductase
+NDKHHKNJ_00489	gene	folP		
+NDKHHKNJ_00490	CDS			hypothetical protein
+NDKHHKNJ_00490	gene			
+NDKHHKNJ_00491	CDS			hypothetical protein
+NDKHHKNJ_00491	gene			
+NDKHHKNJ_00492	CDS			hypothetical protein
+NDKHHKNJ_00492	gene			
+NDKHHKNJ_00493	CDS			hypothetical protein
+NDKHHKNJ_00493	gene			
+NDKHHKNJ_00494	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+NDKHHKNJ_00494	gene	carA		
+NDKHHKNJ_00495	CDS	amiF	3.5.1.49	Formamidase
+NDKHHKNJ_00495	gene	amiF		
+NDKHHKNJ_00496	CDS	maf		Septum formation protein Maf
+NDKHHKNJ_00496	gene	maf		
+NDKHHKNJ_00497	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+NDKHHKNJ_00497	gene	alaS		
+NDKHHKNJ_00498	CDS			hypothetical protein
+NDKHHKNJ_00498	gene			
+NDKHHKNJ_00499	tRNA			tRNA-Pro(ggg)
+NDKHHKNJ_00499	gene			
+NDKHHKNJ_00500	CDS	ppk	2.7.4.1	Polyphosphate kinase
+NDKHHKNJ_00500	gene	ppk		
+NDKHHKNJ_00501	CDS	pyrD_2	1.3.5.2	Dihydroorotate dehydrogenase (quinone)
+NDKHHKNJ_00501	gene	pyrD_2		
+NDKHHKNJ_00502	CDS		3.4.24.-	putative zinc protease
+NDKHHKNJ_00502	gene			
+NDKHHKNJ_00503	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+NDKHHKNJ_00503	gene	dapA		
+NDKHHKNJ_00504	CDS	fabL	1.3.1.104	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabL
+NDKHHKNJ_00504	gene	fabL		
+NDKHHKNJ_00505	CDS			hypothetical protein
+NDKHHKNJ_00505	gene			
+NDKHHKNJ_00506	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+NDKHHKNJ_00506	gene	pgsA		
+NDKHHKNJ_00507	CDS	rocE		Amino-acid permease RocE
+NDKHHKNJ_00507	gene	rocE		
+NDKHHKNJ_00508	CDS	degP	3.4.21.107	Periplasmic serine endoprotease DegP
+NDKHHKNJ_00508	gene	degP		
+NDKHHKNJ_00509	CDS	ispDF		Bifunctional enzyme IspD/IspF
+NDKHHKNJ_00509	gene	ispDF		
+NDKHHKNJ_00510	CDS			hypothetical protein
+NDKHHKNJ_00510	gene			
+NDKHHKNJ_00511	CDS	xni	3.1.-.-	Flap endonuclease Xni
+NDKHHKNJ_00511	gene	xni		
+NDKHHKNJ_00512	CDS			hypothetical protein
+NDKHHKNJ_00512	gene			
+NDKHHKNJ_00513	CDS	cbpA		Curved DNA-binding protein
+NDKHHKNJ_00513	gene	cbpA		
+NDKHHKNJ_00514	CDS	hspR		Putative heat shock protein HspR
+NDKHHKNJ_00514	gene	hspR		
+NDKHHKNJ_00515	CDS			putative AAA domain-containing protein
+NDKHHKNJ_00515	gene			
+NDKHHKNJ_00516	CDS	fur		Ferric uptake regulation protein
+NDKHHKNJ_00516	gene	fur		
+NDKHHKNJ_00517	CDS			hypothetical protein
+NDKHHKNJ_00517	gene			
+NDKHHKNJ_00518	CDS			hypothetical protein
+NDKHHKNJ_00518	gene			
+NDKHHKNJ_00519	CDS	fliN_1		Flagellar motor switch protein FliN
+NDKHHKNJ_00519	gene	fliN_1		
+NDKHHKNJ_00520	CDS	fliM		Flagellar motor switch protein FliM
+NDKHHKNJ_00520	gene	fliM		
+NDKHHKNJ_00521	CDS	fliA		RNA polymerase sigma factor FliA
+NDKHHKNJ_00521	gene	fliA		
+NDKHHKNJ_00522	CDS			hypothetical protein
+NDKHHKNJ_00522	gene			
+NDKHHKNJ_00523	CDS	ylxH		Flagellum site-determining protein YlxH
+NDKHHKNJ_00523	gene	ylxH		
+NDKHHKNJ_00524	CDS	flhF		Flagellar biosynthesis protein FlhF
+NDKHHKNJ_00524	gene	flhF		
+NDKHHKNJ_00525	CDS	folK	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+NDKHHKNJ_00525	gene	folK		
+NDKHHKNJ_00526	CDS		3.4.11.-	Aminopeptidase
+NDKHHKNJ_00526	gene			
+NDKHHKNJ_00527	CDS	aroQ	4.2.1.10	3-dehydroquinate dehydratase
+NDKHHKNJ_00527	gene	aroQ		
+NDKHHKNJ_00528	CDS			hypothetical protein
+NDKHHKNJ_00528	gene			
+NDKHHKNJ_00529	CDS	rpsO		30S ribosomal protein S15
+NDKHHKNJ_00529	gene	rpsO		
+NDKHHKNJ_00530	CDS	flhA		Flagellar biosynthesis protein FlhA
+NDKHHKNJ_00530	gene	flhA		
+NDKHHKNJ_00531	CDS		3.1.4.17	3',5'-cyclic-nucleotide phosphodiesterase
+NDKHHKNJ_00531	gene			
+NDKHHKNJ_00532	CDS	cusR		Transcriptional regulatory protein CusR
+NDKHHKNJ_00532	gene	cusR		
+NDKHHKNJ_00533	CDS	cpdA	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+NDKHHKNJ_00533	gene	cpdA		
+NDKHHKNJ_00534	CDS	acsA	6.2.1.1	Acetyl-coenzyme A synthetase
+NDKHHKNJ_00534	gene	acsA		
+NDKHHKNJ_00535	CDS	rimP		Ribosome maturation factor RimP
+NDKHHKNJ_00535	gene	rimP		
+NDKHHKNJ_00536	CDS	rbfA		Ribosome-binding factor A
+NDKHHKNJ_00536	gene	rbfA		
+NDKHHKNJ_00537	CDS	infB		Translation initiation factor IF-2
+NDKHHKNJ_00537	gene	infB		
+NDKHHKNJ_00538	CDS			hypothetical protein
+NDKHHKNJ_00538	gene			
+NDKHHKNJ_00539	CDS	thrB	2.7.1.39	Homoserine kinase
+NDKHHKNJ_00539	gene	thrB		
+NDKHHKNJ_00540	CDS			hypothetical protein
+NDKHHKNJ_00540	gene			
+NDKHHKNJ_00541	CDS	lpxC	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+NDKHHKNJ_00541	gene	lpxC		
+NDKHHKNJ_00542	CDS	minC		putative septum site-determining protein MinC
+NDKHHKNJ_00542	gene	minC		
+NDKHHKNJ_00543	CDS			hypothetical protein
+NDKHHKNJ_00543	gene			
+NDKHHKNJ_00544	CDS			hypothetical protein
+NDKHHKNJ_00544	gene			
+NDKHHKNJ_00545	CDS			hypothetical protein
+NDKHHKNJ_00545	gene			
+NDKHHKNJ_00546	CDS			hypothetical protein
+NDKHHKNJ_00546	gene			
+NDKHHKNJ_00547	CDS	panB	2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase
+NDKHHKNJ_00547	gene	panB		
+NDKHHKNJ_00548	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+NDKHHKNJ_00548	gene	ruvB		
+NDKHHKNJ_00549	CDS	tatB		Sec-independent protein translocase protein TatB
+NDKHHKNJ_00549	gene	tatB		
+NDKHHKNJ_00550	CDS	tatC		Sec-independent protein translocase protein TatC
+NDKHHKNJ_00550	gene	tatC		
+NDKHHKNJ_00551	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+NDKHHKNJ_00551	gene	queA		
+NDKHHKNJ_00552	CDS	rsmG	2.1.1.170	Ribosomal RNA small subunit methyltransferase G
+NDKHHKNJ_00552	gene	rsmG		
+NDKHHKNJ_00553	CDS			hypothetical protein
+NDKHHKNJ_00553	gene			
+NDKHHKNJ_00554	CDS			hypothetical protein
+NDKHHKNJ_00554	gene			
+NDKHHKNJ_00555	tRNA			tRNA-Ser(gga)
+NDKHHKNJ_00555	gene			
+NDKHHKNJ_00556	CDS			hypothetical protein
+NDKHHKNJ_00556	gene			
+NDKHHKNJ_00557	CDS	cheY		Chemotaxis protein CheY 
+NDKHHKNJ_00557	gene	cheY		
+NDKHHKNJ_00558	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+NDKHHKNJ_00558	gene	prmA		
+NDKHHKNJ_00559	CDS	ftsH_1	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+NDKHHKNJ_00559	gene	ftsH_1		
+NDKHHKNJ_00560	CDS	pcs	2.7.8.24	Phosphatidylcholine synthase
+NDKHHKNJ_00560	gene	pcs		
+NDKHHKNJ_00561	CDS	copA_2	3.6.3.54	Copper-exporting P-type ATPase A
+NDKHHKNJ_00561	gene	copA_2		
+NDKHHKNJ_00562	CDS	copP		COP-associated protein
+NDKHHKNJ_00562	gene	copP		
+NDKHHKNJ_00563	CDS			hypothetical protein
+NDKHHKNJ_00563	gene			
+NDKHHKNJ_00564	CDS			hypothetical protein
+NDKHHKNJ_00564	gene			
+NDKHHKNJ_00565	CDS			hypothetical protein
+NDKHHKNJ_00565	gene			
+NDKHHKNJ_00566	CDS	nixA		High-affinity nickel-transport protein NixA
+NDKHHKNJ_00566	gene	nixA		
+NDKHHKNJ_00567	CDS			hypothetical protein
+NDKHHKNJ_00567	gene			
+NDKHHKNJ_00568	CDS		3.6.1.-	ATP/GTP phosphatase
+NDKHHKNJ_00568	gene			
+NDKHHKNJ_00569	CDS			hypothetical protein
+NDKHHKNJ_00569	gene			
+NDKHHKNJ_00570	CDS			hypothetical protein
+NDKHHKNJ_00570	gene			
+NDKHHKNJ_00571	CDS	msbA	3.6.3.-	Lipid A export ATP-binding/permease protein MsbA
+NDKHHKNJ_00571	gene	msbA		
+NDKHHKNJ_00572	CDS			hypothetical protein
+NDKHHKNJ_00572	gene			
+NDKHHKNJ_00573	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+NDKHHKNJ_00573	gene	pyrB		
+NDKHHKNJ_00574	CDS			hypothetical protein
+NDKHHKNJ_00574	gene			
+NDKHHKNJ_00575	CDS	tlyA	2.1.1.226	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+NDKHHKNJ_00575	gene	tlyA		
+NDKHHKNJ_00576	CDS	ribF		Riboflavin biosynthesis protein RibF
+NDKHHKNJ_00576	gene	ribF		
+NDKHHKNJ_00577	CDS	tkt	2.2.1.1	Transketolase
+NDKHHKNJ_00577	gene	tkt		
+NDKHHKNJ_00578	CDS			hypothetical protein
+NDKHHKNJ_00578	gene			
+NDKHHKNJ_00579	CDS	spoIIIE		DNA translocase SpoIIIE
+NDKHHKNJ_00579	gene	spoIIIE		
+NDKHHKNJ_00580	CDS	kgtP		Alpha-ketoglutarate permease
+NDKHHKNJ_00580	gene	kgtP		
+NDKHHKNJ_00581	CDS	flgG_1		Flagellar basal-body rod protein FlgG
+NDKHHKNJ_00581	gene	flgG_1		
+NDKHHKNJ_00582	CDS	uvrB		UvrABC system protein B
+NDKHHKNJ_00582	gene	uvrB		
+NDKHHKNJ_00583	CDS			hypothetical protein
+NDKHHKNJ_00583	gene			
+NDKHHKNJ_00584	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+NDKHHKNJ_00584	gene	purB		
+NDKHHKNJ_00585	CDS	porB	1.2.7.1	Pyruvate synthase subunit PorB
+NDKHHKNJ_00585	gene	porB		
+NDKHHKNJ_00586	CDS	porA	1.2.7.1	Pyruvate synthase subunit PorA
+NDKHHKNJ_00586	gene	porA		
+NDKHHKNJ_00587	CDS	porD		Pyruvate synthase subunit PorD
+NDKHHKNJ_00587	gene	porD		
+NDKHHKNJ_00588	CDS	porC	1.2.7.1	Pyruvate synthase subunit PorC
+NDKHHKNJ_00588	gene	porC		
+NDKHHKNJ_00589	CDS			hypothetical protein
+NDKHHKNJ_00589	gene			
+NDKHHKNJ_00590	CDS			hypothetical protein
+NDKHHKNJ_00590	gene			
+NDKHHKNJ_00591	CDS			hypothetical protein
+NDKHHKNJ_00591	gene			
+NDKHHKNJ_00592	CDS	adhA	1.1.1.-	putative formaldehyde dehydrogenase AdhA
+NDKHHKNJ_00592	gene	adhA		
+NDKHHKNJ_00593	CDS	glk	2.7.1.2	Glucokinase
+NDKHHKNJ_00593	gene	glk		
+NDKHHKNJ_00594	CDS	pgl	3.1.1.31	6-phosphogluconolactonase
+NDKHHKNJ_00594	gene	pgl		
+NDKHHKNJ_00595	CDS	zwf	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase
+NDKHHKNJ_00595	gene	zwf		
+NDKHHKNJ_00596	CDS	edd	4.2.1.12	Phosphogluconate dehydratase
+NDKHHKNJ_00596	gene	edd		
+NDKHHKNJ_00597	CDS	eda		KHG/KDPG aldolase
+NDKHHKNJ_00597	gene	eda		
+NDKHHKNJ_00598	CDS	hcpC_1	3.5.2.6	Putative beta-lactamase HcpC
+NDKHHKNJ_00598	gene	hcpC_1		
+NDKHHKNJ_00599	CDS			hypothetical protein
+NDKHHKNJ_00599	gene			
+NDKHHKNJ_00600	CDS			hypothetical protein
+NDKHHKNJ_00600	gene			
+NDKHHKNJ_00601	CDS	corA		Magnesium transport protein CorA
+NDKHHKNJ_00601	gene	corA		
+NDKHHKNJ_00602	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+NDKHHKNJ_00602	gene	pgk		
+NDKHHKNJ_00603	CDS	gapB	1.2.1.59	Glyceraldehyde-3-phosphate dehydrogenase 2
+NDKHHKNJ_00603	gene	gapB		
+NDKHHKNJ_00604	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+NDKHHKNJ_00604	gene	ung		
+NDKHHKNJ_00605	CDS			hypothetical protein
+NDKHHKNJ_00605	gene			
+NDKHHKNJ_00606	CDS			hypothetical protein
+NDKHHKNJ_00606	gene			
+NDKHHKNJ_00607	CDS	ctpB	3.4.21.102	Carboxy-terminal processing protease CtpB
+NDKHHKNJ_00607	gene	ctpB		
+NDKHHKNJ_00608	CDS			hypothetical protein
+NDKHHKNJ_00608	gene			
+NDKHHKNJ_00609	CDS	dpnA_1	2.1.1.72	Modification methylase DpnIIB
+NDKHHKNJ_00609	gene	dpnA_1		
+NDKHHKNJ_00610	CDS			hypothetical protein
+NDKHHKNJ_00610	gene			
+NDKHHKNJ_00611	CDS			hypothetical protein
+NDKHHKNJ_00611	gene			
+NDKHHKNJ_00612	CDS	nadC	2.4.2.19	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+NDKHHKNJ_00612	gene	nadC		
+NDKHHKNJ_00613	CDS	nadA	2.5.1.72	Quinolinate synthase A
+NDKHHKNJ_00613	gene	nadA		
+NDKHHKNJ_00614	CDS	psd	4.1.1.65	Phosphatidylserine decarboxylase proenzyme
+NDKHHKNJ_00614	gene	psd		
+NDKHHKNJ_00615	CDS			hypothetical protein
+NDKHHKNJ_00615	gene			
+NDKHHKNJ_00616	CDS			hypothetical protein
+NDKHHKNJ_00616	gene			
+NDKHHKNJ_00617	CDS	plqA	2.5.1.-	4-hydroxybenzoate solanesyltransferase
+NDKHHKNJ_00617	gene	plqA		
+NDKHHKNJ_00618	CDS			hypothetical protein
+NDKHHKNJ_00618	gene			
+NDKHHKNJ_00619	CDS	dnaB	3.6.4.12	Replicative DNA helicase
+NDKHHKNJ_00619	gene	dnaB		
+NDKHHKNJ_00620	CDS	nnr		Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+NDKHHKNJ_00620	gene	nnr		
+NDKHHKNJ_00621	CDS	senX3	2.7.13.3	Signal-transduction histidine kinase senX3
+NDKHHKNJ_00621	gene	senX3		
+NDKHHKNJ_00622	CDS	qseB		Transcriptional regulatory protein QseB
+NDKHHKNJ_00622	gene	qseB		
+NDKHHKNJ_00623	CDS	mboIIR	3.1.21.4	Type-2 restriction enzyme MboII
+NDKHHKNJ_00623	gene	mboIIR		
+NDKHHKNJ_00624	CDS	mboIIM	2.1.1.72	Modification methylase MboII
+NDKHHKNJ_00624	gene	mboIIM		
+NDKHHKNJ_00625	CDS	rsrIM	2.1.1.72	Modification methylase RsrI
+NDKHHKNJ_00625	gene	rsrIM		
+NDKHHKNJ_00626	CDS			hypothetical protein
+NDKHHKNJ_00626	gene			
+NDKHHKNJ_00627	CDS	dpnA_2	2.1.1.72	Modification methylase DpnIIB
+NDKHHKNJ_00627	gene	dpnA_2		
+NDKHHKNJ_00628	CDS			hypothetical protein
+NDKHHKNJ_00628	gene			
+NDKHHKNJ_00629	CDS			hypothetical protein
+NDKHHKNJ_00629	gene			
+NDKHHKNJ_00630	CDS	mreB		Rod shape-determining protein MreB
+NDKHHKNJ_00630	gene	mreB		
+NDKHHKNJ_00631	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+NDKHHKNJ_00631	gene	clpX		
+NDKHHKNJ_00632	CDS	lpxA	2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+NDKHHKNJ_00632	gene	lpxA		
+NDKHHKNJ_00633	CDS	fabZ	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+NDKHHKNJ_00633	gene	fabZ		
+NDKHHKNJ_00634	CDS	fliW2		Flagellar assembly factor FliW 2
+NDKHHKNJ_00634	gene	fliW2		
+NDKHHKNJ_00635	CDS	bamD		Outer membrane protein assembly factor BamD
+NDKHHKNJ_00635	gene	bamD		
+NDKHHKNJ_00636	CDS	lon	3.4.21.53	Lon protease
+NDKHHKNJ_00636	gene	lon		
+NDKHHKNJ_00637	CDS	tyrA_1	1.3.1.12	Prephenate dehydrogenase
+NDKHHKNJ_00637	gene	tyrA_1		
+NDKHHKNJ_00638	CDS			hypothetical protein
+NDKHHKNJ_00638	gene			
+NDKHHKNJ_00639	CDS			hypothetical protein
+NDKHHKNJ_00639	gene			
+NDKHHKNJ_00640	CDS			hypothetical protein
+NDKHHKNJ_00640	gene			
+NDKHHKNJ_00641	CDS	fbp	3.1.3.11	Fructose-1,6-bisphosphatase class 1
+NDKHHKNJ_00641	gene	fbp		
+NDKHHKNJ_00642	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+NDKHHKNJ_00642	gene	rpe		
+NDKHHKNJ_00643	CDS	polC	2.7.7.7	DNA polymerase III PolC-type
+NDKHHKNJ_00643	gene	polC		
+NDKHHKNJ_00644	CDS			hypothetical protein
+NDKHHKNJ_00644	gene			
+NDKHHKNJ_00645	CDS			hypothetical protein
+NDKHHKNJ_00645	gene			
+NDKHHKNJ_00646	CDS			hypothetical protein
+NDKHHKNJ_00646	gene			
+NDKHHKNJ_00647	CDS			hypothetical protein
+NDKHHKNJ_00647	gene			
+NDKHHKNJ_00648	CDS			hypothetical protein
+NDKHHKNJ_00648	gene			
+NDKHHKNJ_00649	CDS			hypothetical protein
+NDKHHKNJ_00649	gene			
+NDKHHKNJ_00650	CDS	recN		DNA repair protein RecN
+NDKHHKNJ_00650	gene	recN		
+NDKHHKNJ_00651	CDS	nadK	2.7.1.23	NAD kinase
+NDKHHKNJ_00651	gene	nadK		
+NDKHHKNJ_00652	CDS			hypothetical protein
+NDKHHKNJ_00652	gene			
+NDKHHKNJ_00653	CDS			hypothetical protein
+NDKHHKNJ_00653	gene			
+NDKHHKNJ_00654	CDS			hypothetical protein
+NDKHHKNJ_00654	gene			
+NDKHHKNJ_00655	CDS	ald	1.4.1.1	Alanine dehydrogenase
+NDKHHKNJ_00655	gene	ald		
+NDKHHKNJ_00656	CDS	rocF	3.5.3.1	Arginase
+NDKHHKNJ_00656	gene	rocF		
+NDKHHKNJ_00657	CDS			hypothetical protein
+NDKHHKNJ_00657	gene			
+NDKHHKNJ_00658	CDS			hypothetical protein
+NDKHHKNJ_00658	gene			
+NDKHHKNJ_00659	CDS			hypothetical protein
+NDKHHKNJ_00659	gene			
+NDKHHKNJ_00660	CDS			hypothetical protein
+NDKHHKNJ_00660	gene			
+NDKHHKNJ_00661	CDS	flgG_2		Flagellar basal-body rod protein FlgG
+NDKHHKNJ_00661	gene	flgG_2		
+NDKHHKNJ_00662	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+NDKHHKNJ_00662	gene	tsaD		
+NDKHHKNJ_00663	CDS	pdxA	1.1.1.262	4-hydroxythreonine-4-phosphate dehydrogenase
+NDKHHKNJ_00663	gene	pdxA		
+NDKHHKNJ_00664	CDS	pdxJ	2.6.99.2	Pyridoxine 5'-phosphate synthase
+NDKHHKNJ_00664	gene	pdxJ		
+NDKHHKNJ_00665	CDS	tagO	2.7.8.33	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+NDKHHKNJ_00665	gene	tagO		
+NDKHHKNJ_00666	CDS	lpxE_1	3.1.-.-	Lipid A 1-phosphatase
+NDKHHKNJ_00666	gene	lpxE_1		
+NDKHHKNJ_00667	CDS			hypothetical protein
+NDKHHKNJ_00667	gene			
+NDKHHKNJ_00668	CDS			hypothetical protein
+NDKHHKNJ_00668	gene			
+NDKHHKNJ_00669	CDS	metI		D-methionine transport system permease protein MetI
+NDKHHKNJ_00669	gene	metI		
+NDKHHKNJ_00670	CDS	metN	3.6.3.-	Methionine import ATP-binding protein MetN
+NDKHHKNJ_00670	gene	metN		
+NDKHHKNJ_00671	CDS	flhB_2		Flagellar biosynthetic protein FlhB
+NDKHHKNJ_00671	gene	flhB_2		
+NDKHHKNJ_00672	CDS	ribE	2.5.1.9	Riboflavin synthase
+NDKHHKNJ_00672	gene	ribE		
+NDKHHKNJ_00673	CDS	ycfH	3.1.-.-	putative metal-dependent hydrolase YcfH
+NDKHHKNJ_00673	gene	ycfH		
+NDKHHKNJ_00674	CDS	mltD	4.2.2.-	Membrane-bound lytic murein transglycosylase D
+NDKHHKNJ_00674	gene	mltD		
+NDKHHKNJ_00675	CDS	rlpA	4.2.2.-	Endolytic peptidoglycan transglycosylase RlpA
+NDKHHKNJ_00675	gene	rlpA		
+NDKHHKNJ_00676	CDS	kdsC	3.1.3.45	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+NDKHHKNJ_00676	gene	kdsC		
+NDKHHKNJ_00677	CDS			hypothetical protein
+NDKHHKNJ_00677	gene			
+NDKHHKNJ_00678	CDS	lptA		Lipopolysaccharide export system protein LptA
+NDKHHKNJ_00678	gene	lptA		
+NDKHHKNJ_00679	CDS	engB		putative GTP-binding protein EngB
+NDKHHKNJ_00679	gene	engB		
+NDKHHKNJ_00680	CDS			hypothetical protein
+NDKHHKNJ_00680	gene			
+NDKHHKNJ_00681	CDS	mrdA	3.4.16.4	Peptidoglycan D,D-transpeptidase MrdA
+NDKHHKNJ_00681	gene	mrdA		
+NDKHHKNJ_00682	CDS	metQ		D-methionine-binding lipoprotein MetQ
+NDKHHKNJ_00682	gene	metQ		
+NDKHHKNJ_00683	CDS	tsaA	1.11.1.15	putative peroxiredoxin
+NDKHHKNJ_00683	gene	tsaA		
+NDKHHKNJ_00684	CDS			hypothetical protein
+NDKHHKNJ_00684	gene			
+NDKHHKNJ_00685	CDS			hypothetical protein
+NDKHHKNJ_00685	gene			
+NDKHHKNJ_00686	CDS			hypothetical protein
+NDKHHKNJ_00686	gene			
+NDKHHKNJ_00687	CDS			hypothetical protein
+NDKHHKNJ_00687	gene			
+NDKHHKNJ_00688	CDS	cagT		CAG pathogenicity island protein 12
+NDKHHKNJ_00688	gene	cagT		
+NDKHHKNJ_00689	CDS			hypothetical protein
+NDKHHKNJ_00689	gene			
+NDKHHKNJ_00690	CDS	cagS		CAG pathogenicity island protein 13
+NDKHHKNJ_00690	gene	cagS		
+NDKHHKNJ_00691	CDS			hypothetical protein
+NDKHHKNJ_00691	gene			
+NDKHHKNJ_00692	CDS			hypothetical protein
+NDKHHKNJ_00692	gene			
+NDKHHKNJ_00693	CDS			hypothetical protein
+NDKHHKNJ_00693	gene			
+NDKHHKNJ_00694	CDS			hypothetical protein
+NDKHHKNJ_00694	gene			
+NDKHHKNJ_00695	CDS			hypothetical protein
+NDKHHKNJ_00695	gene			
+NDKHHKNJ_00696	CDS			hypothetical protein
+NDKHHKNJ_00696	gene			
+NDKHHKNJ_00697	CDS			hypothetical protein
+NDKHHKNJ_00697	gene			
+NDKHHKNJ_00698	CDS			hypothetical protein
+NDKHHKNJ_00698	gene			
+NDKHHKNJ_00699	CDS	virB4_1		Type IV secretion system protein virB4
+NDKHHKNJ_00699	gene	virB4_1		
+NDKHHKNJ_00700	CDS			hypothetical protein
+NDKHHKNJ_00700	gene			
+NDKHHKNJ_00701	CDS			hypothetical protein
+NDKHHKNJ_00701	gene			
+NDKHHKNJ_00702	CDS			hypothetical protein
+NDKHHKNJ_00702	gene			
+NDKHHKNJ_00703	CDS	cagA		Cytotoxicity-associated immunodominant antigen
+NDKHHKNJ_00703	gene	cagA		
+NDKHHKNJ_00704	CDS			hypothetical protein
+NDKHHKNJ_00704	gene			
+NDKHHKNJ_00705	CDS			hypothetical protein
+NDKHHKNJ_00705	gene			
+NDKHHKNJ_00706	CDS	murI	5.1.1.3	Glutamate racemase
+NDKHHKNJ_00706	gene	murI		
+NDKHHKNJ_00707	CDS	rho	3.6.4.-	Transcription termination factor Rho
+NDKHHKNJ_00707	gene	rho		
+NDKHHKNJ_00708	CDS	rpmE		50S ribosomal protein L31
+NDKHHKNJ_00708	gene	rpmE		
+NDKHHKNJ_00709	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+NDKHHKNJ_00709	gene	rsmI		
+NDKHHKNJ_00710	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+NDKHHKNJ_00710	gene			
+NDKHHKNJ_00711	CDS			hypothetical protein
+NDKHHKNJ_00711	gene			
+NDKHHKNJ_00712	CDS			hypothetical protein
+NDKHHKNJ_00712	gene			
+NDKHHKNJ_00713	CDS			hypothetical protein
+NDKHHKNJ_00713	gene			
+NDKHHKNJ_00714	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+NDKHHKNJ_00714	gene	accA		
+NDKHHKNJ_00715	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+NDKHHKNJ_00715	gene	fabF		
+NDKHHKNJ_00716	CDS	acpP_2		Acyl carrier protein
+NDKHHKNJ_00716	gene	acpP_2		
+NDKHHKNJ_00717	CDS	fabG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+NDKHHKNJ_00717	gene	fabG		
+NDKHHKNJ_00718	CDS	rpsU		30S ribosomal protein S21
+NDKHHKNJ_00718	gene	rpsU		
+NDKHHKNJ_00719	CDS			hypothetical protein
+NDKHHKNJ_00719	gene			
+NDKHHKNJ_00720	CDS			hypothetical protein
+NDKHHKNJ_00720	gene			
+NDKHHKNJ_00721	CDS	rclC		Inner membrane protein RclC
+NDKHHKNJ_00721	gene	rclC		
+NDKHHKNJ_00722	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+NDKHHKNJ_00722	gene	dapF		
+NDKHHKNJ_00723	CDS			hypothetical protein
+NDKHHKNJ_00723	gene			
+NDKHHKNJ_00724	CDS	pqqE		Coenzyme PQQ synthesis protein E
+NDKHHKNJ_00724	gene	pqqE		
+NDKHHKNJ_00725	CDS	ychF		Ribosome-binding ATPase YchF
+NDKHHKNJ_00725	gene	ychF		
+NDKHHKNJ_00726	CDS	pepA	3.4.11.1	Cytosol aminopeptidase
+NDKHHKNJ_00726	gene	pepA		
+NDKHHKNJ_00727	CDS	yohD_2		Inner membrane protein YohD
+NDKHHKNJ_00727	gene	yohD_2		
+NDKHHKNJ_00728	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+NDKHHKNJ_00728	gene	apt		
+NDKHHKNJ_00729	CDS			hypothetical protein
+NDKHHKNJ_00729	gene			
+NDKHHKNJ_00730	CDS	ywlF	5.3.1.-	Putative sugar phosphate isomerase YwlF
+NDKHHKNJ_00730	gene	ywlF		
+NDKHHKNJ_00731	CDS			hypothetical protein
+NDKHHKNJ_00731	gene			
+NDKHHKNJ_00732	CDS	lepB	3.4.21.89	Signal peptidase I
+NDKHHKNJ_00732	gene	lepB		
+NDKHHKNJ_00733	CDS	folD		Bifunctional protein FolD protein
+NDKHHKNJ_00733	gene	folD		
+NDKHHKNJ_00734	CDS	mdoB	2.7.8.20	Phosphoglycerol transferase I
+NDKHHKNJ_00734	gene	mdoB		
+NDKHHKNJ_00735	CDS			hypothetical protein
+NDKHHKNJ_00735	gene			
+NDKHHKNJ_00736	CDS			hypothetical protein
+NDKHHKNJ_00736	gene			
+NDKHHKNJ_00737	CDS	pyrC_1	3.5.2.3	Dihydroorotase
+NDKHHKNJ_00737	gene	pyrC_1		
+NDKHHKNJ_00738	CDS			hypothetical protein
+NDKHHKNJ_00738	gene			
+NDKHHKNJ_00739	CDS			hypothetical protein
+NDKHHKNJ_00739	gene			
+NDKHHKNJ_00740	CDS	fliN_2		Flagellar motor switch protein FliN
+NDKHHKNJ_00740	gene	fliN_2		
+NDKHHKNJ_00741	CDS	nth_1	4.2.99.18	Endonuclease III
+NDKHHKNJ_00741	gene	nth_1		
+NDKHHKNJ_00742	CDS	feoA		Putative Fe(2+) transport protein A
+NDKHHKNJ_00742	gene	feoA		
+NDKHHKNJ_00743	CDS			hypothetical protein
+NDKHHKNJ_00743	gene			
+NDKHHKNJ_00744	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+NDKHHKNJ_00744	gene	mltG		
+NDKHHKNJ_00745	CDS	hydA_1	1.12.7.2	Periplasmic [Fe] hydrogenase large subunit
+NDKHHKNJ_00745	gene	hydA_1		
+NDKHHKNJ_00746	CDS	korA	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+NDKHHKNJ_00746	gene	korA		
+NDKHHKNJ_00747	CDS	korB	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+NDKHHKNJ_00747	gene	korB		
+NDKHHKNJ_00748	CDS			hypothetical protein
+NDKHHKNJ_00748	gene			
+NDKHHKNJ_00749	CDS			hypothetical protein
+NDKHHKNJ_00749	gene			
+NDKHHKNJ_00750	CDS			hypothetical protein
+NDKHHKNJ_00750	gene			
+NDKHHKNJ_00751	CDS			hypothetical protein
+NDKHHKNJ_00751	gene			
+NDKHHKNJ_00752	CDS	dsbB		Disulfide bond formation protein B
+NDKHHKNJ_00752	gene	dsbB		
+NDKHHKNJ_00753	CDS			hypothetical protein
+NDKHHKNJ_00753	gene			
+NDKHHKNJ_00754	CDS	mrcA		Penicillin-binding protein 1A
+NDKHHKNJ_00754	gene	mrcA		
+NDKHHKNJ_00755	CDS	bioF	2.3.1.47	8-amino-7-oxononanoate synthase 2
+NDKHHKNJ_00755	gene	bioF		
+NDKHHKNJ_00756	CDS	mcpU		Methyl-accepting chemotaxis protein McpU
+NDKHHKNJ_00756	gene	mcpU		
+NDKHHKNJ_00757	CDS			putative ABC transporter ATP-binding protein
+NDKHHKNJ_00757	gene			
+NDKHHKNJ_00758	CDS			hypothetical protein
+NDKHHKNJ_00758	gene			
+NDKHHKNJ_00759	CDS	flaA		Flagellin A
+NDKHHKNJ_00759	gene	flaA		
+NDKHHKNJ_00760	CDS	nth_2	4.2.99.18	Endonuclease III
+NDKHHKNJ_00760	gene	nth_2		
+NDKHHKNJ_00761	CDS			hypothetical protein
+NDKHHKNJ_00761	gene			
+NDKHHKNJ_00762	CDS	hemE	4.1.1.37	Uroporphyrinogen decarboxylase
+NDKHHKNJ_00762	gene	hemE		
+NDKHHKNJ_00763	CDS			hypothetical protein
+NDKHHKNJ_00763	gene			
+NDKHHKNJ_00764	CDS	czcB		Cobalt-zinc-cadmium resistance protein CzcB
+NDKHHKNJ_00764	gene	czcB		
+NDKHHKNJ_00765	CDS	mdtC		Multidrug resistance protein MdtC
+NDKHHKNJ_00765	gene	mdtC		
+NDKHHKNJ_00766	CDS			hypothetical protein
+NDKHHKNJ_00766	gene			
+NDKHHKNJ_00767	CDS	vacA_1		Vacuolating cytotoxin autotransporter
+NDKHHKNJ_00767	gene	vacA_1		
+NDKHHKNJ_00768	CDS			hypothetical protein
+NDKHHKNJ_00768	gene			
+NDKHHKNJ_00769	CDS	yxdL		ABC transporter ATP-binding protein YxdL
+NDKHHKNJ_00769	gene	yxdL		
+NDKHHKNJ_00770	CDS			hypothetical protein
+NDKHHKNJ_00770	gene			
+NDKHHKNJ_00771	CDS	ligA	6.5.1.2	DNA ligase
+NDKHHKNJ_00771	gene	ligA		
+NDKHHKNJ_00772	CDS	cheV_1		Chemotaxis protein CheV
+NDKHHKNJ_00772	gene	cheV_1		
+NDKHHKNJ_00773	CDS	aspS	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+NDKHHKNJ_00773	gene	aspS		
+NDKHHKNJ_00774	CDS	adk	2.7.4.3	Adenylate kinase
+NDKHHKNJ_00774	gene	adk		
+NDKHHKNJ_00775	CDS			hypothetical protein
+NDKHHKNJ_00775	gene			
+NDKHHKNJ_00776	CDS			hypothetical protein
+NDKHHKNJ_00776	gene			
+NDKHHKNJ_00777	CDS	ppa	3.6.1.1	Inorganic pyrophosphatase
+NDKHHKNJ_00777	gene	ppa		
+NDKHHKNJ_00778	CDS	mutS2	3.1.-.-	Endonuclease MutS2
+NDKHHKNJ_00778	gene	mutS2		
+NDKHHKNJ_00779	CDS			hypothetical protein
+NDKHHKNJ_00779	gene			
+NDKHHKNJ_00780	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+NDKHHKNJ_00780	gene	murC		
+NDKHHKNJ_00781	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+NDKHHKNJ_00781	gene	dapL		
+NDKHHKNJ_00782	CDS	ispG	1.17.7.3	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+NDKHHKNJ_00782	gene	ispG		
+NDKHHKNJ_00783	CDS	dapD	2.3.1.117	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+NDKHHKNJ_00783	gene	dapD		
+NDKHHKNJ_00784	CDS	hcpD_1	3.5.2.6	Putative beta-lactamase HcpD
+NDKHHKNJ_00784	gene	hcpD_1		
+NDKHHKNJ_00785	CDS			hypothetical protein
+NDKHHKNJ_00785	gene			
+NDKHHKNJ_00786	CDS	mdaB		Modulator of drug activity B
+NDKHHKNJ_00786	gene	mdaB		
+NDKHHKNJ_00787	CDS	hydA_2	1.12.5.1	Quinone-reactive Ni/Fe-hydrogenase small chain
+NDKHHKNJ_00787	gene	hydA_2		
+NDKHHKNJ_00788	CDS	hydB	1.12.5.1	Quinone-reactive Ni/Fe-hydrogenase large chain
+NDKHHKNJ_00788	gene	hydB		
+NDKHHKNJ_00789	CDS	hydC		Quinone-reactive Ni/Fe-hydrogenase B-type cytochrome subunit
+NDKHHKNJ_00789	gene	hydC		
+NDKHHKNJ_00790	CDS	hybD	3.4.23.-	Hydrogenase 2 maturation protease
+NDKHHKNJ_00790	gene	hybD		
+NDKHHKNJ_00791	CDS			hypothetical protein
+NDKHHKNJ_00791	gene			
+NDKHHKNJ_00792	CDS			hypothetical protein
+NDKHHKNJ_00792	gene			
+NDKHHKNJ_00793	CDS			hypothetical protein
+NDKHHKNJ_00793	gene			
+NDKHHKNJ_00794	CDS			hypothetical protein
+NDKHHKNJ_00794	gene			
+NDKHHKNJ_00795	CDS	queC	6.3.4.20	7-cyano-7-deazaguanine synthase
+NDKHHKNJ_00795	gene	queC		
+NDKHHKNJ_00796	CDS	cca	2.7.7.72	CCA-adding enzyme
+NDKHHKNJ_00796	gene	cca		
+NDKHHKNJ_00797	CDS			hypothetical protein
+NDKHHKNJ_00797	gene			
+NDKHHKNJ_00798	CDS	yfkO	1.-.-.-	Putative NAD(P)H nitroreductase YfkO
+NDKHHKNJ_00798	gene	yfkO		
+NDKHHKNJ_00799	CDS	gltX1	6.1.1.17	Glutamate--tRNA ligase 1
+NDKHHKNJ_00799	gene	gltX1		
+NDKHHKNJ_00800	CDS			hypothetical protein
+NDKHHKNJ_00800	gene			
+NDKHHKNJ_00801	CDS	slt	4.2.2.-	Soluble lytic murein transglycosylase
+NDKHHKNJ_00801	gene	slt		
+NDKHHKNJ_00802	CDS	gtaB	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+NDKHHKNJ_00802	gene	gtaB		
+NDKHHKNJ_00803	CDS			hypothetical protein
+NDKHHKNJ_00803	gene			
+NDKHHKNJ_00804	CDS	murA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+NDKHHKNJ_00804	gene	murA		
+NDKHHKNJ_00805	CDS	aspA	4.3.1.1	Aspartate ammonia-lyase
+NDKHHKNJ_00805	gene	aspA		
+NDKHHKNJ_00806	CDS			hypothetical protein
+NDKHHKNJ_00806	gene			
+NDKHHKNJ_00807	CDS			hypothetical protein
+NDKHHKNJ_00807	gene			
+NDKHHKNJ_00808	CDS	yafQ_1	3.1.-.-	mRNA interferase YafQ
+NDKHHKNJ_00808	gene	yafQ_1		
+NDKHHKNJ_00809	CDS			hypothetical protein
+NDKHHKNJ_00809	gene			
+NDKHHKNJ_00810	CDS	yafQ_2	3.1.-.-	mRNA interferase YafQ
+NDKHHKNJ_00810	gene	yafQ_2		
+NDKHHKNJ_00811	CDS			hypothetical protein
+NDKHHKNJ_00811	gene			
+NDKHHKNJ_00812	CDS		1.-.-.-	putative oxidoreductase
+NDKHHKNJ_00812	gene			
+NDKHHKNJ_00813	CDS	hmuU		Hemin transport system permease protein HmuU
+NDKHHKNJ_00813	gene	hmuU		
+NDKHHKNJ_00814	CDS			putative ABC transporter ATP-binding protein
+NDKHHKNJ_00814	gene			
+NDKHHKNJ_00815	CDS	vacA_2		Vacuolating cytotoxin autotransporter
+NDKHHKNJ_00815	gene	vacA_2		
+NDKHHKNJ_00816	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+NDKHHKNJ_00816	gene	cysS		
+NDKHHKNJ_00817	CDS	murJ		Lipid II flippase MurJ
+NDKHHKNJ_00817	gene	murJ		
+NDKHHKNJ_00818	CDS			hypothetical protein
+NDKHHKNJ_00818	gene			
+NDKHHKNJ_00819	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+NDKHHKNJ_00819	gene	ruvA		
+NDKHHKNJ_00820	CDS			hypothetical protein
+NDKHHKNJ_00820	gene			
+NDKHHKNJ_00821	CDS			hypothetical protein
+NDKHHKNJ_00821	gene			
+NDKHHKNJ_00822	CDS			hypothetical protein
+NDKHHKNJ_00822	gene			
+NDKHHKNJ_00823	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+NDKHHKNJ_00823	gene	ruvC		
+NDKHHKNJ_00824	CDS	tdhA		TonB-dependent heme receptor A
+NDKHHKNJ_00824	gene	tdhA		
+NDKHHKNJ_00825	CDS	katA	1.11.1.6	Catalase
+NDKHHKNJ_00825	gene	katA		
+NDKHHKNJ_00826	CDS			hypothetical protein
+NDKHHKNJ_00826	gene			
+NDKHHKNJ_00827	CDS			hypothetical protein
+NDKHHKNJ_00827	gene			
+NDKHHKNJ_00828	CDS			hypothetical protein
+NDKHHKNJ_00828	gene			
+NDKHHKNJ_00829	CDS	cdh	3.6.1.26	CDP-diacylglycerol pyrophosphatase
+NDKHHKNJ_00829	gene	cdh		
+NDKHHKNJ_00830	CDS	flgE_1		Flagellar hook protein FlgE
+NDKHHKNJ_00830	gene	flgE_1		
+NDKHHKNJ_00831	CDS	hypA		Hydrogenase/urease nickel incorporation protein HypA
+NDKHHKNJ_00831	gene	hypA		
+NDKHHKNJ_00832	CDS			hypothetical protein
+NDKHHKNJ_00832	gene			
+NDKHHKNJ_00833	CDS	lpxB	2.4.1.182	Lipid-A-disaccharide synthase
+NDKHHKNJ_00833	gene	lpxB		
+NDKHHKNJ_00834	CDS	greA		Transcription elongation factor GreA
+NDKHHKNJ_00834	gene	greA		
+NDKHHKNJ_00835	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+NDKHHKNJ_00835	gene	dut		
+NDKHHKNJ_00836	CDS			hypothetical protein
+NDKHHKNJ_00836	gene			
+NDKHHKNJ_00837	CDS	pgbB		Plasminogen-binding protein PgbB
+NDKHHKNJ_00837	gene	pgbB		
+NDKHHKNJ_00838	CDS	coaX	2.7.1.33	Type III pantothenate kinase
+NDKHHKNJ_00838	gene	coaX		
+NDKHHKNJ_00839	CDS			hypothetical protein
+NDKHHKNJ_00839	gene			
+NDKHHKNJ_00840	CDS	gmhB	3.1.3.82	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+NDKHHKNJ_00840	gene	gmhB		
+NDKHHKNJ_00841	CDS	hldD	5.1.3.20	ADP-L-glycero-D-manno-heptose-6-epimerase
+NDKHHKNJ_00841	gene	hldD		
+NDKHHKNJ_00842	CDS	hldE		Bifunctional protein HldE
+NDKHHKNJ_00842	gene	hldE		
+NDKHHKNJ_00843	CDS	gmhA1	5.3.1.28	Phosphoheptose isomerase 1
+NDKHHKNJ_00843	gene	gmhA1		
+NDKHHKNJ_00844	CDS			hypothetical protein
+NDKHHKNJ_00844	gene			
+NDKHHKNJ_00845	CDS	patA	2.3.1.-	Peptidoglycan O-acetyltransferase
+NDKHHKNJ_00845	gene	patA		
+NDKHHKNJ_00846	CDS	guaC	1.7.1.7	GMP reductase
+NDKHHKNJ_00846	gene	guaC		
+NDKHHKNJ_00847	CDS	ybiT		putative ABC transporter ATP-binding protein YbiT
+NDKHHKNJ_00847	gene	ybiT		
+NDKHHKNJ_00848	CDS			hypothetical protein
+NDKHHKNJ_00848	gene			
+NDKHHKNJ_00849	CDS			hypothetical protein
+NDKHHKNJ_00849	gene			
+NDKHHKNJ_00850	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+NDKHHKNJ_00850	gene			
+NDKHHKNJ_00851	CDS			hypothetical protein
+NDKHHKNJ_00851	gene			
+NDKHHKNJ_00852	CDS	hemB	4.2.1.24	Delta-aminolevulinic acid dehydratase
+NDKHHKNJ_00852	gene	hemB		
+NDKHHKNJ_00853	CDS			putative transcriptional regulatory protein
+NDKHHKNJ_00853	gene			
+NDKHHKNJ_00854	CDS	hcpD_2	3.5.2.6	Putative beta-lactamase HcpD
+NDKHHKNJ_00854	gene	hcpD_2		
+NDKHHKNJ_00855	CDS			hypothetical protein
+NDKHHKNJ_00855	gene			
+NDKHHKNJ_00856	CDS			hypothetical protein
+NDKHHKNJ_00856	gene			
+NDKHHKNJ_00857	CDS	aroK	2.7.1.71	Shikimate kinase
+NDKHHKNJ_00857	gene	aroK		
+NDKHHKNJ_00858	CDS			hypothetical protein
+NDKHHKNJ_00858	gene			
+NDKHHKNJ_00859	CDS			hypothetical protein
+NDKHHKNJ_00859	gene			
+NDKHHKNJ_00860	CDS	eno	4.2.1.11	Enolase
+NDKHHKNJ_00860	gene	eno		
+NDKHHKNJ_00861	CDS	recA		Protein RecA
+NDKHHKNJ_00861	gene	recA		
+NDKHHKNJ_00862	CDS	mqnD	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+NDKHHKNJ_00862	gene	mqnD		
+NDKHHKNJ_00863	CDS			hypothetical protein
+NDKHHKNJ_00863	gene			
+NDKHHKNJ_00864	CDS			hypothetical protein
+NDKHHKNJ_00864	gene			
+NDKHHKNJ_00865	CDS			hypothetical protein
+NDKHHKNJ_00865	gene			
+NDKHHKNJ_00866	CDS			hypothetical protein
+NDKHHKNJ_00866	gene			
+NDKHHKNJ_00867	CDS			hypothetical protein
+NDKHHKNJ_00867	gene			
+NDKHHKNJ_00868	CDS	ccoP		Cbb3-type cytochrome c oxidase subunit CcoP
+NDKHHKNJ_00868	gene	ccoP		
+NDKHHKNJ_00869	CDS			hypothetical protein
+NDKHHKNJ_00869	gene			
+NDKHHKNJ_00870	CDS			hypothetical protein
+NDKHHKNJ_00870	gene			
+NDKHHKNJ_00871	CDS	ccoN1	1.9.3.1	Cbb3-type cytochrome c oxidase subunit CcoN1
+NDKHHKNJ_00871	gene	ccoN1		
+NDKHHKNJ_00872	CDS	citT_1		Citrate carrier
+NDKHHKNJ_00872	gene	citT_1		
+NDKHHKNJ_00873	CDS	citT_2		Citrate carrier
+NDKHHKNJ_00873	gene	citT_2		
+NDKHHKNJ_00874	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+NDKHHKNJ_00874	gene	mutY		
+NDKHHKNJ_00875	CDS	lldP_1		L-lactate permease
+NDKHHKNJ_00875	gene	lldP_1		
+NDKHHKNJ_00876	CDS	lldP_2		L-lactate permease
+NDKHHKNJ_00876	gene	lldP_2		
+NDKHHKNJ_00877	CDS	lutA		Lactate utilization protein A
+NDKHHKNJ_00877	gene	lutA		
+NDKHHKNJ_00878	CDS	lutB		Lactate utilization protein B
+NDKHHKNJ_00878	gene	lutB		
+NDKHHKNJ_00879	CDS	lutC		Lactate utilization protein C
+NDKHHKNJ_00879	gene	lutC		
+NDKHHKNJ_00880	CDS	bcp	1.11.1.15	Putative peroxiredoxin bcp
+NDKHHKNJ_00880	gene	bcp		
+NDKHHKNJ_00881	CDS			hypothetical protein
+NDKHHKNJ_00881	gene			
+NDKHHKNJ_00882	CDS	aroH	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+NDKHHKNJ_00882	gene	aroH		
+NDKHHKNJ_00883	CDS	sdaC		Serine transporter
+NDKHHKNJ_00883	gene	sdaC		
+NDKHHKNJ_00884	CDS	sdaA	4.3.1.17	L-serine dehydratase 1
+NDKHHKNJ_00884	gene	sdaA		
+NDKHHKNJ_00885	CDS			hypothetical protein
+NDKHHKNJ_00885	gene			
+NDKHHKNJ_00886	CDS			hypothetical protein
+NDKHHKNJ_00886	gene			
+NDKHHKNJ_00887	CDS			hypothetical protein
+NDKHHKNJ_00887	gene			
+NDKHHKNJ_00888	CDS	rplT		50S ribosomal protein L20
+NDKHHKNJ_00888	gene	rplT		
+NDKHHKNJ_00889	CDS	rpmI		50S ribosomal protein L35
+NDKHHKNJ_00889	gene	rpmI		
+NDKHHKNJ_00890	CDS	infC		Translation initiation factor IF-3
+NDKHHKNJ_00890	gene	infC		
+NDKHHKNJ_00891	CDS	thrZ	6.1.1.3	Threonine--tRNA ligase 2
+NDKHHKNJ_00891	gene	thrZ		
+NDKHHKNJ_00892	CDS	ppsA	2.7.9.2	Phosphoenolpyruvate synthase
+NDKHHKNJ_00892	gene	ppsA		
+NDKHHKNJ_00893	CDS		1.-.-.-	Putative 2-hydroxyacid dehydrogenase
+NDKHHKNJ_00893	gene			
+NDKHHKNJ_00894	CDS			hypothetical protein
+NDKHHKNJ_00894	gene			
+NDKHHKNJ_00895	CDS	thrC	4.2.3.1	Threonine synthase
+NDKHHKNJ_00895	gene	thrC		
+NDKHHKNJ_00896	CDS	pctC		Methyl-accepting chemotaxis protein PctC
+NDKHHKNJ_00896	gene	pctC		
+NDKHHKNJ_00897	CDS			hypothetical protein
+NDKHHKNJ_00897	gene			
+NDKHHKNJ_00898	CDS			hypothetical protein
+NDKHHKNJ_00898	gene			
+NDKHHKNJ_00899	CDS		2.4.-.-	putative glycosyltransferase
+NDKHHKNJ_00899	gene			
+NDKHHKNJ_00900	CDS	mcp4		Methyl-accepting chemotaxis protein 4
+NDKHHKNJ_00900	gene	mcp4		
+NDKHHKNJ_00901	CDS	yfkN		Trifunctional nucleotide phosphoesterase protein YfkN
+NDKHHKNJ_00901	gene	yfkN		
+NDKHHKNJ_00902	CDS	luxS	4.4.1.21	S-ribosylhomocysteine lyase
+NDKHHKNJ_00902	gene	luxS		
+NDKHHKNJ_00903	CDS	metB	2.5.1.48	Cystathionine gamma-synthase
+NDKHHKNJ_00903	gene	metB		
+NDKHHKNJ_00904	CDS	cysM	2.5.1.47	Cysteine synthase
+NDKHHKNJ_00904	gene	cysM		
+NDKHHKNJ_00905	CDS			hypothetical protein
+NDKHHKNJ_00905	gene			
+NDKHHKNJ_00906	CDS	dnaK		Chaperone protein DnaK
+NDKHHKNJ_00906	gene	dnaK		
+NDKHHKNJ_00907	CDS	grpE		Protein GrpE
+NDKHHKNJ_00907	gene	grpE		
+NDKHHKNJ_00908	CDS	hrcA		Heat-inducible transcription repressor HrcA
+NDKHHKNJ_00908	gene	hrcA		
+NDKHHKNJ_00909	CDS			hypothetical protein
+NDKHHKNJ_00909	gene			
+NDKHHKNJ_00910	CDS			hypothetical protein
+NDKHHKNJ_00910	gene			
+NDKHHKNJ_00911	CDS			hypothetical protein
+NDKHHKNJ_00911	gene			
+NDKHHKNJ_00912	CDS	flaB		Flagellin B
+NDKHHKNJ_00912	gene	flaB		
+NDKHHKNJ_00913	CDS	topA_1	5.99.1.2	DNA topoisomerase 1
+NDKHHKNJ_00913	gene	topA_1		
+NDKHHKNJ_00914	CDS	queE_2	4.3.99.3	7-carboxy-7-deazaguanine synthase
+NDKHHKNJ_00914	gene	queE_2		
+NDKHHKNJ_00915	CDS			hypothetical protein
+NDKHHKNJ_00915	gene			
+NDKHHKNJ_00916	CDS	rpsR		30S ribosomal protein S18
+NDKHHKNJ_00916	gene	rpsR		
+NDKHHKNJ_00917	CDS	ssb		Single-stranded DNA-binding protein
+NDKHHKNJ_00917	gene	ssb		
+NDKHHKNJ_00918	CDS	rpsF		30S ribosomal protein S6
+NDKHHKNJ_00918	gene	rpsF		
+NDKHHKNJ_00919	CDS			hypothetical protein
+NDKHHKNJ_00919	gene			
+NDKHHKNJ_00920	CDS	rnr	3.1.13.1	Ribonuclease R
+NDKHHKNJ_00920	gene	rnr		
+NDKHHKNJ_00921	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+NDKHHKNJ_00921	gene	aroE		
+NDKHHKNJ_00922	CDS			hypothetical protein
+NDKHHKNJ_00922	gene			
+NDKHHKNJ_00923	CDS	yejB		Inner membrane ABC transporter permease protein YejB
+NDKHHKNJ_00923	gene	yejB		
+NDKHHKNJ_00924	CDS	appA		Oligopeptide-binding protein AppA
+NDKHHKNJ_00924	gene	appA		
+NDKHHKNJ_00925	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+NDKHHKNJ_00925	gene	trpS		
+NDKHHKNJ_00926	CDS	tam	2.1.1.144	Trans-aconitate 2-methyltransferase
+NDKHHKNJ_00926	gene	tam		
+NDKHHKNJ_00927	CDS	secG		putative protein-export membrane protein SecG
+NDKHHKNJ_00927	gene	secG		
+NDKHHKNJ_00928	CDS	frr		Ribosome-recycling factor
+NDKHHKNJ_00928	gene	frr		
+NDKHHKNJ_00929	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+NDKHHKNJ_00929	gene	pyrE		
+NDKHHKNJ_00930	CDS			hypothetical protein
+NDKHHKNJ_00930	gene			
+NDKHHKNJ_00931	CDS	cobB_1	3.5.1.-	NAD-dependent protein deacylase
+NDKHHKNJ_00931	gene	cobB_1		
+NDKHHKNJ_00932	CDS	cobB_2	3.5.1.-	NAD-dependent protein deacylase
+NDKHHKNJ_00932	gene	cobB_2		
+NDKHHKNJ_00933	CDS	nuoA	1.6.5.11	NADH-quinone oxidoreductase subunit A
+NDKHHKNJ_00933	gene	nuoA		
+NDKHHKNJ_00934	CDS	nqo6	1.6.5.11	NADH-quinone oxidoreductase subunit 6
+NDKHHKNJ_00934	gene	nqo6		
+NDKHHKNJ_00935	CDS	ndhJ	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit J
+NDKHHKNJ_00935	gene	ndhJ		
+NDKHHKNJ_00936	CDS	nuoD	1.6.5.11	NADH-quinone oxidoreductase subunit D
+NDKHHKNJ_00936	gene	nuoD		
+NDKHHKNJ_00937	CDS			hypothetical protein
+NDKHHKNJ_00937	gene			
+NDKHHKNJ_00938	CDS			hypothetical protein
+NDKHHKNJ_00938	gene			
+NDKHHKNJ_00939	CDS	sfrA	1.-.-.-	NADPH-Fe(3+) oxidoreductase subunit alpha
+NDKHHKNJ_00939	gene	sfrA		
+NDKHHKNJ_00940	CDS	nqo8	1.6.5.11	NADH-quinone oxidoreductase subunit 8
+NDKHHKNJ_00940	gene	nqo8		
+NDKHHKNJ_00941	CDS	nuoI	1.6.5.11	NADH-quinone oxidoreductase subunit I
+NDKHHKNJ_00941	gene	nuoI		
+NDKHHKNJ_00942	CDS	nuoJ	1.6.5.11	NADH-quinone oxidoreductase subunit J
+NDKHHKNJ_00942	gene	nuoJ		
+NDKHHKNJ_00943	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+NDKHHKNJ_00943	gene			
+NDKHHKNJ_00944	CDS	nuoL	1.6.5.11	NADH-quinone oxidoreductase subunit L
+NDKHHKNJ_00944	gene	nuoL		
+NDKHHKNJ_00945	CDS	ndhD1	1.6.5.-	NAD(P)H-quinone oxidoreductase chain 4 1
+NDKHHKNJ_00945	gene	ndhD1		
+NDKHHKNJ_00946	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+NDKHHKNJ_00946	gene	nuoN		
+NDKHHKNJ_00947	CDS			hypothetical protein
+NDKHHKNJ_00947	gene			
+NDKHHKNJ_00948	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+NDKHHKNJ_00948	gene	algC		
+NDKHHKNJ_00949	CDS			hypothetical protein
+NDKHHKNJ_00949	gene			
+NDKHHKNJ_00950	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+NDKHHKNJ_00950	gene	trpA		
+NDKHHKNJ_00951	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+NDKHHKNJ_00951	gene	trpB		
+NDKHHKNJ_00952	CDS	trpC		Tryptophan biosynthesis protein TrpCF
+NDKHHKNJ_00952	gene	trpC		
+NDKHHKNJ_00953	CDS	trpGD		Bifunctional protein TrpGD
+NDKHHKNJ_00953	gene	trpGD		
+NDKHHKNJ_00954	CDS	trpG	4.1.3.27	Anthranilate synthase component 2
+NDKHHKNJ_00954	gene	trpG		
+NDKHHKNJ_00955	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+NDKHHKNJ_00955	gene	trpE		
+NDKHHKNJ_00956	CDS			hypothetical protein
+NDKHHKNJ_00956	gene			
+NDKHHKNJ_00957	CDS			hypothetical protein
+NDKHHKNJ_00957	gene			
+NDKHHKNJ_00958	CDS	hel		Lipoprotein E
+NDKHHKNJ_00958	gene	hel		
+NDKHHKNJ_00959	CDS	yceI		Protein YceI
+NDKHHKNJ_00959	gene	yceI		
+NDKHHKNJ_00960	CDS	tenA	3.5.99.2	Aminopyrimidine aminohydrolase
+NDKHHKNJ_00960	gene	tenA		
+NDKHHKNJ_00961	CDS			hypothetical protein
+NDKHHKNJ_00961	gene			
+NDKHHKNJ_00962	CDS			hypothetical protein
+NDKHHKNJ_00962	gene			
+NDKHHKNJ_00963	CDS	pnuC		Nicotinamide riboside transporter PnuC
+NDKHHKNJ_00963	gene	pnuC		
+NDKHHKNJ_00964	CDS			hypothetical protein
+NDKHHKNJ_00964	gene			
+NDKHHKNJ_00965	CDS	rplQ		50S ribosomal protein L17
+NDKHHKNJ_00965	gene	rplQ		
+NDKHHKNJ_00966	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+NDKHHKNJ_00966	gene	rpoA		
+NDKHHKNJ_00967	CDS	rpsD		30S ribosomal protein S4
+NDKHHKNJ_00967	gene	rpsD		
+NDKHHKNJ_00968	CDS	rpsK		30S ribosomal protein S11
+NDKHHKNJ_00968	gene	rpsK		
+NDKHHKNJ_00969	CDS	rpsM		30S ribosomal protein S13
+NDKHHKNJ_00969	gene	rpsM		
+NDKHHKNJ_00970	CDS	rpmJ		50S ribosomal protein L36
+NDKHHKNJ_00970	gene	rpmJ		
+NDKHHKNJ_00971	CDS	infA		Translation initiation factor IF-1
+NDKHHKNJ_00971	gene	infA		
+NDKHHKNJ_00972	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+NDKHHKNJ_00972	gene	map		
+NDKHHKNJ_00973	CDS	secY		Protein translocase subunit SecY
+NDKHHKNJ_00973	gene	secY		
+NDKHHKNJ_00974	CDS	rplO		50S ribosomal protein L15
+NDKHHKNJ_00974	gene	rplO		
+NDKHHKNJ_00975	CDS	rpsE		30S ribosomal protein S5
+NDKHHKNJ_00975	gene	rpsE		
+NDKHHKNJ_00976	CDS	rplR		50S ribosomal protein L18
+NDKHHKNJ_00976	gene	rplR		
+NDKHHKNJ_00977	CDS	rplF		50S ribosomal protein L6
+NDKHHKNJ_00977	gene	rplF		
+NDKHHKNJ_00978	CDS	rpsH		30S ribosomal protein S8
+NDKHHKNJ_00978	gene	rpsH		
+NDKHHKNJ_00979	CDS	rplE		50S ribosomal protein L5
+NDKHHKNJ_00979	gene	rplE		
+NDKHHKNJ_00980	CDS	rplX		50S ribosomal protein L24
+NDKHHKNJ_00980	gene	rplX		
+NDKHHKNJ_00981	CDS	rplN		50S ribosomal protein L14
+NDKHHKNJ_00981	gene	rplN		
+NDKHHKNJ_00982	CDS	rpsQ		30S ribosomal protein S17
+NDKHHKNJ_00982	gene	rpsQ		
+NDKHHKNJ_00983	CDS	rpmC		50S ribosomal protein L29
+NDKHHKNJ_00983	gene	rpmC		
+NDKHHKNJ_00984	CDS	rplP		50S ribosomal protein L16
+NDKHHKNJ_00984	gene	rplP		
+NDKHHKNJ_00985	CDS	rpsC		30S ribosomal protein S3
+NDKHHKNJ_00985	gene	rpsC		
+NDKHHKNJ_00986	CDS	rplV		50S ribosomal protein L22
+NDKHHKNJ_00986	gene	rplV		
+NDKHHKNJ_00987	CDS	rpsS		30S ribosomal protein S19
+NDKHHKNJ_00987	gene	rpsS		
+NDKHHKNJ_00988	CDS	rplB		50S ribosomal protein L2
+NDKHHKNJ_00988	gene	rplB		
+NDKHHKNJ_00989	CDS	rplW		50S ribosomal protein L23
+NDKHHKNJ_00989	gene	rplW		
+NDKHHKNJ_00990	CDS	rplD		50S ribosomal protein L4
+NDKHHKNJ_00990	gene	rplD		
+NDKHHKNJ_00991	CDS	rplC		50S ribosomal protein L3
+NDKHHKNJ_00991	gene	rplC		
+NDKHHKNJ_00992	CDS	rpsJ		30S ribosomal protein S10
+NDKHHKNJ_00992	gene	rpsJ		
+NDKHHKNJ_00993	CDS			hypothetical protein
+NDKHHKNJ_00993	gene			
+NDKHHKNJ_00994	CDS			hypothetical protein
+NDKHHKNJ_00994	gene			
+NDKHHKNJ_00995	CDS			hypothetical protein
+NDKHHKNJ_00995	gene			
+NDKHHKNJ_00996	CDS	argO		Arginine exporter protein ArgO
+NDKHHKNJ_00996	gene	argO		
+NDKHHKNJ_00997	CDS	dnaX	2.7.7.7	DNA polymerase III subunit tau
+NDKHHKNJ_00997	gene	dnaX		
+NDKHHKNJ_00998	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+NDKHHKNJ_00998	gene	tsaE		
+NDKHHKNJ_00999	CDS	lptB	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+NDKHHKNJ_00999	gene	lptB		
+NDKHHKNJ_01000	CDS	rpoN		RNA polymerase sigma-54 factor
+NDKHHKNJ_01000	gene	rpoN		
+NDKHHKNJ_01001	CDS			hypothetical protein
+NDKHHKNJ_01001	gene			
+NDKHHKNJ_01002	CDS			hypothetical protein
+NDKHHKNJ_01002	gene			
+NDKHHKNJ_01003	CDS	yfbR	3.1.3.89	5'-deoxynucleotidase YfbR
+NDKHHKNJ_01003	gene	yfbR		
+NDKHHKNJ_01004	CDS			hypothetical protein
+NDKHHKNJ_01004	gene			
+NDKHHKNJ_01005	CDS	salL	2.5.1.94	Adenosyl-chloride synthase
+NDKHHKNJ_01005	gene	salL		
+NDKHHKNJ_01006	CDS			hypothetical protein
+NDKHHKNJ_01006	gene			
+NDKHHKNJ_01007	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+NDKHHKNJ_01007	gene	rsmH		
+NDKHHKNJ_01008	CDS			hypothetical protein
+NDKHHKNJ_01008	gene			
+NDKHHKNJ_01009	CDS	uvrA		UvrABC system protein A
+NDKHHKNJ_01009	gene	uvrA		
+NDKHHKNJ_01010	CDS	glrR		Transcriptional regulatory protein GlrR
+NDKHHKNJ_01010	gene	glrR		
+NDKHHKNJ_01011	CDS			hypothetical protein
+NDKHHKNJ_01011	gene			
+NDKHHKNJ_01012	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+NDKHHKNJ_01012	gene	gyrA		
+NDKHHKNJ_01013	CDS	dgkA	2.7.1.107	Diacylglycerol kinase
+NDKHHKNJ_01013	gene	dgkA		
+NDKHHKNJ_01014	CDS			hypothetical protein
+NDKHHKNJ_01014	gene			
+NDKHHKNJ_01015	CDS	acxC	6.4.1.6	Acetone carboxylase gamma subunit
+NDKHHKNJ_01015	gene	acxC		
+NDKHHKNJ_01016	CDS	acxB_1	6.4.1.6	Acetone carboxylase alpha subunit
+NDKHHKNJ_01016	gene	acxB_1		
+NDKHHKNJ_01017	CDS	acxB_2	6.4.1.6	Acetone carboxylase alpha subunit
+NDKHHKNJ_01017	gene	acxB_2		
+NDKHHKNJ_01018	CDS	acxA	6.4.1.6	Acetone carboxylase beta subunit
+NDKHHKNJ_01018	gene	acxA		
+NDKHHKNJ_01019	CDS			hypothetical protein
+NDKHHKNJ_01019	gene			
+NDKHHKNJ_01020	CDS	atoE		Putative short-chain fatty acid transporter
+NDKHHKNJ_01020	gene	atoE		
+NDKHHKNJ_01021	CDS	scoB	2.8.3.5	Succinyl-CoA:3-ketoacid coenzyme A transferase subunit B
+NDKHHKNJ_01021	gene	scoB		
+NDKHHKNJ_01022	CDS	scoA	2.8.3.5	Succinyl-CoA:3-ketoacid coenzyme A transferase subunit A
+NDKHHKNJ_01022	gene	scoA		
+NDKHHKNJ_01023	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+NDKHHKNJ_01023	gene	thlA		
+NDKHHKNJ_01024	CDS			hypothetical protein
+NDKHHKNJ_01024	gene			
+NDKHHKNJ_01025	CDS	feoB		Fe(2+) transporter FeoB
+NDKHHKNJ_01025	gene	feoB		
+NDKHHKNJ_01026	CDS	fecA_2		Fe(3+) dicitrate transport protein FecA
+NDKHHKNJ_01026	gene	fecA_2		
+NDKHHKNJ_01027	CDS	fliP_1		Flagellar biosynthetic protein FliP
+NDKHHKNJ_01027	gene	fliP_1		
+NDKHHKNJ_01028	CDS	fliP_2		Flagellar biosynthetic protein FliP
+NDKHHKNJ_01028	gene	fliP_2		
+NDKHHKNJ_01029	CDS	glmU		Bifunctional protein GlmU
+NDKHHKNJ_01029	gene	glmU		
+NDKHHKNJ_01030	CDS			hypothetical protein
+NDKHHKNJ_01030	gene			
+NDKHHKNJ_01031	CDS			hypothetical protein
+NDKHHKNJ_01031	gene			
+NDKHHKNJ_01032	CDS	nrdA	1.17.4.1	Ribonucleoside-diphosphate reductase 1 subunit alpha
+NDKHHKNJ_01032	gene	nrdA		
+NDKHHKNJ_01033	CDS	wbpB	1.1.1.335	UDP-N-acetyl-2-amino-2-deoxy-D-glucuronate oxidase
+NDKHHKNJ_01033	gene	wbpB		
+NDKHHKNJ_01034	CDS			hypothetical protein
+NDKHHKNJ_01034	gene			
+NDKHHKNJ_01035	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+NDKHHKNJ_01035	gene	ogt		
+NDKHHKNJ_01036	CDS	xerH_1		Tyrosine recombinase XerH
+NDKHHKNJ_01036	gene	xerH_1		
+NDKHHKNJ_01037	CDS			hypothetical protein
+NDKHHKNJ_01037	gene			
+NDKHHKNJ_01038	CDS			hypothetical protein
+NDKHHKNJ_01038	gene			
+NDKHHKNJ_01039	CDS		2.6.1.1	Aspartate aminotransferase
+NDKHHKNJ_01039	gene			
+NDKHHKNJ_01040	CDS			hypothetical protein
+NDKHHKNJ_01040	gene			
+NDKHHKNJ_01041	CDS			hypothetical protein
+NDKHHKNJ_01041	gene			
+NDKHHKNJ_01042	CDS			hypothetical protein
+NDKHHKNJ_01042	gene			
+NDKHHKNJ_01043	CDS			hypothetical protein
+NDKHHKNJ_01043	gene			
+NDKHHKNJ_01044	CDS			hypothetical protein
+NDKHHKNJ_01044	gene			
+NDKHHKNJ_01045	CDS	glpC		Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+NDKHHKNJ_01045	gene	glpC		
+NDKHHKNJ_01046	CDS	hemN_2	1.3.98.3	Oxygen-independent coproporphyrinogen III oxidase
+NDKHHKNJ_01046	gene	hemN_2		
+NDKHHKNJ_01047	CDS			hypothetical protein
+NDKHHKNJ_01047	gene			
+NDKHHKNJ_01048	CDS	aroC	4.2.3.5	Chorismate synthase
+NDKHHKNJ_01048	gene	aroC		
+NDKHHKNJ_01049	CDS	rnc	3.1.26.3	Ribonuclease 3
+NDKHHKNJ_01049	gene	rnc		
+NDKHHKNJ_01050	CDS	rnhA	3.1.26.4	Ribonuclease HI
+NDKHHKNJ_01050	gene	rnhA		
+NDKHHKNJ_01051	CDS	lapB		Lipopolysaccharide assembly protein B
+NDKHHKNJ_01051	gene	lapB		
+NDKHHKNJ_01052	CDS	surA	5.2.1.8	Chaperone SurA
+NDKHHKNJ_01052	gene	surA		
+NDKHHKNJ_01053	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+NDKHHKNJ_01053	gene	gatB		
+NDKHHKNJ_01054	CDS		3.4.24.-	putative zinc protease
+NDKHHKNJ_01054	gene			
+NDKHHKNJ_01055	CDS	mqnC	1.21.98.1	Cyclic dehypoxanthine futalosine synthase
+NDKHHKNJ_01055	gene	mqnC		
+NDKHHKNJ_01056	CDS	bamA		Outer membrane protein assembly factor BamA
+NDKHHKNJ_01056	gene	bamA		
+NDKHHKNJ_01057	CDS	mqnE	2.5.1.120	Aminodeoxyfutalosine synthase
+NDKHHKNJ_01057	gene	mqnE		
+NDKHHKNJ_01058	CDS	ftnA	1.16.3.2	Bacterial non-heme ferritin
+NDKHHKNJ_01058	gene	ftnA		
+NDKHHKNJ_01059	CDS	SERB	3.1.3.3	Phosphoserine phosphatase
+NDKHHKNJ_01059	gene	SERB		
+NDKHHKNJ_01060	CDS			hypothetical protein
+NDKHHKNJ_01060	gene			
+NDKHHKNJ_01061	CDS	msrAB		Peptide methionine sulfoxide reductase msrA/msrB
+NDKHHKNJ_01061	gene	msrAB		
+NDKHHKNJ_01062	CDS	radA	3.6.4.-	DNA repair protein RadA
+NDKHHKNJ_01062	gene	radA		
+NDKHHKNJ_01063	CDS			hypothetical protein
+NDKHHKNJ_01063	gene			
+NDKHHKNJ_01064	CDS	iscU		Iron-sulfur cluster assembly scaffold protein IscU
+NDKHHKNJ_01064	gene	iscU		
+NDKHHKNJ_01065	CDS	iscS	2.8.1.7	Cysteine desulfurase IscS
+NDKHHKNJ_01065	gene	iscS		
+NDKHHKNJ_01066	CDS			hypothetical protein
+NDKHHKNJ_01066	gene			
+NDKHHKNJ_01067	CDS			hypothetical protein
+NDKHHKNJ_01067	gene			
+NDKHHKNJ_01068	CDS			hypothetical protein
+NDKHHKNJ_01068	gene			
+NDKHHKNJ_01069	CDS	dxr	1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+NDKHHKNJ_01069	gene	dxr		
+NDKHHKNJ_01070	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+NDKHHKNJ_01070	gene	cdsA		
+NDKHHKNJ_01071	CDS	sdcS		Sodium-dependent dicarboxylate transporter SdcS
+NDKHHKNJ_01071	gene	sdcS		
+NDKHHKNJ_01072	CDS	mnmG		tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+NDKHHKNJ_01072	gene	mnmG		
+NDKHHKNJ_01073	CDS	dapE	3.5.1.18	Succinyl-diaminopimelate desuccinylase
+NDKHHKNJ_01073	gene	dapE		
+NDKHHKNJ_01074	CDS	hcpA	3.5.2.6	Beta-lactamase HcpA
+NDKHHKNJ_01074	gene	hcpA		
+NDKHHKNJ_01075	CDS	htpG		Chaperone protein HtpG
+NDKHHKNJ_01075	gene	htpG		
+NDKHHKNJ_01076	CDS			hypothetical protein
+NDKHHKNJ_01076	gene			
+NDKHHKNJ_01077	CDS			hypothetical protein
+NDKHHKNJ_01077	gene			
+NDKHHKNJ_01078	CDS	gspA		General stress protein A
+NDKHHKNJ_01078	gene	gspA		
+NDKHHKNJ_01079	CDS	apbC		Iron-sulfur cluster carrier protein
+NDKHHKNJ_01079	gene	apbC		
+NDKHHKNJ_01080	CDS			hypothetical protein
+NDKHHKNJ_01080	gene			
+NDKHHKNJ_01081	CDS			hypothetical protein
+NDKHHKNJ_01081	gene			
+NDKHHKNJ_01082	CDS			hypothetical protein
+NDKHHKNJ_01082	gene			
+NDKHHKNJ_01083	CDS			hypothetical protein
+NDKHHKNJ_01083	gene			
+NDKHHKNJ_01084	CDS			hypothetical protein
+NDKHHKNJ_01084	gene			
+NDKHHKNJ_01085	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+NDKHHKNJ_01085	gene	fabH		
+NDKHHKNJ_01086	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+NDKHHKNJ_01086	gene	plsX		
+NDKHHKNJ_01087	CDS	rpmF		50S ribosomal protein L32
+NDKHHKNJ_01087	gene	rpmF		
+NDKHHKNJ_01088	CDS			hypothetical protein
+NDKHHKNJ_01088	gene			
+NDKHHKNJ_01089	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+NDKHHKNJ_01089	gene	ndk		
+NDKHHKNJ_01090	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+NDKHHKNJ_01090	gene	metK		
+NDKHHKNJ_01091	CDS	lpxD	2.3.1.-	UDP-3-O-acylglucosamine N-acyltransferase
+NDKHHKNJ_01091	gene	lpxD		
+NDKHHKNJ_01092	CDS	fabI	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+NDKHHKNJ_01092	gene	fabI		
+NDKHHKNJ_01093	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+NDKHHKNJ_01093	gene	tpiA		
+NDKHHKNJ_01094	CDS	frdC		Fumarate reductase cytochrome b subunit
+NDKHHKNJ_01094	gene	frdC		
+NDKHHKNJ_01095	CDS	frdA	1.3.5.4	Fumarate reductase flavoprotein subunit
+NDKHHKNJ_01095	gene	frdA		
+NDKHHKNJ_01096	CDS	frdB	1.3.5.1	Fumarate reductase iron-sulfur subunit
+NDKHHKNJ_01096	gene	frdB		
+NDKHHKNJ_01097	CDS	clsC	2.7.8.-	Cardiolipin synthase C
+NDKHHKNJ_01097	gene	clsC		
+NDKHHKNJ_01098	CDS			hypothetical protein
+NDKHHKNJ_01098	gene			
+NDKHHKNJ_01099	CDS			hypothetical protein
+NDKHHKNJ_01099	gene			
+NDKHHKNJ_01100	CDS			hypothetical protein
+NDKHHKNJ_01100	gene			
+NDKHHKNJ_01101	CDS	zipA		Cell division protein ZipA
+NDKHHKNJ_01101	gene	zipA		
+NDKHHKNJ_01102	CDS			hypothetical protein
+NDKHHKNJ_01102	gene			
+NDKHHKNJ_01103	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+NDKHHKNJ_01103	gene	glyA		
+NDKHHKNJ_01104	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+NDKHHKNJ_01104	gene	lysS		
+NDKHHKNJ_01105	CDS			hypothetical protein
+NDKHHKNJ_01105	gene			
+NDKHHKNJ_01106	CDS	lnt	2.3.1.-	Apolipoprotein N-acyltransferase
+NDKHHKNJ_01106	gene	lnt		
+NDKHHKNJ_01107	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+NDKHHKNJ_01107	gene	lolD		
+NDKHHKNJ_01108	CDS	pseI	2.5.1.97	Pseudaminic acid synthase
+NDKHHKNJ_01108	gene	pseI		
+NDKHHKNJ_01109	CDS	efp		Elongation factor P
+NDKHHKNJ_01109	gene	efp		
+NDKHHKNJ_01110	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+NDKHHKNJ_01110	gene	fba		
+NDKHHKNJ_01111	CDS		5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+NDKHHKNJ_01111	gene			
+NDKHHKNJ_01112	CDS			hypothetical protein
+NDKHHKNJ_01112	gene			
+NDKHHKNJ_01113	CDS			hypothetical protein
+NDKHHKNJ_01113	gene			
+NDKHHKNJ_01114	CDS	moeA	2.10.1.1	Molybdopterin molybdenumtransferase
+NDKHHKNJ_01114	gene	moeA		
+NDKHHKNJ_01115	CDS	prfB		Peptide chain release factor RF2
+NDKHHKNJ_01115	gene	prfB		
+NDKHHKNJ_01116	CDS			hypothetical protein
+NDKHHKNJ_01116	gene			
+NDKHHKNJ_01117	CDS	ydcP	3.4.-.-	putative protease YdcP
+NDKHHKNJ_01117	gene	ydcP		
+NDKHHKNJ_01118	CDS			hypothetical protein
+NDKHHKNJ_01118	gene			
+NDKHHKNJ_01119	CDS			hypothetical protein
+NDKHHKNJ_01119	gene			
+NDKHHKNJ_01120	CDS	arlR		Response regulator ArlR
+NDKHHKNJ_01120	gene	arlR		
+NDKHHKNJ_01121	tRNA			tRNA-Arg(tct)
+NDKHHKNJ_01121	gene			
+NDKHHKNJ_01122	tRNA			tRNA-Arg(tcg)
+NDKHHKNJ_01122	gene			
+NDKHHKNJ_01123	tRNA			tRNA-His(gtg)
+NDKHHKNJ_01123	gene			
+NDKHHKNJ_01124	tRNA			tRNA-Pro(tgg)
+NDKHHKNJ_01124	gene			
+NDKHHKNJ_01125	CDS			hypothetical protein
+NDKHHKNJ_01125	gene			
+NDKHHKNJ_01126	CDS			hypothetical protein
+NDKHHKNJ_01126	gene			
+NDKHHKNJ_01127	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+NDKHHKNJ_01127	gene	guaA		
+NDKHHKNJ_01128	CDS			hypothetical protein
+NDKHHKNJ_01128	gene			
+NDKHHKNJ_01129	CDS	dorA	1.7.2.3	Dimethyl sulfoxide/trimethylamine N-oxide reductase
+NDKHHKNJ_01129	gene	dorA		
+NDKHHKNJ_01130	CDS			hypothetical protein
+NDKHHKNJ_01130	gene			
+NDKHHKNJ_01131	CDS	csd	2.8.1.7	putative cysteine desulfurase
+NDKHHKNJ_01131	gene	csd		
+NDKHHKNJ_01132	CDS			putative HIT-like protein
+NDKHHKNJ_01132	gene			
+NDKHHKNJ_01133	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+NDKHHKNJ_01133	gene	pheS		
+NDKHHKNJ_01134	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+NDKHHKNJ_01134	gene	pheT		
+NDKHHKNJ_01135	CDS	aroA1	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase 1
+NDKHHKNJ_01135	gene	aroA1		
+NDKHHKNJ_01136	CDS	ispH	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+NDKHHKNJ_01136	gene	ispH		
+NDKHHKNJ_01137	CDS	rpsA		30S ribosomal protein S1
+NDKHHKNJ_01137	gene	rpsA		
+NDKHHKNJ_01138	CDS			hypothetical protein
+NDKHHKNJ_01138	gene			
+NDKHHKNJ_01139	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+NDKHHKNJ_01139	gene	serA		
+NDKHHKNJ_01140	CDS	ubiD	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+NDKHHKNJ_01140	gene	ubiD		
+NDKHHKNJ_01141	CDS			hypothetical protein
+NDKHHKNJ_01141	gene			
+NDKHHKNJ_01142	CDS	lpxH	3.6.1.54	UDP-2,3-diacylglucosamine hydrolase
+NDKHHKNJ_01142	gene	lpxH		
+NDKHHKNJ_01143	CDS	cheV_2		Chemotaxis protein CheV
+NDKHHKNJ_01143	gene	cheV_2		
+NDKHHKNJ_01144	CDS	cheA	2.7.13.3	Chemotaxis protein CheA
+NDKHHKNJ_01144	gene	cheA		
+NDKHHKNJ_01145	CDS	cheW		Chemotaxis protein CheW
+NDKHHKNJ_01145	gene	cheW		
+NDKHHKNJ_01146	CDS	tpx	1.11.1.-	putative thiol peroxidase
+NDKHHKNJ_01146	gene	tpx		
+NDKHHKNJ_01147	CDS	sodB	1.15.1.1	Superoxide dismutase [Fe]
+NDKHHKNJ_01147	gene	sodB		
+NDKHHKNJ_01148	CDS	cmoA	2.1.3.-	Carboxy-S-adenosyl-L-methionine synthase
+NDKHHKNJ_01148	gene	cmoA		
+NDKHHKNJ_01149	CDS	priA	3.6.4.-	Primosomal protein N'
+NDKHHKNJ_01149	gene	priA		
+NDKHHKNJ_01150	CDS			hypothetical protein
+NDKHHKNJ_01150	gene			
+NDKHHKNJ_01151	CDS			hypothetical protein
+NDKHHKNJ_01151	gene			
+NDKHHKNJ_01152	CDS			hypothetical protein
+NDKHHKNJ_01152	gene			
+NDKHHKNJ_01153	CDS			hypothetical protein
+NDKHHKNJ_01153	gene			
+NDKHHKNJ_01154	CDS	htpX_2	3.4.24.-	Protease HtpX
+NDKHHKNJ_01154	gene	htpX_2		
+NDKHHKNJ_01155	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+NDKHHKNJ_01155	gene	prmC		
+NDKHHKNJ_01156	CDS	gdhA	1.4.1.2	NAD(P)-specific glutamate dehydrogenase
+NDKHHKNJ_01156	gene	gdhA		
+NDKHHKNJ_01157	CDS	rocA1	1.2.1.88	1-pyrroline-5-carboxylate dehydrogenase 1
+NDKHHKNJ_01157	gene	rocA1		
+NDKHHKNJ_01158	CDS	putP		High-affinity proline transporter PutP
+NDKHHKNJ_01158	gene	putP		
+NDKHHKNJ_01159	CDS	haeIIIM	2.1.1.37	Modification methylase HaeIII
+NDKHHKNJ_01159	gene	haeIIIM		
+NDKHHKNJ_01160	CDS			hypothetical protein
+NDKHHKNJ_01160	gene			
+NDKHHKNJ_01161	CDS			hypothetical protein
+NDKHHKNJ_01161	gene			
+NDKHHKNJ_01162	CDS			hypothetical protein
+NDKHHKNJ_01162	gene			
+NDKHHKNJ_01163	CDS	bspRIM	2.1.1.37	Modification methylase BspRI
+NDKHHKNJ_01163	gene	bspRIM		
+NDKHHKNJ_01164	CDS	dpnA_3	2.1.1.72	Modification methylase DpnIIB
+NDKHHKNJ_01164	gene	dpnA_3		
+NDKHHKNJ_01165	CDS	aguA	3.5.3.12	Agmatine deiminase
+NDKHHKNJ_01165	gene	aguA		
+NDKHHKNJ_01166	CDS	hypF	2.1.3.-	Carbamoyltransferase HypF
+NDKHHKNJ_01166	gene	hypF		
+NDKHHKNJ_01167	CDS	hypE		Hydrogenase isoenzymes formation protein HypE
+NDKHHKNJ_01167	gene	hypE		
+NDKHHKNJ_01168	CDS	colC	1.1.1.356	GDP-L-colitose synthase
+NDKHHKNJ_01168	gene	colC		
+NDKHHKNJ_01169	CDS	gmd	4.2.1.47	GDP-mannose 4,6-dehydratase
+NDKHHKNJ_01169	gene	gmd		
+NDKHHKNJ_01170	CDS	algA		Alginate biosynthesis protein AlgA
+NDKHHKNJ_01170	gene	algA		
+NDKHHKNJ_01171	CDS	ptlG		Type IV secretion system protein PtlG
+NDKHHKNJ_01171	gene	ptlG		
+NDKHHKNJ_01172	CDS			hypothetical protein
+NDKHHKNJ_01172	gene			
+NDKHHKNJ_01173	CDS			hypothetical protein
+NDKHHKNJ_01173	gene			
+NDKHHKNJ_01174	CDS			hypothetical protein
+NDKHHKNJ_01174	gene			
+NDKHHKNJ_01175	CDS			hypothetical protein
+NDKHHKNJ_01175	gene			
+NDKHHKNJ_01176	CDS			hypothetical protein
+NDKHHKNJ_01176	gene			
+NDKHHKNJ_01177	CDS			Nucleoid-associated protein
+NDKHHKNJ_01177	gene			
+NDKHHKNJ_01178	CDS	panD	4.1.1.11	Aspartate 1-decarboxylase
+NDKHHKNJ_01178	gene	panD		
+NDKHHKNJ_01179	CDS	clpA		ATP-dependent Clp protease ATP-binding subunit ClpA
+NDKHHKNJ_01179	gene	clpA		
+NDKHHKNJ_01180	CDS	clpS		ATP-dependent Clp protease adapter protein ClpS
+NDKHHKNJ_01180	gene	clpS		
+NDKHHKNJ_01181	CDS			hypothetical protein
+NDKHHKNJ_01181	gene			
+NDKHHKNJ_01182	CDS			hypothetical protein
+NDKHHKNJ_01182	gene			
+NDKHHKNJ_01183	CDS	bioD	6.3.3.3	ATP-dependent dethiobiotin synthetase BioD
+NDKHHKNJ_01183	gene	bioD		
+NDKHHKNJ_01184	CDS			hypothetical protein
+NDKHHKNJ_01184	gene			
+NDKHHKNJ_01185	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+NDKHHKNJ_01185	gene	icd		
+NDKHHKNJ_01186	CDS	aarA	2.3.3.16	Citrate synthase
+NDKHHKNJ_01186	gene	aarA		
+NDKHHKNJ_01187	CDS			hypothetical protein
+NDKHHKNJ_01187	gene			
+NDKHHKNJ_01188	CDS	eptA	2.7.-.-	Phosphoethanolamine transferase EptA
+NDKHHKNJ_01188	gene	eptA		
+NDKHHKNJ_01189	CDS	lpxE_2	3.1.-.-	Lipid A 1-phosphatase
+NDKHHKNJ_01189	gene	lpxE_2		
+NDKHHKNJ_01190	CDS	nspC	4.1.1.96	Carboxynorspermidine/carboxyspermidine decarboxylase
+NDKHHKNJ_01190	gene	nspC		
+NDKHHKNJ_01191	CDS	cheV_3		Chemotaxis protein CheV
+NDKHHKNJ_01191	gene	cheV_3		
+NDKHHKNJ_01192	CDS			hypothetical protein
+NDKHHKNJ_01192	gene			
+NDKHHKNJ_01193	CDS	virB4_2		Type IV secretion system protein virB4
+NDKHHKNJ_01193	gene	virB4_2		
+NDKHHKNJ_01194	CDS			hypothetical protein
+NDKHHKNJ_01194	gene			
+NDKHHKNJ_01195	CDS			hypothetical protein
+NDKHHKNJ_01195	gene			
+NDKHHKNJ_01196	CDS			hypothetical protein
+NDKHHKNJ_01196	gene			
+NDKHHKNJ_01197	CDS	mnmA_1	2.8.1.-	tRNA-specific 2-thiouridylase MnmA
+NDKHHKNJ_01197	gene	mnmA_1		
+NDKHHKNJ_01198	CDS	dnaG	2.7.7.-	DNA primase
+NDKHHKNJ_01198	gene	dnaG		
+NDKHHKNJ_01199	CDS	groS		10 kDa chaperonin
+NDKHHKNJ_01199	gene	groS		
+NDKHHKNJ_01200	CDS	groL		60 kDa chaperonin
+NDKHHKNJ_01200	gene	groL		
+NDKHHKNJ_01201	CDS			hypothetical protein
+NDKHHKNJ_01201	gene			
+NDKHHKNJ_01202	tRNA			tRNA-Lys(ttt)
+NDKHHKNJ_01202	gene			
+NDKHHKNJ_01203	tRNA			tRNA-Glu(ttc)
+NDKHHKNJ_01203	gene			
+NDKHHKNJ_01204	tRNA			tRNA-Val(tac)
+NDKHHKNJ_01204	gene			
+NDKHHKNJ_01205	tRNA			tRNA-Asp(gtc)
+NDKHHKNJ_01205	gene			
+NDKHHKNJ_01206	tRNA			tRNA-Glu(ttc)
+NDKHHKNJ_01206	gene			
+NDKHHKNJ_01207	CDS	panC	6.3.2.1	Pantothenate synthetase
+NDKHHKNJ_01207	gene	panC		
+NDKHHKNJ_01208	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+NDKHHKNJ_01208	gene	pyrF		
+NDKHHKNJ_01209	CDS	cynT	4.2.1.1	Carbonic anhydrase 1
+NDKHHKNJ_01209	gene	cynT		
+NDKHHKNJ_01210	CDS	kdsA	2.5.1.55	2-dehydro-3-deoxyphosphooctonate aldolase
+NDKHHKNJ_01210	gene	kdsA		
+NDKHHKNJ_01211	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+NDKHHKNJ_01211	gene	ribH		
+NDKHHKNJ_01212	CDS	nusB		N utilization substance protein B 
+NDKHHKNJ_01212	gene	nusB		
+NDKHHKNJ_01213	CDS			hypothetical protein
+NDKHHKNJ_01213	gene			
+NDKHHKNJ_01214	CDS	vapD_2	3.1.-.-	Endoribonuclease VapD
+NDKHHKNJ_01214	gene	vapD_2		
+NDKHHKNJ_01215	CDS			hypothetical protein
+NDKHHKNJ_01215	gene			
+NDKHHKNJ_01216	CDS	yjiA		putative GTP-binding protein YjiA
+NDKHHKNJ_01216	gene	yjiA		
+NDKHHKNJ_01217	CDS			hypothetical protein
+NDKHHKNJ_01217	gene			
+NDKHHKNJ_01218	CDS	pgdA	3.5.1.-	Peptidoglycan deacetylase
+NDKHHKNJ_01218	gene	pgdA		
+NDKHHKNJ_01219	CDS		3.5.1.111	2-oxoglutaramate amidase
+NDKHHKNJ_01219	gene			
+NDKHHKNJ_01220	CDS			hypothetical protein
+NDKHHKNJ_01220	gene			
+NDKHHKNJ_01221	CDS			hypothetical protein
+NDKHHKNJ_01221	gene			
+NDKHHKNJ_01222	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+NDKHHKNJ_01222	gene	hemL		
+NDKHHKNJ_01223	CDS			hypothetical protein
+NDKHHKNJ_01223	gene			
+NDKHHKNJ_01224	CDS			hypothetical protein
+NDKHHKNJ_01224	gene			
+NDKHHKNJ_01225	CDS	obg	3.6.5.-	GTPase Obg
+NDKHHKNJ_01225	gene	obg		
+NDKHHKNJ_01226	CDS	oppF		Oligopeptide transport ATP-binding protein OppF
+NDKHHKNJ_01226	gene	oppF		
+NDKHHKNJ_01227	CDS	oppD		Oligopeptide transport ATP-binding protein OppD
+NDKHHKNJ_01227	gene	oppD		
+NDKHHKNJ_01228	CDS	dppC		Dipeptide transport system permease protein DppC
+NDKHHKNJ_01228	gene	dppC		
+NDKHHKNJ_01229	CDS	dppB		Dipeptide transport system permease protein DppB
+NDKHHKNJ_01229	gene	dppB		
+NDKHHKNJ_01230	CDS	hbpA		Heme-binding protein A
+NDKHHKNJ_01230	gene	hbpA		
+NDKHHKNJ_01231	CDS	rpmA		50S ribosomal protein L27
+NDKHHKNJ_01231	gene	rpmA		
+NDKHHKNJ_01232	CDS	rplU		50S ribosomal protein L21
+NDKHHKNJ_01232	gene	rplU		
+NDKHHKNJ_01233	CDS	flgL		Flagellar hook-associated protein 3
+NDKHHKNJ_01233	gene	flgL		
+NDKHHKNJ_01234	CDS	amiE	3.5.1.4	Aliphatic amidase
+NDKHHKNJ_01234	gene	amiE		
+NDKHHKNJ_01235	CDS	pabB	2.6.1.85	Aminodeoxychorismate synthase component 1
+NDKHHKNJ_01235	gene	pabB		
+NDKHHKNJ_01236	CDS			hypothetical protein
+NDKHHKNJ_01236	gene			
+NDKHHKNJ_01237	CDS	tyrA_2		T-protein
+NDKHHKNJ_01237	gene	tyrA_2		
+NDKHHKNJ_01238	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+NDKHHKNJ_01238	gene	lysA		
+NDKHHKNJ_01239	CDS	vacA_3		Vacuolating cytotoxin autotransporter
+NDKHHKNJ_01239	gene	vacA_3		
+NDKHHKNJ_01240	CDS			hypothetical protein
+NDKHHKNJ_01240	gene			
+NDKHHKNJ_01241	CDS			hypothetical protein
+NDKHHKNJ_01241	gene			
+NDKHHKNJ_01242	CDS	ftsH_2	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+NDKHHKNJ_01242	gene	ftsH_2		
+NDKHHKNJ_01243	CDS	mtaB	2.8.4.5	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+NDKHHKNJ_01243	gene	mtaB		
+NDKHHKNJ_01244	CDS			hypothetical protein
+NDKHHKNJ_01244	gene			
+NDKHHKNJ_01245	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+NDKHHKNJ_01245	gene	aroB		
+NDKHHKNJ_01246	CDS			hypothetical protein
+NDKHHKNJ_01246	gene			
+NDKHHKNJ_01247	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+NDKHHKNJ_01247	gene	tgt		
+NDKHHKNJ_01248	CDS	lpxP	2.3.1.242	Lipid A biosynthesis palmitoleoyltransferase
+NDKHHKNJ_01248	gene	lpxP		
+NDKHHKNJ_01249	CDS	rfaC	2.-.-.-	Lipopolysaccharide heptosyltransferase 1
+NDKHHKNJ_01249	gene	rfaC		
+NDKHHKNJ_01250	CDS	gppA	3.6.1.40	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+NDKHHKNJ_01250	gene	gppA		
+NDKHHKNJ_01251	CDS	fdx		Ferredoxin
+NDKHHKNJ_01251	gene	fdx		
+NDKHHKNJ_01252	CDS			hypothetical protein
+NDKHHKNJ_01252	gene			
+NDKHHKNJ_01253	CDS			hypothetical protein
+NDKHHKNJ_01253	gene			
+NDKHHKNJ_01254	CDS			hypothetical protein
+NDKHHKNJ_01254	gene			
+NDKHHKNJ_01255	CDS			hypothetical protein
+NDKHHKNJ_01255	gene			
+NDKHHKNJ_01256	CDS			hypothetical protein
+NDKHHKNJ_01256	gene			
+NDKHHKNJ_01257	CDS			hypothetical protein
+NDKHHKNJ_01257	gene			
+NDKHHKNJ_01258	CDS			hypothetical protein
+NDKHHKNJ_01258	gene			
+NDKHHKNJ_01259	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+NDKHHKNJ_01259	gene	miaB		
+NDKHHKNJ_01260	CDS			hypothetical protein
+NDKHHKNJ_01260	gene			
+NDKHHKNJ_01261	CDS		3.5.4.4	Adenosine deaminase
+NDKHHKNJ_01261	gene			
+NDKHHKNJ_01262	CDS	pyrC_2	3.5.2.3	Dihydroorotase
+NDKHHKNJ_01262	gene	pyrC_2		
+NDKHHKNJ_01263	CDS	dsbD	1.8.1.8	Thiol:disulfide interchange protein DsbD
+NDKHHKNJ_01263	gene	dsbD		
+NDKHHKNJ_01264	CDS	clpB		Chaperone protein ClpB
+NDKHHKNJ_01264	gene	clpB		
+NDKHHKNJ_01265	CDS	dpnA_4	2.1.1.72	Modification methylase DpnIIB
+NDKHHKNJ_01265	gene	dpnA_4		
+NDKHHKNJ_01266	CDS			hypothetical protein
+NDKHHKNJ_01266	gene			
+NDKHHKNJ_01267	CDS			hypothetical protein
+NDKHHKNJ_01267	gene			
+NDKHHKNJ_01268	CDS			hypothetical protein
+NDKHHKNJ_01268	gene			
+NDKHHKNJ_01269	CDS	xseA_2	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+NDKHHKNJ_01269	gene	xseA_2		
+NDKHHKNJ_01270	CDS	mmpA	3.4.24.-	Metalloprotease MmpA
+NDKHHKNJ_01270	gene	mmpA		
+NDKHHKNJ_01271	CDS			hypothetical protein
+NDKHHKNJ_01271	gene			
+NDKHHKNJ_01272	CDS			hypothetical protein
+NDKHHKNJ_01272	gene			
+NDKHHKNJ_01273	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+NDKHHKNJ_01273	gene	purA		
+NDKHHKNJ_01274	CDS			hypothetical protein
+NDKHHKNJ_01274	gene			
+NDKHHKNJ_01275	CDS			hypothetical protein
+NDKHHKNJ_01275	gene			
+NDKHHKNJ_01276	tRNA			tRNA-Ala(ggc)
+NDKHHKNJ_01276	gene			
+NDKHHKNJ_01277	CDS	yejE		Inner membrane ABC transporter permease protein YejE
+NDKHHKNJ_01277	gene	yejE		
+NDKHHKNJ_01278	CDS	gsiA	3.6.3.-	Glutathione import ATP-binding protein GsiA
+NDKHHKNJ_01278	gene	gsiA		
+NDKHHKNJ_01279	CDS			hypothetical protein
+NDKHHKNJ_01279	gene			
+NDKHHKNJ_01280	CDS	hflC		Modulator of FtsH protease HflC
+NDKHHKNJ_01280	gene	hflC		
+NDKHHKNJ_01281	CDS	rhpA	3.6.4.13	DEAD-box ATP-dependent RNA helicase RhpA
+NDKHHKNJ_01281	gene	rhpA		
+NDKHHKNJ_01282	CDS	flgI		Flagellar P-ring protein
+NDKHHKNJ_01282	gene	flgI		
+NDKHHKNJ_01283	CDS			hypothetical protein
+NDKHHKNJ_01283	gene			
+NDKHHKNJ_01284	CDS	zraS	2.7.13.3	Sensor protein ZraS
+NDKHHKNJ_01284	gene	zraS		
+NDKHHKNJ_01285	CDS	dps	1.16.-.-	DNA protection during starvation protein
+NDKHHKNJ_01285	gene	dps		
+NDKHHKNJ_01286	CDS			hypothetical protein
+NDKHHKNJ_01286	gene			
+NDKHHKNJ_01287	CDS			hypothetical protein
+NDKHHKNJ_01287	gene			
+NDKHHKNJ_01288	CDS	ispB	2.5.1.90	Octaprenyl diphosphate synthase
+NDKHHKNJ_01288	gene	ispB		
+NDKHHKNJ_01289	CDS	hemA	1.2.1.70	Glutamyl-tRNA reductase
+NDKHHKNJ_01289	gene	hemA		
+NDKHHKNJ_01290	CDS	proS	6.1.1.15	Proline--tRNA ligase
+NDKHHKNJ_01290	gene	proS		
+NDKHHKNJ_01291	CDS	hemC	2.5.1.61	Porphobilinogen deaminase
+NDKHHKNJ_01291	gene	hemC		
+NDKHHKNJ_01292	CDS			hypothetical protein
+NDKHHKNJ_01292	gene			
+NDKHHKNJ_01293	CDS	hcpC_2	3.5.2.6	Putative beta-lactamase HcpC
+NDKHHKNJ_01293	gene	hcpC_2		
+NDKHHKNJ_01294	CDS			hypothetical protein
+NDKHHKNJ_01294	gene			
+NDKHHKNJ_01295	CDS	ygiC	6.3.1.-	Putative acid--amine ligase YgiC
+NDKHHKNJ_01295	gene	ygiC		
+NDKHHKNJ_01296	CDS			hypothetical protein
+NDKHHKNJ_01296	gene			
+NDKHHKNJ_01297	CDS			hypothetical protein
+NDKHHKNJ_01297	gene			
+NDKHHKNJ_01298	CDS	kdsB	2.7.7.38	3-deoxy-manno-octulosonate cytidylyltransferase
+NDKHHKNJ_01298	gene	kdsB		
+NDKHHKNJ_01299	CDS			hypothetical protein
+NDKHHKNJ_01299	gene			
+NDKHHKNJ_01300	tRNA			tRNA-Asn(gtt)
+NDKHHKNJ_01300	gene			
+NDKHHKNJ_01301	CDS	dauA		C4-dicarboxylic acid transporter DauA
+NDKHHKNJ_01301	gene	dauA		
+NDKHHKNJ_01302	CDS			hypothetical protein
+NDKHHKNJ_01302	gene			
+NDKHHKNJ_01303	CDS	esiB		Secretory immunoglobulin A-binding protein EsiB
+NDKHHKNJ_01303	gene	esiB		
+NDKHHKNJ_01304	CDS	ggt	2.3.2.2	Gamma-glutamyltranspeptidase
+NDKHHKNJ_01304	gene	ggt		
+NDKHHKNJ_01305	CDS	flgK		Flagellar hook-associated protein 1
+NDKHHKNJ_01305	gene	flgK		
+NDKHHKNJ_01306	CDS			hypothetical protein
+NDKHHKNJ_01306	gene			
+NDKHHKNJ_01307	CDS	hhaIM	2.1.1.37	Modification methylase HhaI
+NDKHHKNJ_01307	gene	hhaIM		
+NDKHHKNJ_01308	CDS			hypothetical protein
+NDKHHKNJ_01308	gene			
+NDKHHKNJ_01309	CDS			hypothetical protein
+NDKHHKNJ_01309	gene			
+NDKHHKNJ_01310	CDS	slyD	5.2.1.8	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+NDKHHKNJ_01310	gene	slyD		
+NDKHHKNJ_01311	CDS			hypothetical protein
+NDKHHKNJ_01311	gene			
+NDKHHKNJ_01312	CDS	pal		Outer membrane protein P6
+NDKHHKNJ_01312	gene	pal		
+NDKHHKNJ_01313	CDS	tolB		Protein TolB
+NDKHHKNJ_01313	gene	tolB		
+NDKHHKNJ_01314	CDS			hypothetical protein
+NDKHHKNJ_01314	gene			
+NDKHHKNJ_01315	CDS	exbD_2		Biopolymer transport protein ExbD
+NDKHHKNJ_01315	gene	exbD_2		
+NDKHHKNJ_01316	CDS	exbB_2		Biopolymer transport protein ExbB
+NDKHHKNJ_01316	gene	exbB_2		
+NDKHHKNJ_01317	CDS	atpC		ATP synthase epsilon chain
+NDKHHKNJ_01317	gene	atpC		
+NDKHHKNJ_01318	CDS	atpD_1	3.6.3.14	ATP synthase subunit beta
+NDKHHKNJ_01318	gene	atpD_1		
+NDKHHKNJ_01319	CDS	atpG		ATP synthase gamma chain
+NDKHHKNJ_01319	gene	atpG		
+NDKHHKNJ_01320	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+NDKHHKNJ_01320	gene	atpA		
+NDKHHKNJ_01321	CDS	atpD_2		ATP synthase subunit delta
+NDKHHKNJ_01321	gene	atpD_2		
+NDKHHKNJ_01322	CDS	atpF_1		ATP synthase subunit b
+NDKHHKNJ_01322	gene	atpF_1		
+NDKHHKNJ_01323	CDS	atpF_2		ATP synthase subunit b, sodium ion specific
+NDKHHKNJ_01323	gene	atpF_2		
+NDKHHKNJ_01324	CDS	parB		putative chromosome-partitioning protein ParB
+NDKHHKNJ_01324	gene	parB		
+NDKHHKNJ_01325	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+NDKHHKNJ_01325	gene	soj		
+NDKHHKNJ_01326	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+NDKHHKNJ_01326	gene	birA		
+NDKHHKNJ_01327	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+NDKHHKNJ_01327	gene	fmt		
+NDKHHKNJ_01328	CDS	smc_1		Chromosome partition protein Smc
+NDKHHKNJ_01328	gene	smc_1		
+NDKHHKNJ_01329	CDS			hypothetical protein
+NDKHHKNJ_01329	gene			
+NDKHHKNJ_01330	CDS			hypothetical protein
+NDKHHKNJ_01330	gene			
+NDKHHKNJ_01331	CDS	vacA_4		Vacuolating cytotoxin autotransporter
+NDKHHKNJ_01331	gene	vacA_4		
+NDKHHKNJ_01332	CDS	gap1	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase 1
+NDKHHKNJ_01332	gene	gap1		
+NDKHHKNJ_01333	CDS	yccA		Modulator of FtsH protease YccA
+NDKHHKNJ_01333	gene	yccA		
+NDKHHKNJ_01334	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+NDKHHKNJ_01334	gene	carB		
+NDKHHKNJ_01335	CDS			hypothetical protein
+NDKHHKNJ_01335	gene			
+NDKHHKNJ_01336	CDS	bhuA_2		Heme transporter BhuA
+NDKHHKNJ_01336	gene	bhuA_2		
+NDKHHKNJ_01337	CDS	hemR		Hemin receptor
+NDKHHKNJ_01337	gene	hemR		
+NDKHHKNJ_01338	CDS			hypothetical protein
+NDKHHKNJ_01338	gene			
+NDKHHKNJ_01339	CDS			hypothetical protein
+NDKHHKNJ_01339	gene			
+NDKHHKNJ_01340	CDS			hypothetical protein
+NDKHHKNJ_01340	gene			
+NDKHHKNJ_01341	CDS	uvrD	3.6.4.12	DNA helicase II
+NDKHHKNJ_01341	gene	uvrD		
+NDKHHKNJ_01342	CDS	taqIM	2.1.1.72	Modification methylase TaqI
+NDKHHKNJ_01342	gene	taqIM		
+NDKHHKNJ_01343	CDS			hypothetical protein
+NDKHHKNJ_01343	gene			
+NDKHHKNJ_01344	CDS	flgE_2		Flagellar hook protein FlgE
+NDKHHKNJ_01344	gene	flgE_2		
+NDKHHKNJ_01345	CDS	flgD		Basal-body rod modification protein FlgD
+NDKHHKNJ_01345	gene	flgD		
+NDKHHKNJ_01346	CDS			hypothetical protein
+NDKHHKNJ_01346	gene			
+NDKHHKNJ_01347	CDS			hypothetical protein
+NDKHHKNJ_01347	gene			
+NDKHHKNJ_01348	CDS	pta_1	2.3.1.8	Phosphate acetyltransferase
+NDKHHKNJ_01348	gene	pta_1		
+NDKHHKNJ_01349	CDS	pta_2	2.3.1.8	Phosphate acetyltransferase
+NDKHHKNJ_01349	gene	pta_2		
+NDKHHKNJ_01350	CDS	pta_3	2.3.1.8	Phosphate acetyltransferase
+NDKHHKNJ_01350	gene	pta_3		
+NDKHHKNJ_01351	CDS	ackA_1	2.7.2.1	Acetate kinase
+NDKHHKNJ_01351	gene	ackA_1		
+NDKHHKNJ_01352	CDS	ackA_2	2.7.2.1	Acetate kinase
+NDKHHKNJ_01352	gene	ackA_2		
+NDKHHKNJ_01353	CDS			hypothetical protein
+NDKHHKNJ_01353	gene			
+NDKHHKNJ_01354	CDS			hypothetical protein
+NDKHHKNJ_01354	gene			
+NDKHHKNJ_01355	CDS	hypB		Hydrogenase/urease nickel incorporation protein HypB
+NDKHHKNJ_01355	gene	hypB		
+NDKHHKNJ_01356	CDS	hypC		Hydrogenase isoenzymes formation protein HypC
+NDKHHKNJ_01356	gene	hypC		
+NDKHHKNJ_01357	CDS	hypD		Hydrogenase isoenzymes formation protein HypD
+NDKHHKNJ_01357	gene	hypD		
+NDKHHKNJ_01358	tRNA			tRNA-Gln(ttg)
+NDKHHKNJ_01358	gene			
+NDKHHKNJ_01359	tRNA			tRNA-Met(cat)
+NDKHHKNJ_01359	gene			
+NDKHHKNJ_01360	CDS	wbnK	2.4.1.308	O-antigen biosynthesis glycosyltransferase WbnK
+NDKHHKNJ_01360	gene	wbnK		
+NDKHHKNJ_01361	CDS	dpnA_5	2.1.1.72	Modification methylase DpnIIB
+NDKHHKNJ_01361	gene	dpnA_5		
+NDKHHKNJ_01362	CDS	mboIR	3.1.21.4	Type-2 restriction enzyme MboI
+NDKHHKNJ_01362	gene	mboIR		
+NDKHHKNJ_01363	tRNA			tRNA-Ser(gct)
+NDKHHKNJ_01363	gene			
+NDKHHKNJ_01364	CDS	fenF	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+NDKHHKNJ_01364	gene	fenF		
+NDKHHKNJ_01365	CDS	mtnN	3.2.2.30	Aminodeoxyfutalosine nucleosidase
+NDKHHKNJ_01365	gene	mtnN		
+NDKHHKNJ_01366	CDS	rpoD		RNA polymerase sigma factor RpoD
+NDKHHKNJ_01366	gene	rpoD		
+NDKHHKNJ_01367	CDS			hypothetical protein
+NDKHHKNJ_01367	gene			
+NDKHHKNJ_01368	CDS	mqo	1.1.5.4	Malate:quinone oxidoreductase
+NDKHHKNJ_01368	gene	mqo		
+NDKHHKNJ_01369	CDS			hypothetical protein
+NDKHHKNJ_01369	gene			
+NDKHHKNJ_01370	CDS	rplM		50S ribosomal protein L13
+NDKHHKNJ_01370	gene	rplM		
+NDKHHKNJ_01371	CDS	rpsI		30S ribosomal protein S9
+NDKHHKNJ_01371	gene	rpsI		
+NDKHHKNJ_01372	CDS	pctB		Methyl-accepting chemotaxis protein PctB
+NDKHHKNJ_01372	gene	pctB		
+NDKHHKNJ_01373	CDS			hypothetical protein
+NDKHHKNJ_01373	gene			
+NDKHHKNJ_01374	CDS			hypothetical protein
+NDKHHKNJ_01374	gene			
+NDKHHKNJ_01375	CDS			hypothetical protein
+NDKHHKNJ_01375	gene			
+NDKHHKNJ_01376	CDS	prfA		Peptide chain release factor RF1
+NDKHHKNJ_01376	gene	prfA		
+NDKHHKNJ_01377	CDS	rpsT		30S ribosomal protein S20
+NDKHHKNJ_01377	gene	rpsT		
+NDKHHKNJ_01378	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+NDKHHKNJ_01378	gene	glmM		
+NDKHHKNJ_01379	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+NDKHHKNJ_01379	gene	lspA		
+NDKHHKNJ_01380	tRNA			tRNA-Val(gac)
+NDKHHKNJ_01380	gene			
+NDKHHKNJ_01381	CDS	ureA	3.5.1.5	Urease subunit alpha
+NDKHHKNJ_01381	gene	ureA		
+NDKHHKNJ_01382	CDS	ureB	3.5.1.5	Urease subunit beta
+NDKHHKNJ_01382	gene	ureB		
+NDKHHKNJ_01383	CDS	ureI		Acid-activated urea channel
+NDKHHKNJ_01383	gene	ureI		
+NDKHHKNJ_01384	CDS	ureE		Urease accessory protein UreE
+NDKHHKNJ_01384	gene	ureE		
+NDKHHKNJ_01385	CDS	ureF		Urease accessory protein UreF
+NDKHHKNJ_01385	gene	ureF		
+NDKHHKNJ_01386	CDS	ureG		Urease accessory protein UreG
+NDKHHKNJ_01386	gene	ureG		
+NDKHHKNJ_01387	CDS	ureH		Urease accessory protein UreH
+NDKHHKNJ_01387	gene	ureH		
+NDKHHKNJ_01388	CDS	ftsK		DNA translocase FtsK
+NDKHHKNJ_01388	gene	ftsK		
+NDKHHKNJ_01389	CDS			hypothetical protein
+NDKHHKNJ_01389	gene			
+NDKHHKNJ_01390	CDS			hypothetical protein
+NDKHHKNJ_01390	gene			
+NDKHHKNJ_01391	CDS			hypothetical protein
+NDKHHKNJ_01391	gene			
+NDKHHKNJ_01392	CDS			hypothetical protein
+NDKHHKNJ_01392	gene			
+NDKHHKNJ_01393	CDS			hypothetical protein
+NDKHHKNJ_01393	gene			
+NDKHHKNJ_01394	CDS			hypothetical protein
+NDKHHKNJ_01394	gene			
+NDKHHKNJ_01395	CDS	smc_2		Chromosome partition protein Smc
+NDKHHKNJ_01395	gene	smc_2		
+NDKHHKNJ_01396	CDS			hypothetical protein
+NDKHHKNJ_01396	gene			
+NDKHHKNJ_01397	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+NDKHHKNJ_01397	gene	ftsW		
+NDKHHKNJ_01398	CDS	flgB		Flagellar basal body rod protein FlgB
+NDKHHKNJ_01398	gene	flgB		
+NDKHHKNJ_01399	CDS	flgC		Flagellar basal-body rod protein FlgC
+NDKHHKNJ_01399	gene	flgC		
+NDKHHKNJ_01400	CDS	fliE		Flagellar hook-basal body complex protein FliE
+NDKHHKNJ_01400	gene	fliE		
+NDKHHKNJ_01401	CDS	ftsI	3.4.16.4	Peptidoglycan D,D-transpeptidase FtsI
+NDKHHKNJ_01401	gene	ftsI		
+NDKHHKNJ_01402	CDS	tsf		Elongation factor Ts
+NDKHHKNJ_01402	gene	tsf		
+NDKHHKNJ_01403	CDS	rpsB		30S ribosomal protein S2
+NDKHHKNJ_01403	gene	rpsB		
+NDKHHKNJ_01404	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+NDKHHKNJ_01404	gene	addA		
+NDKHHKNJ_01405	CDS	nhaA		Na(+)/H(+) antiporter NhaA
+NDKHHKNJ_01405	gene	nhaA		
+NDKHHKNJ_01406	CDS			hypothetical protein
+NDKHHKNJ_01406	gene			
+NDKHHKNJ_01407	CDS			hypothetical protein
+NDKHHKNJ_01407	gene			
+NDKHHKNJ_01408	CDS			hypothetical protein
+NDKHHKNJ_01408	gene			
+NDKHHKNJ_01409	CDS			hypothetical protein
+NDKHHKNJ_01409	gene			
+NDKHHKNJ_01410	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+NDKHHKNJ_01410	gene	leuS		
+NDKHHKNJ_01411	CDS			hypothetical protein
+NDKHHKNJ_01411	gene			
+NDKHHKNJ_01412	CDS	folC	6.3.2.12	Dihydrofolate synthase/folylpolyglutamate synthase
+NDKHHKNJ_01412	gene	folC		
+NDKHHKNJ_01413	CDS	mepM_2	3.4.24.-	Murein DD-endopeptidase MepM
+NDKHHKNJ_01413	gene	mepM_2		
+NDKHHKNJ_01414	CDS	mepM_3	3.4.24.-	Murein DD-endopeptidase MepM
+NDKHHKNJ_01414	gene	mepM_3		
+NDKHHKNJ_01415	CDS			hypothetical protein
+NDKHHKNJ_01415	gene			
+NDKHHKNJ_01416	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+NDKHHKNJ_01416	gene	mfd		
+NDKHHKNJ_01417	CDS	petA	1.10.2.2	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+NDKHHKNJ_01417	gene	petA		
+NDKHHKNJ_01418	CDS	petB		Cytochrome b
+NDKHHKNJ_01418	gene	petB		
+NDKHHKNJ_01419	CDS			hypothetical protein
+NDKHHKNJ_01419	gene			
+NDKHHKNJ_01420	CDS			hypothetical protein
+NDKHHKNJ_01420	gene			
+NDKHHKNJ_01421	CDS			hypothetical protein
+NDKHHKNJ_01421	gene			
+NDKHHKNJ_01422	CDS			hypothetical protein
+NDKHHKNJ_01422	gene			
+NDKHHKNJ_01423	CDS			hypothetical protein
+NDKHHKNJ_01423	gene			
+NDKHHKNJ_01424	CDS			hypothetical protein
+NDKHHKNJ_01424	gene			
+NDKHHKNJ_01425	CDS			hypothetical protein
+NDKHHKNJ_01425	gene			
+NDKHHKNJ_01426	CDS			hypothetical protein
+NDKHHKNJ_01426	gene			
+NDKHHKNJ_01427	CDS			hypothetical protein
+NDKHHKNJ_01427	gene			
+NDKHHKNJ_01428	CDS			hypothetical protein
+NDKHHKNJ_01428	gene			
+NDKHHKNJ_01429	CDS			hypothetical protein
+NDKHHKNJ_01429	gene			
+NDKHHKNJ_01430	CDS			hypothetical protein
+NDKHHKNJ_01430	gene			
+NDKHHKNJ_01431	CDS			hypothetical protein
+NDKHHKNJ_01431	gene			
+NDKHHKNJ_01432	CDS			hypothetical protein
+NDKHHKNJ_01432	gene			
+NDKHHKNJ_01433	CDS			hypothetical protein
+NDKHHKNJ_01433	gene			
+NDKHHKNJ_01434	CDS	speA	4.1.1.19	Biosynthetic arginine decarboxylase
+NDKHHKNJ_01434	gene	speA		
+NDKHHKNJ_01435	CDS	mgtA	2.4.1.-	GDP-mannose-dependent alpha-mannosyltransferase
+NDKHHKNJ_01435	gene	mgtA		
+NDKHHKNJ_01436	CDS			hypothetical protein
+NDKHHKNJ_01436	gene			
+NDKHHKNJ_01437	CDS	cmoB	2.5.1.-	tRNA U34 carboxymethyltransferase
+NDKHHKNJ_01437	gene	cmoB		
+NDKHHKNJ_01438	CDS			hypothetical protein
+NDKHHKNJ_01438	gene			
+NDKHHKNJ_01439	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+NDKHHKNJ_01439	gene	metG		
+NDKHHKNJ_01440	CDS	cfa	2.1.1.79	Cyclopropane-fatty-acyl-phospholipid synthase
+NDKHHKNJ_01440	gene	cfa		
+NDKHHKNJ_01441	CDS	ynaI		Low conductance mechanosensitive channel YnaI
+NDKHHKNJ_01441	gene	ynaI		
+NDKHHKNJ_01442	CDS			hypothetical protein
+NDKHHKNJ_01442	gene			
+NDKHHKNJ_01443	CDS			hypothetical protein
+NDKHHKNJ_01443	gene			
+NDKHHKNJ_01444	CDS			hypothetical protein
+NDKHHKNJ_01444	gene			
+NDKHHKNJ_01445	CDS	topA_2	5.99.1.2	DNA topoisomerase 1
+NDKHHKNJ_01445	gene	topA_2		
+NDKHHKNJ_01446	CDS	ptlC		Type IV secretion system protein PtlC
+NDKHHKNJ_01446	gene	ptlC		
+NDKHHKNJ_01447	CDS			hypothetical protein
+NDKHHKNJ_01447	gene			
+NDKHHKNJ_01448	CDS			hypothetical protein
+NDKHHKNJ_01448	gene			
+NDKHHKNJ_01449	CDS			hypothetical protein
+NDKHHKNJ_01449	gene			
+NDKHHKNJ_01450	CDS			hypothetical protein
+NDKHHKNJ_01450	gene			
+NDKHHKNJ_01451	CDS			hypothetical protein
+NDKHHKNJ_01451	gene			
+NDKHHKNJ_01452	CDS			hypothetical protein
+NDKHHKNJ_01452	gene			
+NDKHHKNJ_01453	CDS			hypothetical protein
+NDKHHKNJ_01453	gene			
+NDKHHKNJ_01454	CDS			hypothetical protein
+NDKHHKNJ_01454	gene			
+NDKHHKNJ_01455	CDS			hypothetical protein
+NDKHHKNJ_01455	gene			
+NDKHHKNJ_01456	CDS			hypothetical protein
+NDKHHKNJ_01456	gene			
+NDKHHKNJ_01457	CDS			hypothetical protein
+NDKHHKNJ_01457	gene			
+NDKHHKNJ_01458	CDS			hypothetical protein
+NDKHHKNJ_01458	gene			
+NDKHHKNJ_01459	CDS			hypothetical protein
+NDKHHKNJ_01459	gene			
+NDKHHKNJ_01460	CDS			hypothetical protein
+NDKHHKNJ_01460	gene			
+NDKHHKNJ_01461	CDS			hypothetical protein
+NDKHHKNJ_01461	gene			
+NDKHHKNJ_01462	CDS			hypothetical protein
+NDKHHKNJ_01462	gene			
+NDKHHKNJ_01463	CDS			hypothetical protein
+NDKHHKNJ_01463	gene			
+NDKHHKNJ_01464	CDS			hypothetical protein
+NDKHHKNJ_01464	gene			
+NDKHHKNJ_01465	CDS			hypothetical protein
+NDKHHKNJ_01465	gene			
+NDKHHKNJ_01466	CDS			hypothetical protein
+NDKHHKNJ_01466	gene			
+NDKHHKNJ_01467	CDS	virB4_3		Type IV secretion system protein virB4
+NDKHHKNJ_01467	gene	virB4_3		
+NDKHHKNJ_01468	CDS			hypothetical protein
+NDKHHKNJ_01468	gene			
+NDKHHKNJ_01469	CDS	vspIM	2.1.1.72	Modification methylase VspI
+NDKHHKNJ_01469	gene	vspIM		
+NDKHHKNJ_01470	CDS			hypothetical protein
+NDKHHKNJ_01470	gene			
+NDKHHKNJ_01471	CDS	typA		GTP-binding protein TypA/BipA
+NDKHHKNJ_01471	gene	typA		
+NDKHHKNJ_01472	CDS			hypothetical protein
+NDKHHKNJ_01472	gene			
+NDKHHKNJ_01473	CDS			hypothetical protein
+NDKHHKNJ_01473	gene			
+NDKHHKNJ_01474	CDS			hypothetical protein
+NDKHHKNJ_01474	gene			
+NDKHHKNJ_01475	CDS			hypothetical protein
+NDKHHKNJ_01475	gene			
+NDKHHKNJ_01476	CDS	ydiO	2.1.1.37	putative BsuMI modification methylase subunit YdiO
+NDKHHKNJ_01476	gene	ydiO		
+NDKHHKNJ_01477	CDS			hypothetical protein
+NDKHHKNJ_01477	gene			
+NDKHHKNJ_01478	CDS			hypothetical protein
+NDKHHKNJ_01478	gene			
+NDKHHKNJ_01479	CDS	srpA	1.11.1.-	Catalase-related peroxidase
+NDKHHKNJ_01479	gene	srpA		
+NDKHHKNJ_01480	CDS			hypothetical protein
+NDKHHKNJ_01480	gene			
+NDKHHKNJ_01481	CDS			hypothetical protein
+NDKHHKNJ_01481	gene			
+NDKHHKNJ_01482	CDS			hypothetical protein
+NDKHHKNJ_01482	gene			
+NDKHHKNJ_01483	CDS			hypothetical protein
+NDKHHKNJ_01483	gene			
+NDKHHKNJ_01484	CDS			hypothetical protein
+NDKHHKNJ_01484	gene			
+NDKHHKNJ_01485	CDS			hypothetical protein
+NDKHHKNJ_01485	gene			
+NDKHHKNJ_01486	CDS			hypothetical protein
+NDKHHKNJ_01486	gene			
+NDKHHKNJ_01487	CDS			hypothetical protein
+NDKHHKNJ_01487	gene			
+NDKHHKNJ_01488	CDS			hypothetical protein
+NDKHHKNJ_01488	gene			
+NDKHHKNJ_01489	CDS			hypothetical protein
+NDKHHKNJ_01489	gene			
+NDKHHKNJ_01490	CDS			hypothetical protein
+NDKHHKNJ_01490	gene			
+NDKHHKNJ_01491	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+NDKHHKNJ_01491	gene	recD2		
+NDKHHKNJ_01492	CDS			hypothetical protein
+NDKHHKNJ_01492	gene			
+NDKHHKNJ_01493	CDS	exbD_3		Biopolymer transport protein ExbD
+NDKHHKNJ_01493	gene	exbD_3		
+NDKHHKNJ_01494	CDS	exbB_3		Biopolymer transport protein ExbB
+NDKHHKNJ_01494	gene	exbB_3		
+NDKHHKNJ_01495	CDS			Putative nickel-responsive regulator
+NDKHHKNJ_01495	gene			
+NDKHHKNJ_01496	CDS	nadD	2.7.7.18	putative nicotinate-nucleotide adenylyltransferase
+NDKHHKNJ_01496	gene	nadD		
+NDKHHKNJ_01497	CDS			hypothetical protein
+NDKHHKNJ_01497	gene			
+NDKHHKNJ_01498	CDS	mnmA_2	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+NDKHHKNJ_01498	gene	mnmA_2		
+NDKHHKNJ_01499	CDS			hypothetical protein
+NDKHHKNJ_01499	gene			
+NDKHHKNJ_01500	CDS			hypothetical protein
+NDKHHKNJ_01500	gene			
+NDKHHKNJ_01501	CDS	dnaJ		Chaperone protein DnaJ
+NDKHHKNJ_01501	gene	dnaJ		
+NDKHHKNJ_01502	CDS	ygaZ		Inner membrane protein YgaZ
+NDKHHKNJ_01502	gene	ygaZ		
+NDKHHKNJ_01503	CDS			hypothetical protein
+NDKHHKNJ_01503	gene			
+NDKHHKNJ_01504	CDS	cusA		Cation efflux system protein CusA
+NDKHHKNJ_01504	gene	cusA		
+NDKHHKNJ_01505	CDS	cusB		Cation efflux system protein CusB
+NDKHHKNJ_01505	gene	cusB		
+NDKHHKNJ_01506	CDS			hypothetical protein
+NDKHHKNJ_01506	gene			
+NDKHHKNJ_01507	CDS			hypothetical protein
+NDKHHKNJ_01507	gene			
+NDKHHKNJ_01508	CDS	fumC	4.2.1.2	Fumarate hydratase class II
+NDKHHKNJ_01508	gene	fumC		
+NDKHHKNJ_01509	CDS			hypothetical protein
+NDKHHKNJ_01509	gene			
+NDKHHKNJ_01510	CDS	rnhB	3.1.26.4	Ribonuclease HII
+NDKHHKNJ_01510	gene	rnhB		
+NDKHHKNJ_01511	CDS			hypothetical protein
+NDKHHKNJ_01511	gene			
+NDKHHKNJ_01512	CDS			hypothetical protein
+NDKHHKNJ_01512	gene			
+NDKHHKNJ_01513	CDS	purU	3.5.1.10	Formyltetrahydrofolate deformylase
+NDKHHKNJ_01513	gene	purU		
+NDKHHKNJ_01514	CDS	sppA	3.4.21.-	Putative signal peptide peptidase SppA
+NDKHHKNJ_01514	gene	sppA		
+NDKHHKNJ_01515	CDS			hypothetical protein
+NDKHHKNJ_01515	gene			
+NDKHHKNJ_01516	CDS			hypothetical protein
+NDKHHKNJ_01516	gene			
+NDKHHKNJ_01517	CDS			hypothetical protein
+NDKHHKNJ_01517	gene			
+NDKHHKNJ_01518	CDS			hypothetical protein
+NDKHHKNJ_01518	gene			
+NDKHHKNJ_01519	CDS			hypothetical protein
+NDKHHKNJ_01519	gene			
+NDKHHKNJ_01520	CDS	bioB	2.8.1.6	Biotin synthase
+NDKHHKNJ_01520	gene	bioB		
+NDKHHKNJ_01521	CDS			hypothetical protein
+NDKHHKNJ_01521	gene			
+NDKHHKNJ_01522	CDS	hsdM	2.1.1.72	Type I restriction enzyme EcoKI M protein
+NDKHHKNJ_01522	gene	hsdM		
+NDKHHKNJ_01523	CDS	hsdR_3	3.1.21.3	Type-1 restriction enzyme R protein
+NDKHHKNJ_01523	gene	hsdR_3		
+NDKHHKNJ_01524	CDS			hypothetical protein
+NDKHHKNJ_01524	gene			
+NDKHHKNJ_01525	CDS	fecA_3		Fe(3+) dicitrate transport protein FecA
+NDKHHKNJ_01525	gene	fecA_3		
+NDKHHKNJ_01526	CDS	queF	1.7.1.13	NADPH-dependent 7-cyano-7-deazaguanine reductase
+NDKHHKNJ_01526	gene	queF		
+NDKHHKNJ_01527	CDS	rsfS		Ribosomal silencing factor RsfS
+NDKHHKNJ_01527	gene	rsfS		
+NDKHHKNJ_01528	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+NDKHHKNJ_01528	gene	miaA		
+NDKHHKNJ_01529	CDS			hypothetical protein
+NDKHHKNJ_01529	gene			
+NDKHHKNJ_01530	CDS			hypothetical protein
+NDKHHKNJ_01530	gene			
+NDKHHKNJ_01531	CDS	cptA	2.7.-.-	Phosphoethanolamine transferase CptA
+NDKHHKNJ_01531	gene	cptA		
+NDKHHKNJ_01532	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+NDKHHKNJ_01532	gene	murB		
+NDKHHKNJ_01533	CDS			hypothetical protein
+NDKHHKNJ_01533	gene			
+NDKHHKNJ_01534	CDS	fliI	3.6.3.14	Flagellum-specific ATP synthase
+NDKHHKNJ_01534	gene	fliI		
+NDKHHKNJ_01535	CDS	ptlH		Type IV secretion system protein PtlH
+NDKHHKNJ_01535	gene	ptlH		
+NDKHHKNJ_01536	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+NDKHHKNJ_01536	gene	ileS		
+NDKHHKNJ_01537	CDS			hypothetical protein
+NDKHHKNJ_01537	gene			
+NDKHHKNJ_01538	CDS			hypothetical protein
+NDKHHKNJ_01538	gene			
+NDKHHKNJ_01539	CDS			hypothetical protein
+NDKHHKNJ_01539	gene			
+NDKHHKNJ_01540	CDS			hypothetical protein
+NDKHHKNJ_01540	gene			
+NDKHHKNJ_01541	CDS			hypothetical protein
+NDKHHKNJ_01541	gene			
+NDKHHKNJ_01542	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+NDKHHKNJ_01542	gene	rlmN		
+NDKHHKNJ_01543	CDS	kdsD	5.3.1.13	Arabinose 5-phosphate isomerase KdsD
+NDKHHKNJ_01543	gene	kdsD		
+NDKHHKNJ_01544	CDS	rnj	3.1.-.-	Ribonuclease J
+NDKHHKNJ_01544	gene	rnj		
+NDKHHKNJ_01545	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+NDKHHKNJ_01545	gene	rsmA		
+NDKHHKNJ_01546	CDS			hypothetical protein
+NDKHHKNJ_01546	gene			
+NDKHHKNJ_01547	CDS			hypothetical protein
+NDKHHKNJ_01547	gene			
+NDKHHKNJ_01548	CDS	ansA	3.5.1.1	putative L-asparaginase
+NDKHHKNJ_01548	gene	ansA		
+NDKHHKNJ_01549	CDS	dcuA		Anaerobic C4-dicarboxylate transporter DcuA
+NDKHHKNJ_01549	gene	dcuA		
+NDKHHKNJ_01550	CDS			hypothetical protein
+NDKHHKNJ_01550	gene			
+NDKHHKNJ_01551	CDS			hypothetical protein
+NDKHHKNJ_01551	gene			
+NDKHHKNJ_01552	CDS			hypothetical protein
+NDKHHKNJ_01552	gene			
+NDKHHKNJ_01553	CDS			hypothetical protein
+NDKHHKNJ_01553	gene			
+NDKHHKNJ_01554	CDS			hypothetical protein
+NDKHHKNJ_01554	gene			
+NDKHHKNJ_01555	CDS	ctkA	2.7.11.1	Serine/threonine-protein kinase CtkA
+NDKHHKNJ_01555	gene	ctkA		
+NDKHHKNJ_01556	CDS	xerH_2		Tyrosine recombinase XerH
+NDKHHKNJ_01556	gene	xerH_2		
+NDKHHKNJ_01557	CDS			hypothetical protein
+NDKHHKNJ_01557	gene			
+NDKHHKNJ_01558	CDS			hypothetical protein
+NDKHHKNJ_01558	gene			
+NDKHHKNJ_01559	CDS			hypothetical protein
+NDKHHKNJ_01559	gene			
+NDKHHKNJ_01560	CDS			hypothetical protein
+NDKHHKNJ_01560	gene			
+NDKHHKNJ_01561	CDS			hypothetical protein
+NDKHHKNJ_01561	gene			
+NDKHHKNJ_01562	CDS			hypothetical protein
+NDKHHKNJ_01562	gene			
+NDKHHKNJ_01563	CDS			hypothetical protein
+NDKHHKNJ_01563	gene			

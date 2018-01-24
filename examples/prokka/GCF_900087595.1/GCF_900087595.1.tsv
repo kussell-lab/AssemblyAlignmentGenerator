@@ -1,0 +1,3129 @@
+locus_tag	ftype	gene	EC_number	product
+GEBNMNOD_00001	CDS			hypothetical protein
+GEBNMNOD_00001	gene			
+GEBNMNOD_00002	CDS	flgG_1		Flagellar basal-body rod protein FlgG
+GEBNMNOD_00002	gene	flgG_1		
+GEBNMNOD_00003	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+GEBNMNOD_00003	gene	tsaD		
+GEBNMNOD_00004	CDS	pdxA	1.1.1.262	4-hydroxythreonine-4-phosphate dehydrogenase
+GEBNMNOD_00004	gene	pdxA		
+GEBNMNOD_00005	CDS	pdxJ	2.6.99.2	Pyridoxine 5'-phosphate synthase
+GEBNMNOD_00005	gene	pdxJ		
+GEBNMNOD_00006	CDS	tagO	2.7.8.33	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+GEBNMNOD_00006	gene	tagO		
+GEBNMNOD_00007	CDS	lpxE_1	3.1.-.-	Lipid A 1-phosphatase
+GEBNMNOD_00007	gene	lpxE_1		
+GEBNMNOD_00008	CDS			hypothetical protein
+GEBNMNOD_00008	gene			
+GEBNMNOD_00009	CDS			hypothetical protein
+GEBNMNOD_00009	gene			
+GEBNMNOD_00010	CDS	metI		D-methionine transport system permease protein MetI
+GEBNMNOD_00010	gene	metI		
+GEBNMNOD_00011	CDS	metN	3.6.3.-	Methionine import ATP-binding protein MetN
+GEBNMNOD_00011	gene	metN		
+GEBNMNOD_00012	CDS	flhB_1		Flagellar biosynthetic protein FlhB
+GEBNMNOD_00012	gene	flhB_1		
+GEBNMNOD_00013	CDS	ribE	2.5.1.9	Riboflavin synthase
+GEBNMNOD_00013	gene	ribE		
+GEBNMNOD_00014	CDS	ycfH	3.1.-.-	putative metal-dependent hydrolase YcfH
+GEBNMNOD_00014	gene	ycfH		
+GEBNMNOD_00015	CDS	mltD	4.2.2.-	Membrane-bound lytic murein transglycosylase D
+GEBNMNOD_00015	gene	mltD		
+GEBNMNOD_00016	CDS	rlpA	4.2.2.-	Endolytic peptidoglycan transglycosylase RlpA
+GEBNMNOD_00016	gene	rlpA		
+GEBNMNOD_00017	CDS	kdsC	3.1.3.45	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+GEBNMNOD_00017	gene	kdsC		
+GEBNMNOD_00018	CDS			hypothetical protein
+GEBNMNOD_00018	gene			
+GEBNMNOD_00019	CDS	lptA		Lipopolysaccharide export system protein LptA
+GEBNMNOD_00019	gene	lptA		
+GEBNMNOD_00020	CDS	engB		putative GTP-binding protein EngB
+GEBNMNOD_00020	gene	engB		
+GEBNMNOD_00021	CDS			hypothetical protein
+GEBNMNOD_00021	gene			
+GEBNMNOD_00022	CDS	mrdA	3.4.16.4	Peptidoglycan D,D-transpeptidase MrdA
+GEBNMNOD_00022	gene	mrdA		
+GEBNMNOD_00023	CDS	metQ		D-methionine-binding lipoprotein MetQ
+GEBNMNOD_00023	gene	metQ		
+GEBNMNOD_00024	CDS	tsaA	1.11.1.15	putative peroxiredoxin
+GEBNMNOD_00024	gene	tsaA		
+GEBNMNOD_00025	CDS	thyX	2.1.1.148	Flavin-dependent thymidylate synthase
+GEBNMNOD_00025	gene	thyX		
+GEBNMNOD_00026	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+GEBNMNOD_00026	gene	glmS		
+GEBNMNOD_00027	CDS			hypothetical protein
+GEBNMNOD_00027	gene			
+GEBNMNOD_00028	CDS	mqnB	3.2.2.26	Futalosine hydrolase
+GEBNMNOD_00028	gene	mqnB		
+GEBNMNOD_00029	CDS	dnaA		Chromosomal replication initiator protein DnaA
+GEBNMNOD_00029	gene	dnaA		
+GEBNMNOD_00030	CDS			hypothetical protein
+GEBNMNOD_00030	gene			
+GEBNMNOD_00031	tRNA			tRNA-Phe(gaa)
+GEBNMNOD_00031	gene			
+GEBNMNOD_00032	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+GEBNMNOD_00032	gene	exoA		
+GEBNMNOD_00033	CDS			hypothetical protein
+GEBNMNOD_00033	gene			
+GEBNMNOD_00034	CDS			hypothetical protein
+GEBNMNOD_00034	gene			
+GEBNMNOD_00035	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+GEBNMNOD_00035	gene	recG		
+GEBNMNOD_00036	CDS			hypothetical protein
+GEBNMNOD_00036	gene			
+GEBNMNOD_00037	CDS			hypothetical protein
+GEBNMNOD_00037	gene			
+GEBNMNOD_00038	CDS			hypothetical protein
+GEBNMNOD_00038	gene			
+GEBNMNOD_00039	CDS			hypothetical protein
+GEBNMNOD_00039	gene			
+GEBNMNOD_00040	CDS			hypothetical protein
+GEBNMNOD_00040	gene			
+GEBNMNOD_00041	CDS			hypothetical protein
+GEBNMNOD_00041	gene			
+GEBNMNOD_00042	CDS	paeR7IM	2.1.1.72	Modification methylase PaeR7I
+GEBNMNOD_00042	gene	paeR7IM		
+GEBNMNOD_00043	CDS			hypothetical protein
+GEBNMNOD_00043	gene			
+GEBNMNOD_00044	CDS	nusA		Transcription termination/antitermination protein NusA
+GEBNMNOD_00044	gene	nusA		
+GEBNMNOD_00045	CDS	selA	2.9.1.1	L-seryl-tRNA(Sec) selenium transferase
+GEBNMNOD_00045	gene	selA		
+GEBNMNOD_00046	CDS	bhuA_1		Heme transporter BhuA
+GEBNMNOD_00046	gene	bhuA_1		
+GEBNMNOD_00047	CDS			hypothetical protein
+GEBNMNOD_00047	gene			
+GEBNMNOD_00048	CDS			hypothetical protein
+GEBNMNOD_00048	gene			
+GEBNMNOD_00049	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+GEBNMNOD_00049	gene	plsY		
+GEBNMNOD_00050	CDS	yccM		Putative electron transport protein YccM
+GEBNMNOD_00050	gene	yccM		
+GEBNMNOD_00051	CDS		1.5.1.43	Carboxynorspermidine synthase
+GEBNMNOD_00051	gene			
+GEBNMNOD_00052	CDS	gltS		Sodium/glutamate symporter
+GEBNMNOD_00052	gene	gltS		
+GEBNMNOD_00053	CDS	ribD		Riboflavin biosynthesis protein RibD
+GEBNMNOD_00053	gene	ribD		
+GEBNMNOD_00054	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+GEBNMNOD_00054	gene	yfiC		
+GEBNMNOD_00055	CDS	copA_1	3.6.3.54	Copper-exporting P-type ATPase A
+GEBNMNOD_00055	gene	copA_1		
+GEBNMNOD_00056	CDS			hypothetical protein
+GEBNMNOD_00056	gene			
+GEBNMNOD_00057	CDS			hypothetical protein
+GEBNMNOD_00057	gene			
+GEBNMNOD_00058	CDS			hypothetical protein
+GEBNMNOD_00058	gene			
+GEBNMNOD_00059	CDS			hypothetical protein
+GEBNMNOD_00059	gene			
+GEBNMNOD_00060	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+GEBNMNOD_00060	gene	pth		
+GEBNMNOD_00061	CDS	rplY		50S ribosomal protein L25
+GEBNMNOD_00061	gene	rplY		
+GEBNMNOD_00062	CDS	tal	2.2.1.2	Transaldolase
+GEBNMNOD_00062	gene	tal		
+GEBNMNOD_00063	CDS	murE	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+GEBNMNOD_00063	gene	murE		
+GEBNMNOD_00064	CDS			hypothetical protein
+GEBNMNOD_00064	gene			
+GEBNMNOD_00065	CDS	nfuA		Fe/S biogenesis protein NfuA
+GEBNMNOD_00065	gene	nfuA		
+GEBNMNOD_00066	CDS	cysP		Sulfate permease CysP
+GEBNMNOD_00066	gene	cysP		
+GEBNMNOD_00067	CDS	corC		Magnesium and cobalt efflux protein CorC
+GEBNMNOD_00067	gene	corC		
+GEBNMNOD_00068	CDS			hypothetical protein
+GEBNMNOD_00068	gene			
+GEBNMNOD_00069	CDS	mdtN		Multidrug resistance protein MdtN
+GEBNMNOD_00069	gene	mdtN		
+GEBNMNOD_00070	CDS			hypothetical protein
+GEBNMNOD_00070	gene			
+GEBNMNOD_00071	CDS	ybhS		Inner membrane transport permease YbhS
+GEBNMNOD_00071	gene	ybhS		
+GEBNMNOD_00072	CDS	yigZ		IMPACT family member YigZ
+GEBNMNOD_00072	gene	yigZ		
+GEBNMNOD_00073	CDS			hypothetical protein
+GEBNMNOD_00073	gene			
+GEBNMNOD_00074	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+GEBNMNOD_00074	gene	menG		
+GEBNMNOD_00075	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+GEBNMNOD_00075	gene	xseB		
+GEBNMNOD_00076	CDS			hypothetical protein
+GEBNMNOD_00076	gene			
+GEBNMNOD_00077	CDS	serS	6.1.1.11	Serine--tRNA ligase
+GEBNMNOD_00077	gene	serS		
+GEBNMNOD_00078	CDS			hypothetical protein
+GEBNMNOD_00078	gene			
+GEBNMNOD_00079	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+GEBNMNOD_00079	gene	pcrA		
+GEBNMNOD_00080	CDS			hypothetical protein
+GEBNMNOD_00080	gene			
+GEBNMNOD_00081	CDS	ubiX	2.5.1.129	Flavin prenyltransferase UbiX
+GEBNMNOD_00081	gene	ubiX		
+GEBNMNOD_00082	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+GEBNMNOD_00082	gene	coaD		
+GEBNMNOD_00083	CDS	tmk	2.7.4.9	Thymidylate kinase
+GEBNMNOD_00083	gene	tmk		
+GEBNMNOD_00084	CDS			hypothetical protein
+GEBNMNOD_00084	gene			
+GEBNMNOD_00085	CDS	bcgIA	3.1.21.-	Restriction enzyme BgcI subunit alpha
+GEBNMNOD_00085	gene	bcgIA		
+GEBNMNOD_00086	CDS	bcgIB	3.1.21.-	Restriction enzyme BgcI subunit beta
+GEBNMNOD_00086	gene	bcgIB		
+GEBNMNOD_00087	CDS			hypothetical protein
+GEBNMNOD_00087	gene			
+GEBNMNOD_00088	CDS	polA	2.7.7.7	DNA polymerase I, thermostable
+GEBNMNOD_00088	gene	polA		
+GEBNMNOD_00089	CDS			hypothetical protein
+GEBNMNOD_00089	gene			
+GEBNMNOD_00090	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid transaminase 1
+GEBNMNOD_00090	gene	ilvE		
+GEBNMNOD_00091	CDS			hypothetical protein
+GEBNMNOD_00091	gene			
+GEBNMNOD_00092	CDS	mlaE		putative phospholipid ABC transporter permease protein MlaE
+GEBNMNOD_00092	gene	mlaE		
+GEBNMNOD_00093	CDS	metN2	3.6.3.-	Methionine import ATP-binding protein MetN 2
+GEBNMNOD_00093	gene	metN2		
+GEBNMNOD_00094	CDS			hypothetical protein
+GEBNMNOD_00094	gene			
+GEBNMNOD_00095	CDS			hypothetical protein
+GEBNMNOD_00095	gene			
+GEBNMNOD_00096	CDS			hypothetical protein
+GEBNMNOD_00096	gene			
+GEBNMNOD_00097	CDS	ccpA	1.11.1.5	Cytochrome c551 peroxidase
+GEBNMNOD_00097	gene	ccpA		
+GEBNMNOD_00098	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+GEBNMNOD_00098	gene	dnaE		
+GEBNMNOD_00099	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+GEBNMNOD_00099	gene	rluB		
+GEBNMNOD_00100	CDS	trxA_1		Thioredoxin
+GEBNMNOD_00100	gene	trxA_1		
+GEBNMNOD_00101	CDS			hypothetical protein
+GEBNMNOD_00101	gene			
+GEBNMNOD_00102	CDS			LPP20 lipoprotein
+GEBNMNOD_00102	gene			
+GEBNMNOD_00103	CDS			hypothetical protein
+GEBNMNOD_00103	gene			
+GEBNMNOD_00104	CDS			hypothetical protein
+GEBNMNOD_00104	gene			
+GEBNMNOD_00105	CDS			hypothetical protein
+GEBNMNOD_00105	gene			
+GEBNMNOD_00106	CDS	mnmE	3.6.5.-	tRNA modification GTPase MnmE
+GEBNMNOD_00106	gene	mnmE		
+GEBNMNOD_00107	CDS			hypothetical protein
+GEBNMNOD_00107	gene			
+GEBNMNOD_00108	CDS	yidC		Membrane protein insertase YidC
+GEBNMNOD_00108	gene	yidC		
+GEBNMNOD_00109	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+GEBNMNOD_00109	gene	rnpA		
+GEBNMNOD_00110	CDS	exbD_1		Biopolymer transport protein ExbD
+GEBNMNOD_00110	gene	exbD_1		
+GEBNMNOD_00111	CDS	exbB_1		Biopolymer transport protein ExbB
+GEBNMNOD_00111	gene	exbB_1		
+GEBNMNOD_00112	CDS	smpB		SsrA-binding protein
+GEBNMNOD_00112	gene	smpB		
+GEBNMNOD_00113	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+GEBNMNOD_00113	gene	ispE		
+GEBNMNOD_00114	CDS	csrA		Carbon storage regulator 
+GEBNMNOD_00114	gene	csrA		
+GEBNMNOD_00115	CDS	ppiB	5.2.1.8	Peptidyl-prolyl cis-trans isomerase B
+GEBNMNOD_00115	gene	ppiB		
+GEBNMNOD_00116	CDS			hypothetical protein
+GEBNMNOD_00116	gene			
+GEBNMNOD_00117	CDS			hypothetical protein
+GEBNMNOD_00117	gene			
+GEBNMNOD_00118	CDS			hypothetical protein
+GEBNMNOD_00118	gene			
+GEBNMNOD_00119	CDS			hypothetical protein
+GEBNMNOD_00119	gene			
+GEBNMNOD_00120	CDS			hypothetical protein
+GEBNMNOD_00120	gene			
+GEBNMNOD_00121	CDS	sppA	3.4.21.-	Putative signal peptide peptidase SppA
+GEBNMNOD_00121	gene	sppA		
+GEBNMNOD_00122	CDS	purU	3.5.1.10	Formyltetrahydrofolate deformylase
+GEBNMNOD_00122	gene	purU		
+GEBNMNOD_00123	CDS			hypothetical protein
+GEBNMNOD_00123	gene			
+GEBNMNOD_00124	CDS			hypothetical protein
+GEBNMNOD_00124	gene			
+GEBNMNOD_00125	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+GEBNMNOD_00125	gene	rsmA		
+GEBNMNOD_00126	CDS	rnj	3.1.-.-	Ribonuclease J
+GEBNMNOD_00126	gene	rnj		
+GEBNMNOD_00127	CDS	kdsD	5.3.1.13	Arabinose 5-phosphate isomerase KdsD
+GEBNMNOD_00127	gene	kdsD		
+GEBNMNOD_00128	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+GEBNMNOD_00128	gene	rlmN		
+GEBNMNOD_00129	CDS			hypothetical protein
+GEBNMNOD_00129	gene			
+GEBNMNOD_00130	CDS			hypothetical protein
+GEBNMNOD_00130	gene			
+GEBNMNOD_00131	CDS			hypothetical protein
+GEBNMNOD_00131	gene			
+GEBNMNOD_00132	CDS			hypothetical protein
+GEBNMNOD_00132	gene			
+GEBNMNOD_00133	CDS			hypothetical protein
+GEBNMNOD_00133	gene			
+GEBNMNOD_00134	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+GEBNMNOD_00134	gene	ileS		
+GEBNMNOD_00135	CDS	ptlH		Type IV secretion system protein PtlH
+GEBNMNOD_00135	gene	ptlH		
+GEBNMNOD_00136	CDS	fliI	3.6.3.14	Flagellum-specific ATP synthase
+GEBNMNOD_00136	gene	fliI		
+GEBNMNOD_00137	CDS			hypothetical protein
+GEBNMNOD_00137	gene			
+GEBNMNOD_00138	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+GEBNMNOD_00138	gene	murB		
+GEBNMNOD_00139	CDS	cptA	2.7.-.-	Phosphoethanolamine transferase CptA
+GEBNMNOD_00139	gene	cptA		
+GEBNMNOD_00140	CDS			hypothetical protein
+GEBNMNOD_00140	gene			
+GEBNMNOD_00141	CDS			hypothetical protein
+GEBNMNOD_00141	gene			
+GEBNMNOD_00142	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+GEBNMNOD_00142	gene	miaA		
+GEBNMNOD_00143	CDS	rsfS		Ribosomal silencing factor RsfS
+GEBNMNOD_00143	gene	rsfS		
+GEBNMNOD_00144	CDS	queF	1.7.1.13	NADPH-dependent 7-cyano-7-deazaguanine reductase
+GEBNMNOD_00144	gene	queF		
+GEBNMNOD_00145	CDS			hypothetical protein
+GEBNMNOD_00145	gene			
+GEBNMNOD_00146	CDS			hypothetical protein
+GEBNMNOD_00146	gene			
+GEBNMNOD_00147	CDS			hypothetical protein
+GEBNMNOD_00147	gene			
+GEBNMNOD_00148	CDS			hypothetical protein
+GEBNMNOD_00148	gene			
+GEBNMNOD_00149	CDS			hypothetical protein
+GEBNMNOD_00149	gene			
+GEBNMNOD_00150	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+GEBNMNOD_00150	gene			
+GEBNMNOD_00151	CDS			hypothetical protein
+GEBNMNOD_00151	gene			
+GEBNMNOD_00152	CDS			hypothetical protein
+GEBNMNOD_00152	gene			
+GEBNMNOD_00153	CDS	ybiT		putative ABC transporter ATP-binding protein YbiT
+GEBNMNOD_00153	gene	ybiT		
+GEBNMNOD_00154	CDS	guaC	1.7.1.7	GMP reductase
+GEBNMNOD_00154	gene	guaC		
+GEBNMNOD_00155	CDS	patA	2.3.1.-	Peptidoglycan O-acetyltransferase
+GEBNMNOD_00155	gene	patA		
+GEBNMNOD_00156	CDS			hypothetical protein
+GEBNMNOD_00156	gene			
+GEBNMNOD_00157	CDS	gmhA1	5.3.1.28	Phosphoheptose isomerase 1
+GEBNMNOD_00157	gene	gmhA1		
+GEBNMNOD_00158	CDS	hldE		Bifunctional protein HldE
+GEBNMNOD_00158	gene	hldE		
+GEBNMNOD_00159	CDS	hldD	5.1.3.20	ADP-L-glycero-D-manno-heptose-6-epimerase
+GEBNMNOD_00159	gene	hldD		
+GEBNMNOD_00160	CDS	gmhB	3.1.3.82	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+GEBNMNOD_00160	gene	gmhB		
+GEBNMNOD_00161	CDS			hypothetical protein
+GEBNMNOD_00161	gene			
+GEBNMNOD_00162	CDS	coaX	2.7.1.33	Type III pantothenate kinase
+GEBNMNOD_00162	gene	coaX		
+GEBNMNOD_00163	CDS	pgbB		Plasminogen-binding protein PgbB
+GEBNMNOD_00163	gene	pgbB		
+GEBNMNOD_00164	CDS			hypothetical protein
+GEBNMNOD_00164	gene			
+GEBNMNOD_00165	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+GEBNMNOD_00165	gene	dut		
+GEBNMNOD_00166	CDS	greA		Transcription elongation factor GreA
+GEBNMNOD_00166	gene	greA		
+GEBNMNOD_00167	CDS	lpxB	2.4.1.182	Lipid-A-disaccharide synthase
+GEBNMNOD_00167	gene	lpxB		
+GEBNMNOD_00168	CDS			hypothetical protein
+GEBNMNOD_00168	gene			
+GEBNMNOD_00169	CDS	hypA		Hydrogenase/urease nickel incorporation protein HypA
+GEBNMNOD_00169	gene	hypA		
+GEBNMNOD_00170	CDS	flgE_1		Flagellar hook protein FlgE
+GEBNMNOD_00170	gene	flgE_1		
+GEBNMNOD_00171	CDS	cdh	3.6.1.26	CDP-diacylglycerol pyrophosphatase
+GEBNMNOD_00171	gene	cdh		
+GEBNMNOD_00172	CDS			hypothetical protein
+GEBNMNOD_00172	gene			
+GEBNMNOD_00173	CDS			hypothetical protein
+GEBNMNOD_00173	gene			
+GEBNMNOD_00174	CDS			hypothetical protein
+GEBNMNOD_00174	gene			
+GEBNMNOD_00175	CDS	katA	1.11.1.6	Catalase
+GEBNMNOD_00175	gene	katA		
+GEBNMNOD_00176	CDS	tdhA		TonB-dependent heme receptor A
+GEBNMNOD_00176	gene	tdhA		
+GEBNMNOD_00177	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+GEBNMNOD_00177	gene	ruvC		
+GEBNMNOD_00178	CDS			hypothetical protein
+GEBNMNOD_00178	gene			
+GEBNMNOD_00179	CDS			hypothetical protein
+GEBNMNOD_00179	gene			
+GEBNMNOD_00180	CDS			hypothetical protein
+GEBNMNOD_00180	gene			
+GEBNMNOD_00181	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+GEBNMNOD_00181	gene	ruvA		
+GEBNMNOD_00182	CDS			hypothetical protein
+GEBNMNOD_00182	gene			
+GEBNMNOD_00183	CDS	murJ		Lipid II flippase MurJ
+GEBNMNOD_00183	gene	murJ		
+GEBNMNOD_00184	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+GEBNMNOD_00184	gene	cysS		
+GEBNMNOD_00185	CDS	vacA_1		Vacuolating cytotoxin autotransporter
+GEBNMNOD_00185	gene	vacA_1		
+GEBNMNOD_00186	CDS			putative ABC transporter ATP-binding protein
+GEBNMNOD_00186	gene			
+GEBNMNOD_00187	CDS	hmuU		Hemin transport system permease protein HmuU
+GEBNMNOD_00187	gene	hmuU		
+GEBNMNOD_00188	CDS		1.-.-.-	putative oxidoreductase
+GEBNMNOD_00188	gene			
+GEBNMNOD_00189	CDS			hypothetical protein
+GEBNMNOD_00189	gene			
+GEBNMNOD_00190	CDS	yafQ_1	3.1.-.-	mRNA interferase YafQ
+GEBNMNOD_00190	gene	yafQ_1		
+GEBNMNOD_00191	CDS			hypothetical protein
+GEBNMNOD_00191	gene			
+GEBNMNOD_00192	CDS	yafQ_2	3.1.-.-	mRNA interferase YafQ
+GEBNMNOD_00192	gene	yafQ_2		
+GEBNMNOD_00193	CDS			hypothetical protein
+GEBNMNOD_00193	gene			
+GEBNMNOD_00194	CDS			hypothetical protein
+GEBNMNOD_00194	gene			
+GEBNMNOD_00195	CDS			hypothetical protein
+GEBNMNOD_00195	gene			
+GEBNMNOD_00196	CDS	petB		Cytochrome b
+GEBNMNOD_00196	gene	petB		
+GEBNMNOD_00197	CDS	petA	1.10.2.2	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+GEBNMNOD_00197	gene	petA		
+GEBNMNOD_00198	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+GEBNMNOD_00198	gene	mfd		
+GEBNMNOD_00199	CDS			hypothetical protein
+GEBNMNOD_00199	gene			
+GEBNMNOD_00200	CDS	mepM_1	3.4.24.-	Murein DD-endopeptidase MepM
+GEBNMNOD_00200	gene	mepM_1		
+GEBNMNOD_00201	CDS	mepM_2	3.4.24.-	Murein DD-endopeptidase MepM
+GEBNMNOD_00201	gene	mepM_2		
+GEBNMNOD_00202	CDS	folC	6.3.2.12	Dihydrofolate synthase/folylpolyglutamate synthase
+GEBNMNOD_00202	gene	folC		
+GEBNMNOD_00203	CDS			hypothetical protein
+GEBNMNOD_00203	gene			
+GEBNMNOD_00204	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+GEBNMNOD_00204	gene	leuS		
+GEBNMNOD_00205	CDS			hypothetical protein
+GEBNMNOD_00205	gene			
+GEBNMNOD_00206	CDS			hypothetical protein
+GEBNMNOD_00206	gene			
+GEBNMNOD_00207	CDS			hypothetical protein
+GEBNMNOD_00207	gene			
+GEBNMNOD_00208	CDS			hypothetical protein
+GEBNMNOD_00208	gene			
+GEBNMNOD_00209	CDS	nhaA		Na(+)/H(+) antiporter NhaA
+GEBNMNOD_00209	gene	nhaA		
+GEBNMNOD_00210	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+GEBNMNOD_00210	gene	addA		
+GEBNMNOD_00211	CDS	rpsB		30S ribosomal protein S2
+GEBNMNOD_00211	gene	rpsB		
+GEBNMNOD_00212	CDS	tsf		Elongation factor Ts
+GEBNMNOD_00212	gene	tsf		
+GEBNMNOD_00213	CDS	ftsI	3.4.16.4	Peptidoglycan D,D-transpeptidase FtsI
+GEBNMNOD_00213	gene	ftsI		
+GEBNMNOD_00214	CDS	fliE		Flagellar hook-basal body complex protein FliE
+GEBNMNOD_00214	gene	fliE		
+GEBNMNOD_00215	CDS	flgC		Flagellar basal-body rod protein FlgC
+GEBNMNOD_00215	gene	flgC		
+GEBNMNOD_00216	CDS	flgB		Flagellar basal body rod protein FlgB
+GEBNMNOD_00216	gene	flgB		
+GEBNMNOD_00217	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+GEBNMNOD_00217	gene	ftsW		
+GEBNMNOD_00218	tRNA			tRNA-Met(cat)
+GEBNMNOD_00218	gene			
+GEBNMNOD_00219	tRNA			tRNA-Gln(ttg)
+GEBNMNOD_00219	gene			
+GEBNMNOD_00220	CDS	hypD		Hydrogenase isoenzymes formation protein HypD
+GEBNMNOD_00220	gene	hypD		
+GEBNMNOD_00221	CDS	hypC		Hydrogenase isoenzymes formation protein HypC
+GEBNMNOD_00221	gene	hypC		
+GEBNMNOD_00222	CDS	hypB		Hydrogenase/urease nickel incorporation protein HypB
+GEBNMNOD_00222	gene	hypB		
+GEBNMNOD_00223	CDS			hypothetical protein
+GEBNMNOD_00223	gene			
+GEBNMNOD_00224	CDS			hypothetical protein
+GEBNMNOD_00224	gene			
+GEBNMNOD_00225	CDS	ackA_1	2.7.2.1	Acetate kinase
+GEBNMNOD_00225	gene	ackA_1		
+GEBNMNOD_00226	CDS	ackA_2	2.7.2.1	Acetate kinase
+GEBNMNOD_00226	gene	ackA_2		
+GEBNMNOD_00227	CDS	pta_1	2.3.1.8	Phosphate acetyltransferase
+GEBNMNOD_00227	gene	pta_1		
+GEBNMNOD_00228	CDS	pta_2	2.3.1.8	Phosphate acetyltransferase
+GEBNMNOD_00228	gene	pta_2		
+GEBNMNOD_00229	CDS	pta_3	2.3.1.8	Phosphate acetyltransferase
+GEBNMNOD_00229	gene	pta_3		
+GEBNMNOD_00230	CDS			hypothetical protein
+GEBNMNOD_00230	gene			
+GEBNMNOD_00231	CDS			hypothetical protein
+GEBNMNOD_00231	gene			
+GEBNMNOD_00232	CDS	flgD		Basal-body rod modification protein FlgD
+GEBNMNOD_00232	gene	flgD		
+GEBNMNOD_00233	CDS	flgE_2		Flagellar hook protein FlgE
+GEBNMNOD_00233	gene	flgE_2		
+GEBNMNOD_00234	CDS			hypothetical protein
+GEBNMNOD_00234	gene			
+GEBNMNOD_00235	CDS	taqIM	2.1.1.72	Modification methylase TaqI
+GEBNMNOD_00235	gene	taqIM		
+GEBNMNOD_00236	CDS	uvrD	3.6.4.12	DNA helicase II
+GEBNMNOD_00236	gene	uvrD		
+GEBNMNOD_00237	CDS			hypothetical protein
+GEBNMNOD_00237	gene			
+GEBNMNOD_00238	CDS			hypothetical protein
+GEBNMNOD_00238	gene			
+GEBNMNOD_00239	CDS			hypothetical protein
+GEBNMNOD_00239	gene			
+GEBNMNOD_00240	CDS	hemR		Hemin receptor
+GEBNMNOD_00240	gene	hemR		
+GEBNMNOD_00241	CDS	bhuA_2		Heme transporter BhuA
+GEBNMNOD_00241	gene	bhuA_2		
+GEBNMNOD_00242	CDS			hypothetical protein
+GEBNMNOD_00242	gene			
+GEBNMNOD_00243	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+GEBNMNOD_00243	gene	carB		
+GEBNMNOD_00244	CDS	yccA		Modulator of FtsH protease YccA
+GEBNMNOD_00244	gene	yccA		
+GEBNMNOD_00245	CDS	gap1	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase 1
+GEBNMNOD_00245	gene	gap1		
+GEBNMNOD_00246	CDS	vacA_2		Vacuolating cytotoxin autotransporter
+GEBNMNOD_00246	gene	vacA_2		
+GEBNMNOD_00247	CDS			hypothetical protein
+GEBNMNOD_00247	gene			
+GEBNMNOD_00248	CDS	dusC	1.3.1.-	tRNA-dihydrouridine(16) synthase
+GEBNMNOD_00248	gene	dusC		
+GEBNMNOD_00249	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+GEBNMNOD_00249	gene	tilS		
+GEBNMNOD_00250	CDS			hypothetical protein
+GEBNMNOD_00250	gene			
+GEBNMNOD_00251	CDS			hypothetical protein
+GEBNMNOD_00251	gene			
+GEBNMNOD_00252	CDS			hypothetical protein
+GEBNMNOD_00252	gene			
+GEBNMNOD_00253	CDS			hypothetical protein
+GEBNMNOD_00253	gene			
+GEBNMNOD_00254	CDS	rimO	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+GEBNMNOD_00254	gene	rimO		
+GEBNMNOD_00255	CDS	gpt	2.4.2.22	Xanthine phosphoribosyltransferase
+GEBNMNOD_00255	gene	gpt		
+GEBNMNOD_00256	CDS		2.6.1.51	Serine-pyruvate aminotransferase
+GEBNMNOD_00256	gene			
+GEBNMNOD_00257	CDS	pgpA	3.1.3.27	Phosphatidylglycerophosphatase A
+GEBNMNOD_00257	gene	pgpA		
+GEBNMNOD_00258	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+GEBNMNOD_00258	gene	ddl		
+GEBNMNOD_00259	CDS	menH	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+GEBNMNOD_00259	gene	menH		
+GEBNMNOD_00260	CDS	murF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+GEBNMNOD_00260	gene	murF		
+GEBNMNOD_00261	CDS		2.7.7.53	AP-4-A phosphorylase
+GEBNMNOD_00261	gene			
+GEBNMNOD_00262	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+GEBNMNOD_00262	gene	prs		
+GEBNMNOD_00263	tRNA			tRNA-Met(cat)
+GEBNMNOD_00263	gene			
+GEBNMNOD_00264	CDS			hypothetical protein
+GEBNMNOD_00264	gene			
+GEBNMNOD_00265	CDS	rsgA	3.6.1.-	Putative ribosome biogenesis GTPase RsgA
+GEBNMNOD_00265	gene	rsgA		
+GEBNMNOD_00266	CDS		5.4.99.-	putative RNA pseudouridine synthase
+GEBNMNOD_00266	gene			
+GEBNMNOD_00267	CDS			hypothetical protein
+GEBNMNOD_00267	gene			
+GEBNMNOD_00268	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+GEBNMNOD_00268	gene	trmB		
+GEBNMNOD_00269	CDS	ftsE		Cell division ATP-binding protein FtsE
+GEBNMNOD_00269	gene	ftsE		
+GEBNMNOD_00270	CDS			hypothetical protein
+GEBNMNOD_00270	gene			
+GEBNMNOD_00271	CDS			hypothetical protein
+GEBNMNOD_00271	gene			
+GEBNMNOD_00272	CDS			hypothetical protein
+GEBNMNOD_00272	gene			
+GEBNMNOD_00273	CDS	fliD		Flagellar hook-associated protein 2
+GEBNMNOD_00273	gene	fliD		
+GEBNMNOD_00274	CDS	fliS		Flagellar protein FliS
+GEBNMNOD_00274	gene	fliS		
+GEBNMNOD_00275	CDS			hypothetical protein
+GEBNMNOD_00275	gene			
+GEBNMNOD_00276	CDS	tcdA	6.1.-.-	tRNA threonylcarbamoyladenosine dehydratase
+GEBNMNOD_00276	gene	tcdA		
+GEBNMNOD_00277	CDS			hypothetical protein
+GEBNMNOD_00277	gene			
+GEBNMNOD_00278	CDS		3.5.1.77	N-carbamoyl-D-amino acid hydrolase
+GEBNMNOD_00278	gene			
+GEBNMNOD_00279	CDS			hypothetical protein
+GEBNMNOD_00279	gene			
+GEBNMNOD_00280	CDS	yeeO		putative FMN/FAD exporter YeeO
+GEBNMNOD_00280	gene	yeeO		
+GEBNMNOD_00281	CDS	rny	3.1.-.-	Ribonuclease Y
+GEBNMNOD_00281	gene	rny		
+GEBNMNOD_00282	CDS			hypothetical protein
+GEBNMNOD_00282	gene			
+GEBNMNOD_00283	CDS			hypothetical protein
+GEBNMNOD_00283	gene			
+GEBNMNOD_00284	CDS	ftsY		Signal recognition particle receptor FtsY
+GEBNMNOD_00284	gene	ftsY		
+GEBNMNOD_00285	CDS			hypothetical protein
+GEBNMNOD_00285	gene			
+GEBNMNOD_00286	CDS			hypothetical protein
+GEBNMNOD_00286	gene			
+GEBNMNOD_00287	CDS			hypothetical protein
+GEBNMNOD_00287	gene			
+GEBNMNOD_00288	CDS	moaA	4.1.99.22	GTP 3',8-cyclase
+GEBNMNOD_00288	gene	moaA		
+GEBNMNOD_00289	CDS	mobA	2.7.7.77	putative molybdenum cofactor guanylyltransferase
+GEBNMNOD_00289	gene	mobA		
+GEBNMNOD_00290	CDS	flhB_2		Flagellar biosynthetic protein FlhB
+GEBNMNOD_00290	gene	flhB_2		
+GEBNMNOD_00291	CDS			hypothetical protein
+GEBNMNOD_00291	gene			
+GEBNMNOD_00292	CDS	amiC	3.5.1.28	N-acetylmuramoyl-L-alanine amidase AmiC
+GEBNMNOD_00292	gene	amiC		
+GEBNMNOD_00293	CDS	pyrD_1	1.3.-.-	Dihydroorotate dehydrogenase
+GEBNMNOD_00293	gene	pyrD_1		
+GEBNMNOD_00294	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+GEBNMNOD_00294	gene	tyrS		
+GEBNMNOD_00295	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+GEBNMNOD_00295	gene	relA		
+GEBNMNOD_00296	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+GEBNMNOD_00296	gene	rpoZ		
+GEBNMNOD_00297	CDS	pyrH	2.7.4.22	Uridylate kinase
+GEBNMNOD_00297	gene	pyrH		
+GEBNMNOD_00298	CDS	mqnA	4.2.1.151	Chorismate dehydratase
+GEBNMNOD_00298	gene	mqnA		
+GEBNMNOD_00299	CDS	acnB	4.2.1.3	Aconitate hydratase B
+GEBNMNOD_00299	gene	acnB		
+GEBNMNOD_00300	CDS			hypothetical protein
+GEBNMNOD_00300	gene			
+GEBNMNOD_00301	CDS			hypothetical protein
+GEBNMNOD_00301	gene			
+GEBNMNOD_00302	CDS			hypothetical protein
+GEBNMNOD_00302	gene			
+GEBNMNOD_00303	CDS			hypothetical protein
+GEBNMNOD_00303	gene			
+GEBNMNOD_00304	tmRNA	ssrA		transfer-messenger RNA, SsrA
+GEBNMNOD_00304	gene	ssrA		
+GEBNMNOD_00305	CDS	lolA		Outer-membrane lipoprotein carrier protein
+GEBNMNOD_00305	gene	lolA		
+GEBNMNOD_00306	CDS	secA		Protein translocase subunit SecA
+GEBNMNOD_00306	gene	secA		
+GEBNMNOD_00307	CDS	lolC		Lipoprotein-releasing system transmembrane protein LolC
+GEBNMNOD_00307	gene	lolC		
+GEBNMNOD_00308	CDS			hypothetical protein
+GEBNMNOD_00308	gene			
+GEBNMNOD_00309	CDS			hypothetical protein
+GEBNMNOD_00309	gene			
+GEBNMNOD_00310	CDS			hypothetical protein
+GEBNMNOD_00310	gene			
+GEBNMNOD_00311	CDS	aspA	4.3.1.1	Aspartate ammonia-lyase
+GEBNMNOD_00311	gene	aspA		
+GEBNMNOD_00312	CDS	murA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+GEBNMNOD_00312	gene	murA		
+GEBNMNOD_00313	CDS			hypothetical protein
+GEBNMNOD_00313	gene			
+GEBNMNOD_00314	CDS	gtaB	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+GEBNMNOD_00314	gene	gtaB		
+GEBNMNOD_00315	CDS	slt	4.2.2.-	Soluble lytic murein transglycosylase
+GEBNMNOD_00315	gene	slt		
+GEBNMNOD_00316	CDS			hypothetical protein
+GEBNMNOD_00316	gene			
+GEBNMNOD_00317	CDS	gltX1	6.1.1.17	Glutamate--tRNA ligase 1
+GEBNMNOD_00317	gene	gltX1		
+GEBNMNOD_00318	CDS	yfkO	1.-.-.-	Putative NAD(P)H nitroreductase YfkO
+GEBNMNOD_00318	gene	yfkO		
+GEBNMNOD_00319	CDS			hypothetical protein
+GEBNMNOD_00319	gene			
+GEBNMNOD_00320	CDS	cca	2.7.7.72	CCA-adding enzyme
+GEBNMNOD_00320	gene	cca		
+GEBNMNOD_00321	CDS	queC	6.3.4.20	7-cyano-7-deazaguanine synthase
+GEBNMNOD_00321	gene	queC		
+GEBNMNOD_00322	CDS			hypothetical protein
+GEBNMNOD_00322	gene			
+GEBNMNOD_00323	CDS			hypothetical protein
+GEBNMNOD_00323	gene			
+GEBNMNOD_00324	CDS			hypothetical protein
+GEBNMNOD_00324	gene			
+GEBNMNOD_00325	CDS			hypothetical protein
+GEBNMNOD_00325	gene			
+GEBNMNOD_00326	CDS	hybD	3.4.23.-	Hydrogenase 2 maturation protease
+GEBNMNOD_00326	gene	hybD		
+GEBNMNOD_00327	CDS	hydC		Quinone-reactive Ni/Fe-hydrogenase B-type cytochrome subunit
+GEBNMNOD_00327	gene	hydC		
+GEBNMNOD_00328	CDS	hydB	1.12.5.1	Quinone-reactive Ni/Fe-hydrogenase large chain
+GEBNMNOD_00328	gene	hydB		
+GEBNMNOD_00329	CDS	hydA_1	1.12.5.1	Quinone-reactive Ni/Fe-hydrogenase small chain
+GEBNMNOD_00329	gene	hydA_1		
+GEBNMNOD_00330	CDS	mdaB		Modulator of drug activity B
+GEBNMNOD_00330	gene	mdaB		
+GEBNMNOD_00331	CDS			hypothetical protein
+GEBNMNOD_00331	gene			
+GEBNMNOD_00332	CDS	hcpD_1	3.5.2.6	Putative beta-lactamase HcpD
+GEBNMNOD_00332	gene	hcpD_1		
+GEBNMNOD_00333	CDS	dapD	2.3.1.117	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+GEBNMNOD_00333	gene	dapD		
+GEBNMNOD_00334	CDS	ispG	1.17.7.3	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+GEBNMNOD_00334	gene	ispG		
+GEBNMNOD_00335	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+GEBNMNOD_00335	gene	dapL		
+GEBNMNOD_00336	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+GEBNMNOD_00336	gene	murC		
+GEBNMNOD_00337	CDS			hypothetical protein
+GEBNMNOD_00337	gene			
+GEBNMNOD_00338	CDS	mutS2	3.1.-.-	Endonuclease MutS2
+GEBNMNOD_00338	gene	mutS2		
+GEBNMNOD_00339	CDS	ppa	3.6.1.1	Inorganic pyrophosphatase
+GEBNMNOD_00339	gene	ppa		
+GEBNMNOD_00340	CDS			hypothetical protein
+GEBNMNOD_00340	gene			
+GEBNMNOD_00341	CDS			hypothetical protein
+GEBNMNOD_00341	gene			
+GEBNMNOD_00342	CDS	adk	2.7.4.3	Adenylate kinase
+GEBNMNOD_00342	gene	adk		
+GEBNMNOD_00343	CDS	aspS	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+GEBNMNOD_00343	gene	aspS		
+GEBNMNOD_00344	CDS	cheV_1		Chemotaxis protein CheV
+GEBNMNOD_00344	gene	cheV_1		
+GEBNMNOD_00345	CDS	ligA	6.5.1.2	DNA ligase
+GEBNMNOD_00345	gene	ligA		
+GEBNMNOD_00346	CDS			hypothetical protein
+GEBNMNOD_00346	gene			
+GEBNMNOD_00347	CDS	yxdL		ABC transporter ATP-binding protein YxdL
+GEBNMNOD_00347	gene	yxdL		
+GEBNMNOD_00348	CDS			hypothetical protein
+GEBNMNOD_00348	gene			
+GEBNMNOD_00349	CDS	vacA_3		Vacuolating cytotoxin autotransporter
+GEBNMNOD_00349	gene	vacA_3		
+GEBNMNOD_00350	CDS			hypothetical protein
+GEBNMNOD_00350	gene			
+GEBNMNOD_00351	CDS	mdtC		Multidrug resistance protein MdtC
+GEBNMNOD_00351	gene	mdtC		
+GEBNMNOD_00352	CDS	czcB		Cobalt-zinc-cadmium resistance protein CzcB
+GEBNMNOD_00352	gene	czcB		
+GEBNMNOD_00353	CDS			hypothetical protein
+GEBNMNOD_00353	gene			
+GEBNMNOD_00354	CDS	hemE	4.1.1.37	Uroporphyrinogen decarboxylase
+GEBNMNOD_00354	gene	hemE		
+GEBNMNOD_00355	CDS			hypothetical protein
+GEBNMNOD_00355	gene			
+GEBNMNOD_00356	CDS	nth_1	4.2.99.18	Endonuclease III
+GEBNMNOD_00356	gene	nth_1		
+GEBNMNOD_00357	CDS	flaA		Flagellin A
+GEBNMNOD_00357	gene	flaA		
+GEBNMNOD_00358	CDS			putative ABC transporter ATP-binding protein
+GEBNMNOD_00358	gene			
+GEBNMNOD_00359	CDS	mcpU		Methyl-accepting chemotaxis protein McpU
+GEBNMNOD_00359	gene	mcpU		
+GEBNMNOD_00360	CDS	bioF	2.3.1.47	8-amino-7-oxononanoate synthase 2
+GEBNMNOD_00360	gene	bioF		
+GEBNMNOD_00361	CDS	mrcA		Penicillin-binding protein 1A
+GEBNMNOD_00361	gene	mrcA		
+GEBNMNOD_00362	CDS			hypothetical protein
+GEBNMNOD_00362	gene			
+GEBNMNOD_00363	CDS	dsbB		Disulfide bond formation protein B
+GEBNMNOD_00363	gene	dsbB		
+GEBNMNOD_00364	CDS			hypothetical protein
+GEBNMNOD_00364	gene			
+GEBNMNOD_00365	CDS			hypothetical protein
+GEBNMNOD_00365	gene			
+GEBNMNOD_00366	CDS			hypothetical protein
+GEBNMNOD_00366	gene			
+GEBNMNOD_00367	CDS			hypothetical protein
+GEBNMNOD_00367	gene			
+GEBNMNOD_00368	CDS	korB	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+GEBNMNOD_00368	gene	korB		
+GEBNMNOD_00369	CDS	korA	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+GEBNMNOD_00369	gene	korA		
+GEBNMNOD_00370	CDS	hydA_2	1.12.7.2	Periplasmic [Fe] hydrogenase large subunit
+GEBNMNOD_00370	gene	hydA_2		
+GEBNMNOD_00371	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+GEBNMNOD_00371	gene	mltG		
+GEBNMNOD_00372	CDS			hypothetical protein
+GEBNMNOD_00372	gene			
+GEBNMNOD_00373	CDS	feoA		Putative Fe(2+) transport protein A
+GEBNMNOD_00373	gene	feoA		
+GEBNMNOD_00374	CDS	nth_2	4.2.99.18	Endonuclease III
+GEBNMNOD_00374	gene	nth_2		
+GEBNMNOD_00375	CDS	fliN_1		Flagellar motor switch protein FliN
+GEBNMNOD_00375	gene	fliN_1		
+GEBNMNOD_00376	CDS			hypothetical protein
+GEBNMNOD_00376	gene			
+GEBNMNOD_00377	CDS			hypothetical protein
+GEBNMNOD_00377	gene			
+GEBNMNOD_00378	CDS	pyrC_1	3.5.2.3	Dihydroorotase
+GEBNMNOD_00378	gene	pyrC_1		
+GEBNMNOD_00379	CDS			hypothetical protein
+GEBNMNOD_00379	gene			
+GEBNMNOD_00380	CDS			hypothetical protein
+GEBNMNOD_00380	gene			
+GEBNMNOD_00381	CDS	mdoB	2.7.8.20	Phosphoglycerol transferase I
+GEBNMNOD_00381	gene	mdoB		
+GEBNMNOD_00382	CDS	folD		Bifunctional protein FolD protein
+GEBNMNOD_00382	gene	folD		
+GEBNMNOD_00383	CDS	lepB	3.4.21.89	Signal peptidase I
+GEBNMNOD_00383	gene	lepB		
+GEBNMNOD_00384	CDS			hypothetical protein
+GEBNMNOD_00384	gene			
+GEBNMNOD_00385	CDS	ywlF	5.3.1.-	Putative sugar phosphate isomerase YwlF
+GEBNMNOD_00385	gene	ywlF		
+GEBNMNOD_00386	CDS			hypothetical protein
+GEBNMNOD_00386	gene			
+GEBNMNOD_00387	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+GEBNMNOD_00387	gene	apt		
+GEBNMNOD_00388	CDS	yohD_1		Inner membrane protein YohD
+GEBNMNOD_00388	gene	yohD_1		
+GEBNMNOD_00389	CDS	pepA	3.4.11.1	Cytosol aminopeptidase
+GEBNMNOD_00389	gene	pepA		
+GEBNMNOD_00390	CDS	ychF		Ribosome-binding ATPase YchF
+GEBNMNOD_00390	gene	ychF		
+GEBNMNOD_00391	CDS	pqqE		Coenzyme PQQ synthesis protein E
+GEBNMNOD_00391	gene	pqqE		
+GEBNMNOD_00392	CDS			hypothetical protein
+GEBNMNOD_00392	gene			
+GEBNMNOD_00393	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+GEBNMNOD_00393	gene	dapF		
+GEBNMNOD_00394	CDS	rclC		Inner membrane protein RclC
+GEBNMNOD_00394	gene	rclC		
+GEBNMNOD_00395	CDS			hypothetical protein
+GEBNMNOD_00395	gene			
+GEBNMNOD_00396	CDS			hypothetical protein
+GEBNMNOD_00396	gene			
+GEBNMNOD_00397	CDS	rpsU		30S ribosomal protein S21
+GEBNMNOD_00397	gene	rpsU		
+GEBNMNOD_00398	CDS	fabG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GEBNMNOD_00398	gene	fabG		
+GEBNMNOD_00399	CDS	acpP_1		Acyl carrier protein
+GEBNMNOD_00399	gene	acpP_1		
+GEBNMNOD_00400	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+GEBNMNOD_00400	gene	fabF		
+GEBNMNOD_00401	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+GEBNMNOD_00401	gene	accA		
+GEBNMNOD_00402	CDS			hypothetical protein
+GEBNMNOD_00402	gene			
+GEBNMNOD_00403	CDS			hypothetical protein
+GEBNMNOD_00403	gene			
+GEBNMNOD_00404	CDS			hypothetical protein
+GEBNMNOD_00404	gene			
+GEBNMNOD_00405	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+GEBNMNOD_00405	gene			
+GEBNMNOD_00406	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+GEBNMNOD_00406	gene	rsmI		
+GEBNMNOD_00407	CDS	rpmE		50S ribosomal protein L31
+GEBNMNOD_00407	gene	rpmE		
+GEBNMNOD_00408	CDS	rho	3.6.4.-	Transcription termination factor Rho
+GEBNMNOD_00408	gene	rho		
+GEBNMNOD_00409	CDS	murI	5.1.1.3	Glutamate racemase
+GEBNMNOD_00409	gene	murI		
+GEBNMNOD_00410	CDS			hypothetical protein
+GEBNMNOD_00410	gene			
+GEBNMNOD_00411	CDS			hypothetical protein
+GEBNMNOD_00411	gene			
+GEBNMNOD_00412	CDS	cagA		Cytotoxicity-associated immunodominant antigen
+GEBNMNOD_00412	gene	cagA		
+GEBNMNOD_00413	CDS			hypothetical protein
+GEBNMNOD_00413	gene			
+GEBNMNOD_00414	CDS			hypothetical protein
+GEBNMNOD_00414	gene			
+GEBNMNOD_00415	CDS			hypothetical protein
+GEBNMNOD_00415	gene			
+GEBNMNOD_00416	CDS	virB4_1		Type IV secretion system protein virB4
+GEBNMNOD_00416	gene	virB4_1		
+GEBNMNOD_00417	CDS			hypothetical protein
+GEBNMNOD_00417	gene			
+GEBNMNOD_00418	CDS			hypothetical protein
+GEBNMNOD_00418	gene			
+GEBNMNOD_00419	CDS			hypothetical protein
+GEBNMNOD_00419	gene			
+GEBNMNOD_00420	CDS			hypothetical protein
+GEBNMNOD_00420	gene			
+GEBNMNOD_00421	CDS			hypothetical protein
+GEBNMNOD_00421	gene			
+GEBNMNOD_00422	CDS			hypothetical protein
+GEBNMNOD_00422	gene			
+GEBNMNOD_00423	CDS			hypothetical protein
+GEBNMNOD_00423	gene			
+GEBNMNOD_00424	CDS			hypothetical protein
+GEBNMNOD_00424	gene			
+GEBNMNOD_00425	CDS	cagS		CAG pathogenicity island protein 13
+GEBNMNOD_00425	gene	cagS		
+GEBNMNOD_00426	CDS			hypothetical protein
+GEBNMNOD_00426	gene			
+GEBNMNOD_00427	CDS	cagT		CAG pathogenicity island protein 12
+GEBNMNOD_00427	gene	cagT		
+GEBNMNOD_00428	CDS			hypothetical protein
+GEBNMNOD_00428	gene			
+GEBNMNOD_00429	CDS			hypothetical protein
+GEBNMNOD_00429	gene			
+GEBNMNOD_00430	CDS			hypothetical protein
+GEBNMNOD_00430	gene			
+GEBNMNOD_00431	CDS			hypothetical protein
+GEBNMNOD_00431	gene			
+GEBNMNOD_00432	CDS			Type IV secretion system protein virB10
+GEBNMNOD_00432	gene			
+GEBNMNOD_00433	CDS			hypothetical protein
+GEBNMNOD_00433	gene			
+GEBNMNOD_00434	CDS			Type IV secretion system protein VirB11
+GEBNMNOD_00434	gene			
+GEBNMNOD_00435	CDS	traG		Conjugal transfer protein TraG
+GEBNMNOD_00435	gene	traG		
+GEBNMNOD_00436	CDS			hypothetical protein
+GEBNMNOD_00436	gene			
+GEBNMNOD_00437	CDS			hypothetical protein
+GEBNMNOD_00437	gene			
+GEBNMNOD_00438	CDS			hypothetical protein
+GEBNMNOD_00438	gene			
+GEBNMNOD_00439	CDS	hcpB_1	3.5.2.6	Beta-lactamase HcpB
+GEBNMNOD_00439	gene	hcpB_1		
+GEBNMNOD_00440	CDS			hypothetical protein
+GEBNMNOD_00440	gene			
+GEBNMNOD_00441	CDS	era_1		GTPase Era
+GEBNMNOD_00441	gene	era_1		
+GEBNMNOD_00442	CDS	clpY		ATP-dependent protease ATPase subunit ClpY
+GEBNMNOD_00442	gene	clpY		
+GEBNMNOD_00443	CDS	hslV	3.4.25.2	ATP-dependent protease subunit HslV
+GEBNMNOD_00443	gene	hslV		
+GEBNMNOD_00444	CDS	rplI		50S ribosomal protein L9
+GEBNMNOD_00444	gene	rplI		
+GEBNMNOD_00445	CDS			hypothetical protein
+GEBNMNOD_00445	gene			
+GEBNMNOD_00446	CDS			hypothetical protein
+GEBNMNOD_00446	gene			
+GEBNMNOD_00447	CDS		5.4.4.3	3-hydroxylaminophenol mutase
+GEBNMNOD_00447	gene			
+GEBNMNOD_00448	CDS			hypothetical protein
+GEBNMNOD_00448	gene			
+GEBNMNOD_00449	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+GEBNMNOD_00449	gene	dapB		
+GEBNMNOD_00450	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+GEBNMNOD_00450	gene			
+GEBNMNOD_00451	CDS	pgbA		Plasminogen-binding protein PgbA
+GEBNMNOD_00451	gene	pgbA		
+GEBNMNOD_00452	CDS	nudK	3.6.1.-	GDP-mannose pyrophosphatase NudK
+GEBNMNOD_00452	gene	nudK		
+GEBNMNOD_00453	CDS	mepM_3	3.4.24.-	Murein DD-endopeptidase MepM
+GEBNMNOD_00453	gene	mepM_3		
+GEBNMNOD_00454	CDS			hypothetical protein
+GEBNMNOD_00454	gene			
+GEBNMNOD_00455	CDS			hypothetical protein
+GEBNMNOD_00455	gene			
+GEBNMNOD_00456	CDS			hypothetical protein
+GEBNMNOD_00456	gene			
+GEBNMNOD_00457	CDS			hypothetical protein
+GEBNMNOD_00457	gene			
+GEBNMNOD_00458	CDS	gyrB	5.99.1.3	Type 2 topoisomerase subunit B
+GEBNMNOD_00458	gene	gyrB		
+GEBNMNOD_00459	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+GEBNMNOD_00459	gene	dnaN		
+GEBNMNOD_00460	CDS	pldA	3.1.1.32	Phospholipase A1
+GEBNMNOD_00460	gene	pldA		
+GEBNMNOD_00461	CDS			hypothetical protein
+GEBNMNOD_00461	gene			
+GEBNMNOD_00462	CDS			hypothetical protein
+GEBNMNOD_00462	gene			
+GEBNMNOD_00463	CDS	ybgC	3.1.2.-	Acyl-CoA thioesterase YbgC
+GEBNMNOD_00463	gene	ybgC		
+GEBNMNOD_00464	CDS			hypothetical protein
+GEBNMNOD_00464	gene			
+GEBNMNOD_00465	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+GEBNMNOD_00465	gene	murD		
+GEBNMNOD_00466	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+GEBNMNOD_00466	gene	mraY		
+GEBNMNOD_00467	CDS			hypothetical protein
+GEBNMNOD_00467	gene			
+GEBNMNOD_00468	CDS	rpmB		50S ribosomal protein L28
+GEBNMNOD_00468	gene	rpmB		
+GEBNMNOD_00469	CDS	kch		Voltage-gated potassium channel Kch
+GEBNMNOD_00469	gene	kch		
+GEBNMNOD_00470	CDS			hypothetical protein
+GEBNMNOD_00470	gene			
+GEBNMNOD_00471	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+GEBNMNOD_00471	gene	argS		
+GEBNMNOD_00472	CDS	tatA		Sec-independent protein translocase protein TatA
+GEBNMNOD_00472	gene	tatA		
+GEBNMNOD_00473	CDS	gmk	2.7.4.8	Guanylate kinase
+GEBNMNOD_00473	gene	gmk		
+GEBNMNOD_00474	CDS			hypothetical protein
+GEBNMNOD_00474	gene			
+GEBNMNOD_00475	CDS	ywiE	2.7.8.-	putative cardiolipin synthase YwiE
+GEBNMNOD_00475	gene	ywiE		
+GEBNMNOD_00476	CDS			hypothetical protein
+GEBNMNOD_00476	gene			
+GEBNMNOD_00477	CDS	flgH		Flagellar L-ring protein
+GEBNMNOD_00477	gene	flgH		
+GEBNMNOD_00478	CDS	neuA	2.7.7.43	N-acylneuraminate cytidylyltransferase
+GEBNMNOD_00478	gene	neuA		
+GEBNMNOD_00479	CDS			hypothetical protein
+GEBNMNOD_00479	gene			
+GEBNMNOD_00480	CDS	pseH	2.3.1.202	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine N-acetyltransferase
+GEBNMNOD_00480	gene	pseH		
+GEBNMNOD_00481	CDS	lpxK	2.7.1.130	Tetraacyldisaccharide 4'-kinase
+GEBNMNOD_00481	gene	lpxK		
+GEBNMNOD_00482	CDS	nadE	6.3.1.5	NH(3)-dependent NAD(+) synthetase
+GEBNMNOD_00482	gene	nadE		
+GEBNMNOD_00483	tRNA			tRNA-Arg(gcg)
+GEBNMNOD_00483	gene			
+GEBNMNOD_00484	CDS	ilvC	1.1.1.86	Ketol-acid reductoisomerase (NADP(+))
+GEBNMNOD_00484	gene	ilvC		
+GEBNMNOD_00485	CDS	minD		Septum site-determining protein MinD
+GEBNMNOD_00485	gene	minD		
+GEBNMNOD_00486	CDS	minE		Cell division topological specificity factor
+GEBNMNOD_00486	gene	minE		
+GEBNMNOD_00487	CDS	dprA		DNA processing protein DprA
+GEBNMNOD_00487	gene	dprA		
+GEBNMNOD_00488	CDS	yqgF	3.1.-.-	Putative pre-16S rRNA nuclease
+GEBNMNOD_00488	gene	yqgF		
+GEBNMNOD_00489	CDS			hypothetical protein
+GEBNMNOD_00489	gene			
+GEBNMNOD_00490	CDS	hcpB_2	3.5.2.6	Beta-lactamase HcpB
+GEBNMNOD_00490	gene	hcpB_2		
+GEBNMNOD_00491	CDS			hypothetical protein
+GEBNMNOD_00491	gene			
+GEBNMNOD_00492	CDS			hypothetical protein
+GEBNMNOD_00492	gene			
+GEBNMNOD_00493	CDS			hypothetical protein
+GEBNMNOD_00493	gene			
+GEBNMNOD_00494	CDS			hypothetical protein
+GEBNMNOD_00494	gene			
+GEBNMNOD_00495	CDS			hypothetical protein
+GEBNMNOD_00495	gene			
+GEBNMNOD_00496	CDS			hypothetical protein
+GEBNMNOD_00496	gene			
+GEBNMNOD_00497	CDS			hypothetical protein
+GEBNMNOD_00497	gene			
+GEBNMNOD_00498	CDS	divIB		Cell division protein DivIB
+GEBNMNOD_00498	gene	divIB		
+GEBNMNOD_00499	CDS			hypothetical protein
+GEBNMNOD_00499	gene			
+GEBNMNOD_00500	CDS		5.4.99.-	putative RNA pseudouridine synthase
+GEBNMNOD_00500	gene			
+GEBNMNOD_00501	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+GEBNMNOD_00501	gene	recJ		
+GEBNMNOD_00502	CDS	pyrG	6.3.4.2	CTP synthase
+GEBNMNOD_00502	gene	pyrG		
+GEBNMNOD_00503	CDS			hypothetical protein
+GEBNMNOD_00503	gene			
+GEBNMNOD_00504	CDS	fliF		Flagellar M-ring protein
+GEBNMNOD_00504	gene	fliF		
+GEBNMNOD_00505	CDS	fliG		Flagellar motor switch protein FliG
+GEBNMNOD_00505	gene	fliG		
+GEBNMNOD_00506	CDS			hypothetical protein
+GEBNMNOD_00506	gene			
+GEBNMNOD_00507	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+GEBNMNOD_00507	gene	dxs		
+GEBNMNOD_00508	CDS	lepA	3.6.5.-	Elongation factor 4
+GEBNMNOD_00508	gene	lepA		
+GEBNMNOD_00509	CDS			hypothetical protein
+GEBNMNOD_00509	gene			
+GEBNMNOD_00510	CDS	ydfG	1.1.1.381	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+GEBNMNOD_00510	gene	ydfG		
+GEBNMNOD_00511	CDS			hypothetical protein
+GEBNMNOD_00511	gene			
+GEBNMNOD_00512	tRNA			tRNA-Ala(tgc)
+GEBNMNOD_00512	gene			
+GEBNMNOD_00513	tRNA			tRNA-Ile(gat)
+GEBNMNOD_00513	gene			
+GEBNMNOD_00514	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+GEBNMNOD_00514	gene	galE		
+GEBNMNOD_00515	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+GEBNMNOD_00515	gene	truA		
+GEBNMNOD_00516	CDS			hypothetical protein
+GEBNMNOD_00516	gene			
+GEBNMNOD_00517	CDS	pcm	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+GEBNMNOD_00517	gene	pcm		
+GEBNMNOD_00518	CDS	nrdB	1.17.4.1	Ribonucleoside-diphosphate reductase subunit beta
+GEBNMNOD_00518	gene	nrdB		
+GEBNMNOD_00519	tRNA			tRNA-Leu(tag)
+GEBNMNOD_00519	gene			
+GEBNMNOD_00520	CDS	pseC	2.6.1.92	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase
+GEBNMNOD_00520	gene	pseC		
+GEBNMNOD_00521	CDS			hypothetical protein
+GEBNMNOD_00521	gene			
+GEBNMNOD_00522	CDS			hypothetical protein
+GEBNMNOD_00522	gene			
+GEBNMNOD_00523	CDS			hypothetical protein
+GEBNMNOD_00523	gene			
+GEBNMNOD_00524	CDS			hypothetical protein
+GEBNMNOD_00524	gene			
+GEBNMNOD_00525	CDS	accC	6.3.4.14	Biotin carboxylase
+GEBNMNOD_00525	gene	accC		
+GEBNMNOD_00526	CDS	accB		Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+GEBNMNOD_00526	gene	accB		
+GEBNMNOD_00527	CDS	dcd	3.5.4.13	dCTP deaminase
+GEBNMNOD_00527	gene	dcd		
+GEBNMNOD_00528	CDS			hypothetical protein
+GEBNMNOD_00528	gene			
+GEBNMNOD_00529	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+GEBNMNOD_00529	gene	rsmE		
+GEBNMNOD_00530	CDS			hypothetical protein
+GEBNMNOD_00530	gene			
+GEBNMNOD_00531	CDS	hemH	4.99.1.1	Ferrochelatase
+GEBNMNOD_00531	gene	hemH		
+GEBNMNOD_00532	CDS			hypothetical protein
+GEBNMNOD_00532	gene			
+GEBNMNOD_00533	CDS	ccsA		Cytochrome c biogenesis protein CcsA
+GEBNMNOD_00533	gene	ccsA		
+GEBNMNOD_00534	CDS			hypothetical protein
+GEBNMNOD_00534	gene			
+GEBNMNOD_00535	CDS	hsdR_1	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+GEBNMNOD_00535	gene	hsdR_1		
+GEBNMNOD_00536	CDS	thiM	2.7.1.50	Hydroxyethylthiazole kinase
+GEBNMNOD_00536	gene	thiM		
+GEBNMNOD_00537	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+GEBNMNOD_00537	gene	thiD		
+GEBNMNOD_00538	CDS	thiE	2.5.1.3	Thiamine-phosphate synthase
+GEBNMNOD_00538	gene	thiE		
+GEBNMNOD_00539	CDS			hypothetical protein
+GEBNMNOD_00539	gene			
+GEBNMNOD_00540	CDS	coaBC		Coenzyme A biosynthesis bifunctional protein CoaBC
+GEBNMNOD_00540	gene	coaBC		
+GEBNMNOD_00541	CDS	pseB	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)
+GEBNMNOD_00541	gene	pseB		
+GEBNMNOD_00542	CDS			hypothetical protein
+GEBNMNOD_00542	gene			
+GEBNMNOD_00543	CDS			hypothetical protein
+GEBNMNOD_00543	gene			
+GEBNMNOD_00544	CDS			hypothetical protein
+GEBNMNOD_00544	gene			
+GEBNMNOD_00545	tRNA			tRNA-Arg(cct)
+GEBNMNOD_00545	gene			
+GEBNMNOD_00546	CDS	hup		DNA-binding protein HU
+GEBNMNOD_00546	gene	hup		
+GEBNMNOD_00547	CDS	der_1		GTPase Der
+GEBNMNOD_00547	gene	der_1		
+GEBNMNOD_00548	CDS			hypothetical protein
+GEBNMNOD_00548	gene			
+GEBNMNOD_00549	CDS	speE	2.5.1.16	Polyamine aminopropyltransferase
+GEBNMNOD_00549	gene	speE		
+GEBNMNOD_00550	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+GEBNMNOD_00550	gene	coaE		
+GEBNMNOD_00551	CDS	gatA	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+GEBNMNOD_00551	gene	gatA		
+GEBNMNOD_00552	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+GEBNMNOD_00552	gene	guaB		
+GEBNMNOD_00553	CDS	atpB		ATP synthase subunit a
+GEBNMNOD_00553	gene	atpB		
+GEBNMNOD_00554	CDS			hypothetical protein
+GEBNMNOD_00554	gene			
+GEBNMNOD_00555	CDS	lex1	2.-.-.-	Lipooligosaccharide biosynthesis protein lex-1
+GEBNMNOD_00555	gene	lex1		
+GEBNMNOD_00556	CDS	trxB	1.8.1.9	Thioredoxin reductase
+GEBNMNOD_00556	gene	trxB		
+GEBNMNOD_00557	CDS	trxA_2		Thioredoxin
+GEBNMNOD_00557	gene	trxA_2		
+GEBNMNOD_00558	CDS			hypothetical protein
+GEBNMNOD_00558	gene			
+GEBNMNOD_00559	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+GEBNMNOD_00559	gene	hom		
+GEBNMNOD_00560	CDS	uvrC		UvrABC system protein C
+GEBNMNOD_00560	gene	uvrC		
+GEBNMNOD_00561	CDS			hypothetical protein
+GEBNMNOD_00561	gene			
+GEBNMNOD_00562	CDS	opuBA		Choline transport ATP-binding protein OpuBA
+GEBNMNOD_00562	gene	opuBA		
+GEBNMNOD_00563	CDS	opuCC		Glycine betaine/carnitine/choline-binding protein OpuCC
+GEBNMNOD_00563	gene	opuCC		
+GEBNMNOD_00564	CDS			hypothetical protein
+GEBNMNOD_00564	gene			
+GEBNMNOD_00565	CDS	motB		Motility protein B
+GEBNMNOD_00565	gene	motB		
+GEBNMNOD_00566	CDS	pomA		Chemotaxis protein PomA
+GEBNMNOD_00566	gene	pomA		
+GEBNMNOD_00567	CDS	moeZ		putative adenylyltransferase/sulfurtransferase MoeZ
+GEBNMNOD_00567	gene	moeZ		
+GEBNMNOD_00568	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+GEBNMNOD_00568	gene	gloC		
+GEBNMNOD_00569	CDS			hypothetical protein
+GEBNMNOD_00569	gene			
+GEBNMNOD_00570	CDS			hypothetical protein
+GEBNMNOD_00570	gene			
+GEBNMNOD_00571	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+GEBNMNOD_00571	gene	rsmD		
+GEBNMNOD_00572	CDS			hypothetical protein
+GEBNMNOD_00572	gene			
+GEBNMNOD_00573	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+GEBNMNOD_00573	gene	acpS		
+GEBNMNOD_00574	CDS	fecA_1		Fe(3+) dicitrate transport protein FecA
+GEBNMNOD_00574	gene	fecA_1		
+GEBNMNOD_00575	CDS			hypothetical protein
+GEBNMNOD_00575	gene			
+GEBNMNOD_00576	CDS			hypothetical protein
+GEBNMNOD_00576	gene			
+GEBNMNOD_00577	CDS	ribBA		Riboflavin biosynthesis protein RibBA
+GEBNMNOD_00577	gene	ribBA		
+GEBNMNOD_00578	CDS			hypothetical protein
+GEBNMNOD_00578	gene			
+GEBNMNOD_00579	CDS	ribA	3.5.4.25	GTP cyclohydrolase-2
+GEBNMNOD_00579	gene	ribA		
+GEBNMNOD_00580	CDS			hypothetical protein
+GEBNMNOD_00580	gene			
+GEBNMNOD_00581	CDS	moaE	2.8.1.12	Molybdopterin synthase catalytic subunit
+GEBNMNOD_00581	gene	moaE		
+GEBNMNOD_00582	CDS	mog	2.7.7.75	Molybdopterin adenylyltransferase
+GEBNMNOD_00582	gene	mog		
+GEBNMNOD_00583	CDS	moaC	4.6.1.17	Cyclic pyranopterin monophosphate synthase
+GEBNMNOD_00583	gene	moaC		
+GEBNMNOD_00584	CDS			hypothetical protein
+GEBNMNOD_00584	gene			
+GEBNMNOD_00585	CDS			hypothetical protein
+GEBNMNOD_00585	gene			
+GEBNMNOD_00586	CDS	tig	5.2.1.8	Trigger factor
+GEBNMNOD_00586	gene	tig		
+GEBNMNOD_00587	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+GEBNMNOD_00587	gene	clpP		
+GEBNMNOD_00588	CDS	def	3.5.1.88	Peptide deformylase
+GEBNMNOD_00588	gene	def		
+GEBNMNOD_00589	CDS	comM		Competence protein ComM
+GEBNMNOD_00589	gene	comM		
+GEBNMNOD_00590	CDS	cadA	3.6.3.3	Cadmium, zinc and cobalt-transporting ATPase
+GEBNMNOD_00590	gene	cadA		
+GEBNMNOD_00591	CDS	ppsA	2.7.9.2	Phosphoenolpyruvate synthase
+GEBNMNOD_00591	gene	ppsA		
+GEBNMNOD_00592	CDS	thrZ	6.1.1.3	Threonine--tRNA ligase 2
+GEBNMNOD_00592	gene	thrZ		
+GEBNMNOD_00593	CDS	infC		Translation initiation factor IF-3
+GEBNMNOD_00593	gene	infC		
+GEBNMNOD_00594	CDS	rpmI		50S ribosomal protein L35
+GEBNMNOD_00594	gene	rpmI		
+GEBNMNOD_00595	CDS	rplT		50S ribosomal protein L20
+GEBNMNOD_00595	gene	rplT		
+GEBNMNOD_00596	CDS			hypothetical protein
+GEBNMNOD_00596	gene			
+GEBNMNOD_00597	CDS			hypothetical protein
+GEBNMNOD_00597	gene			
+GEBNMNOD_00598	CDS			hypothetical protein
+GEBNMNOD_00598	gene			
+GEBNMNOD_00599	CDS	sdaA	4.3.1.17	L-serine dehydratase 1
+GEBNMNOD_00599	gene	sdaA		
+GEBNMNOD_00600	CDS	sdaC		Serine transporter
+GEBNMNOD_00600	gene	sdaC		
+GEBNMNOD_00601	CDS	aroH	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+GEBNMNOD_00601	gene	aroH		
+GEBNMNOD_00602	CDS			hypothetical protein
+GEBNMNOD_00602	gene			
+GEBNMNOD_00603	CDS	bcp	1.11.1.15	Putative peroxiredoxin bcp
+GEBNMNOD_00603	gene	bcp		
+GEBNMNOD_00604	CDS	lutC		Lactate utilization protein C
+GEBNMNOD_00604	gene	lutC		
+GEBNMNOD_00605	CDS	lutB		Lactate utilization protein B
+GEBNMNOD_00605	gene	lutB		
+GEBNMNOD_00606	CDS	lutA		Lactate utilization protein A
+GEBNMNOD_00606	gene	lutA		
+GEBNMNOD_00607	CDS	lldP_1		L-lactate permease
+GEBNMNOD_00607	gene	lldP_1		
+GEBNMNOD_00608	CDS	lldP_2		L-lactate permease
+GEBNMNOD_00608	gene	lldP_2		
+GEBNMNOD_00609	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+GEBNMNOD_00609	gene	mutY		
+GEBNMNOD_00610	CDS	citT_1		Citrate carrier
+GEBNMNOD_00610	gene	citT_1		
+GEBNMNOD_00611	CDS	citT_2		Citrate carrier
+GEBNMNOD_00611	gene	citT_2		
+GEBNMNOD_00612	CDS	ccoN1	1.9.3.1	Cbb3-type cytochrome c oxidase subunit CcoN1
+GEBNMNOD_00612	gene	ccoN1		
+GEBNMNOD_00613	CDS			hypothetical protein
+GEBNMNOD_00613	gene			
+GEBNMNOD_00614	CDS			hypothetical protein
+GEBNMNOD_00614	gene			
+GEBNMNOD_00615	CDS	ccoP		Cbb3-type cytochrome c oxidase subunit CcoP
+GEBNMNOD_00615	gene	ccoP		
+GEBNMNOD_00616	CDS			hypothetical protein
+GEBNMNOD_00616	gene			
+GEBNMNOD_00617	CDS			hypothetical protein
+GEBNMNOD_00617	gene			
+GEBNMNOD_00618	CDS			hypothetical protein
+GEBNMNOD_00618	gene			
+GEBNMNOD_00619	CDS			hypothetical protein
+GEBNMNOD_00619	gene			
+GEBNMNOD_00620	CDS			hypothetical protein
+GEBNMNOD_00620	gene			
+GEBNMNOD_00621	CDS	mqnD	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+GEBNMNOD_00621	gene	mqnD		
+GEBNMNOD_00622	CDS	recA		Protein RecA
+GEBNMNOD_00622	gene	recA		
+GEBNMNOD_00623	CDS	eno	4.2.1.11	Enolase
+GEBNMNOD_00623	gene	eno		
+GEBNMNOD_00624	CDS			hypothetical protein
+GEBNMNOD_00624	gene			
+GEBNMNOD_00625	CDS			hypothetical protein
+GEBNMNOD_00625	gene			
+GEBNMNOD_00626	CDS	aroK	2.7.1.71	Shikimate kinase
+GEBNMNOD_00626	gene	aroK		
+GEBNMNOD_00627	CDS			hypothetical protein
+GEBNMNOD_00627	gene			
+GEBNMNOD_00628	CDS			hypothetical protein
+GEBNMNOD_00628	gene			
+GEBNMNOD_00629	CDS	hcpD_2	3.5.2.6	Putative beta-lactamase HcpD
+GEBNMNOD_00629	gene	hcpD_2		
+GEBNMNOD_00630	CDS			putative transcriptional regulatory protein
+GEBNMNOD_00630	gene			
+GEBNMNOD_00631	CDS	hemB	4.2.1.24	Delta-aminolevulinic acid dehydratase
+GEBNMNOD_00631	gene	hemB		
+GEBNMNOD_00632	CDS			hypothetical protein
+GEBNMNOD_00632	gene			
+GEBNMNOD_00633	CDS	vapD_1	3.1.-.-	Endoribonuclease VapD
+GEBNMNOD_00633	gene	vapD_1		
+GEBNMNOD_00634	CDS			hypothetical protein
+GEBNMNOD_00634	gene			
+GEBNMNOD_00635	CDS	yjiA		putative GTP-binding protein YjiA
+GEBNMNOD_00635	gene	yjiA		
+GEBNMNOD_00636	CDS			hypothetical protein
+GEBNMNOD_00636	gene			
+GEBNMNOD_00637	CDS	pgdA	3.5.1.-	Peptidoglycan deacetylase
+GEBNMNOD_00637	gene	pgdA		
+GEBNMNOD_00638	CDS		3.5.1.111	2-oxoglutaramate amidase
+GEBNMNOD_00638	gene			
+GEBNMNOD_00639	CDS			hypothetical protein
+GEBNMNOD_00639	gene			
+GEBNMNOD_00640	CDS			hypothetical protein
+GEBNMNOD_00640	gene			
+GEBNMNOD_00641	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+GEBNMNOD_00641	gene	hemL		
+GEBNMNOD_00642	CDS			hypothetical protein
+GEBNMNOD_00642	gene			
+GEBNMNOD_00643	CDS			hypothetical protein
+GEBNMNOD_00643	gene			
+GEBNMNOD_00644	CDS	obg	3.6.5.-	GTPase Obg
+GEBNMNOD_00644	gene	obg		
+GEBNMNOD_00645	CDS	oppF		Oligopeptide transport ATP-binding protein OppF
+GEBNMNOD_00645	gene	oppF		
+GEBNMNOD_00646	CDS	oppD		Oligopeptide transport ATP-binding protein OppD
+GEBNMNOD_00646	gene	oppD		
+GEBNMNOD_00647	CDS	dppC		Dipeptide transport system permease protein DppC
+GEBNMNOD_00647	gene	dppC		
+GEBNMNOD_00648	CDS	dppB		Dipeptide transport system permease protein DppB
+GEBNMNOD_00648	gene	dppB		
+GEBNMNOD_00649	CDS	hbpA		Heme-binding protein A
+GEBNMNOD_00649	gene	hbpA		
+GEBNMNOD_00650	CDS	rpmA		50S ribosomal protein L27
+GEBNMNOD_00650	gene	rpmA		
+GEBNMNOD_00651	CDS	rplU		50S ribosomal protein L21
+GEBNMNOD_00651	gene	rplU		
+GEBNMNOD_00652	CDS	flgL		Flagellar hook-associated protein 3
+GEBNMNOD_00652	gene	flgL		
+GEBNMNOD_00653	CDS	amiE	3.5.1.4	Aliphatic amidase
+GEBNMNOD_00653	gene	amiE		
+GEBNMNOD_00654	CDS	pabB	2.6.1.85	Aminodeoxychorismate synthase component 1
+GEBNMNOD_00654	gene	pabB		
+GEBNMNOD_00655	CDS			hypothetical protein
+GEBNMNOD_00655	gene			
+GEBNMNOD_00656	CDS	tyrA_1		T-protein
+GEBNMNOD_00656	gene	tyrA_1		
+GEBNMNOD_00657	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+GEBNMNOD_00657	gene	lysA		
+GEBNMNOD_00658	CDS	vacA_4		Vacuolating cytotoxin autotransporter
+GEBNMNOD_00658	gene	vacA_4		
+GEBNMNOD_00659	CDS			hypothetical protein
+GEBNMNOD_00659	gene			
+GEBNMNOD_00660	CDS			hypothetical protein
+GEBNMNOD_00660	gene			
+GEBNMNOD_00661	CDS	ftsH_1	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+GEBNMNOD_00661	gene	ftsH_1		
+GEBNMNOD_00662	CDS	mtaB	2.8.4.5	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+GEBNMNOD_00662	gene	mtaB		
+GEBNMNOD_00663	CDS			hypothetical protein
+GEBNMNOD_00663	gene			
+GEBNMNOD_00664	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+GEBNMNOD_00664	gene	aroB		
+GEBNMNOD_00665	CDS			hypothetical protein
+GEBNMNOD_00665	gene			
+GEBNMNOD_00666	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+GEBNMNOD_00666	gene	tgt		
+GEBNMNOD_00667	CDS	lpxP	2.3.1.242	Lipid A biosynthesis palmitoleoyltransferase
+GEBNMNOD_00667	gene	lpxP		
+GEBNMNOD_00668	CDS	rfaC	2.-.-.-	Lipopolysaccharide heptosyltransferase 1
+GEBNMNOD_00668	gene	rfaC		
+GEBNMNOD_00669	CDS	gppA	3.6.1.40	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+GEBNMNOD_00669	gene	gppA		
+GEBNMNOD_00670	CDS	fdx		Ferredoxin
+GEBNMNOD_00670	gene	fdx		
+GEBNMNOD_00671	CDS			hypothetical protein
+GEBNMNOD_00671	gene			
+GEBNMNOD_00672	CDS			hypothetical protein
+GEBNMNOD_00672	gene			
+GEBNMNOD_00673	CDS			hypothetical protein
+GEBNMNOD_00673	gene			
+GEBNMNOD_00674	CDS			hypothetical protein
+GEBNMNOD_00674	gene			
+GEBNMNOD_00675	CDS			hypothetical protein
+GEBNMNOD_00675	gene			
+GEBNMNOD_00676	CDS			hypothetical protein
+GEBNMNOD_00676	gene			
+GEBNMNOD_00677	CDS			hypothetical protein
+GEBNMNOD_00677	gene			
+GEBNMNOD_00678	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+GEBNMNOD_00678	gene	miaB		
+GEBNMNOD_00679	CDS			hypothetical protein
+GEBNMNOD_00679	gene			
+GEBNMNOD_00680	CDS		3.5.4.4	Adenosine deaminase
+GEBNMNOD_00680	gene			
+GEBNMNOD_00681	CDS	pyrC_2	3.5.2.3	Dihydroorotase
+GEBNMNOD_00681	gene	pyrC_2		
+GEBNMNOD_00682	CDS	dsbD	1.8.1.8	Thiol:disulfide interchange protein DsbD
+GEBNMNOD_00682	gene	dsbD		
+GEBNMNOD_00683	CDS	clpB		Chaperone protein ClpB
+GEBNMNOD_00683	gene	clpB		
+GEBNMNOD_00684	CDS	dpnA_1	2.1.1.72	Modification methylase DpnIIB
+GEBNMNOD_00684	gene	dpnA_1		
+GEBNMNOD_00685	CDS			hypothetical protein
+GEBNMNOD_00685	gene			
+GEBNMNOD_00686	CDS			hypothetical protein
+GEBNMNOD_00686	gene			
+GEBNMNOD_00687	CDS			hypothetical protein
+GEBNMNOD_00687	gene			
+GEBNMNOD_00688	CDS	xseA_1	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+GEBNMNOD_00688	gene	xseA_1		
+GEBNMNOD_00689	CDS	mmpA	3.4.24.-	Metalloprotease MmpA
+GEBNMNOD_00689	gene	mmpA		
+GEBNMNOD_00690	CDS			hypothetical protein
+GEBNMNOD_00690	gene			
+GEBNMNOD_00691	CDS			hypothetical protein
+GEBNMNOD_00691	gene			
+GEBNMNOD_00692	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+GEBNMNOD_00692	gene	purA		
+GEBNMNOD_00693	CDS			hypothetical protein
+GEBNMNOD_00693	gene			
+GEBNMNOD_00694	CDS			hypothetical protein
+GEBNMNOD_00694	gene			
+GEBNMNOD_00695	tRNA			tRNA-Ala(ggc)
+GEBNMNOD_00695	gene			
+GEBNMNOD_00696	CDS	yejE		Inner membrane ABC transporter permease protein YejE
+GEBNMNOD_00696	gene	yejE		
+GEBNMNOD_00697	CDS	gsiA	3.6.3.-	Glutathione import ATP-binding protein GsiA
+GEBNMNOD_00697	gene	gsiA		
+GEBNMNOD_00698	CDS			hypothetical protein
+GEBNMNOD_00698	gene			
+GEBNMNOD_00699	CDS	hflC		Modulator of FtsH protease HflC
+GEBNMNOD_00699	gene	hflC		
+GEBNMNOD_00700	CDS	rhpA	3.6.4.13	DEAD-box ATP-dependent RNA helicase RhpA
+GEBNMNOD_00700	gene	rhpA		
+GEBNMNOD_00701	CDS	flgI		Flagellar P-ring protein
+GEBNMNOD_00701	gene	flgI		
+GEBNMNOD_00702	CDS			hypothetical protein
+GEBNMNOD_00702	gene			
+GEBNMNOD_00703	CDS	zraS	2.7.13.3	Sensor protein ZraS
+GEBNMNOD_00703	gene	zraS		
+GEBNMNOD_00704	CDS	dps	1.16.-.-	DNA protection during starvation protein
+GEBNMNOD_00704	gene	dps		
+GEBNMNOD_00705	CDS			hypothetical protein
+GEBNMNOD_00705	gene			
+GEBNMNOD_00706	CDS			hypothetical protein
+GEBNMNOD_00706	gene			
+GEBNMNOD_00707	CDS	ispB	2.5.1.90	Octaprenyl diphosphate synthase
+GEBNMNOD_00707	gene	ispB		
+GEBNMNOD_00708	CDS	hemA	1.2.1.70	Glutamyl-tRNA reductase
+GEBNMNOD_00708	gene	hemA		
+GEBNMNOD_00709	CDS	proS	6.1.1.15	Proline--tRNA ligase
+GEBNMNOD_00709	gene	proS		
+GEBNMNOD_00710	CDS	hemC	2.5.1.61	Porphobilinogen deaminase
+GEBNMNOD_00710	gene	hemC		
+GEBNMNOD_00711	CDS			hypothetical protein
+GEBNMNOD_00711	gene			
+GEBNMNOD_00712	CDS	hcpC_1	3.5.2.6	Putative beta-lactamase HcpC
+GEBNMNOD_00712	gene	hcpC_1		
+GEBNMNOD_00713	CDS			hypothetical protein
+GEBNMNOD_00713	gene			
+GEBNMNOD_00714	CDS	ygiC	6.3.1.-	Putative acid--amine ligase YgiC
+GEBNMNOD_00714	gene	ygiC		
+GEBNMNOD_00715	CDS			hypothetical protein
+GEBNMNOD_00715	gene			
+GEBNMNOD_00716	CDS			hypothetical protein
+GEBNMNOD_00716	gene			
+GEBNMNOD_00717	CDS	kdsB	2.7.7.38	3-deoxy-manno-octulosonate cytidylyltransferase
+GEBNMNOD_00717	gene	kdsB		
+GEBNMNOD_00718	CDS			hypothetical protein
+GEBNMNOD_00718	gene			
+GEBNMNOD_00719	tRNA			tRNA-Asn(gtt)
+GEBNMNOD_00719	gene			
+GEBNMNOD_00720	CDS	bicA		Bicarbonate transporter BicA
+GEBNMNOD_00720	gene	bicA		
+GEBNMNOD_00721	CDS			hypothetical protein
+GEBNMNOD_00721	gene			
+GEBNMNOD_00722	CDS			hypothetical protein
+GEBNMNOD_00722	gene			
+GEBNMNOD_00723	CDS			hypothetical protein
+GEBNMNOD_00723	gene			
+GEBNMNOD_00724	CDS	argO		Arginine exporter protein ArgO
+GEBNMNOD_00724	gene	argO		
+GEBNMNOD_00725	CDS	dnaX	2.7.7.7	DNA polymerase III subunit tau
+GEBNMNOD_00725	gene	dnaX		
+GEBNMNOD_00726	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+GEBNMNOD_00726	gene	tsaE		
+GEBNMNOD_00727	CDS	lptB	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+GEBNMNOD_00727	gene	lptB		
+GEBNMNOD_00728	CDS	rpoN		RNA polymerase sigma-54 factor
+GEBNMNOD_00728	gene	rpoN		
+GEBNMNOD_00729	CDS			hypothetical protein
+GEBNMNOD_00729	gene			
+GEBNMNOD_00730	CDS			hypothetical protein
+GEBNMNOD_00730	gene			
+GEBNMNOD_00731	CDS	yfbR	3.1.3.89	5'-deoxynucleotidase YfbR
+GEBNMNOD_00731	gene	yfbR		
+GEBNMNOD_00732	CDS			hypothetical protein
+GEBNMNOD_00732	gene			
+GEBNMNOD_00733	CDS	salL	2.5.1.94	Adenosyl-chloride synthase
+GEBNMNOD_00733	gene	salL		
+GEBNMNOD_00734	CDS			hypothetical protein
+GEBNMNOD_00734	gene			
+GEBNMNOD_00735	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+GEBNMNOD_00735	gene	rsmH		
+GEBNMNOD_00736	CDS			hypothetical protein
+GEBNMNOD_00736	gene			
+GEBNMNOD_00737	CDS	uvrA		UvrABC system protein A
+GEBNMNOD_00737	gene	uvrA		
+GEBNMNOD_00738	CDS	glrR		Transcriptional regulatory protein GlrR
+GEBNMNOD_00738	gene	glrR		
+GEBNMNOD_00739	CDS			hypothetical protein
+GEBNMNOD_00739	gene			
+GEBNMNOD_00740	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+GEBNMNOD_00740	gene	gyrA		
+GEBNMNOD_00741	CDS	dgkA	2.7.1.107	Diacylglycerol kinase
+GEBNMNOD_00741	gene	dgkA		
+GEBNMNOD_00742	CDS			hypothetical protein
+GEBNMNOD_00742	gene			
+GEBNMNOD_00743	CDS	acxC	6.4.1.6	Acetone carboxylase gamma subunit
+GEBNMNOD_00743	gene	acxC		
+GEBNMNOD_00744	CDS	acxB	6.4.1.6	Acetone carboxylase alpha subunit
+GEBNMNOD_00744	gene	acxB		
+GEBNMNOD_00745	CDS	acxA	6.4.1.6	Acetone carboxylase beta subunit
+GEBNMNOD_00745	gene	acxA		
+GEBNMNOD_00746	CDS			hypothetical protein
+GEBNMNOD_00746	gene			
+GEBNMNOD_00747	CDS	atoE		Putative short-chain fatty acid transporter
+GEBNMNOD_00747	gene	atoE		
+GEBNMNOD_00748	CDS	scoB	2.8.3.5	Succinyl-CoA:3-ketoacid coenzyme A transferase subunit B
+GEBNMNOD_00748	gene	scoB		
+GEBNMNOD_00749	CDS	scoA	2.8.3.5	Succinyl-CoA:3-ketoacid coenzyme A transferase subunit A
+GEBNMNOD_00749	gene	scoA		
+GEBNMNOD_00750	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+GEBNMNOD_00750	gene	thlA		
+GEBNMNOD_00751	CDS			hypothetical protein
+GEBNMNOD_00751	gene			
+GEBNMNOD_00752	CDS	feoB		Fe(2+) transporter FeoB
+GEBNMNOD_00752	gene	feoB		
+GEBNMNOD_00753	CDS	fecA_2		Fe(3+) dicitrate transport protein FecA
+GEBNMNOD_00753	gene	fecA_2		
+GEBNMNOD_00754	CDS	fliP_1		Flagellar biosynthetic protein FliP
+GEBNMNOD_00754	gene	fliP_1		
+GEBNMNOD_00755	CDS	fliP_2		Flagellar biosynthetic protein FliP
+GEBNMNOD_00755	gene	fliP_2		
+GEBNMNOD_00756	CDS	glmU		Bifunctional protein GlmU
+GEBNMNOD_00756	gene	glmU		
+GEBNMNOD_00757	CDS			hypothetical protein
+GEBNMNOD_00757	gene			
+GEBNMNOD_00758	CDS			hypothetical protein
+GEBNMNOD_00758	gene			
+GEBNMNOD_00759	CDS	nrdA	1.17.4.1	Ribonucleoside-diphosphate reductase 1 subunit alpha
+GEBNMNOD_00759	gene	nrdA		
+GEBNMNOD_00760	CDS	wbpB	1.1.1.335	UDP-N-acetyl-2-amino-2-deoxy-D-glucuronate oxidase
+GEBNMNOD_00760	gene	wbpB		
+GEBNMNOD_00761	CDS			hypothetical protein
+GEBNMNOD_00761	gene			
+GEBNMNOD_00762	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+GEBNMNOD_00762	gene	ogt		
+GEBNMNOD_00763	CDS	xerH_1		Tyrosine recombinase XerH
+GEBNMNOD_00763	gene	xerH_1		
+GEBNMNOD_00764	CDS			hypothetical protein
+GEBNMNOD_00764	gene			
+GEBNMNOD_00765	CDS			hypothetical protein
+GEBNMNOD_00765	gene			
+GEBNMNOD_00766	CDS		2.6.1.1	Aspartate aminotransferase
+GEBNMNOD_00766	gene			
+GEBNMNOD_00767	CDS			hypothetical protein
+GEBNMNOD_00767	gene			
+GEBNMNOD_00768	CDS			hypothetical protein
+GEBNMNOD_00768	gene			
+GEBNMNOD_00769	CDS			hypothetical protein
+GEBNMNOD_00769	gene			
+GEBNMNOD_00770	CDS			hypothetical protein
+GEBNMNOD_00770	gene			
+GEBNMNOD_00771	CDS			hypothetical protein
+GEBNMNOD_00771	gene			
+GEBNMNOD_00772	CDS	glpC		Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+GEBNMNOD_00772	gene	glpC		
+GEBNMNOD_00773	CDS	hemN_1	1.3.98.3	Oxygen-independent coproporphyrinogen III oxidase
+GEBNMNOD_00773	gene	hemN_1		
+GEBNMNOD_00774	CDS			hypothetical protein
+GEBNMNOD_00774	gene			
+GEBNMNOD_00775	CDS	aroC	4.2.3.5	Chorismate synthase
+GEBNMNOD_00775	gene	aroC		
+GEBNMNOD_00776	CDS	rnc	3.1.26.3	Ribonuclease 3
+GEBNMNOD_00776	gene	rnc		
+GEBNMNOD_00777	CDS	rnhA	3.1.26.4	Ribonuclease HI
+GEBNMNOD_00777	gene	rnhA		
+GEBNMNOD_00778	CDS	lapB		Lipopolysaccharide assembly protein B
+GEBNMNOD_00778	gene	lapB		
+GEBNMNOD_00779	CDS	surA	5.2.1.8	Chaperone SurA
+GEBNMNOD_00779	gene	surA		
+GEBNMNOD_00780	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+GEBNMNOD_00780	gene	gatB		
+GEBNMNOD_00781	CDS		3.4.24.-	putative zinc protease
+GEBNMNOD_00781	gene			
+GEBNMNOD_00782	CDS	mqnC	1.21.98.1	Cyclic dehypoxanthine futalosine synthase
+GEBNMNOD_00782	gene	mqnC		
+GEBNMNOD_00783	CDS	bamA		Outer membrane protein assembly factor BamA
+GEBNMNOD_00783	gene	bamA		
+GEBNMNOD_00784	CDS	mqnE	2.5.1.120	Aminodeoxyfutalosine synthase
+GEBNMNOD_00784	gene	mqnE		
+GEBNMNOD_00785	CDS	ftnA	1.16.3.2	Bacterial non-heme ferritin
+GEBNMNOD_00785	gene	ftnA		
+GEBNMNOD_00786	CDS	SERB	3.1.3.3	Phosphoserine phosphatase
+GEBNMNOD_00786	gene	SERB		
+GEBNMNOD_00787	CDS	fucT	2.4.1.152	Alpha-(1,3)-fucosyltransferase FucT
+GEBNMNOD_00787	gene	fucT		
+GEBNMNOD_00788	CDS			hypothetical protein
+GEBNMNOD_00788	gene			
+GEBNMNOD_00789	CDS	hcpC_2	3.5.2.6	Putative beta-lactamase HcpC
+GEBNMNOD_00789	gene	hcpC_2		
+GEBNMNOD_00790	CDS	eda		KHG/KDPG aldolase
+GEBNMNOD_00790	gene	eda		
+GEBNMNOD_00791	CDS	edd	4.2.1.12	Phosphogluconate dehydratase
+GEBNMNOD_00791	gene	edd		
+GEBNMNOD_00792	CDS	zwf	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase
+GEBNMNOD_00792	gene	zwf		
+GEBNMNOD_00793	CDS	pgl	3.1.1.31	6-phosphogluconolactonase
+GEBNMNOD_00793	gene	pgl		
+GEBNMNOD_00794	CDS	glk	2.7.1.2	Glucokinase
+GEBNMNOD_00794	gene	glk		
+GEBNMNOD_00795	CDS	adhA	1.1.1.-	putative formaldehyde dehydrogenase AdhA
+GEBNMNOD_00795	gene	adhA		
+GEBNMNOD_00796	CDS			hypothetical protein
+GEBNMNOD_00796	gene			
+GEBNMNOD_00797	CDS			hypothetical protein
+GEBNMNOD_00797	gene			
+GEBNMNOD_00798	CDS			hypothetical protein
+GEBNMNOD_00798	gene			
+GEBNMNOD_00799	CDS	porC	1.2.7.1	Pyruvate synthase subunit PorC
+GEBNMNOD_00799	gene	porC		
+GEBNMNOD_00800	CDS	porD		Pyruvate synthase subunit PorD
+GEBNMNOD_00800	gene	porD		
+GEBNMNOD_00801	CDS	porA	1.2.7.1	Pyruvate synthase subunit PorA
+GEBNMNOD_00801	gene	porA		
+GEBNMNOD_00802	CDS	porB	1.2.7.1	Pyruvate synthase subunit PorB
+GEBNMNOD_00802	gene	porB		
+GEBNMNOD_00803	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+GEBNMNOD_00803	gene	purB		
+GEBNMNOD_00804	CDS			hypothetical protein
+GEBNMNOD_00804	gene			
+GEBNMNOD_00805	CDS	uvrB		UvrABC system protein B
+GEBNMNOD_00805	gene	uvrB		
+GEBNMNOD_00806	CDS			hypothetical protein
+GEBNMNOD_00806	gene			
+GEBNMNOD_00807	CDS	exbD_2		Biopolymer transport protein ExbD
+GEBNMNOD_00807	gene	exbD_2		
+GEBNMNOD_00808	CDS	exbB_2		Biopolymer transport protein ExbB
+GEBNMNOD_00808	gene	exbB_2		
+GEBNMNOD_00809	CDS			Putative nickel-responsive regulator
+GEBNMNOD_00809	gene			
+GEBNMNOD_00810	CDS	nadD	2.7.7.18	putative nicotinate-nucleotide adenylyltransferase
+GEBNMNOD_00810	gene	nadD		
+GEBNMNOD_00811	CDS			hypothetical protein
+GEBNMNOD_00811	gene			
+GEBNMNOD_00812	CDS	mnmA_1	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+GEBNMNOD_00812	gene	mnmA_1		
+GEBNMNOD_00813	CDS			hypothetical protein
+GEBNMNOD_00813	gene			
+GEBNMNOD_00814	CDS			hypothetical protein
+GEBNMNOD_00814	gene			
+GEBNMNOD_00815	CDS	dnaJ		Chaperone protein DnaJ
+GEBNMNOD_00815	gene	dnaJ		
+GEBNMNOD_00816	CDS	ygaZ		Inner membrane protein YgaZ
+GEBNMNOD_00816	gene	ygaZ		
+GEBNMNOD_00817	CDS			hypothetical protein
+GEBNMNOD_00817	gene			
+GEBNMNOD_00818	CDS	cusA		Cation efflux system protein CusA
+GEBNMNOD_00818	gene	cusA		
+GEBNMNOD_00819	CDS	cusB		Cation efflux system protein CusB
+GEBNMNOD_00819	gene	cusB		
+GEBNMNOD_00820	CDS			hypothetical protein
+GEBNMNOD_00820	gene			
+GEBNMNOD_00821	CDS			hypothetical protein
+GEBNMNOD_00821	gene			
+GEBNMNOD_00822	CDS	fumC	4.2.1.2	Fumarate hydratase class II
+GEBNMNOD_00822	gene	fumC		
+GEBNMNOD_00823	CDS			hypothetical protein
+GEBNMNOD_00823	gene			
+GEBNMNOD_00824	CDS	rnhB	3.1.26.4	Ribonuclease HII
+GEBNMNOD_00824	gene	rnhB		
+GEBNMNOD_00825	CDS			hypothetical protein
+GEBNMNOD_00825	gene			
+GEBNMNOD_00826	CDS			hypothetical protein
+GEBNMNOD_00826	gene			
+GEBNMNOD_00827	CDS	rpsJ		30S ribosomal protein S10
+GEBNMNOD_00827	gene	rpsJ		
+GEBNMNOD_00828	CDS	rplC		50S ribosomal protein L3
+GEBNMNOD_00828	gene	rplC		
+GEBNMNOD_00829	CDS	rplD		50S ribosomal protein L4
+GEBNMNOD_00829	gene	rplD		
+GEBNMNOD_00830	CDS	rplW		50S ribosomal protein L23
+GEBNMNOD_00830	gene	rplW		
+GEBNMNOD_00831	CDS	rplB		50S ribosomal protein L2
+GEBNMNOD_00831	gene	rplB		
+GEBNMNOD_00832	CDS	rpsS		30S ribosomal protein S19
+GEBNMNOD_00832	gene	rpsS		
+GEBNMNOD_00833	CDS	rplV		50S ribosomal protein L22
+GEBNMNOD_00833	gene	rplV		
+GEBNMNOD_00834	CDS	rpsC		30S ribosomal protein S3
+GEBNMNOD_00834	gene	rpsC		
+GEBNMNOD_00835	CDS	rplP		50S ribosomal protein L16
+GEBNMNOD_00835	gene	rplP		
+GEBNMNOD_00836	CDS	rpmC		50S ribosomal protein L29
+GEBNMNOD_00836	gene	rpmC		
+GEBNMNOD_00837	CDS	rpsQ		30S ribosomal protein S17
+GEBNMNOD_00837	gene	rpsQ		
+GEBNMNOD_00838	CDS	rplN		50S ribosomal protein L14
+GEBNMNOD_00838	gene	rplN		
+GEBNMNOD_00839	CDS	rplX		50S ribosomal protein L24
+GEBNMNOD_00839	gene	rplX		
+GEBNMNOD_00840	CDS	rplE		50S ribosomal protein L5
+GEBNMNOD_00840	gene	rplE		
+GEBNMNOD_00841	CDS	rpsH		30S ribosomal protein S8
+GEBNMNOD_00841	gene	rpsH		
+GEBNMNOD_00842	CDS	rplF		50S ribosomal protein L6
+GEBNMNOD_00842	gene	rplF		
+GEBNMNOD_00843	CDS	rplR		50S ribosomal protein L18
+GEBNMNOD_00843	gene	rplR		
+GEBNMNOD_00844	CDS	rpsE		30S ribosomal protein S5
+GEBNMNOD_00844	gene	rpsE		
+GEBNMNOD_00845	CDS	rplO		50S ribosomal protein L15
+GEBNMNOD_00845	gene	rplO		
+GEBNMNOD_00846	CDS	secY		Protein translocase subunit SecY
+GEBNMNOD_00846	gene	secY		
+GEBNMNOD_00847	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+GEBNMNOD_00847	gene	map		
+GEBNMNOD_00848	CDS	infA		Translation initiation factor IF-1
+GEBNMNOD_00848	gene	infA		
+GEBNMNOD_00849	CDS	rpmJ		50S ribosomal protein L36
+GEBNMNOD_00849	gene	rpmJ		
+GEBNMNOD_00850	CDS	rpsM		30S ribosomal protein S13
+GEBNMNOD_00850	gene	rpsM		
+GEBNMNOD_00851	CDS	rpsK		30S ribosomal protein S11
+GEBNMNOD_00851	gene	rpsK		
+GEBNMNOD_00852	CDS	rpsD		30S ribosomal protein S4
+GEBNMNOD_00852	gene	rpsD		
+GEBNMNOD_00853	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+GEBNMNOD_00853	gene	rpoA		
+GEBNMNOD_00854	CDS	rplQ		50S ribosomal protein L17
+GEBNMNOD_00854	gene	rplQ		
+GEBNMNOD_00855	CDS			hypothetical protein
+GEBNMNOD_00855	gene			
+GEBNMNOD_00856	CDS	pnuC		Nicotinamide riboside transporter PnuC
+GEBNMNOD_00856	gene	pnuC		
+GEBNMNOD_00857	CDS			hypothetical protein
+GEBNMNOD_00857	gene			
+GEBNMNOD_00858	CDS			hypothetical protein
+GEBNMNOD_00858	gene			
+GEBNMNOD_00859	CDS	tenA	3.5.99.2	Aminopyrimidine aminohydrolase
+GEBNMNOD_00859	gene	tenA		
+GEBNMNOD_00860	CDS	yceI		Protein YceI
+GEBNMNOD_00860	gene	yceI		
+GEBNMNOD_00861	CDS	hel		Lipoprotein E
+GEBNMNOD_00861	gene	hel		
+GEBNMNOD_00862	CDS			hypothetical protein
+GEBNMNOD_00862	gene			
+GEBNMNOD_00863	CDS			hypothetical protein
+GEBNMNOD_00863	gene			
+GEBNMNOD_00864	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+GEBNMNOD_00864	gene	trpE		
+GEBNMNOD_00865	CDS	trpG	4.1.3.27	Anthranilate synthase component 2
+GEBNMNOD_00865	gene	trpG		
+GEBNMNOD_00866	CDS	trpGD		Bifunctional protein TrpGD
+GEBNMNOD_00866	gene	trpGD		
+GEBNMNOD_00867	CDS	trpC		Tryptophan biosynthesis protein TrpCF
+GEBNMNOD_00867	gene	trpC		
+GEBNMNOD_00868	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+GEBNMNOD_00868	gene	trpB		
+GEBNMNOD_00869	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+GEBNMNOD_00869	gene	trpA		
+GEBNMNOD_00870	CDS			hypothetical protein
+GEBNMNOD_00870	gene			
+GEBNMNOD_00871	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+GEBNMNOD_00871	gene	algC		
+GEBNMNOD_00872	CDS			hypothetical protein
+GEBNMNOD_00872	gene			
+GEBNMNOD_00873	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+GEBNMNOD_00873	gene	nuoN		
+GEBNMNOD_00874	CDS	ndhD1	1.6.5.-	NAD(P)H-quinone oxidoreductase chain 4 1
+GEBNMNOD_00874	gene	ndhD1		
+GEBNMNOD_00875	CDS	nuoL	1.6.5.11	NADH-quinone oxidoreductase subunit L
+GEBNMNOD_00875	gene	nuoL		
+GEBNMNOD_00876	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+GEBNMNOD_00876	gene			
+GEBNMNOD_00877	CDS	nuoJ	1.6.5.11	NADH-quinone oxidoreductase subunit J
+GEBNMNOD_00877	gene	nuoJ		
+GEBNMNOD_00878	CDS	nuoI	1.6.5.11	NADH-quinone oxidoreductase subunit I
+GEBNMNOD_00878	gene	nuoI		
+GEBNMNOD_00879	CDS	nqo8	1.6.5.11	NADH-quinone oxidoreductase subunit 8
+GEBNMNOD_00879	gene	nqo8		
+GEBNMNOD_00880	CDS	sfrA	1.-.-.-	NADPH-Fe(3+) oxidoreductase subunit alpha
+GEBNMNOD_00880	gene	sfrA		
+GEBNMNOD_00881	CDS			hypothetical protein
+GEBNMNOD_00881	gene			
+GEBNMNOD_00882	CDS			hypothetical protein
+GEBNMNOD_00882	gene			
+GEBNMNOD_00883	CDS	nuoD	1.6.5.11	NADH-quinone oxidoreductase subunit D
+GEBNMNOD_00883	gene	nuoD		
+GEBNMNOD_00884	CDS	ndhJ	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit J
+GEBNMNOD_00884	gene	ndhJ		
+GEBNMNOD_00885	CDS	nqo6	1.6.5.11	NADH-quinone oxidoreductase subunit 6
+GEBNMNOD_00885	gene	nqo6		
+GEBNMNOD_00886	CDS	nuoA	1.6.5.11	NADH-quinone oxidoreductase subunit A
+GEBNMNOD_00886	gene	nuoA		
+GEBNMNOD_00887	CDS	cobB_1	3.5.1.-	NAD-dependent protein deacylase
+GEBNMNOD_00887	gene	cobB_1		
+GEBNMNOD_00888	CDS	cobB_2	3.5.1.-	NAD-dependent protein deacylase
+GEBNMNOD_00888	gene	cobB_2		
+GEBNMNOD_00889	CDS			hypothetical protein
+GEBNMNOD_00889	gene			
+GEBNMNOD_00890	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+GEBNMNOD_00890	gene	pyrE		
+GEBNMNOD_00891	CDS	frr		Ribosome-recycling factor
+GEBNMNOD_00891	gene	frr		
+GEBNMNOD_00892	CDS	secG		putative protein-export membrane protein SecG
+GEBNMNOD_00892	gene	secG		
+GEBNMNOD_00893	CDS	tam	2.1.1.144	Trans-aconitate 2-methyltransferase
+GEBNMNOD_00893	gene	tam		
+GEBNMNOD_00894	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+GEBNMNOD_00894	gene	trpS		
+GEBNMNOD_00895	CDS	dppE		Dipeptide-binding protein DppE
+GEBNMNOD_00895	gene	dppE		
+GEBNMNOD_00896	CDS	yejB		Inner membrane ABC transporter permease protein YejB
+GEBNMNOD_00896	gene	yejB		
+GEBNMNOD_00897	CDS			hypothetical protein
+GEBNMNOD_00897	gene			
+GEBNMNOD_00898	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+GEBNMNOD_00898	gene	aroE		
+GEBNMNOD_00899	CDS	rnr	3.1.13.1	Ribonuclease R
+GEBNMNOD_00899	gene	rnr		
+GEBNMNOD_00900	CDS			hypothetical protein
+GEBNMNOD_00900	gene			
+GEBNMNOD_00901	CDS	rpsF		30S ribosomal protein S6
+GEBNMNOD_00901	gene	rpsF		
+GEBNMNOD_00902	CDS	ssb		Single-stranded DNA-binding protein
+GEBNMNOD_00902	gene	ssb		
+GEBNMNOD_00903	CDS	rpsR		30S ribosomal protein S18
+GEBNMNOD_00903	gene	rpsR		
+GEBNMNOD_00904	CDS	yhdN	1.1.1.-	General stress protein 69
+GEBNMNOD_00904	gene	yhdN		
+GEBNMNOD_00905	CDS	fusA		Elongation factor G
+GEBNMNOD_00905	gene	fusA		
+GEBNMNOD_00906	CDS	rpsG		30S ribosomal protein S7
+GEBNMNOD_00906	gene	rpsG		
+GEBNMNOD_00907	CDS	rpsL		30S ribosomal protein S12
+GEBNMNOD_00907	gene	rpsL		
+GEBNMNOD_00908	CDS	rpoBC	2.7.7.6	Bifunctional DNA-directed RNA polymerase subunit beta-beta'
+GEBNMNOD_00908	gene	rpoBC		
+GEBNMNOD_00909	CDS	rplL		50S ribosomal protein L7/L12
+GEBNMNOD_00909	gene	rplL		
+GEBNMNOD_00910	CDS	rplJ		50S ribosomal protein L10
+GEBNMNOD_00910	gene	rplJ		
+GEBNMNOD_00911	CDS	rplA		50S ribosomal protein L1
+GEBNMNOD_00911	gene	rplA		
+GEBNMNOD_00912	CDS	rplK		50S ribosomal protein L11
+GEBNMNOD_00912	gene	rplK		
+GEBNMNOD_00913	CDS	nusG		Transcription termination/antitermination protein NusG
+GEBNMNOD_00913	gene	nusG		
+GEBNMNOD_00914	CDS			hypothetical protein
+GEBNMNOD_00914	gene			
+GEBNMNOD_00915	tRNA			tRNA-Trp(cca)
+GEBNMNOD_00915	gene			
+GEBNMNOD_00916	CDS	rpmG2		50S ribosomal protein L33 2
+GEBNMNOD_00916	gene	rpmG2		
+GEBNMNOD_00917	CDS	tufA		Elongation factor Tu
+GEBNMNOD_00917	gene	tufA		
+GEBNMNOD_00918	tRNA			tRNA-Thr(ggt)
+GEBNMNOD_00918	gene			
+GEBNMNOD_00919	tRNA			tRNA-Gly(tcc)
+GEBNMNOD_00919	gene			
+GEBNMNOD_00920	tRNA			tRNA-Tyr(gta)
+GEBNMNOD_00920	gene			
+GEBNMNOD_00921	tRNA			tRNA-Thr(tgt)
+GEBNMNOD_00921	gene			
+GEBNMNOD_00922	CDS	hepA		Heterocyst differentiation ATP-binding protein HepA
+GEBNMNOD_00922	gene	hepA		
+GEBNMNOD_00923	CDS			hypothetical protein
+GEBNMNOD_00923	gene			
+GEBNMNOD_00924	CDS	fokIM	2.1.1.72	Modification methylase FokI
+GEBNMNOD_00924	gene	fokIM		
+GEBNMNOD_00925	CDS			hypothetical protein
+GEBNMNOD_00925	gene			
+GEBNMNOD_00926	CDS	cysE	2.3.1.30	Serine acetyltransferase
+GEBNMNOD_00926	gene	cysE		
+GEBNMNOD_00927	tRNA			tRNA-Leu(caa)
+GEBNMNOD_00927	gene			
+GEBNMNOD_00928	tRNA			tRNA-Leu(gag)
+GEBNMNOD_00928	gene			
+GEBNMNOD_00929	CDS	atpE		ATP synthase subunit c
+GEBNMNOD_00929	gene	atpE		
+GEBNMNOD_00930	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+GEBNMNOD_00930	gene	pnp		
+GEBNMNOD_00931	CDS			hypothetical protein
+GEBNMNOD_00931	gene			
+GEBNMNOD_00932	CDS	lptD		LPS-assembly protein LptD
+GEBNMNOD_00932	gene	lptD		
+GEBNMNOD_00933	CDS			hypothetical protein
+GEBNMNOD_00933	gene			
+GEBNMNOD_00934	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+GEBNMNOD_00934	gene	purD		
+GEBNMNOD_00935	CDS	ytrB		ABC transporter ATP-binding protein YtrB
+GEBNMNOD_00935	gene	ytrB		
+GEBNMNOD_00936	CDS	uppS	2.5.1.-	Isoprenyl transferase
+GEBNMNOD_00936	gene	uppS		
+GEBNMNOD_00937	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+GEBNMNOD_00937	gene			
+GEBNMNOD_00938	CDS	glpE	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+GEBNMNOD_00938	gene	glpE		
+GEBNMNOD_00939	CDS			hypothetical protein
+GEBNMNOD_00939	gene			
+GEBNMNOD_00940	CDS	crcB		Putative fluoride ion transporter CrcB
+GEBNMNOD_00940	gene	crcB		
+GEBNMNOD_00941	CDS	hemN_2	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+GEBNMNOD_00941	gene	hemN_2		
+GEBNMNOD_00942	CDS			Cytochrome c-553
+GEBNMNOD_00942	gene			
+GEBNMNOD_00943	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+GEBNMNOD_00943	gene	rppH		
+GEBNMNOD_00944	CDS	lysC	2.7.2.4	Aspartate kinase Ask_LysC
+GEBNMNOD_00944	gene	lysC		
+GEBNMNOD_00945	CDS			hypothetical protein
+GEBNMNOD_00945	gene			
+GEBNMNOD_00946	CDS			hypothetical protein
+GEBNMNOD_00946	gene			
+GEBNMNOD_00947	CDS	folP		Bifunctional dihydropteroate synthase/dihydropteroate reductase
+GEBNMNOD_00947	gene	folP		
+GEBNMNOD_00948	CDS			hypothetical protein
+GEBNMNOD_00948	gene			
+GEBNMNOD_00949	CDS			hypothetical protein
+GEBNMNOD_00949	gene			
+GEBNMNOD_00950	CDS			hypothetical protein
+GEBNMNOD_00950	gene			
+GEBNMNOD_00951	CDS			hypothetical protein
+GEBNMNOD_00951	gene			
+GEBNMNOD_00952	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+GEBNMNOD_00952	gene	carA		
+GEBNMNOD_00953	CDS	amiF	3.5.1.49	Formamidase
+GEBNMNOD_00953	gene	amiF		
+GEBNMNOD_00954	CDS	maf		Septum formation protein Maf
+GEBNMNOD_00954	gene	maf		
+GEBNMNOD_00955	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+GEBNMNOD_00955	gene	alaS		
+GEBNMNOD_00956	CDS			hypothetical protein
+GEBNMNOD_00956	gene			
+GEBNMNOD_00957	tRNA			tRNA-Pro(ggg)
+GEBNMNOD_00957	gene			
+GEBNMNOD_00958	CDS	ppk	2.7.4.1	Polyphosphate kinase
+GEBNMNOD_00958	gene	ppk		
+GEBNMNOD_00959	CDS	pyrD_2	1.3.5.2	Dihydroorotate dehydrogenase (quinone)
+GEBNMNOD_00959	gene	pyrD_2		
+GEBNMNOD_00960	CDS		3.4.24.-	putative zinc protease
+GEBNMNOD_00960	gene			
+GEBNMNOD_00961	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+GEBNMNOD_00961	gene	dapA		
+GEBNMNOD_00962	CDS	fabL	1.3.1.104	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabL
+GEBNMNOD_00962	gene	fabL		
+GEBNMNOD_00963	CDS			hypothetical protein
+GEBNMNOD_00963	gene			
+GEBNMNOD_00964	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+GEBNMNOD_00964	gene	pgsA		
+GEBNMNOD_00965	CDS	rocE		Amino-acid permease RocE
+GEBNMNOD_00965	gene	rocE		
+GEBNMNOD_00966	CDS	degP	3.4.21.107	Periplasmic serine endoprotease DegP
+GEBNMNOD_00966	gene	degP		
+GEBNMNOD_00967	CDS	ispDF		Bifunctional enzyme IspD/IspF
+GEBNMNOD_00967	gene	ispDF		
+GEBNMNOD_00968	CDS			hypothetical protein
+GEBNMNOD_00968	gene			
+GEBNMNOD_00969	CDS	xni	3.1.-.-	Flap endonuclease Xni
+GEBNMNOD_00969	gene	xni		
+GEBNMNOD_00970	CDS			hypothetical protein
+GEBNMNOD_00970	gene			
+GEBNMNOD_00971	CDS	cbpA		Curved DNA-binding protein
+GEBNMNOD_00971	gene	cbpA		
+GEBNMNOD_00972	CDS	hspR		Putative heat shock protein HspR
+GEBNMNOD_00972	gene	hspR		
+GEBNMNOD_00973	CDS			putative AAA domain-containing protein
+GEBNMNOD_00973	gene			
+GEBNMNOD_00974	CDS	fur		Ferric uptake regulation protein
+GEBNMNOD_00974	gene	fur		
+GEBNMNOD_00975	CDS			hypothetical protein
+GEBNMNOD_00975	gene			
+GEBNMNOD_00976	CDS			hypothetical protein
+GEBNMNOD_00976	gene			
+GEBNMNOD_00977	CDS	fliN_2		Flagellar motor switch protein FliN
+GEBNMNOD_00977	gene	fliN_2		
+GEBNMNOD_00978	CDS	fliM		Flagellar motor switch protein FliM
+GEBNMNOD_00978	gene	fliM		
+GEBNMNOD_00979	CDS	fliA		RNA polymerase sigma factor FliA
+GEBNMNOD_00979	gene	fliA		
+GEBNMNOD_00980	CDS			hypothetical protein
+GEBNMNOD_00980	gene			
+GEBNMNOD_00981	CDS	ylxH		Flagellum site-determining protein YlxH
+GEBNMNOD_00981	gene	ylxH		
+GEBNMNOD_00982	CDS	flhF		Flagellar biosynthesis protein FlhF
+GEBNMNOD_00982	gene	flhF		
+GEBNMNOD_00983	CDS	folK	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+GEBNMNOD_00983	gene	folK		
+GEBNMNOD_00984	CDS		3.4.11.-	Aminopeptidase
+GEBNMNOD_00984	gene			
+GEBNMNOD_00985	CDS	aroQ	4.2.1.10	3-dehydroquinate dehydratase
+GEBNMNOD_00985	gene	aroQ		
+GEBNMNOD_00986	CDS			hypothetical protein
+GEBNMNOD_00986	gene			
+GEBNMNOD_00987	CDS	rpsO		30S ribosomal protein S15
+GEBNMNOD_00987	gene	rpsO		
+GEBNMNOD_00988	CDS	flhA		Flagellar biosynthesis protein FlhA
+GEBNMNOD_00988	gene	flhA		
+GEBNMNOD_00989	CDS		3.1.4.17	3',5'-cyclic-nucleotide phosphodiesterase
+GEBNMNOD_00989	gene			
+GEBNMNOD_00990	CDS	cusR		Transcriptional regulatory protein CusR
+GEBNMNOD_00990	gene	cusR		
+GEBNMNOD_00991	CDS	cpdA	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+GEBNMNOD_00991	gene	cpdA		
+GEBNMNOD_00992	CDS	acsA	6.2.1.1	Acetyl-coenzyme A synthetase
+GEBNMNOD_00992	gene	acsA		
+GEBNMNOD_00993	CDS	rimP		Ribosome maturation factor RimP
+GEBNMNOD_00993	gene	rimP		
+GEBNMNOD_00994	CDS	rbfA		Ribosome-binding factor A
+GEBNMNOD_00994	gene	rbfA		
+GEBNMNOD_00995	CDS	infB		Translation initiation factor IF-2
+GEBNMNOD_00995	gene	infB		
+GEBNMNOD_00996	CDS			hypothetical protein
+GEBNMNOD_00996	gene			
+GEBNMNOD_00997	CDS	thrB	2.7.1.39	Homoserine kinase
+GEBNMNOD_00997	gene	thrB		
+GEBNMNOD_00998	CDS			hypothetical protein
+GEBNMNOD_00998	gene			
+GEBNMNOD_00999	CDS	lpxC	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+GEBNMNOD_00999	gene	lpxC		
+GEBNMNOD_01000	CDS	minC		putative septum site-determining protein MinC
+GEBNMNOD_01000	gene	minC		
+GEBNMNOD_01001	CDS			hypothetical protein
+GEBNMNOD_01001	gene			
+GEBNMNOD_01002	CDS			hypothetical protein
+GEBNMNOD_01002	gene			
+GEBNMNOD_01003	CDS			hypothetical protein
+GEBNMNOD_01003	gene			
+GEBNMNOD_01004	CDS			hypothetical protein
+GEBNMNOD_01004	gene			
+GEBNMNOD_01005	CDS	panB	2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase
+GEBNMNOD_01005	gene	panB		
+GEBNMNOD_01006	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+GEBNMNOD_01006	gene	ruvB		
+GEBNMNOD_01007	CDS	tatB		Sec-independent protein translocase protein TatB
+GEBNMNOD_01007	gene	tatB		
+GEBNMNOD_01008	CDS	tatC		Sec-independent protein translocase protein TatC
+GEBNMNOD_01008	gene	tatC		
+GEBNMNOD_01009	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+GEBNMNOD_01009	gene	queA		
+GEBNMNOD_01010	CDS	rsmG	2.1.1.170	Ribosomal RNA small subunit methyltransferase G
+GEBNMNOD_01010	gene	rsmG		
+GEBNMNOD_01011	CDS			hypothetical protein
+GEBNMNOD_01011	gene			
+GEBNMNOD_01012	CDS			hypothetical protein
+GEBNMNOD_01012	gene			
+GEBNMNOD_01013	tRNA			tRNA-Ser(gga)
+GEBNMNOD_01013	gene			
+GEBNMNOD_01014	CDS			hypothetical protein
+GEBNMNOD_01014	gene			
+GEBNMNOD_01015	CDS	cheY		Chemotaxis protein CheY 
+GEBNMNOD_01015	gene	cheY		
+GEBNMNOD_01016	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+GEBNMNOD_01016	gene	prmA		
+GEBNMNOD_01017	CDS	ftsH_2	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+GEBNMNOD_01017	gene	ftsH_2		
+GEBNMNOD_01018	CDS	pcs	2.7.8.24	Phosphatidylcholine synthase
+GEBNMNOD_01018	gene	pcs		
+GEBNMNOD_01019	CDS	copA_2	3.6.3.54	Copper-exporting P-type ATPase A
+GEBNMNOD_01019	gene	copA_2		
+GEBNMNOD_01020	CDS	copP		COP-associated protein
+GEBNMNOD_01020	gene	copP		
+GEBNMNOD_01021	CDS			hypothetical protein
+GEBNMNOD_01021	gene			
+GEBNMNOD_01022	CDS			hypothetical protein
+GEBNMNOD_01022	gene			
+GEBNMNOD_01023	CDS			hypothetical protein
+GEBNMNOD_01023	gene			
+GEBNMNOD_01024	CDS	nixA		High-affinity nickel-transport protein NixA
+GEBNMNOD_01024	gene	nixA		
+GEBNMNOD_01025	CDS			hypothetical protein
+GEBNMNOD_01025	gene			
+GEBNMNOD_01026	CDS		3.6.1.-	ATP/GTP phosphatase
+GEBNMNOD_01026	gene			
+GEBNMNOD_01027	CDS			hypothetical protein
+GEBNMNOD_01027	gene			
+GEBNMNOD_01028	CDS			hypothetical protein
+GEBNMNOD_01028	gene			
+GEBNMNOD_01029	CDS	msbA	3.6.3.-	Lipid A export ATP-binding/permease protein MsbA
+GEBNMNOD_01029	gene	msbA		
+GEBNMNOD_01030	CDS			hypothetical protein
+GEBNMNOD_01030	gene			
+GEBNMNOD_01031	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+GEBNMNOD_01031	gene	pyrB		
+GEBNMNOD_01032	CDS			hypothetical protein
+GEBNMNOD_01032	gene			
+GEBNMNOD_01033	CDS	tlyA	2.1.1.226	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+GEBNMNOD_01033	gene	tlyA		
+GEBNMNOD_01034	CDS	ribF		Riboflavin biosynthesis protein RibF
+GEBNMNOD_01034	gene	ribF		
+GEBNMNOD_01035	CDS	tkt	2.2.1.1	Transketolase
+GEBNMNOD_01035	gene	tkt		
+GEBNMNOD_01036	CDS			hypothetical protein
+GEBNMNOD_01036	gene			
+GEBNMNOD_01037	CDS	spoIIIE		DNA translocase SpoIIIE
+GEBNMNOD_01037	gene	spoIIIE		
+GEBNMNOD_01038	CDS	kgtP		Alpha-ketoglutarate permease
+GEBNMNOD_01038	gene	kgtP		
+GEBNMNOD_01039	CDS	flgG_2		Flagellar basal-body rod protein FlgG
+GEBNMNOD_01039	gene	flgG_2		
+GEBNMNOD_01040	CDS	gdhA	1.4.1.2	NAD(P)-specific glutamate dehydrogenase
+GEBNMNOD_01040	gene	gdhA		
+GEBNMNOD_01041	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+GEBNMNOD_01041	gene	prmC		
+GEBNMNOD_01042	CDS	htpX_1	3.4.24.-	Protease HtpX
+GEBNMNOD_01042	gene	htpX_1		
+GEBNMNOD_01043	CDS			hypothetical protein
+GEBNMNOD_01043	gene			
+GEBNMNOD_01044	CDS			hypothetical protein
+GEBNMNOD_01044	gene			
+GEBNMNOD_01045	CDS			hypothetical protein
+GEBNMNOD_01045	gene			
+GEBNMNOD_01046	CDS			hypothetical protein
+GEBNMNOD_01046	gene			
+GEBNMNOD_01047	CDS	priA	3.6.4.-	Primosomal protein N'
+GEBNMNOD_01047	gene	priA		
+GEBNMNOD_01048	CDS	cmoA	2.1.3.-	Carboxy-S-adenosyl-L-methionine synthase
+GEBNMNOD_01048	gene	cmoA		
+GEBNMNOD_01049	CDS	sodB	1.15.1.1	Superoxide dismutase [Fe]
+GEBNMNOD_01049	gene	sodB		
+GEBNMNOD_01050	CDS	tpx	1.11.1.-	putative thiol peroxidase
+GEBNMNOD_01050	gene	tpx		
+GEBNMNOD_01051	CDS	cheW		Chemotaxis protein CheW
+GEBNMNOD_01051	gene	cheW		
+GEBNMNOD_01052	CDS	cheA	2.7.13.3	Chemotaxis protein CheA
+GEBNMNOD_01052	gene	cheA		
+GEBNMNOD_01053	CDS	cheV_2		Chemotaxis protein CheV
+GEBNMNOD_01053	gene	cheV_2		
+GEBNMNOD_01054	CDS	lpxH	3.6.1.54	UDP-2,3-diacylglucosamine hydrolase
+GEBNMNOD_01054	gene	lpxH		
+GEBNMNOD_01055	CDS			hypothetical protein
+GEBNMNOD_01055	gene			
+GEBNMNOD_01056	CDS	ubiD	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+GEBNMNOD_01056	gene	ubiD		
+GEBNMNOD_01057	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+GEBNMNOD_01057	gene	serA		
+GEBNMNOD_01058	CDS			hypothetical protein
+GEBNMNOD_01058	gene			
+GEBNMNOD_01059	CDS	rpsA		30S ribosomal protein S1
+GEBNMNOD_01059	gene	rpsA		
+GEBNMNOD_01060	CDS	ispH	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+GEBNMNOD_01060	gene	ispH		
+GEBNMNOD_01061	CDS	aroA1	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase 1
+GEBNMNOD_01061	gene	aroA1		
+GEBNMNOD_01062	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+GEBNMNOD_01062	gene	pheT		
+GEBNMNOD_01063	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+GEBNMNOD_01063	gene	pheS		
+GEBNMNOD_01064	CDS			putative HIT-like protein
+GEBNMNOD_01064	gene			
+GEBNMNOD_01065	CDS	csd	2.8.1.7	putative cysteine desulfurase
+GEBNMNOD_01065	gene	csd		
+GEBNMNOD_01066	CDS			hypothetical protein
+GEBNMNOD_01066	gene			
+GEBNMNOD_01067	CDS	dorA	1.7.2.3	Dimethyl sulfoxide/trimethylamine N-oxide reductase
+GEBNMNOD_01067	gene	dorA		
+GEBNMNOD_01068	CDS			hypothetical protein
+GEBNMNOD_01068	gene			
+GEBNMNOD_01069	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+GEBNMNOD_01069	gene	guaA		
+GEBNMNOD_01070	CDS			hypothetical protein
+GEBNMNOD_01070	gene			
+GEBNMNOD_01071	CDS			hypothetical protein
+GEBNMNOD_01071	gene			
+GEBNMNOD_01072	tRNA			tRNA-Pro(tgg)
+GEBNMNOD_01072	gene			
+GEBNMNOD_01073	tRNA			tRNA-His(gtg)
+GEBNMNOD_01073	gene			
+GEBNMNOD_01074	tRNA			tRNA-Arg(tcg)
+GEBNMNOD_01074	gene			
+GEBNMNOD_01075	tRNA			tRNA-Arg(tct)
+GEBNMNOD_01075	gene			
+GEBNMNOD_01076	CDS			hypothetical protein
+GEBNMNOD_01076	gene			
+GEBNMNOD_01077	CDS			hypothetical protein
+GEBNMNOD_01077	gene			
+GEBNMNOD_01078	CDS	rplS		50S ribosomal protein L19
+GEBNMNOD_01078	gene	rplS		
+GEBNMNOD_01079	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+GEBNMNOD_01079	gene	trmD		
+GEBNMNOD_01080	CDS	rimM		Ribosome maturation factor RimM
+GEBNMNOD_01080	gene	rimM		
+GEBNMNOD_01081	CDS			hypothetical protein
+GEBNMNOD_01081	gene			
+GEBNMNOD_01082	CDS	rpsP		30S ribosomal protein S16
+GEBNMNOD_01082	gene	rpsP		
+GEBNMNOD_01083	CDS	ffh		Signal recognition particle protein
+GEBNMNOD_01083	gene	ffh		
+GEBNMNOD_01084	CDS	valS	6.1.1.9	Valine--tRNA ligase
+GEBNMNOD_01084	gene	valS		
+GEBNMNOD_01085	CDS	fliW1		Flagellar assembly factor FliW 1
+GEBNMNOD_01085	gene	fliW1		
+GEBNMNOD_01086	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+GEBNMNOD_01086	gene	murG		
+GEBNMNOD_01087	CDS			hypothetical protein
+GEBNMNOD_01087	gene			
+GEBNMNOD_01088	CDS			hypothetical protein
+GEBNMNOD_01088	gene			
+GEBNMNOD_01089	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+GEBNMNOD_01089	gene	proC		
+GEBNMNOD_01090	CDS		2.7.7.-	Adenosine monophosphate-protein transferase NmFic
+GEBNMNOD_01090	gene			
+GEBNMNOD_01091	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+GEBNMNOD_01091	gene	ybeY		
+GEBNMNOD_01092	CDS	fldA		Flavodoxin
+GEBNMNOD_01092	gene	fldA		
+GEBNMNOD_01093	CDS	yohD_2		Inner membrane protein YohD
+GEBNMNOD_01093	gene	yohD_2		
+GEBNMNOD_01094	CDS			hypothetical protein
+GEBNMNOD_01094	gene			
+GEBNMNOD_01095	CDS		1.18.1.2	Ferredoxin--NADP reductase
+GEBNMNOD_01095	gene			
+GEBNMNOD_01096	CDS			hypothetical protein
+GEBNMNOD_01096	gene			
+GEBNMNOD_01097	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+GEBNMNOD_01097	gene	pgi		
+GEBNMNOD_01098	CDS			hypothetical protein
+GEBNMNOD_01098	gene			
+GEBNMNOD_01099	CDS	cstA		Carbon starvation protein A
+GEBNMNOD_01099	gene	cstA		
+GEBNMNOD_01100	CDS	glnP		Glutamine transport system permease protein GlnP
+GEBNMNOD_01100	gene	glnP		
+GEBNMNOD_01101	CDS	tcyB_1		L-cystine transport system permease protein TcyB
+GEBNMNOD_01101	gene	tcyB_1		
+GEBNMNOD_01102	CDS	artM		Arginine transport ATP-binding protein ArtM
+GEBNMNOD_01102	gene	artM		
+GEBNMNOD_01103	CDS	glnH		ABC transporter glutamine-binding protein GlnH
+GEBNMNOD_01103	gene	glnH		
+GEBNMNOD_01104	CDS			hypothetical protein
+GEBNMNOD_01104	gene			
+GEBNMNOD_01105	CDS	fucP		L-fucose-proton symporter
+GEBNMNOD_01105	gene	fucP		
+GEBNMNOD_01106	CDS	adeQ		Adenine permease AdeQ
+GEBNMNOD_01106	gene	adeQ		
+GEBNMNOD_01107	CDS			hypothetical protein
+GEBNMNOD_01107	gene			
+GEBNMNOD_01108	CDS	deoD	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+GEBNMNOD_01108	gene	deoD		
+GEBNMNOD_01109	CDS	deoB	5.4.2.7	Phosphopentomutase
+GEBNMNOD_01109	gene	deoB		
+GEBNMNOD_01110	CDS	nupX		Putative nucleoside permease NupX
+GEBNMNOD_01110	gene	nupX		
+GEBNMNOD_01111	tRNA			tRNA-Met(cat)
+GEBNMNOD_01111	gene			
+GEBNMNOD_01112	CDS	yajR		Inner membrane transport protein YajR
+GEBNMNOD_01112	gene	yajR		
+GEBNMNOD_01113	CDS	ttcA		tRNA 2-thiocytidine biosynthesis protein TtcA
+GEBNMNOD_01113	gene	ttcA		
+GEBNMNOD_01114	CDS			hypothetical protein
+GEBNMNOD_01114	gene			
+GEBNMNOD_01115	CDS	mepA		Multidrug export protein MepA
+GEBNMNOD_01115	gene	mepA		
+GEBNMNOD_01116	CDS	sotB		Sugar efflux transporter B
+GEBNMNOD_01116	gene	sotB		
+GEBNMNOD_01117	CDS	cah	4.2.1.1	Carbonic anhydrase
+GEBNMNOD_01117	gene	cah		
+GEBNMNOD_01118	CDS			hypothetical protein
+GEBNMNOD_01118	gene			
+GEBNMNOD_01119	CDS			hypothetical protein
+GEBNMNOD_01119	gene			
+GEBNMNOD_01120	CDS			hypothetical protein
+GEBNMNOD_01120	gene			
+GEBNMNOD_01121	CDS			hypothetical protein
+GEBNMNOD_01121	gene			
+GEBNMNOD_01122	CDS	ynaI		Low conductance mechanosensitive channel YnaI
+GEBNMNOD_01122	gene	ynaI		
+GEBNMNOD_01123	CDS	cfa	2.1.1.79	Cyclopropane-fatty-acyl-phospholipid synthase
+GEBNMNOD_01123	gene	cfa		
+GEBNMNOD_01124	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+GEBNMNOD_01124	gene	metG		
+GEBNMNOD_01125	CDS			hypothetical protein
+GEBNMNOD_01125	gene			
+GEBNMNOD_01126	CDS	cmoB	2.5.1.-	tRNA U34 carboxymethyltransferase
+GEBNMNOD_01126	gene	cmoB		
+GEBNMNOD_01127	CDS			hypothetical protein
+GEBNMNOD_01127	gene			
+GEBNMNOD_01128	CDS	mgtA	2.4.1.-	GDP-mannose-dependent alpha-mannosyltransferase
+GEBNMNOD_01128	gene	mgtA		
+GEBNMNOD_01129	CDS	speA	4.1.1.19	Biosynthetic arginine decarboxylase
+GEBNMNOD_01129	gene	speA		
+GEBNMNOD_01130	CDS	xseA_2	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+GEBNMNOD_01130	gene	xseA_2		
+GEBNMNOD_01131	CDS	rseP	3.4.24.-	Regulator of sigma-E protease RseP
+GEBNMNOD_01131	gene	rseP		
+GEBNMNOD_01132	CDS	ftsZ		Cell division protein FtsZ
+GEBNMNOD_01132	gene	ftsZ		
+GEBNMNOD_01133	CDS	ftsA		Cell division protein FtsA
+GEBNMNOD_01133	gene	ftsA		
+GEBNMNOD_01134	CDS	ppiD	5.2.1.8	Peptidyl-prolyl cis-trans isomerase D
+GEBNMNOD_01134	gene	ppiD		
+GEBNMNOD_01135	CDS	bioA	2.6.1.62	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+GEBNMNOD_01135	gene	bioA		
+GEBNMNOD_01136	CDS	gatC	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+GEBNMNOD_01136	gene	gatC		
+GEBNMNOD_01137	CDS	gpmI	5.4.2.12	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+GEBNMNOD_01137	gene	gpmI		
+GEBNMNOD_01138	CDS			hypothetical protein
+GEBNMNOD_01138	gene			
+GEBNMNOD_01139	CDS	glyS	6.1.1.14	Glycine--tRNA ligase beta subunit
+GEBNMNOD_01139	gene	glyS		
+GEBNMNOD_01140	CDS			hypothetical protein
+GEBNMNOD_01140	gene			
+GEBNMNOD_01141	CDS			hypothetical protein
+GEBNMNOD_01141	gene			
+GEBNMNOD_01142	CDS	czcA		Cobalt-zinc-cadmium resistance protein CzcA
+GEBNMNOD_01142	gene	czcA		
+GEBNMNOD_01143	CDS			hypothetical protein
+GEBNMNOD_01143	gene			
+GEBNMNOD_01144	CDS	vapD_2	3.1.-.-	Endoribonuclease VapD
+GEBNMNOD_01144	gene	vapD_2		
+GEBNMNOD_01145	CDS			hypothetical protein
+GEBNMNOD_01145	gene			
+GEBNMNOD_01146	CDS	der_2		GTPase Der
+GEBNMNOD_01146	gene	der_2		
+GEBNMNOD_01147	CDS			hypothetical protein
+GEBNMNOD_01147	gene			
+GEBNMNOD_01148	CDS	era_2		GTPase Era
+GEBNMNOD_01148	gene	era_2		
+GEBNMNOD_01149	CDS	acpP_2		Acyl carrier protein
+GEBNMNOD_01149	gene	acpP_2		
+GEBNMNOD_01150	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+GEBNMNOD_01150	gene	gpsA		
+GEBNMNOD_01151	CDS	glyQ	6.1.1.14	Glycine--tRNA ligase alpha subunit
+GEBNMNOD_01151	gene	glyQ		
+GEBNMNOD_01152	CDS		3.5.4.16	GTP cyclohydrolase 1 type 2
+GEBNMNOD_01152	gene			
+GEBNMNOD_01153	CDS			hypothetical protein
+GEBNMNOD_01153	gene			
+GEBNMNOD_01154	CDS	waaA	2.4.99.12	3-deoxy-D-manno-octulosonic acid transferase
+GEBNMNOD_01154	gene	waaA		
+GEBNMNOD_01155	CDS		5.4.99.-	putative RNA pseudouridine synthase
+GEBNMNOD_01155	gene			
+GEBNMNOD_01156	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+GEBNMNOD_01156	gene	lgt		
+GEBNMNOD_01157	CDS	rdxA	1.-.-.-	Oxygen-insensitive NADPH nitroreductase
+GEBNMNOD_01157	gene	rdxA		
+GEBNMNOD_01158	CDS			hypothetical protein
+GEBNMNOD_01158	gene			
+GEBNMNOD_01159	CDS	pncC	3.5.1.42	Nicotinamide-nucleotide amidohydrolase PncC
+GEBNMNOD_01159	gene	pncC		
+GEBNMNOD_01160	CDS			hypothetical protein
+GEBNMNOD_01160	gene			
+GEBNMNOD_01161	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+GEBNMNOD_01161	gene	accD		
+GEBNMNOD_01162	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+GEBNMNOD_01162	gene	rlmH		
+GEBNMNOD_01163	CDS			hypothetical protein
+GEBNMNOD_01163	gene			
+GEBNMNOD_01164	CDS			hypothetical protein
+GEBNMNOD_01164	gene			
+GEBNMNOD_01165	CDS	mleN		Malate-2H(+)/Na(+)-lactate antiporter
+GEBNMNOD_01165	gene	mleN		
+GEBNMNOD_01166	tRNA			tRNA-Ser(tga)
+GEBNMNOD_01166	gene			
+GEBNMNOD_01167	tRNA			tRNA-Cys(gca)
+GEBNMNOD_01167	gene			
+GEBNMNOD_01168	tRNA			tRNA-Leu(taa)
+GEBNMNOD_01168	gene			
+GEBNMNOD_01169	CDS			hypothetical protein
+GEBNMNOD_01169	gene			
+GEBNMNOD_01170	tRNA			tRNA-Gly(gcc)
+GEBNMNOD_01170	gene			
+GEBNMNOD_01171	CDS			RutC family protein
+GEBNMNOD_01171	gene			
+GEBNMNOD_01172	CDS	dadA	1.4.5.1	D-amino acid dehydrogenase
+GEBNMNOD_01172	gene	dadA		
+GEBNMNOD_01173	CDS	alsT		Amino-acid carrier protein AlsT
+GEBNMNOD_01173	gene	alsT		
+GEBNMNOD_01174	CDS	alr1	5.1.1.1	Alanine racemase 1
+GEBNMNOD_01174	gene	alr1		
+GEBNMNOD_01175	CDS			putative amino-acid ABC transporter-binding protein
+GEBNMNOD_01175	gene			
+GEBNMNOD_01176	CDS	tcyB_2		L-cystine transport system permease protein TcyB
+GEBNMNOD_01176	gene	tcyB_2		
+GEBNMNOD_01177	CDS			hypothetical protein
+GEBNMNOD_01177	gene			
+GEBNMNOD_01178	CDS			hypothetical protein
+GEBNMNOD_01178	gene			
+GEBNMNOD_01179	CDS	proP		Proline/betaine transporter
+GEBNMNOD_01179	gene	proP		
+GEBNMNOD_01180	CDS			hypothetical protein
+GEBNMNOD_01180	gene			
+GEBNMNOD_01181	CDS	queE_1	4.3.99.3	7-carboxy-7-deazaguanine synthase
+GEBNMNOD_01181	gene	queE_1		
+GEBNMNOD_01182	CDS			hypothetical protein
+GEBNMNOD_01182	gene			
+GEBNMNOD_01183	CDS			hypothetical protein
+GEBNMNOD_01183	gene			
+GEBNMNOD_01184	CDS	surE	3.1.3.5	5'-nucleotidase SurE
+GEBNMNOD_01184	gene	surE		
+GEBNMNOD_01185	CDS		2.5.1.10	Farnesyl diphosphate synthase
+GEBNMNOD_01185	gene			
+GEBNMNOD_01186	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+GEBNMNOD_01186	gene	folE		
+GEBNMNOD_01187	CDS	htpX_2	3.4.24.-	Protease HtpX 
+GEBNMNOD_01187	gene	htpX_2		
+GEBNMNOD_01188	CDS	truD	5.4.99.27	tRNA pseudouridine synthase D
+GEBNMNOD_01188	gene	truD		
+GEBNMNOD_01189	CDS	recR		Recombination protein RecR
+GEBNMNOD_01189	gene	recR		
+GEBNMNOD_01190	CDS		5.3.2.-	putative tautomerase
+GEBNMNOD_01190	gene			
+GEBNMNOD_01191	CDS			hypothetical protein
+GEBNMNOD_01191	gene			
+GEBNMNOD_01192	CDS			hypothetical protein
+GEBNMNOD_01192	gene			
+GEBNMNOD_01193	CDS			hypothetical protein
+GEBNMNOD_01193	gene			
+GEBNMNOD_01194	CDS	corA		Magnesium transport protein CorA
+GEBNMNOD_01194	gene	corA		
+GEBNMNOD_01195	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+GEBNMNOD_01195	gene	pgk		
+GEBNMNOD_01196	CDS	gapB	1.2.1.59	Glyceraldehyde-3-phosphate dehydrogenase 2
+GEBNMNOD_01196	gene	gapB		
+GEBNMNOD_01197	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+GEBNMNOD_01197	gene	ung		
+GEBNMNOD_01198	CDS			hypothetical protein
+GEBNMNOD_01198	gene			
+GEBNMNOD_01199	CDS			hypothetical protein
+GEBNMNOD_01199	gene			
+GEBNMNOD_01200	CDS	ctpB	3.4.21.102	Carboxy-terminal processing protease CtpB
+GEBNMNOD_01200	gene	ctpB		
+GEBNMNOD_01201	CDS			hypothetical protein
+GEBNMNOD_01201	gene			
+GEBNMNOD_01202	CDS	dpnA_2	2.1.1.72	Modification methylase DpnIIB
+GEBNMNOD_01202	gene	dpnA_2		
+GEBNMNOD_01203	CDS			hypothetical protein
+GEBNMNOD_01203	gene			
+GEBNMNOD_01204	CDS			hypothetical protein
+GEBNMNOD_01204	gene			
+GEBNMNOD_01205	CDS	nadC	2.4.2.19	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+GEBNMNOD_01205	gene	nadC		
+GEBNMNOD_01206	CDS	nadA	2.5.1.72	Quinolinate synthase A
+GEBNMNOD_01206	gene	nadA		
+GEBNMNOD_01207	CDS	psd	4.1.1.65	Phosphatidylserine decarboxylase proenzyme
+GEBNMNOD_01207	gene	psd		
+GEBNMNOD_01208	CDS			hypothetical protein
+GEBNMNOD_01208	gene			
+GEBNMNOD_01209	CDS			hypothetical protein
+GEBNMNOD_01209	gene			
+GEBNMNOD_01210	CDS	plqA	2.5.1.-	4-hydroxybenzoate solanesyltransferase
+GEBNMNOD_01210	gene	plqA		
+GEBNMNOD_01211	CDS			hypothetical protein
+GEBNMNOD_01211	gene			
+GEBNMNOD_01212	CDS	dnaB	3.6.4.12	Replicative DNA helicase
+GEBNMNOD_01212	gene	dnaB		
+GEBNMNOD_01213	CDS	nnr		Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+GEBNMNOD_01213	gene	nnr		
+GEBNMNOD_01214	CDS	senX3	2.7.13.3	Signal-transduction histidine kinase senX3
+GEBNMNOD_01214	gene	senX3		
+GEBNMNOD_01215	CDS	qseB		Transcriptional regulatory protein QseB
+GEBNMNOD_01215	gene	qseB		
+GEBNMNOD_01216	CDS	mboIIR	3.1.21.4	Type-2 restriction enzyme MboII
+GEBNMNOD_01216	gene	mboIIR		
+GEBNMNOD_01217	CDS	mboIIM	2.1.1.72	Modification methylase MboII
+GEBNMNOD_01217	gene	mboIIM		
+GEBNMNOD_01218	CDS	rsrIM	2.1.1.72	Modification methylase RsrI
+GEBNMNOD_01218	gene	rsrIM		
+GEBNMNOD_01219	CDS			hypothetical protein
+GEBNMNOD_01219	gene			
+GEBNMNOD_01220	CDS	dpnA_3	2.1.1.72	Modification methylase DpnIIB
+GEBNMNOD_01220	gene	dpnA_3		
+GEBNMNOD_01221	CDS			hypothetical protein
+GEBNMNOD_01221	gene			
+GEBNMNOD_01222	CDS			hypothetical protein
+GEBNMNOD_01222	gene			
+GEBNMNOD_01223	CDS	mreB		Rod shape-determining protein MreB
+GEBNMNOD_01223	gene	mreB		
+GEBNMNOD_01224	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+GEBNMNOD_01224	gene	clpX		
+GEBNMNOD_01225	CDS	lpxA	2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+GEBNMNOD_01225	gene	lpxA		
+GEBNMNOD_01226	CDS	fabZ	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+GEBNMNOD_01226	gene	fabZ		
+GEBNMNOD_01227	CDS	fliW2		Flagellar assembly factor FliW 2
+GEBNMNOD_01227	gene	fliW2		
+GEBNMNOD_01228	CDS	bamD		Outer membrane protein assembly factor BamD
+GEBNMNOD_01228	gene	bamD		
+GEBNMNOD_01229	CDS	lon	3.4.21.53	Lon protease
+GEBNMNOD_01229	gene	lon		
+GEBNMNOD_01230	CDS	tyrA_2	1.3.1.12	Prephenate dehydrogenase
+GEBNMNOD_01230	gene	tyrA_2		
+GEBNMNOD_01231	CDS			hypothetical protein
+GEBNMNOD_01231	gene			
+GEBNMNOD_01232	CDS			hypothetical protein
+GEBNMNOD_01232	gene			
+GEBNMNOD_01233	CDS			hypothetical protein
+GEBNMNOD_01233	gene			
+GEBNMNOD_01234	CDS	fbp	3.1.3.11	Fructose-1,6-bisphosphatase class 1
+GEBNMNOD_01234	gene	fbp		
+GEBNMNOD_01235	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+GEBNMNOD_01235	gene	rpe		
+GEBNMNOD_01236	CDS	polC	2.7.7.7	DNA polymerase III PolC-type
+GEBNMNOD_01236	gene	polC		
+GEBNMNOD_01237	CDS			hypothetical protein
+GEBNMNOD_01237	gene			
+GEBNMNOD_01238	CDS			hypothetical protein
+GEBNMNOD_01238	gene			
+GEBNMNOD_01239	CDS			hypothetical protein
+GEBNMNOD_01239	gene			
+GEBNMNOD_01240	CDS			hypothetical protein
+GEBNMNOD_01240	gene			
+GEBNMNOD_01241	CDS			hypothetical protein
+GEBNMNOD_01241	gene			
+GEBNMNOD_01242	CDS			hypothetical protein
+GEBNMNOD_01242	gene			
+GEBNMNOD_01243	CDS	recN		DNA repair protein RecN
+GEBNMNOD_01243	gene	recN		
+GEBNMNOD_01244	CDS	nadK	2.7.1.23	NAD kinase
+GEBNMNOD_01244	gene	nadK		
+GEBNMNOD_01245	CDS			hypothetical protein
+GEBNMNOD_01245	gene			
+GEBNMNOD_01246	CDS			hypothetical protein
+GEBNMNOD_01246	gene			
+GEBNMNOD_01247	CDS			hypothetical protein
+GEBNMNOD_01247	gene			
+GEBNMNOD_01248	CDS	ald	1.4.1.1	Alanine dehydrogenase
+GEBNMNOD_01248	gene	ald		
+GEBNMNOD_01249	CDS	rocF	3.5.3.1	Arginase
+GEBNMNOD_01249	gene	rocF		
+GEBNMNOD_01250	CDS	fecA_3		Fe(3+) dicitrate transport protein FecA
+GEBNMNOD_01250	gene	fecA_3		
+GEBNMNOD_01251	CDS			hypothetical protein
+GEBNMNOD_01251	gene			
+GEBNMNOD_01252	CDS			hypothetical protein
+GEBNMNOD_01252	gene			
+GEBNMNOD_01253	CDS	hsdR_2	3.1.21.3	Type-1 restriction enzyme R protein
+GEBNMNOD_01253	gene	hsdR_2		
+GEBNMNOD_01254	CDS	hsdM	2.1.1.72	Type I restriction enzyme EcoKI M protein
+GEBNMNOD_01254	gene	hsdM		
+GEBNMNOD_01255	CDS			hypothetical protein
+GEBNMNOD_01255	gene			
+GEBNMNOD_01256	CDS	bioB	2.8.1.6	Biotin synthase
+GEBNMNOD_01256	gene	bioB		
+GEBNMNOD_01257	CDS			hypothetical protein
+GEBNMNOD_01257	gene			
+GEBNMNOD_01258	CDS			hypothetical protein
+GEBNMNOD_01258	gene			
+GEBNMNOD_01259	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+GEBNMNOD_01259	gene	asd		
+GEBNMNOD_01260	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+GEBNMNOD_01260	gene	hisS		
+GEBNMNOD_01261	CDS	rfaF	2.-.-.-	ADP-heptose--LPS heptosyltransferase 2
+GEBNMNOD_01261	gene	rfaF		
+GEBNMNOD_01262	CDS			hypothetical protein
+GEBNMNOD_01262	gene			
+GEBNMNOD_01263	CDS			hypothetical protein
+GEBNMNOD_01263	gene			
+GEBNMNOD_01264	CDS	smc_1		Chromosome partition protein Smc
+GEBNMNOD_01264	gene	smc_1		
+GEBNMNOD_01265	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+GEBNMNOD_01265	gene	fmt		
+GEBNMNOD_01266	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+GEBNMNOD_01266	gene	birA		
+GEBNMNOD_01267	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+GEBNMNOD_01267	gene	soj		
+GEBNMNOD_01268	CDS	parB		putative chromosome-partitioning protein ParB
+GEBNMNOD_01268	gene	parB		
+GEBNMNOD_01269	CDS	atpF_1		ATP synthase subunit b, sodium ion specific
+GEBNMNOD_01269	gene	atpF_1		
+GEBNMNOD_01270	CDS	atpF_2		ATP synthase subunit b
+GEBNMNOD_01270	gene	atpF_2		
+GEBNMNOD_01271	CDS	atpD_1		ATP synthase subunit delta
+GEBNMNOD_01271	gene	atpD_1		
+GEBNMNOD_01272	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+GEBNMNOD_01272	gene	atpA		
+GEBNMNOD_01273	CDS	atpG		ATP synthase gamma chain
+GEBNMNOD_01273	gene	atpG		
+GEBNMNOD_01274	CDS	atpD_2	3.6.3.14	ATP synthase subunit beta
+GEBNMNOD_01274	gene	atpD_2		
+GEBNMNOD_01275	CDS	atpC		ATP synthase epsilon chain
+GEBNMNOD_01275	gene	atpC		
+GEBNMNOD_01276	CDS	exbB_3		Biopolymer transport protein ExbB
+GEBNMNOD_01276	gene	exbB_3		
+GEBNMNOD_01277	CDS	exbD_3		Biopolymer transport protein ExbD
+GEBNMNOD_01277	gene	exbD_3		
+GEBNMNOD_01278	CDS			hypothetical protein
+GEBNMNOD_01278	gene			
+GEBNMNOD_01279	CDS	tolB		Protein TolB
+GEBNMNOD_01279	gene	tolB		
+GEBNMNOD_01280	CDS	pal		Outer membrane protein P6
+GEBNMNOD_01280	gene	pal		
+GEBNMNOD_01281	CDS			hypothetical protein
+GEBNMNOD_01281	gene			
+GEBNMNOD_01282	CDS	slyD	5.2.1.8	FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+GEBNMNOD_01282	gene	slyD		
+GEBNMNOD_01283	CDS			hypothetical protein
+GEBNMNOD_01283	gene			
+GEBNMNOD_01284	CDS			hypothetical protein
+GEBNMNOD_01284	gene			
+GEBNMNOD_01285	CDS	hhaIM	2.1.1.37	Modification methylase HhaI
+GEBNMNOD_01285	gene	hhaIM		
+GEBNMNOD_01286	CDS			hypothetical protein
+GEBNMNOD_01286	gene			
+GEBNMNOD_01287	CDS	flgK		Flagellar hook-associated protein 1
+GEBNMNOD_01287	gene	flgK		
+GEBNMNOD_01288	CDS	ggt	2.3.2.2	Gamma-glutamyltranspeptidase
+GEBNMNOD_01288	gene	ggt		
+GEBNMNOD_01289	CDS	esiB		Secretory immunoglobulin A-binding protein EsiB
+GEBNMNOD_01289	gene	esiB		
+GEBNMNOD_01290	CDS			hypothetical protein
+GEBNMNOD_01290	gene			
+GEBNMNOD_01291	CDS	queE_2	4.3.99.3	7-carboxy-7-deazaguanine synthase
+GEBNMNOD_01291	gene	queE_2		
+GEBNMNOD_01292	CDS	topA_1	5.99.1.2	DNA topoisomerase 1
+GEBNMNOD_01292	gene	topA_1		
+GEBNMNOD_01293	CDS	flaB		Flagellin B
+GEBNMNOD_01293	gene	flaB		
+GEBNMNOD_01294	CDS			hypothetical protein
+GEBNMNOD_01294	gene			
+GEBNMNOD_01295	CDS			hypothetical protein
+GEBNMNOD_01295	gene			
+GEBNMNOD_01296	CDS			hypothetical protein
+GEBNMNOD_01296	gene			
+GEBNMNOD_01297	CDS	hrcA		Heat-inducible transcription repressor HrcA
+GEBNMNOD_01297	gene	hrcA		
+GEBNMNOD_01298	CDS	grpE		Protein GrpE
+GEBNMNOD_01298	gene	grpE		
+GEBNMNOD_01299	CDS	dnaK		Chaperone protein DnaK
+GEBNMNOD_01299	gene	dnaK		
+GEBNMNOD_01300	CDS			hypothetical protein
+GEBNMNOD_01300	gene			
+GEBNMNOD_01301	CDS	cysM	2.5.1.47	Cysteine synthase
+GEBNMNOD_01301	gene	cysM		
+GEBNMNOD_01302	CDS	metB	2.5.1.48	Cystathionine gamma-synthase
+GEBNMNOD_01302	gene	metB		
+GEBNMNOD_01303	CDS	luxS	4.4.1.21	S-ribosylhomocysteine lyase
+GEBNMNOD_01303	gene	luxS		
+GEBNMNOD_01304	CDS	yfkN		Trifunctional nucleotide phosphoesterase protein YfkN
+GEBNMNOD_01304	gene	yfkN		
+GEBNMNOD_01305	CDS	mcp4		Methyl-accepting chemotaxis protein 4
+GEBNMNOD_01305	gene	mcp4		
+GEBNMNOD_01306	CDS		2.4.-.-	putative glycosyltransferase
+GEBNMNOD_01306	gene			
+GEBNMNOD_01307	CDS			hypothetical protein
+GEBNMNOD_01307	gene			
+GEBNMNOD_01308	CDS			hypothetical protein
+GEBNMNOD_01308	gene			
+GEBNMNOD_01309	CDS	pctC		Methyl-accepting chemotaxis protein PctC
+GEBNMNOD_01309	gene	pctC		
+GEBNMNOD_01310	CDS	thrC	4.2.3.1	Threonine synthase
+GEBNMNOD_01310	gene	thrC		
+GEBNMNOD_01311	CDS			hypothetical protein
+GEBNMNOD_01311	gene			
+GEBNMNOD_01312	CDS		1.-.-.-	Putative 2-hydroxyacid dehydrogenase
+GEBNMNOD_01312	gene			
+GEBNMNOD_01313	CDS			hypothetical protein
+GEBNMNOD_01313	gene			
+GEBNMNOD_01314	CDS			hypothetical protein
+GEBNMNOD_01314	gene			
+GEBNMNOD_01315	CDS	wbnK	2.4.1.308	O-antigen biosynthesis glycosyltransferase WbnK
+GEBNMNOD_01315	gene	wbnK		
+GEBNMNOD_01316	CDS	dpnA_4	2.1.1.72	Modification methylase DpnIIB
+GEBNMNOD_01316	gene	dpnA_4		
+GEBNMNOD_01317	CDS	mboIR_1	3.1.21.4	Type-2 restriction enzyme MboI
+GEBNMNOD_01317	gene	mboIR_1		
+GEBNMNOD_01318	CDS	mboIR_2	3.1.21.4	Type-2 restriction enzyme MboI
+GEBNMNOD_01318	gene	mboIR_2		
+GEBNMNOD_01319	tRNA			tRNA-Ser(gct)
+GEBNMNOD_01319	gene			
+GEBNMNOD_01320	CDS	fenF	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+GEBNMNOD_01320	gene	fenF		
+GEBNMNOD_01321	CDS	mtnN	3.2.2.30	Aminodeoxyfutalosine nucleosidase
+GEBNMNOD_01321	gene	mtnN		
+GEBNMNOD_01322	CDS	rpoD		RNA polymerase sigma factor RpoD
+GEBNMNOD_01322	gene	rpoD		
+GEBNMNOD_01323	CDS			hypothetical protein
+GEBNMNOD_01323	gene			
+GEBNMNOD_01324	CDS	mqo	1.1.5.4	Malate:quinone oxidoreductase
+GEBNMNOD_01324	gene	mqo		
+GEBNMNOD_01325	CDS			hypothetical protein
+GEBNMNOD_01325	gene			
+GEBNMNOD_01326	CDS	rplM		50S ribosomal protein L13
+GEBNMNOD_01326	gene	rplM		
+GEBNMNOD_01327	CDS	rpsI		30S ribosomal protein S9
+GEBNMNOD_01327	gene	rpsI		
+GEBNMNOD_01328	CDS	pctB		Methyl-accepting chemotaxis protein PctB
+GEBNMNOD_01328	gene	pctB		
+GEBNMNOD_01329	CDS			hypothetical protein
+GEBNMNOD_01329	gene			
+GEBNMNOD_01330	CDS			hypothetical protein
+GEBNMNOD_01330	gene			
+GEBNMNOD_01331	CDS			hypothetical protein
+GEBNMNOD_01331	gene			
+GEBNMNOD_01332	CDS	prfA		Peptide chain release factor RF1
+GEBNMNOD_01332	gene	prfA		
+GEBNMNOD_01333	CDS	rpsT		30S ribosomal protein S20
+GEBNMNOD_01333	gene	rpsT		
+GEBNMNOD_01334	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+GEBNMNOD_01334	gene	glmM		
+GEBNMNOD_01335	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+GEBNMNOD_01335	gene	lspA		
+GEBNMNOD_01336	tRNA			tRNA-Val(gac)
+GEBNMNOD_01336	gene			
+GEBNMNOD_01337	CDS	ureA	3.5.1.5	Urease subunit alpha
+GEBNMNOD_01337	gene	ureA		
+GEBNMNOD_01338	CDS	ureB	3.5.1.5	Urease subunit beta
+GEBNMNOD_01338	gene	ureB		
+GEBNMNOD_01339	CDS	ureI		Acid-activated urea channel
+GEBNMNOD_01339	gene	ureI		
+GEBNMNOD_01340	CDS	ureE		Urease accessory protein UreE
+GEBNMNOD_01340	gene	ureE		
+GEBNMNOD_01341	CDS	ureF		Urease accessory protein UreF
+GEBNMNOD_01341	gene	ureF		
+GEBNMNOD_01342	CDS	ureG		Urease accessory protein UreG
+GEBNMNOD_01342	gene	ureG		
+GEBNMNOD_01343	CDS	ureH		Urease accessory protein UreH
+GEBNMNOD_01343	gene	ureH		
+GEBNMNOD_01344	CDS	ftsK		DNA translocase FtsK
+GEBNMNOD_01344	gene	ftsK		
+GEBNMNOD_01345	CDS			hypothetical protein
+GEBNMNOD_01345	gene			
+GEBNMNOD_01346	CDS			hypothetical protein
+GEBNMNOD_01346	gene			
+GEBNMNOD_01347	CDS			hypothetical protein
+GEBNMNOD_01347	gene			
+GEBNMNOD_01348	CDS			hypothetical protein
+GEBNMNOD_01348	gene			
+GEBNMNOD_01349	CDS			hypothetical protein
+GEBNMNOD_01349	gene			
+GEBNMNOD_01350	CDS			hypothetical protein
+GEBNMNOD_01350	gene			
+GEBNMNOD_01351	CDS	smc_2		Chromosome partition protein Smc
+GEBNMNOD_01351	gene	smc_2		
+GEBNMNOD_01352	CDS	smc_3		Chromosome partition protein Smc
+GEBNMNOD_01352	gene	smc_3		
+GEBNMNOD_01353	CDS			hypothetical protein
+GEBNMNOD_01353	gene			
+GEBNMNOD_01354	CDS	rocA1	1.2.1.88	1-pyrroline-5-carboxylate dehydrogenase 1
+GEBNMNOD_01354	gene	rocA1		
+GEBNMNOD_01355	CDS	putP		High-affinity proline transporter PutP
+GEBNMNOD_01355	gene	putP		
+GEBNMNOD_01356	CDS	haeIIIM	2.1.1.37	Modification methylase HaeIII
+GEBNMNOD_01356	gene	haeIIIM		
+GEBNMNOD_01357	CDS			hypothetical protein
+GEBNMNOD_01357	gene			
+GEBNMNOD_01358	CDS			hypothetical protein
+GEBNMNOD_01358	gene			
+GEBNMNOD_01359	CDS			hypothetical protein
+GEBNMNOD_01359	gene			
+GEBNMNOD_01360	CDS	bspRIM	2.1.1.37	Modification methylase BspRI
+GEBNMNOD_01360	gene	bspRIM		
+GEBNMNOD_01361	CDS	dpnA_5	2.1.1.72	Modification methylase DpnIIB
+GEBNMNOD_01361	gene	dpnA_5		
+GEBNMNOD_01362	CDS	aguA	3.5.3.12	Agmatine deiminase
+GEBNMNOD_01362	gene	aguA		
+GEBNMNOD_01363	CDS	hypF	2.1.3.-	Carbamoyltransferase HypF
+GEBNMNOD_01363	gene	hypF		
+GEBNMNOD_01364	CDS	hypE		Hydrogenase isoenzymes formation protein HypE
+GEBNMNOD_01364	gene	hypE		
+GEBNMNOD_01365	CDS	colC	1.1.1.356	GDP-L-colitose synthase
+GEBNMNOD_01365	gene	colC		
+GEBNMNOD_01366	CDS	gmd	4.2.1.47	GDP-mannose 4,6-dehydratase
+GEBNMNOD_01366	gene	gmd		
+GEBNMNOD_01367	CDS	algA		Alginate biosynthesis protein AlgA
+GEBNMNOD_01367	gene	algA		
+GEBNMNOD_01368	CDS	ptlG		Type IV secretion system protein PtlG
+GEBNMNOD_01368	gene	ptlG		
+GEBNMNOD_01369	CDS			hypothetical protein
+GEBNMNOD_01369	gene			
+GEBNMNOD_01370	CDS			hypothetical protein
+GEBNMNOD_01370	gene			
+GEBNMNOD_01371	CDS			hypothetical protein
+GEBNMNOD_01371	gene			
+GEBNMNOD_01372	CDS			hypothetical protein
+GEBNMNOD_01372	gene			
+GEBNMNOD_01373	CDS			hypothetical protein
+GEBNMNOD_01373	gene			
+GEBNMNOD_01374	CDS			Nucleoid-associated protein
+GEBNMNOD_01374	gene			
+GEBNMNOD_01375	CDS	panD	4.1.1.11	Aspartate 1-decarboxylase
+GEBNMNOD_01375	gene	panD		
+GEBNMNOD_01376	CDS	clpA		ATP-dependent Clp protease ATP-binding subunit ClpA
+GEBNMNOD_01376	gene	clpA		
+GEBNMNOD_01377	CDS	clpS		ATP-dependent Clp protease adapter protein ClpS
+GEBNMNOD_01377	gene	clpS		
+GEBNMNOD_01378	CDS			hypothetical protein
+GEBNMNOD_01378	gene			
+GEBNMNOD_01379	CDS			hypothetical protein
+GEBNMNOD_01379	gene			
+GEBNMNOD_01380	CDS	bioD	6.3.3.3	ATP-dependent dethiobiotin synthetase BioD
+GEBNMNOD_01380	gene	bioD		
+GEBNMNOD_01381	CDS			hypothetical protein
+GEBNMNOD_01381	gene			
+GEBNMNOD_01382	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+GEBNMNOD_01382	gene	icd		
+GEBNMNOD_01383	CDS	aarA	2.3.3.16	Citrate synthase
+GEBNMNOD_01383	gene	aarA		
+GEBNMNOD_01384	CDS			hypothetical protein
+GEBNMNOD_01384	gene			
+GEBNMNOD_01385	CDS	eptA	2.7.-.-	Phosphoethanolamine transferase EptA
+GEBNMNOD_01385	gene	eptA		
+GEBNMNOD_01386	CDS	lpxE_2	3.1.-.-	Lipid A 1-phosphatase
+GEBNMNOD_01386	gene	lpxE_2		
+GEBNMNOD_01387	CDS	nspC	4.1.1.96	Carboxynorspermidine/carboxyspermidine decarboxylase
+GEBNMNOD_01387	gene	nspC		
+GEBNMNOD_01388	CDS	cheV_3		Chemotaxis protein CheV
+GEBNMNOD_01388	gene	cheV_3		
+GEBNMNOD_01389	CDS			hypothetical protein
+GEBNMNOD_01389	gene			
+GEBNMNOD_01390	CDS	virB4_2		Type IV secretion system protein virB4
+GEBNMNOD_01390	gene	virB4_2		
+GEBNMNOD_01391	CDS			hypothetical protein
+GEBNMNOD_01391	gene			
+GEBNMNOD_01392	CDS			hypothetical protein
+GEBNMNOD_01392	gene			
+GEBNMNOD_01393	CDS			hypothetical protein
+GEBNMNOD_01393	gene			
+GEBNMNOD_01394	CDS	mnmA_2	2.8.1.-	tRNA-specific 2-thiouridylase MnmA
+GEBNMNOD_01394	gene	mnmA_2		
+GEBNMNOD_01395	CDS	dnaG	2.7.7.-	DNA primase
+GEBNMNOD_01395	gene	dnaG		
+GEBNMNOD_01396	CDS	groS		10 kDa chaperonin
+GEBNMNOD_01396	gene	groS		
+GEBNMNOD_01397	CDS	groL		60 kDa chaperonin
+GEBNMNOD_01397	gene	groL		
+GEBNMNOD_01398	CDS			hypothetical protein
+GEBNMNOD_01398	gene			
+GEBNMNOD_01399	tRNA			tRNA-Lys(ttt)
+GEBNMNOD_01399	gene			
+GEBNMNOD_01400	tRNA			tRNA-Glu(ttc)
+GEBNMNOD_01400	gene			
+GEBNMNOD_01401	tRNA			tRNA-Val(tac)
+GEBNMNOD_01401	gene			
+GEBNMNOD_01402	tRNA			tRNA-Asp(gtc)
+GEBNMNOD_01402	gene			
+GEBNMNOD_01403	tRNA			tRNA-Glu(ttc)
+GEBNMNOD_01403	gene			
+GEBNMNOD_01404	CDS	panC	6.3.2.1	Pantothenate synthetase
+GEBNMNOD_01404	gene	panC		
+GEBNMNOD_01405	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+GEBNMNOD_01405	gene	pyrF		
+GEBNMNOD_01406	CDS	cynT	4.2.1.1	Carbonic anhydrase 1
+GEBNMNOD_01406	gene	cynT		
+GEBNMNOD_01407	CDS	kdsA	2.5.1.55	2-dehydro-3-deoxyphosphooctonate aldolase
+GEBNMNOD_01407	gene	kdsA		
+GEBNMNOD_01408	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+GEBNMNOD_01408	gene	ribH		
+GEBNMNOD_01409	CDS	nusB		N utilization substance protein B 
+GEBNMNOD_01409	gene	nusB		
+GEBNMNOD_01410	CDS			hypothetical protein
+GEBNMNOD_01410	gene			
+GEBNMNOD_01411	CDS	msrAB		Peptide methionine sulfoxide reductase msrA/msrB
+GEBNMNOD_01411	gene	msrAB		
+GEBNMNOD_01412	CDS	radA	3.6.4.-	DNA repair protein RadA
+GEBNMNOD_01412	gene	radA		
+GEBNMNOD_01413	CDS			hypothetical protein
+GEBNMNOD_01413	gene			
+GEBNMNOD_01414	CDS	iscU		Iron-sulfur cluster assembly scaffold protein IscU
+GEBNMNOD_01414	gene	iscU		
+GEBNMNOD_01415	CDS	iscS	2.8.1.7	Cysteine desulfurase IscS
+GEBNMNOD_01415	gene	iscS		
+GEBNMNOD_01416	CDS			hypothetical protein
+GEBNMNOD_01416	gene			
+GEBNMNOD_01417	CDS			hypothetical protein
+GEBNMNOD_01417	gene			
+GEBNMNOD_01418	CDS			hypothetical protein
+GEBNMNOD_01418	gene			
+GEBNMNOD_01419	CDS			hypothetical protein
+GEBNMNOD_01419	gene			
+GEBNMNOD_01420	CDS	dxr	1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+GEBNMNOD_01420	gene	dxr		
+GEBNMNOD_01421	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+GEBNMNOD_01421	gene	cdsA		
+GEBNMNOD_01422	CDS	sdcS		Sodium-dependent dicarboxylate transporter SdcS
+GEBNMNOD_01422	gene	sdcS		
+GEBNMNOD_01423	CDS	mnmG		tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+GEBNMNOD_01423	gene	mnmG		
+GEBNMNOD_01424	CDS	dapE	3.5.1.18	Succinyl-diaminopimelate desuccinylase
+GEBNMNOD_01424	gene	dapE		
+GEBNMNOD_01425	CDS	hcpA	3.5.2.6	Beta-lactamase HcpA
+GEBNMNOD_01425	gene	hcpA		
+GEBNMNOD_01426	CDS	htpG		Chaperone protein HtpG
+GEBNMNOD_01426	gene	htpG		
+GEBNMNOD_01427	CDS			hypothetical protein
+GEBNMNOD_01427	gene			
+GEBNMNOD_01428	CDS			hypothetical protein
+GEBNMNOD_01428	gene			
+GEBNMNOD_01429	CDS	gspA		General stress protein A
+GEBNMNOD_01429	gene	gspA		
+GEBNMNOD_01430	CDS	apbC		Iron-sulfur cluster carrier protein
+GEBNMNOD_01430	gene	apbC		
+GEBNMNOD_01431	CDS			hypothetical protein
+GEBNMNOD_01431	gene			
+GEBNMNOD_01432	CDS			hypothetical protein
+GEBNMNOD_01432	gene			
+GEBNMNOD_01433	CDS			hypothetical protein
+GEBNMNOD_01433	gene			
+GEBNMNOD_01434	CDS			hypothetical protein
+GEBNMNOD_01434	gene			
+GEBNMNOD_01435	CDS			hypothetical protein
+GEBNMNOD_01435	gene			
+GEBNMNOD_01436	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+GEBNMNOD_01436	gene	fabH		
+GEBNMNOD_01437	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+GEBNMNOD_01437	gene	plsX		
+GEBNMNOD_01438	CDS	rpmF		50S ribosomal protein L32
+GEBNMNOD_01438	gene	rpmF		
+GEBNMNOD_01439	CDS			hypothetical protein
+GEBNMNOD_01439	gene			
+GEBNMNOD_01440	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+GEBNMNOD_01440	gene	ndk		
+GEBNMNOD_01441	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+GEBNMNOD_01441	gene	metK		
+GEBNMNOD_01442	CDS	lpxD	2.3.1.-	UDP-3-O-acylglucosamine N-acyltransferase
+GEBNMNOD_01442	gene	lpxD		
+GEBNMNOD_01443	CDS	fabI	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+GEBNMNOD_01443	gene	fabI		
+GEBNMNOD_01444	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+GEBNMNOD_01444	gene	tpiA		
+GEBNMNOD_01445	CDS	frdC		Fumarate reductase cytochrome b subunit
+GEBNMNOD_01445	gene	frdC		
+GEBNMNOD_01446	CDS	frdA	1.3.5.4	Fumarate reductase flavoprotein subunit
+GEBNMNOD_01446	gene	frdA		
+GEBNMNOD_01447	CDS	frdB	1.3.5.1	Fumarate reductase iron-sulfur subunit
+GEBNMNOD_01447	gene	frdB		
+GEBNMNOD_01448	CDS	clsC	2.7.8.-	Cardiolipin synthase C
+GEBNMNOD_01448	gene	clsC		
+GEBNMNOD_01449	CDS			hypothetical protein
+GEBNMNOD_01449	gene			
+GEBNMNOD_01450	CDS			hypothetical protein
+GEBNMNOD_01450	gene			
+GEBNMNOD_01451	CDS			hypothetical protein
+GEBNMNOD_01451	gene			
+GEBNMNOD_01452	CDS			hypothetical protein
+GEBNMNOD_01452	gene			
+GEBNMNOD_01453	CDS	zipA		Cell division protein ZipA
+GEBNMNOD_01453	gene	zipA		
+GEBNMNOD_01454	CDS			hypothetical protein
+GEBNMNOD_01454	gene			
+GEBNMNOD_01455	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+GEBNMNOD_01455	gene	glyA		
+GEBNMNOD_01456	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+GEBNMNOD_01456	gene	lysS		
+GEBNMNOD_01457	CDS			hypothetical protein
+GEBNMNOD_01457	gene			
+GEBNMNOD_01458	CDS	lnt	2.3.1.-	Apolipoprotein N-acyltransferase
+GEBNMNOD_01458	gene	lnt		
+GEBNMNOD_01459	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+GEBNMNOD_01459	gene	lolD		
+GEBNMNOD_01460	CDS	pseI	2.5.1.97	Pseudaminic acid synthase
+GEBNMNOD_01460	gene	pseI		
+GEBNMNOD_01461	CDS	efp		Elongation factor P
+GEBNMNOD_01461	gene	efp		
+GEBNMNOD_01462	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+GEBNMNOD_01462	gene	fba		
+GEBNMNOD_01463	CDS		5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+GEBNMNOD_01463	gene			
+GEBNMNOD_01464	CDS			hypothetical protein
+GEBNMNOD_01464	gene			
+GEBNMNOD_01465	CDS			hypothetical protein
+GEBNMNOD_01465	gene			
+GEBNMNOD_01466	CDS	moeA	2.10.1.1	Molybdopterin molybdenumtransferase
+GEBNMNOD_01466	gene	moeA		
+GEBNMNOD_01467	CDS	prfB		Peptide chain release factor RF2
+GEBNMNOD_01467	gene	prfB		
+GEBNMNOD_01468	CDS			hypothetical protein
+GEBNMNOD_01468	gene			
+GEBNMNOD_01469	CDS	ydcP	3.4.-.-	putative protease YdcP
+GEBNMNOD_01469	gene	ydcP		
+GEBNMNOD_01470	CDS			hypothetical protein
+GEBNMNOD_01470	gene			
+GEBNMNOD_01471	CDS			hypothetical protein
+GEBNMNOD_01471	gene			
+GEBNMNOD_01472	CDS	arlR		Response regulator ArlR
+GEBNMNOD_01472	gene	arlR		
+GEBNMNOD_01473	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+GEBNMNOD_01473	gene	gltX		
+GEBNMNOD_01474	CDS	potA	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+GEBNMNOD_01474	gene	potA		
+GEBNMNOD_01475	CDS	modB		Molybdenum transport system permease protein ModB
+GEBNMNOD_01475	gene	modB		
+GEBNMNOD_01476	CDS	modA		Molybdate-binding periplasmic protein
+GEBNMNOD_01476	gene	modA		
+GEBNMNOD_01477	CDS			hypothetical protein
+GEBNMNOD_01477	gene			
+GEBNMNOD_01478	CDS	kefC		Glutathione-regulated potassium-efflux system protein KefC
+GEBNMNOD_01478	gene	kefC		
+GEBNMNOD_01479	CDS	pepF1	3.4.24.-	Oligoendopeptidase F, plasmid
+GEBNMNOD_01479	gene	pepF1		
+GEBNMNOD_01480	CDS			hypothetical protein
+GEBNMNOD_01480	gene			
+GEBNMNOD_01481	CDS			hypothetical protein
+GEBNMNOD_01481	gene			
+GEBNMNOD_01482	CDS			hypothetical protein
+GEBNMNOD_01482	gene			
+GEBNMNOD_01483	CDS			hypothetical protein
+GEBNMNOD_01483	gene			
+GEBNMNOD_01484	CDS			hypothetical protein
+GEBNMNOD_01484	gene			
+GEBNMNOD_01485	CDS	hsdR_3	3.1.21.3	Type I restriction enzyme EcoR124II R protein
+GEBNMNOD_01485	gene	hsdR_3		
+GEBNMNOD_01486	CDS		2.1.1.72	putative type I restriction enzymeP M protein
+GEBNMNOD_01486	gene			
+GEBNMNOD_01487	CDS			hypothetical protein
+GEBNMNOD_01487	gene			
+GEBNMNOD_01488	CDS			hypothetical protein
+GEBNMNOD_01488	gene			
+GEBNMNOD_01489	CDS	virB4_3		Type IV secretion system protein virB4
+GEBNMNOD_01489	gene	virB4_3		
+GEBNMNOD_01490	CDS			hypothetical protein
+GEBNMNOD_01490	gene			
+GEBNMNOD_01491	CDS			hypothetical protein
+GEBNMNOD_01491	gene			
+GEBNMNOD_01492	CDS			hypothetical protein
+GEBNMNOD_01492	gene			
+GEBNMNOD_01493	CDS			hypothetical protein
+GEBNMNOD_01493	gene			
+GEBNMNOD_01494	CDS			hypothetical protein
+GEBNMNOD_01494	gene			
+GEBNMNOD_01495	CDS			hypothetical protein
+GEBNMNOD_01495	gene			
+GEBNMNOD_01496	CDS			hypothetical protein
+GEBNMNOD_01496	gene			
+GEBNMNOD_01497	CDS			hypothetical protein
+GEBNMNOD_01497	gene			
+GEBNMNOD_01498	CDS			hypothetical protein
+GEBNMNOD_01498	gene			
+GEBNMNOD_01499	CDS			hypothetical protein
+GEBNMNOD_01499	gene			
+GEBNMNOD_01500	CDS			hypothetical protein
+GEBNMNOD_01500	gene			
+GEBNMNOD_01501	CDS			hypothetical protein
+GEBNMNOD_01501	gene			
+GEBNMNOD_01502	CDS			hypothetical protein
+GEBNMNOD_01502	gene			
+GEBNMNOD_01503	CDS			hypothetical protein
+GEBNMNOD_01503	gene			
+GEBNMNOD_01504	CDS			hypothetical protein
+GEBNMNOD_01504	gene			
+GEBNMNOD_01505	CDS			hypothetical protein
+GEBNMNOD_01505	gene			
+GEBNMNOD_01506	CDS			hypothetical protein
+GEBNMNOD_01506	gene			
+GEBNMNOD_01507	CDS			hypothetical protein
+GEBNMNOD_01507	gene			
+GEBNMNOD_01508	CDS			hypothetical protein
+GEBNMNOD_01508	gene			
+GEBNMNOD_01509	CDS			hypothetical protein
+GEBNMNOD_01509	gene			
+GEBNMNOD_01510	CDS	ptlC		Type IV secretion system protein PtlC
+GEBNMNOD_01510	gene	ptlC		
+GEBNMNOD_01511	CDS	topA_2	5.99.1.2	DNA topoisomerase 1
+GEBNMNOD_01511	gene	topA_2		
+GEBNMNOD_01512	CDS			hypothetical protein
+GEBNMNOD_01512	gene			
+GEBNMNOD_01513	CDS	vspIM	2.1.1.72	Modification methylase VspI
+GEBNMNOD_01513	gene	vspIM		
+GEBNMNOD_01514	CDS			hypothetical protein
+GEBNMNOD_01514	gene			
+GEBNMNOD_01515	CDS	typA		GTP-binding protein TypA/BipA
+GEBNMNOD_01515	gene	typA		
+GEBNMNOD_01516	CDS			hypothetical protein
+GEBNMNOD_01516	gene			
+GEBNMNOD_01517	CDS			hypothetical protein
+GEBNMNOD_01517	gene			
+GEBNMNOD_01518	CDS			hypothetical protein
+GEBNMNOD_01518	gene			
+GEBNMNOD_01519	CDS			hypothetical protein
+GEBNMNOD_01519	gene			
+GEBNMNOD_01520	CDS	ydiO	2.1.1.37	putative BsuMI modification methylase subunit YdiO
+GEBNMNOD_01520	gene	ydiO		
+GEBNMNOD_01521	CDS			hypothetical protein
+GEBNMNOD_01521	gene			
+GEBNMNOD_01522	CDS			hypothetical protein
+GEBNMNOD_01522	gene			
+GEBNMNOD_01523	CDS	srpA	1.11.1.-	Catalase-related peroxidase
+GEBNMNOD_01523	gene	srpA		
+GEBNMNOD_01524	CDS			hypothetical protein
+GEBNMNOD_01524	gene			
+GEBNMNOD_01525	CDS			hypothetical protein
+GEBNMNOD_01525	gene			
+GEBNMNOD_01526	CDS			hypothetical protein
+GEBNMNOD_01526	gene			
+GEBNMNOD_01527	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+GEBNMNOD_01527	gene	recD2		
+GEBNMNOD_01528	CDS			hypothetical protein
+GEBNMNOD_01528	gene			
+GEBNMNOD_01529	CDS			hypothetical protein
+GEBNMNOD_01529	gene			
+GEBNMNOD_01530	CDS			hypothetical protein
+GEBNMNOD_01530	gene			
+GEBNMNOD_01531	CDS			hypothetical protein
+GEBNMNOD_01531	gene			
+GEBNMNOD_01532	CDS			hypothetical protein
+GEBNMNOD_01532	gene			
+GEBNMNOD_01533	CDS			hypothetical protein
+GEBNMNOD_01533	gene			
+GEBNMNOD_01534	CDS			hypothetical protein
+GEBNMNOD_01534	gene			
+GEBNMNOD_01535	CDS			hypothetical protein
+GEBNMNOD_01535	gene			
+GEBNMNOD_01536	CDS			hypothetical protein
+GEBNMNOD_01536	gene			
+GEBNMNOD_01537	CDS	xerH_2		Tyrosine recombinase XerH
+GEBNMNOD_01537	gene	xerH_2		
+GEBNMNOD_01538	CDS	ctkA	2.7.11.1	Serine/threonine-protein kinase CtkA
+GEBNMNOD_01538	gene	ctkA		
+GEBNMNOD_01539	CDS			hypothetical protein
+GEBNMNOD_01539	gene			
+GEBNMNOD_01540	CDS			hypothetical protein
+GEBNMNOD_01540	gene			
+GEBNMNOD_01541	CDS			hypothetical protein
+GEBNMNOD_01541	gene			
+GEBNMNOD_01542	CDS			hypothetical protein
+GEBNMNOD_01542	gene			
+GEBNMNOD_01543	CDS			hypothetical protein
+GEBNMNOD_01543	gene			
+GEBNMNOD_01544	CDS			hypothetical protein
+GEBNMNOD_01544	gene			
+GEBNMNOD_01545	CDS			hypothetical protein
+GEBNMNOD_01545	gene			
+GEBNMNOD_01546	CDS			hypothetical protein
+GEBNMNOD_01546	gene			
+GEBNMNOD_01547	CDS			hypothetical protein
+GEBNMNOD_01547	gene			
+GEBNMNOD_01548	CDS			hypothetical protein
+GEBNMNOD_01548	gene			
+GEBNMNOD_01549	CDS			hypothetical protein
+GEBNMNOD_01549	gene			
+GEBNMNOD_01550	CDS			hypothetical protein
+GEBNMNOD_01550	gene			
+GEBNMNOD_01551	CDS			hypothetical protein
+GEBNMNOD_01551	gene			
+GEBNMNOD_01552	CDS	dcuA		Anaerobic C4-dicarboxylate transporter DcuA
+GEBNMNOD_01552	gene	dcuA		
+GEBNMNOD_01553	CDS	ansA	3.5.1.1	putative L-asparaginase
+GEBNMNOD_01553	gene	ansA		
+GEBNMNOD_01554	CDS			hypothetical protein
+GEBNMNOD_01554	gene			
+GEBNMNOD_01555	CDS			hypothetical protein
+GEBNMNOD_01555	gene			
+GEBNMNOD_01556	CDS			hypothetical protein
+GEBNMNOD_01556	gene			
+GEBNMNOD_01557	CDS			hypothetical protein
+GEBNMNOD_01557	gene			
+GEBNMNOD_01558	CDS			hypothetical protein
+GEBNMNOD_01558	gene			
+GEBNMNOD_01559	CDS			hypothetical protein
+GEBNMNOD_01559	gene			
+GEBNMNOD_01560	CDS			hypothetical protein
+GEBNMNOD_01560	gene			
+GEBNMNOD_01561	CDS	mscS		Small-conductance mechanosensitive channel
+GEBNMNOD_01561	gene	mscS		
+GEBNMNOD_01562	CDS			hypothetical protein
+GEBNMNOD_01562	gene			
+GEBNMNOD_01563	CDS			hypothetical protein
+GEBNMNOD_01563	gene			
+GEBNMNOD_01564	CDS	xerH_3		Tyrosine recombinase XerH
+GEBNMNOD_01564	gene	xerH_3		

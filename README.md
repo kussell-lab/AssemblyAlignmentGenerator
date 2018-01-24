@@ -16,3 +16,9 @@ and Go libaries:
 * `go get -u github.com/mattn/go-sqlite3`
 * `go get -u gopkg.in/alecthomas/kingpin.v2`
 
+## Usage
+`bash RunAll.sh <assembly summary file> <accession list file> <output directory> <output prefix>`
+  * `<assembly summary file>` can be downloaded from [here](ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/assembly_summary_refseq.txt);
+  * `<accession list file>` contain a list of assembly accessions;
+  * `<output directory>` contains the results;
+  * `<output prefix>` is the prefix of the results.

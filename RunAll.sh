@@ -27,9 +27,10 @@ if [[ ! -d ${working_dir}/prokka ]]; then
     mkdir ${working_dir}/prokka
 fi
 
-python3 FetchGenomes.py ${working_dir}/assembly_summary_refseq.txt ${accession_list} ${working_dir}/genomes
-bash InvokeProkka.sh ${accession_list} ${working_dir}/genomes ${working_dir}/prokka
-bash InvokeRoary.sh ${accession_list} ${working_dir}/prokka ${working_dir}/roary
-python3 LoadSequences.py ${accession_list} ${working_dir}/prokka ${working_dir}/roary ${working_dir}/${prefix}_sequences.db
-go run AlignSequences.go ${working_dir}/${prefix}_sequences.db ${working_dir}/${prefix}_alignments.csv
-python3 ExtractCoreGenes.py ${accession_list} ${working_dir}/${prefix}_alignments.csv ${working_dir}/${prefix}_core.xmfa
+ScriptDir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+python3 ${ScriptDir}/FetchGenomes.py ${working_dir}/assembly_summary_refseq.txt ${accession_list} ${working_dir}/genomes
+bash ${ScriptDir}/InvokeProkka.sh ${accession_list} ${working_dir}/genomes ${working_dir}/prokka
+bash ${ScriptDir}/InvokeRoary.sh ${accession_list} ${working_dir}/prokka ${working_dir}/roary
+python3 ${ScriptDir}/LoadSequences.py ${accession_list} ${working_dir}/prokka ${working_dir}/roary ${working_dir}/${prefix}_sequences.db
+go run ${ScriptDir}/AlignSequences.go ${working_dir}/${prefix}_sequences.db ${working_dir}/${prefix}_alignments.csv
+python3 ${ScriptDir}/ExtractCoreGenes.py ${accession_list} ${working_dir}/${prefix}_alignments.csv ${working_dir}/${prefix}_core.xmfa

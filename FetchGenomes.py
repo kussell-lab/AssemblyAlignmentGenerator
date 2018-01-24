@@ -65,7 +65,7 @@ def main():
                 ftp.retrbinary('RETR ' + ftp_file_path, out.write)
             # unzip file
             local_text_file = local_gzip_file.replace(".gz", "")
-            with open(local_text_file, 'w') as out:
+            with open(local_text_file, 'wb') as out:
                 with gzip.open(local_gzip_file) as handle:
                     out.write(handle.read())
             os.remove(local_gzip_file)

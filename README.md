@@ -6,6 +6,7 @@ These scripts were written in Bash, Go and Python3. It require following program
 * [Parallel](https://www.gnu.org/software/parallel/);
 * [Prokka](https://github.com/tseemann/prokka);
 * [Roary](https://github.com/sanger-pathogens/Roary);
+* [Muscle](https://www.drive5.com/muscle);
 
 and Python3 libaries:
 * `pip3 install --user tqdm`

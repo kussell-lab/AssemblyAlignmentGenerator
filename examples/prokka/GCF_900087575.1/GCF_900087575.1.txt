@@ -3,5 +3,5 @@ contigs: 57
 bases: 1634678
 tmRNA: 1
 gene: 1563
-CDS: 1526
 tRNA: 36
+CDS: 1526

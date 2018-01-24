@@ -1,7 +1,7 @@
 Use of uninitialized value in require at /usr/lib/x86_64-linux-gnu/perl/5.26/Encode.pm line 61.
-2018/01/24 14:25:43 Output directory created: examples/roary
-2018/01/24 14:25:43 Fixing input GFF files
-2018/01/24 14:25:50 Extracting proteins from GFF files
+2018/01/24 15:25:20 Output directory created: examples/roary
+2018/01/24 15:25:20 Fixing input GFF files
+2018/01/24 15:25:27 Extracting proteins from GFF files
 
 Please cite Roary if you use any of the results it produces:
     Andrew J. Page, Carla A. Cummins, Martin Hunt, Vanessa K. Wong, Sandra Reuter, Matthew T. G. Holden, Maria Fookes, Daniel Falush, Jacqueline A. Keane, Julian Parkhill,
@@ -33,15 +33,15 @@ Combine proteins into a single file
 Iteratively run cd-hit
 Parallel all against all blast
 Cluster with MCL
-2018/01/24 14:26:24 Running command: pan_genome_post_analysis -o clustered_proteins -p pan_genome.fa -s gene_presence_absence.csv -c _clustered.clstr  -i /home/mingzhi/Workspace/assembly_processing/examples/roary/pGihUfk3Mc//_gff_files -f /home/mingzhi/Workspace/assembly_processing/examples/roary/pGihUfk3Mc//_fasta_files -t 11  --dont_create_rplots   -v   -j Local --processors 4 --group_limit 50000 -cd 99
+2018/01/24 15:26:01 Running command: pan_genome_post_analysis -o clustered_proteins -p pan_genome.fa -s gene_presence_absence.csv -c _clustered.clstr  -i /home/mingzhi/Workspace/assembly_processing/examples/roary/x6Mc1cgRff//_gff_files -f /home/mingzhi/Workspace/assembly_processing/examples/roary/x6Mc1cgRff//_fasta_files -t 11  --dont_create_rplots   -v   -j Local --processors 4 --group_limit 50000 -cd 99
 Use of uninitialized value in require at /usr/lib/x86_64-linux-gnu/perl/5.26/Encode.pm line 61.
-2018/01/24 14:26:25 Reinflate clusters
-2018/01/24 14:26:25 Split groups with paralogs
-2018/01/24 14:26:26 Labelling the groups
-2018/01/24 14:26:26 Transfering the annotation to the groups
-2018/01/24 14:26:33 Creating accessory binary gene presence and absence fasta
-2018/01/24 14:26:34 Creating accessory binary gene presence and absence tree
-2018/01/24 14:26:34 Running command: /usr/bin/fasttree -fastest -nt accessory_binary_genes.fa > accessory_binary_genes.fa.newick 
+2018/01/24 15:26:02 Reinflate clusters
+2018/01/24 15:26:02 Split groups with paralogs
+2018/01/24 15:26:03 Labelling the groups
+2018/01/24 15:26:03 Transfering the annotation to the groups
+2018/01/24 15:26:11 Creating accessory binary gene presence and absence fasta
+2018/01/24 15:26:11 Creating accessory binary gene presence and absence tree
+2018/01/24 15:26:11 Running command: /usr/bin/fasttree -fastest -nt accessory_binary_genes.fa > accessory_binary_genes.fa.newick 
 FastTree Version 2.1.9 Double precision (No SSE3)
 Alignment: accessory_binary_genes.fa
 Nucleotide distances: Jukes-Cantor Joins: balanced Support: SH-like 1000
@@ -50,16 +50,15 @@ TopHits: 1.00*sqrtN close=default refresh=0.50
 ML Model: Jukes-Cantor, CAT approximation with 20 rate categories
 Initial topology in 0.00 seconds
 Refining topology: 17 rounds ME-NNIs, 2 rounds ME-SPRs, 9 rounds ML-NNIs
-Total branch-length 1.888 after 0.05 sec
-ML-NNI round 1: LogLk = -3780.989 NNIs 6 max delta 11.29 Time 0.07
+Total branch-length 1.869 after 0.05 sec
+ML-NNI round 1: LogLk = -3723.343 NNIs 3 max delta 3.96 Time 0.08
 Switched to using 20 rate categories (CAT approximation)
-Rate categories were divided by 0.812 so that average rate = 1.0
+Rate categories were divided by 0.808 so that average rate = 1.0
 CAT-based log-likelihoods may not be comparable across runs
 Use -gamma for approximate but comparable Gamma(20) log-likelihoods
-ML-NNI round 2: LogLk = -3691.917 NNIs 1 max delta 0.31 Time 0.10
-ML-NNI round 3: LogLk = -3691.912 NNIs 0 max delta 0.00 Time 0.11
+ML-NNI round 2: LogLk = -3631.450 NNIs 1 max delta 0.00 Time 0.10
 Turning off heuristics for final round of ML NNIs (converged)
-      0.10 seconds: ML NNI round 4 of 9, 1 of 18 splits
-ML-NNI round 4: LogLk = -3691.888 NNIs 0 max delta 0.00 Time 0.13 (final)
-Optimize all lengths: LogLk = -3691.888 Time 0.14
-Total time: 0.18 seconds Unique: 20/20 Bad splits: 0/17
+ML-NNI round 3: LogLk = -3631.335 NNIs 0 max delta 0.00 Time 0.12 (final)
+      0.12 seconds: ML Lengths 1 of 18 splits
+Optimize all lengths: LogLk = -3631.334 Time 0.13
+Total time: 0.17 seconds Unique: 20/20 Bad splits: 0/17

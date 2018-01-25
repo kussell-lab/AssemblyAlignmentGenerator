@@ -1,12 +1,12 @@
 # AssemblyAlignmentGenerator
-This program generates core-gene alignments from a list of assemblies. It downloads the genomic sequences from [ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/](ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/) and re-annotates them using [Prokka](https://github.com/tseemann/prokka). It then uses [Roary](https://github.com/sanger-pathogens/Roary) to generate the [pan-genome](https://en.wikipedia.org/wiki/Pan-genome), and extracts the core genome, which are a set of genes that appear in all the assemblies. The protein sequences of each core gene are aligned by [Muscle](https://www.drive5.com/muscle), and then back-translated to DNA sequences.
+This program generates core-gene alignments from a list of assemblies. It downloads the genomic sequences from [ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/](ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/) and re-annotates them using [Prokka](https://github.com/tseemann/prokka). It then uses [Roary](https://github.com/sanger-pathogens/Roary) to generate the [pan-genome](https://en.wikipedia.org/wiki/Pan-genome), and extracts the core genome, which are a set of genes that appear in all the assemblies. The protein sequences of each core gene are aligned by [MUSCLE](https://www.drive5.com/muscle), and then back-translated to DNA sequences.
 
 ## Installation
 The program was written in Bash, [Go](https://golang.org) and [Python](https://www.python.org). It requires following programs:
 * [Parallel](https://www.gnu.org/software/parallel/);
 * [Prokka](https://github.com/tseemann/prokka);
 * [Roary](https://github.com/sanger-pathogens/Roary);
-* [Muscle](https://www.drive5.com/muscle);
+* [MUSCLE](https://www.drive5.com/muscle);
 
 and Python libaries:
 * `pip install --user tqdm`

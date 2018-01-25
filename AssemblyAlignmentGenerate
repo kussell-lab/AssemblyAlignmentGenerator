@@ -1,37 +1,50 @@
 #!/bin/bash
 # This script generates core-gene alignments from a list of assemblies.
 # Created by Mingzhi Lin (mingzhi9@gmail.com).
-# Usage: bash RunAll.sh <assembly summary file> <accession list> <working direcotry> <prefix>
+# Usage: bash RunAll.sh <assembly summary file> <accession list file> <output direcotry> <output prefix>
 # Arguments:
 #   <assembly summary file> can be download from ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/assembly_summary_refseq.txt
 #   <accession list file> contains a list of assembly accessions;
-#   <working directory> is the working space;
-#   <prefix> is the result prefix.
+#   <output directory> is the working space;
+#   <output prefix> is the result output_prefix.
 # Results:
-#   <working directory>/<prefix>_core.xmfa stores the final alignments of core genomes.
+#   <output directory>/<output prefix>_core.xmfa stores the final alignments of core genomes.
 
 assembly_summary_file=$1
 accession_list=$2
-working_dir=$3
-prefix=$4
+output_dir=$3
+output_prefix=$4
 
 if [[ $# -eq 0 ]]; then
-    echo "Usage: AssemblyAlignmentGenerate <assembly summary file> <accession list> <working direcotry> <prefix>"
+    echo "Usage: AssemblyAlignmentGenerate <assembly summary file> <accession list file> <output direcotry> <output prefix>"
     exit 1
 fi
 
-if [[ ! -d ${working_dir}/genomes ]]; then
-    mkdir ${working_dir}/genomes
+# Create folders for temporary results.
+if [[ ! -d ${output_dir}/genomes ]]; then
+    mkdir ${output_dir}/genomes
+fi
+if [[ ! -d ${output_dir}/prokka ]]; then
+    mkdir ${output_dir}/prokka
 fi
 
-if [[ ! -d ${working_dir}/prokka ]]; then
-    mkdir ${working_dir}/prokka
-fi
-
+# Get source script path
 ScriptDir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-python3 ${ScriptDir}/FetchGenomes.py ${working_dir}/assembly_summary_refseq.txt ${accession_list} ${working_dir}/genomes
-bash ${ScriptDir}/InvokeProkka.sh ${accession_list} ${working_dir}/genomes ${working_dir}/prokka
-bash ${ScriptDir}/InvokeRoary.sh ${accession_list} ${working_dir}/prokka ${working_dir}/roary
-python3 ${ScriptDir}/LoadSequences.py ${accession_list} ${working_dir}/prokka ${working_dir}/roary ${working_dir}/${prefix}_sequences.db
-go run ${ScriptDir}/AlignSequences.go ${working_dir}/${prefix}_sequences.db ${working_dir}/${prefix}_alignments.csv
-python3 ${ScriptDir}/ExtractCoreGenes.py ${accession_list} ${working_dir}/${prefix}_alignments.csv ${working_dir}/${prefix}_core.xmfa
+
+# Fetch genomic sequences from NCBI FTP.
+python ${ScriptDir}/FetchGenomes.py ${output_dir}/assembly_summary_refseq.txt ${accession_list} ${output_dir}/genomes
+
+# Use Prokka to re-annotate genomes
+bash ${ScriptDir}/InvokeProkka.sh ${accession_list} ${output_dir}/genomes ${output_dir}/prokka
+
+# Use Roary to generate the pan-genome.
+bash ${ScriptDir}/InvokeRoary.sh ${accession_list} ${output_dir}/prokka ${output_dir}/roary
+
+# Load sequences into sqlite database for querying.
+python ${ScriptDir}/LoadSequences.py ${accession_list} ${output_dir}/prokka ${output_dir}/roary ${output_dir}/${output_prefix}_sequences.db
+
+# Use muscle to align protein sequences and back-translate them to DNA sequences.
+go run ${ScriptDir}/AlignSequences.go ${output_dir}/${output_prefix}_sequences.db ${output_dir}/${output_prefix}_alignments.csv
+
+# Extract alignments of core genome.
+python ${ScriptDir}/ExtractCoreGenes.py ${accession_list} ${output_dir}/${output_prefix}_alignments.csv ${output_dir}/${output_prefix}_core.xmfa

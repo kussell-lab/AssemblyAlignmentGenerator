@@ -9,12 +9,13 @@ The program was written in Bash, [Go](https://golang.org) and [Python](https://w
 * [MUSCLE](https://www.drive5.com/muscle);
 
 and Python libaries:
-* `pip install --user tqdm`
+* `pip install --user tqdm biopython`
 
 and Go libaries:
 * `go get -u github.com/cheggaaa/pb`
 * `go get -u github.com/mattn/go-sqlite3`
 * `go get -u gopkg.in/alecthomas/kingpin.v2`
+* `go get -u github.com/kussell-lab/biogo/seq`
 
 ## Usage
 `AssemblyAlignmentGenerate <assembly summary file> <accession list file> <output directory> <output prefix>`

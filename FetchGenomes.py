@@ -1,11 +1,12 @@
 """
 Fetch genome sequences from NCBI FTP.
 Create by Mingzhi Lin (mingzhi9@gmail.com).
-It requires 
-(1) ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/assembly_summary_refseq.txt
-(2) a list of assembly accessions.
+Inputs:
+(1) ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/assembly_summary_refseq.txt;
+(2) assembly accession list file;
+(3) output directory.
 Usage:
-    python FetchGenomes.py <assembly accession list file> <output directory>
+    python FetchGenomes.py <assembly_summary_refseq.txt> <assembly accession list file> <output directory>
 """
 import sys
 import gzip

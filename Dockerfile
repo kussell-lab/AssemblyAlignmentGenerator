@@ -1,3 +1,7 @@
+# This is a docker file for builing a docker image.
+# It also shows how to install this program in Ubuntu 17.10 or later.
+# Created by Mingzhi Lin (mingzhi9@gmail.com).
+
 FROM ubuntu:17.10
 
 RUN apt-get update

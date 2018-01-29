@@ -17,6 +17,8 @@ and Go libaries:
 * `go get -u gopkg.in/alecthomas/kingpin.v2`
 * `go get -u github.com/kussell-lab/biogo/seq`
 
+A docker file is also provided for building a docker image (see [https://docs.docker.com/](https://docs.docker.com/) for how to use docker). The docker file also shows how to install this program in Ubuntu 17.10.
+
 ## Usage
 `AssemblyAlignmentGenerate <assembly summary file> <accession list file> <output directory> <output prefix>`
   * `<assembly summary file>` can be downloaded from [ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/assembly_summary_refseq.txt](ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/assembly_summary_refseq.txt);

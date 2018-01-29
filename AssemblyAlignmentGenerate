@@ -9,6 +9,7 @@
 #   <output prefix> is the result output_prefix.
 # Results:
 #   <output directory>/<output prefix>_core.xmfa stores the final alignments of core genomes.
+# This program contains six steps as detailed below.
 
 assembly_summary_file=$1
 accession_list=$2
@@ -31,20 +32,20 @@ fi
 # Get source script path
 ScriptDir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
-# Fetch genomic sequences from NCBI FTP.
+# Step 1: fetch genomic sequences from NCBI FTP.
 python ${ScriptDir}/FetchGenomes.py ${output_dir}/assembly_summary_refseq.txt ${accession_list} ${output_dir}/genomes
 
-# Use Prokka to re-annotate genomes
+# Step 2: use Prokka to re-annotate genomes
 bash ${ScriptDir}/InvokeProkka.sh ${accession_list} ${output_dir}/genomes ${output_dir}/prokka
 
-# Use Roary to generate the pan-genome.
+# Step 3: use Roary to generate the pan-genome.
 bash ${ScriptDir}/InvokeRoary.sh ${accession_list} ${output_dir}/prokka ${output_dir}/roary
 
-# Load sequences into sqlite database for querying.
+# Step 4: load sequences into sqlite database for querying.
 python ${ScriptDir}/LoadSequences.py ${accession_list} ${output_dir}/prokka ${output_dir}/roary ${output_dir}/${output_prefix}_sequences.db
 
-# Use muscle to align protein sequences and back-translate them to DNA sequences.
+# Step 5: use muscle to align protein sequences and back-translate them to DNA sequences.
 go run ${ScriptDir}/AlignSequences.go ${output_dir}/${output_prefix}_sequences.db ${output_dir}/${output_prefix}_alignments.csv
 
-# Extract alignments of core genome.
+# Step 6: extract alignments of core genome.
 python ${ScriptDir}/ExtractCoreGenes.py ${accession_list} ${output_dir}/${output_prefix}_alignments.csv ${output_dir}/${output_prefix}_core.xmfa

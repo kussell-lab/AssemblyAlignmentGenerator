@@ -18,6 +18,8 @@ export -f invoke_prokka
 accessionlistfile=$1
 genomefolder=$2
 prokkafolder=$3
+echo "Preparing Prokka database"
+prokka --setupdb
 echo "Inovking Prokka to re-annotate genomes..."
 parallel invoke_prokka {} $prokkafolder $genomefolder :::: $accessionlistfile
 echo "Completed running Prokka, saved results to ${prokkafolder}"

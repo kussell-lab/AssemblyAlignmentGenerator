@@ -33,7 +33,7 @@ fi
 ScriptDir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 
 # Step 1: fetch genomic sequences from NCBI FTP.
-python ${ScriptDir}/FetchGenomes.py ${output_dir}/assembly_summary_refseq.txt ${accession_list} ${output_dir}/genomes
+python ${ScriptDir}/FetchGenomes.py ${assembly_summary_file} ${accession_list} ${output_dir}/genomes
 
 # Step 2: use Prokka to re-annotate genomes
 bash ${ScriptDir}/InvokeProkka.sh ${accession_list} ${output_dir}/genomes ${output_dir}/prokka
